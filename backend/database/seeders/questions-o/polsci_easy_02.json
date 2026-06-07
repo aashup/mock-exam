@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "भारत के संविधान में 'राज्य के नीति निर्देशक तत्त्व' (DPSP) किस भाग में वर्णित हैं?",
+    "options": [
+      { "text": "भाग III", "is_correct": false },
+      { "text": "भाग IV", "is_correct": true },
+      { "text": "भाग V", "is_correct": false },
+      { "text": "भाग VI", "is_correct": false }
+    ],
+    "explanation": "भारतीय संविधान के भाग IV (अनुच्छेद 36-51) में राज्य के नीति निर्देशक तत्त्व (Directive Principles of State Policy) वर्णित हैं। ये न्यायालय में वाद योग्य (Justiciable) नहीं हैं, परंतु देश के शासन में मूलभूत हैं। इनमें स्वास्थ्य, शिक्षा, समान वेतन, पोषण जैसे सामाजिक-आर्थिक अधिकार शामिल हैं।"
+  },
+  {
+    "question": "संविधान के किस अनुच्छेद में 'भारत के नागरिकों के मौलिक अधिकार' (Fundamental Rights) वर्णित हैं?",
+    "options": [
+      { "text": "अनुच्छेद 12-35 (भाग III)", "is_correct": true },
+      { "text": "अनुच्छेद 36-51 (भाग IV)", "is_correct": false },
+      { "text": "अनुच्छेद 52-78 (भाग V)", "is_correct": false },
+      { "text": "अनुच्छेद 79-122 (भाग VI)", "is_correct": false }
+    ],
+    "explanation": "भारतीय संविधान के भाग III में अनुच्छेद 12-35 मौलिक अधिकार (Fundamental Rights) वर्णित हैं। इनमें 6 मौलिक अधिकार हैं: (1) समता का अधिकार, (2) स्वतंत्रता का अधिकार, (3) शोषण के विरुद्ध अधिकार, (4) धर्म की स्वतंत्रता, (5) संस्कृति और शिक्षा का अधिकार, (6) संवैधानिक उपचारों का अधिकार।"
+  },
+  {
+    "question": "भारत के राष्ट्रपति का चुनाव किसके द्वारा किया जाता है?",
+    "options": [
+      { "text": "लोकसभा और राज्यसभा के सदस्यों द्वारा", "is_correct": false },
+      { "text": "लोकसभा, राज्यसभा और राज्य विधानसभाओं के निर्वाचित सदस्यों से बने निर्वाचक मंडल द्वारा", "is_correct": true },
+      { "text": "केवल लोकसभा के सदस्यों द्वारा", "is_correct": false },
+      { "text": "जनता द्वारा प्रत्यक्ष मतदान से", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 54 — राष्ट्रपति का चुनाव एक निर्वाचक मंडल (Electoral College) द्वारा आनुपातिक प्रतिनिधित्व प्रणाली (Proportional Representation with Single Transferable Vote) से होता है। इस निर्वाचक मंडल में: (1) संसद के दोनों सदनों (लोकसभा + राज्यसभा) के निर्वाचित सदस्य, (2) राज्य विधानसभाओं के निर्वाचित सदस्य शामिल हैं।"
+  },
+  {
+    "question": "भारत के संविधान में 'संघीय सूची' (Union List) में कितने विषय हैं?",
+    "options": [
+      { "text": "97", "is_correct": true },
+      { "text": "61", "is_correct": false },
+      { "text": "52", "is_correct": false },
+      { "text": "47", "is_correct": false }
+    ],
+    "explanation": "भारतीय संविधान की 7वीं अनुसूची में तीन सूचियाँ हैं: (1) संघ सूची (Union List) — 97 विषय (रक्षा, विदेश नीति, परमाणु ऊर्जा), (2) राज्य सूची (State List) — 66 विषय (पुलिस, कृषि, जनस्वास्थ्य), (3) समवर्ती सूची (Concurrent List) — 47 विषय (शिक्षा, वन, श्रम)। स्वास्थ्य — राज्य सूची में। Health Education — समवर्ती सूची।"
+  },
+  {
+    "question": "भारतीय संसद के 'शून्य काल' (Zero Hour) में क्या होता है?",
+    "options": [
+      { "text": "प्रश्नकाल के पहले होता है", "is_correct": false },
+      { "text": "प्रश्नकाल के बाद — बिना पूर्व सूचना के तत्कालीन महत्व के मामले उठाए जाते हैं", "is_correct": true },
+      { "text": "बजट पर चर्चा होती है", "is_correct": false },
+      { "text": "केवल सत्तारूढ़ दल बोल सकता है", "is_correct": false }
+    ],
+    "explanation": "Zero Hour — संसदीय प्रक्रिया में भारतीय innovation। प्रश्नकाल (12 बजे तक) के बाद शुरू होता है। विशेषताएँ: (1) बिना पूर्व सूचना के, (2) तत्कालीन महत्व के किसी भी मामले पर, (3) सभी सदस्य भाग ले सकते हैं। Public health emergencies, epidemic alerts जैसे मामले Zero Hour में उठाए जाते हैं।"
+  },
+  {
+    "question": "भारत में 'राज्यपाल' की नियुक्ति कौन करता है?",
+    "options": [
+      { "text": "उस राज्य की जनता", "is_correct": false },
+      { "text": "प्रधानमंत्री की सलाह पर राष्ट्रपति", "is_correct": true },
+      { "text": "संसद के दोनों सदन मिलकर", "is_correct": false },
+      { "text": "राज्य विधानसभा", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 155 — राज्यपाल की नियुक्ति राष्ट्रपति द्वारा की जाती है (व्यवहार में प्रधानमंत्री और केंद्रीय मंत्रिपरिषद की सलाह पर)। अनुच्छेद 153 — प्रत्येक राज्य में एक राज्यपाल होगा। राज्यपाल — राज्य का संवैधानिक प्रमुख, केंद्र का प्रतिनिधि। कार्यकाल — 5 वर्ष (राष्ट्रपति की इच्छानुसार)।"
+  },
+  {
+    "question": "पंचायती राज संस्थाओं (PRIs) को संवैधानिक दर्जा किस संशोधन द्वारा दिया गया?",
+    "options": [
+      { "text": "42वाँ संशोधन, 1976", "is_correct": false },
+      { "text": "73वाँ संशोधन, 1992", "is_correct": true },
+      { "text": "74वाँ संशोधन, 1992", "is_correct": false },
+      { "text": "86वाँ संशोधन, 2002", "is_correct": false }
+    ],
+    "explanation": "73वाँ संविधान संशोधन (1992) — Panchayati Raj Institutions (PRIs) को संवैधानिक दर्जा — 11वीं अनुसूची (29 कार्य), भाग IX। 74वाँ संशोधन — शहरी स्थानीय निकाय। PRIs के 29 कार्यों में स्वास्थ्य और स्वच्छता शामिल हैं। ग्राम पंचायत → प्राथमिक स्वास्थ्य केंद्र oversight में महत्वपूर्ण।"
+  },
+  {
+    "question": "भारतीय संविधान का कौन-सा अनुच्छेद 'सूचना का अधिकार' (Right to Information) का आधार है?",
+    "options": [
+      { "text": "अनुच्छेद 19(1)(a) — वाक् स्वतंत्रता", "is_correct": true },
+      { "text": "अनुच्छेद 21 — जीवन का अधिकार", "is_correct": false },
+      { "text": "अनुच्छेद 14 — समता का अधिकार", "is_correct": false },
+      { "text": "अनुच्छेद 32 — संवैधानिक उपचार", "is_correct": false }
+    ],
+    "explanation": "RTI Act 2005 का संवैधानिक आधार अनुच्छेद 19(1)(a) है — वाक् और अभिव्यक्ति की स्वतंत्रता। सर्वोच्च न्यायालय ने माना है कि information का अधिकार speech and expression के अधिकार का हिस्सा है। Health Education में RTI का उपयोग: PHC में दवाएँ उपलब्ध हैं या नहीं, ASHA incentives paid हैं या नहीं — इसकी जानकारी माँगी जा सकती है।"
+  },
+  {
+    "question": "लोकसभा में अविश्वास प्रस्ताव (No-Confidence Motion) पारित होने का क्या परिणाम होता है?",
+    "options": [
+      { "text": "राष्ट्रपति को हटाया जाता है", "is_correct": false },
+      { "text": "मंत्रिपरिषद को त्यागपत्र देना पड़ता है", "is_correct": true },
+      { "text": "लोकसभा भंग हो जाती है", "is_correct": false },
+      { "text": "प्रधानमंत्री बदल जाता है पर मंत्रिपरिषद नहीं", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 75(3) — मंत्रिपरिषद लोकसभा के प्रति उत्तरदायी है। लोकसभा में अविश्वास प्रस्ताव पारित होने पर पूरी मंत्रिपरिषद (प्रधानमंत्री सहित) को त्यागपत्र देना पड़ता है। No-Confidence Motion — कम से कम 50 सदस्यों का समर्थन चाहिए। Health policy implications: सरकार बदलने से health programs continuity प्रभावित होती है।"
+  },
+  {
+    "question": "भारत में 'राज्य विधान परिषद' (Legislative Council/Vidhan Parishad) की व्यवस्था किन राज्यों में है?",
+    "options": [
+      { "text": "सभी राज्यों में", "is_correct": false },
+      { "text": "केवल 6 राज्यों में (UP, Bihar, Maharashtra, Karnataka, Andhra Pradesh, Telangana)", "is_correct": true },
+      { "text": "केवल बड़े राज्यों में — 10 राज्य", "is_correct": false },
+      { "text": "केवल दक्षिणी राज्यों में", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 169 — विधान परिषद (Upper House of State Legislature) केवल कुछ राज्यों में। वर्तमान में 6 राज्यों में: Uttar Pradesh, Bihar, Maharashtra, Karnataka, Andhra Pradesh, Telangana। Vidhan Parishad — स्थायी सदन (जैसे राज्यसभा), 1/3 प्रतिवर्ष सेवानिवृत्त। विधानसभा (Vidhan Sabha) — सभी राज्यों में अनिवार्य।"
+  },
+  {
+    "question": "भारत की संसद में 'प्रश्नकाल' (Question Hour) कितने समय का होता है?",
+    "options": [
+      { "text": "30 मिनट", "is_correct": false },
+      { "text": "1 घंटा (11 AM से 12 PM)", "is_correct": true },
+      { "text": "2 घंटे", "is_correct": false },
+      { "text": "45 मिनट", "is_correct": false }
+    ],
+    "explanation": "Question Hour — संसद के प्रत्येक कार्य दिवस के पहले घंटे (11-12 बजे) में होता है। तीन प्रकार के प्रश्न: (1) Starred Questions — मौखिक उत्तर + पूरक प्रश्न, (2) Unstarred — लिखित उत्तर, (3) Short Notice — तत्कालीन। Health Ministers से Questions: vaccination coverage, PHC staffing, drug availability के बारे में। Parliamentary accountability mechanism।"
+  },
+  {
+    "question": "भारतीय संविधान का 'अनुच्छेद 21' क्या प्रदान करता है?",
+    "options": [
+      { "text": "समानता का अधिकार", "is_correct": false },
+      { "text": "प्राण और दैहिक स्वतंत्रता का अधिकार (Right to Life and Personal Liberty)", "is_correct": true },
+      { "text": "धर्म की स्वतंत्रता", "is_correct": false },
+      { "text": "शिक्षा का अधिकार", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 21 — 'किसी व्यक्ति को उसके प्राण या दैहिक स्वतंत्रता से विधि द्वारा स्थापित प्रक्रिया के अनुसार ही वंचित किया जाएगा।' Supreme Court ने Maneka Gandhi Case (1978) के बाद अनुच्छेद 21 का विस्तार किया। अब Right to Life में शामिल: Right to Health (Paschim Banga Khet Majoor Samity case), Right to Food, Right to Livelihood, Right to Privacy, Right to Clean Environment।"
+  },
+  {
+    "question": "भारत में 'नीति आयोग' की स्थापना कब और क्यों की गई?",
+    "options": [
+      { "text": "1950 में योजना आयोग की जगह", "is_correct": false },
+      { "text": "1 जनवरी 2015 को योजना आयोग के स्थान पर — cooperative federalism और बॉटम-अप approach के लिए", "is_correct": true },
+      { "text": "2014 में एक नई आर्थिक नीति संस्था के रूप में", "is_correct": false },
+      { "text": "2017 में GST के साथ", "is_correct": false }
+    ],
+    "explanation": "NITI Aayog (National Institution for Transforming India) — 1 जनवरी 2015 को Planning Commission (1950) के स्थान पर। मुख्य अंतर: (1) Planning Commission — top-down allocation; NITI Aayog — cooperative federalism, states as partners, (2) NITI Aayog — advisory (no financial allocation powers), (3) Three-Year Action Agenda, 7-Year Strategy, 15-Year Vision। Atal Innovation Mission, Health and Nutrition Index — NITI द्वारा। Chairman — प्रधानमंत्री।"
+  },
+  {
+    "question": "भारत में 'सूचना का अधिकार अधिनियम' (RTI Act) कब लागू हुआ?",
+    "options": [
+      { "text": "2003", "is_correct": false },
+      { "text": "2005", "is_correct": true },
+      { "text": "2007", "is_correct": false },
+      { "text": "2009", "is_correct": false }
+    ],
+    "explanation": "RTI Act 2005 — 12 अक्टूबर 2005 को लागू। नागरिकों को सरकारी सूचना तक पहुँच का अधिकार। PIO (Public Information Officer) — 30 दिनों में जानकारी देना। जीवन-मृत्यु के मामलों में 48 घंटे। Central Information Commission (CIC) और State ICs। Health में: ASHA incentives, drug availability, hospital records, inspection reports — सब RTI योग्य।"
+  },
+  {
+    "question": "भारत में 'केंद्रीय मंत्रिपरिषद' किसके प्रति उत्तरदायी है?",
+    "options": [
+      { "text": "राष्ट्रपति के प्रति", "is_correct": false },
+      { "text": "लोकसभा के प्रति (अनुच्छेद 75)", "is_correct": true },
+      { "text": "संसद के दोनों सदनों के प्रति", "is_correct": false },
+      { "text": "सर्वोच्च न्यायालय के प्रति", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 75(3) — मंत्रिपरिषद, लोकसभा के प्रति सामूहिक रूप से उत्तरदायी (Collectively Responsible)। यदि लोकसभा में विश्वास न रहे (No-Confidence Motion) → पूरी cabinet resign करे। Rajya Sabha के प्रति नहीं — क्योंकि Rajya Sabha में No-Confidence Motion नहीं होता। Individual ministerial responsibility भी — अनुच्छेद 75(2)।"
+  },
+  {
+    "question": "भारतीय संविधान में 'अनुच्छेद 356' का क्या प्रावधान है?",
+    "options": [
+      { "text": "राष्ट्रीय आपातकाल", "is_correct": false },
+      { "text": "राष्ट्रपति शासन — राज्य में संवैधानिक तंत्र विफल होने पर", "is_correct": true },
+      { "text": "वित्तीय आपातकाल", "is_correct": false },
+      { "text": "राज्यपाल की बर्खास्तगी", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 356 — President's Rule (राष्ट्रपति शासन): जब राज्य में संवैधानिक तंत्र विफल हो (राज्यपाल की रिपोर्ट पर या स्वतः)। राज्य सरकार भंग → राज्यपाल राष्ट्रपति के नाम पर शासन करता है। संसदीय अनुमोदन — 2 महीने में। S.R. Bommai Case (1994) — Supreme Court ने इसके मनमाने उपयोग पर अंकुश लगाया।"
+  },
+  {
+    "question": "संविधान के किस अनुच्छेद में 'मूल कर्तव्य' (Fundamental Duties) वर्णित हैं?",
+    "options": [
+      { "text": "अनुच्छेद 48A", "is_correct": false },
+      { "text": "अनुच्छेद 51A (भाग IV-A)", "is_correct": true },
+      { "text": "अनुच्छेद 44", "is_correct": false },
+      { "text": "अनुच्छेद 368", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 51A — मूल कर्तव्य (Fundamental Duties): 42वें संशोधन (1976) द्वारा जोड़े गए, 86वें संशोधन (2002) द्वारा 11वाँ कर्तव्य जोड़ा। भाग IV-A। मूल कर्तव्यों में: वैज्ञानिक दृष्टिकोण रखना, पर्यावरण की रक्षा करना, सार्वजनिक संपत्ति की रक्षा। 11वाँ — 6-14 वर्ष के बच्चों को शिक्षा देना। Non-justiciable पर moral obligation।"
+  },
+  {
+    "question": "भारत में 'संसद की संप्रभुता' (Parliamentary Sovereignty) के सिद्धांत की एक प्रमुख सीमा क्या है?",
+    "options": [
+      { "text": "प्रधानमंत्री का अनुमोदन", "is_correct": false },
+      { "text": "न्यायिक पुनर्विलोकन (Judicial Review) — संसद के कानून मौलिक अधिकारों के विरुद्ध हों तो असंवैधानिक घोषित हो सकते हैं", "is_correct": true },
+      { "text": "राष्ट्रपति की अनुमति अनिवार्य", "is_correct": false },
+      { "text": "राज्यसभा की अनुमति सभी विधेयकों में अनिवार्य", "is_correct": false }
+    ],
+    "explanation": "भारत — Parliamentary Sovereignty नहीं बल्कि संविधान की सर्वोच्चता (Constitutional Supremacy)। प्रमुख सीमा: Judicial Review — सर्वोच्च न्यायालय संसद के कानूनों की संवैधानिकता जाँच कर सकता है (अनुच्छेद 13)। 'Basic Structure Doctrine' (Kesavananda Bharati Case, 1973) — संसद संविधान की मूल संरचना को संशोधित नहीं कर सकती। ब्रिटेन में Parliamentary Sovereignty — पर भारत में नहीं।"
+  },
+  {
+    "question": "भारतीय लोकतंत्र में 'प्रतिनिधिमूलक लोकतंत्र' (Representative Democracy) और 'प्रत्यक्ष लोकतंत्र' (Direct Democracy) में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Representative — नागरिक प्रतिनिधि चुनते हैं जो उनकी ओर से शासन करते हैं; Direct — नागरिक स्वयं निर्णय लेते हैं (जैसे referendum)", "is_correct": true },
+      { "text": "भारत में Direct Democracy है", "is_correct": false },
+      { "text": "Representative Democracy — केवल आधुनिक अवधारणा है", "is_correct": false }
+    ],
+    "explanation": "Representative Democracy — भारत की प्रणाली: नागरिक संसद/विधानसभा/पंचायत के प्रतिनिधि चुनते हैं। Ballot → Mandate → Legislation। Direct Democracy elements — Referendum, Recall, Initiative, Plebiscite (भारत में सीमित रूप से)। Gram Sabha — direct democracy का भारतीय उदाहरण। Health programs: Village Health, Sanitation and Nutrition Committee (VHSNC) — community direct participation। Public health accountability — both mechanisms needed।"
+  },
+  {
+    "question": "भारत में 'राष्ट्रीय मानवाधिकार आयोग' (NHRC) की स्थापना किस वर्ष हुई?",
+    "options": [
+      { "text": "1990", "is_correct": false },
+      { "text": "1993", "is_correct": true },
+      { "text": "1995", "is_correct": false },
+      { "text": "1999", "is_correct": false }
+    ],
+    "explanation": "NHRC — National Human Rights Commission: Protection of Human Rights Act 1993 के तहत 12 अक्टूबर 1993 को स्थापित। Chairman — सेवानिवृत्त Chief Justice of India। Rights: investigate complaints, visit any institution, recommend compensation। Health में: NHRC ने अस्पताल में मौत, mental health institutions में abuse, drug availability के मामलों पर संज्ञान लिया है। Paris Principles के अनुरूप।"
+  },
+  {
+    "question": "भारत में 'मतदाता की न्यूनतम आयु' कितनी है?",
+    "options": [
+      { "text": "21 वर्ष", "is_correct": false },
+      { "text": "18 वर्ष", "is_correct": true },
+      { "text": "25 वर्ष", "is_correct": false },
+      { "text": "16 वर्ष", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 326 — वयस्क मताधिकार (Universal Adult Suffrage) — 18 वर्ष की आयु से मतदान का अधिकार। 61वें संशोधन (1988) द्वारा 21 वर्ष से घटाकर 18 वर्ष किया गया। लोकसभा सदस्यता — 25 वर्ष। राज्यसभा/राज्य परिषद — 30 वर्ष। Adolescent health में: 18-25 वर्ष आयु वर्ग के मतदाता — youth health agenda।"
+  },
+  {
+    "question": "भारत के 'नियंत्रक एवं महालेखापरीक्षक' (CAG) की भूमिका क्या है?",
+    "options": [
+      { "text": "केंद्र सरकार का मुख्य सलाहकार", "is_correct": false },
+      { "text": "केंद्र और राज्य सरकारों के खातों का लेखापरीक्षण और संसद को रिपोर्ट करना", "is_correct": true },
+      { "text": "केवल केंद्र के खातों की जाँच करना", "is_correct": false },
+      { "text": "बजट तैयार करना", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 148-151 — CAG: Comptroller and Auditor General। Independent constitutional authority। कार्य: (1) केंद्र और राज्यों के सभी खातों का audit, (2) Efficiency audit, (3) Performance audit, (4) Reports to Parliament/State Legislature via Public Accounts Committee। Health में: CAG ने National Health Mission, Pradhan Mantri Awas Yojana, immunization programs के funds misuse पर रिपोर्ट दी है।"
+  },
+  {
+    "question": "भारत में 'वित्त आयोग' (Finance Commission) की स्थापना का उद्देश्य क्या है?",
+    "options": [
+      { "text": "केंद्र सरकार के लिए बजट बनाना", "is_correct": false },
+      { "text": "केंद्र और राज्यों के बीच कर राजस्व का वितरण निर्धारित करना", "is_correct": true },
+      { "text": "विदेशी मुद्रा नीति तय करना", "is_correct": false },
+      { "text": "बैंकिंग क्षेत्र का नियमन करना", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 280 — Finance Commission: हर 5 वर्ष में गठित। निर्धारित करती है: (1) केंद्रीय करों में राज्यों का हिस्सा (Vertical Devolution), (2) राज्यों के बीच वितरण (Horizontal Devolution), (3) Grants-in-Aid। 15वाँ वित्त आयोग (2021-26) — राज्यों को 41% share। Health में: FC अनुशंसाएँ राज्य health budgets को प्रभावित करती हैं।"
+  },
+  {
+    "question": "भारत में 'संविधान का भाग IX-A' किससे संबंधित है?",
+    "options": [
+      { "text": "पंचायती राज संस्थाएँ", "is_correct": false },
+      { "text": "नगरपालिकाएँ (Urban Local Bodies — 74वाँ संशोधन)", "is_correct": true },
+      { "text": "अनुसूचित जनजातियाँ", "is_correct": false },
+      { "text": "सहकारी समितियाँ", "is_correct": false }
+    ],
+    "explanation": "74वाँ संविधान संशोधन (1992) — भाग IX-A: नगरपालिकाएँ (Municipalities) को संवैधानिक दर्जा। 12वीं अनुसूची — 18 कार्य (शहरी नियोजन, सार्वजनिक स्वास्थ्य, अस्पताल, solid waste management सहित)। Municipal Corporation, Municipal Council, Nagar Panchayat। शहरी health services — इनके अधीन। नगर निगम — urban health programs चलाती है।"
+  },
+  {
+    "question": "भारत में 'चुनाव आयोग' (Election Commission of India) की स्वायत्तता कैसे सुनिश्चित की गई है?",
+    "options": [
+      { "text": "Chief Election Commissioner को संसद ही नियुक्त करती है", "is_correct": false },
+      { "text": "CEC को महाभियोग की प्रक्रिया जैसे (Supreme Court Judge की तरह) ही हटाया जा सकता है — वेतन Consolidated Fund", "is_correct": true },
+      { "text": "ECI — पूरी तरह स्वायत्त नहीं है", "is_correct": false },
+      { "text": "CEC — राष्ट्रपति की इच्छानुसार हटाया जा सकता है", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 324-329 — Election Commission of India। CEC की स्वायत्तता: (1) CEC को Supreme Court Judge की तरह महाभियोग से ही हटाया जा सकता है (अनुच्छेद 324), (2) वेतन और सेवा शर्तें Consolidated Fund of India से — संसद की इच्छा पर निर्भर नहीं, (3) Model Code of Conduct — political parties को बाँधती है। Note: Other Election Commissioners — CEC की सिफारिश के बिना नहीं हटाए जा सकते।"
+  },
+  {
+    "question": "'अनुच्छेद 32' को Dr. Ambedkar ने संविधान का 'हृदय और आत्मा' क्यों कहा?",
+    "options": [
+      { "text": "क्योंकि यह राष्ट्रपति की शक्ति देता है", "is_correct": false },
+      { "text": "क्योंकि यह मौलिक अधिकारों के प्रवर्तन के लिए सर्वोच्च न्यायालय में जाने का अधिकार देता है — बिना इसके FR अर्थहीन", "is_correct": true },
+      { "text": "क्योंकि यह संसद को सर्वोच्च बनाता है", "is_correct": false },
+      { "text": "क्योंकि यह प्रधानमंत्री को नियुक्त करता है", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 32 — 'संवैधानिक उपचारों का अधिकार': मौलिक अधिकारों के उल्लंघन पर सीधे Supreme Court में जाने का अधिकार। 5 writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo-Warranto। Dr. Ambedkar: 'यह संविधान का सबसे महत्वपूर्ण अनुच्छेद है — बिना remedy के rights खाली हैं।' Health में: Right to Health की याचिका SC में अनुच्छेद 32 के तहत।"
+  },
+  {
+    "question": "भारत में 'मुख्यमंत्री' को कौन नियुक्त करता है और इसका क्या सिद्धांत है?",
+    "options": [
+      { "text": "राष्ट्रपति द्वारा नियुक्त", "is_correct": false },
+      { "text": "राज्यपाल नियुक्त करता है — विधानसभा में बहुमत दल के नेता को", "is_correct": true },
+      { "text": "विधानसभा सदस्य चुनते हैं", "is_correct": false },
+      { "text": "प्रधानमंत्री नियुक्त करते हैं", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 164 — मुख्यमंत्री: राज्यपाल नियुक्त करता है। व्यवहार में: विधानसभा में स्पष्ट बहुमत वाले दल के नेता को। Hung Assembly में: राज्यपाल को discretion। मुख्यमंत्री → राज्य मंत्रिपरिषद का प्रमुख → state health policies का नेतृत्व। राज्य health secretary → CM के प्रति accountable। State NHM steering committee — CM अध्यक्षता।"
+  },
+  {
+    "question": "भारत के संविधान में 'संशोधन की प्रक्रिया' किस अनुच्छेद में वर्णित है?",
+    "options": [
+      { "text": "अनुच्छेद 356", "is_correct": false },
+      { "text": "अनुच्छेद 368", "is_correct": true },
+      { "text": "अनुच्छेद 370", "is_correct": false },
+      { "text": "अनुच्छेद 352", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 368 — संविधान संशोधन। तीन प्रकार: (1) साधारण बहुमत (Simple Majority) — कुछ प्रावधान, (2) विशेष बहुमत (2/3 बहुमत + उपस्थित और मत देने वालों का 50%+) — अधिकांश प्रावधान, (3) विशेष बहुमत + कम से कम 50% राज्यों का अनुसमर्थन — संघीय प्रावधान। Basic Structure — संशोधन योग्य नहीं (Kesavananda Bharati)।"
+  },
+  {
+    "question": "भारत में 'संसदीय समिति' (Parliamentary Committee) का क्या कार्य है?",
+    "options": [
+      { "text": "केवल बजट की जाँच करना", "is_correct": false },
+      { "text": "विधेयकों की जाँच, सरकारी खर्च की निगरानी और विशेष विषयों पर गहन अध्ययन करना", "is_correct": true },
+      { "text": "न्यायिक कार्य करना", "is_correct": false },
+      { "text": "मंत्रियों को नियुक्त करना", "is_correct": false }
+    ],
+    "explanation": "Parliamentary Committees — Standing और Ad hoc दो प्रकार। महत्वपूर्ण committees: (1) Public Accounts Committee — CAG रिपोर्ट की जाँच, (2) Estimates Committee — बजट अनुमान, (3) Standing Committees (Departmentally Related) — Health Committee, Education Committee। Health Committee — Ministry of Health and Family Welfare के bills और policies की detailed review। Parliamentary oversight mechanism।"
+  },
+  {
+    "question": "भारत में 'लोक अदालत' (Lok Adalat) किस अधिनियम के तहत काम करती है?",
+    "options": [
+      { "text": "Legal Services Authorities Act, 1987", "is_correct": true },
+      { "text": "Arbitration and Conciliation Act, 1996", "is_correct": false },
+      { "text": "Consumer Protection Act, 1986", "is_correct": false },
+      { "text": "Civil Procedure Code, 1908", "is_correct": false }
+    ],
+    "explanation": "Legal Services Authorities Act 1987 के तहत Lok Adalats। NALSA (National Legal Services Authority) — गरीबों को मुफ्त कानूनी सेवा। Lok Adalat की विशेषताएँ: (1) आपसी सहमति से निपटान, (2) No court fees, (3) Final award — decree of civil court, (4) No appeal। Health में: Medical negligence, Consumer complaints, insurance disputes — Lok Adalat में सुलझाए जाते हैं। Consumer Disputes Redressal Forum भी medical negligence देखती है।"
+  },
+  {
+    "question": "भारत में 'अनुसूचित जाति और जनजाति (अत्याचार निवारण) अधिनियम' (SC/ST Prevention of Atrocities Act) कब पारित हुआ?",
+    "options": [
+      { "text": "1976", "is_correct": false },
+      { "text": "1989", "is_correct": true },
+      { "text": "1993", "is_correct": false },
+      { "text": "2015", "is_correct": false }
+    ],
+    "explanation": "SC/ST (Prevention of Atrocities) Act 1989 — SC/ST समुदायों के विरुद्ध अत्याचार रोकने के लिए। 2015 में संशोधित। विशेष न्यायालय, Special Public Prosecutor। Health में: Dalit patient के साथ discrimination → POA Act लागू हो सकती है। DLSA (District Legal Services Authority) → legal aid। Health workers की caste-based discrimination against patients — इस Act के तहत action।"
+  },
+  {
+    "question": "भारत के संविधान में 'समान नागरिक संहिता' (Uniform Civil Code) का प्रावधान किस अनुच्छेद में है?",
+    "options": [
+      { "text": "अनुच्छेद 44", "is_correct": true },
+      { "text": "अनुच्छेद 46", "is_correct": false },
+      { "text": "अनुच्छेद 48", "is_correct": false },
+      { "text": "अनुच्छेद 51", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 44 (DPSP) — 'राज्य, भारत के समस्त राज्यक्षेत्र में नागरिकों के लिए एक समान नागरिक संहिता प्राप्त कराने का प्रयास करेगा।' Goa — partial UCC लागू। UCC = marriage, divorce, adoption, succession में uniform law। Health में: personal law differences → women's property rights, healthcare consent issues, inheritance affecting health expenditure।"
+  },
+  {
+    "question": "भारतीय संसद में 'धन विधेयक' (Money Bill) कहाँ पेश किया जाता है?",
+    "options": [
+      { "text": "राज्यसभा में", "is_correct": false },
+      { "text": "लोकसभा में", "is_correct": true },
+      { "text": "किसी भी सदन में", "is_correct": false },
+      { "text": "संयुक्त अधिवेशन में", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 110 — Money Bill: केवल लोकसभा में पेश किया जा सकता है। President की पूर्व अनुशंसा आवश्यक। Rajya Sabha — Money Bill को केवल 14 दिन रोक सकती है (reject नहीं)। Health Budget — Appropriation Bill एक Money Bill है — Lok Sabha में पेश होता है। Health Minister द्वारा budget speech में health sector allocations की घोषणा।"
+  },
+  {
+    "question": "भारत में '73वें संविधान संशोधन' द्वारा Panchayati Raj की किस संरचना को अनिवार्य किया गया?",
+    "options": [
+      { "text": "एकस्तरीय — केवल ग्राम पंचायत", "is_correct": false },
+      { "text": "त्रिस्तरीय — ग्राम पंचायत, पंचायत समिति, जिला परिषद", "is_correct": true },
+      { "text": "द्विस्तरीय — ग्राम पंचायत और जिला परिषद", "is_correct": false },
+      { "text": "चतुर्स्तरीय", "is_correct": false }
+    ],
+    "explanation": "73वाँ संशोधन — Three-tier PRI structure: (1) Gram Panchayat (village level), (2) Panchayat Samiti/Intermediate level (block/taluk level), (3) Zila Parishad (district level)। 20 लाख से कम जनसंख्या वाले राज्यों में intermediate tier optional। Health Implications: (1) PHC oversight — Gram Panchayat, (2) CHC oversight — Block level, (3) District Hospital — Zila Parishad। Health VHSNC — Gram Panchayat level।"
+  },
+  {
+    "question": "भारत में 'केंद्र शासित प्रदेश' (Union Territory) और 'राज्य' में मुख्य अंतर क्या है?",
+    "options": [
+      { "text": "कोई अंतर नहीं", "is_correct": false },
+      { "text": "UT — केंद्र सरकार के सीधे नियंत्रण में; राज्य — अपनी निर्वाचित सरकार के साथ अधिक स्वायत्त", "is_correct": true },
+      { "text": "UT — राज्य से बड़े होते हैं", "is_correct": false },
+      { "text": "UT में विधानसभा होती है, राज्य में नहीं", "is_correct": false }
+    ],
+    "explanation": "Union Territories — 8 हैं (Delhi, Jammu & Kashmir, Ladakh, Chandigarh, Puducherry, D&N Haveli and Daman & Diu, Andaman & Nicobar, Lakshadweep)। कुछ में विधानसभा (Delhi, Puducherry, J&K) — पर central control अधिक। Administrative control: Lt. Governor appointed by President। Health in: UT — central schemes directly implemented; states — own health policies too।"
+  },
+  {
+    "question": "भारत में 'Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act 2006' का मुख्य उद्देश्य क्या है?",
+    "options": [
+      { "text": "वनों की कटाई को रोकना", "is_correct": false },
+      { "text": "वन क्षेत्रों में रहने वाले आदिवासी और वन-निवासी समुदायों के वन अधिकारों को मान्यता देना", "is_correct": true },
+      { "text": "Tiger Reserves बनाना", "is_correct": false },
+      { "text": "वन विभाग को अधिक शक्ति देना", "is_correct": false }
+    ],
+    "explanation": "Forest Rights Act (FRA) 2006 — 'ऐतिहासिक अन्याय' (historical injustice) को ठीक करने के लिए। अधिकार: (1) Individual forest rights — खेती, आवास, (2) Community forest rights — collective resources, (3) Community Forest Resource management। Gram Sabha — Central role। Health implications: FRA claims settled → tribal communities' land security → better nutrition, healthcare access। Gram Sabha health resolutions under FRA।"
+  },
+  {
+    "question": "भारत में 'लोकपाल और लोकायुक्त अधिनियम' (Lokpal and Lokayuktas Act) कब पारित हुआ?",
+    "options": [
+      { "text": "2011", "is_correct": false },
+      { "text": "2013", "is_correct": true },
+      { "text": "2015", "is_correct": false },
+      { "text": "2017", "is_correct": false }
+    ],
+    "explanation": "Lokpal and Lokayuktas Act 2013 — भ्रष्टाचार विरोधी Jan Lokpal Movement के बाद। Lokpal — केंद्रीय स्तर पर anti-corruption ombudsman (अनुच्छेद 79A)। Lokayukta — राज्य स्तर। PM, Ministers, MPs, Group A officials — सभी jurisdiction में। Health में: medical corruption (public hospitals में), PHC drug pilferage — Lokpal/Lokayukta jurisdiction में। India's anti-corruption framework।"
+  },
+  {
+    "question": "भारतीय संविधान की 'Ninth Schedule' (नौवीं अनुसूची) में क्या होता है?",
+    "options": [
+      { "text": "मौलिक अधिकार", "is_correct": false },
+      { "text": "ऐसे कानून जिन्हें न्यायिक पुनर्विलोकन से संरक्षित किया गया है — पर I.R. Coelho Case (2007) के बाद यह संरक्षण absolute नहीं", "is_correct": true },
+      { "text": "पंचायत के 29 कार्य", "is_correct": false },
+      { "text": "राज्यों की सीमाएँ", "is_correct": false }
+    ],
+    "explanation": "9वीं अनुसूची — 1st संशोधन (1951) द्वारा जोड़ी गई। इसमें वे कानून हैं जो न्यायिक पुनर्विलोकन से protected हैं — मुख्यतः land reform laws। I.R. Coelho Case (2007) — SC ने कहा: 9वीं अनुसूची में 24 April 1973 के बाद जोड़े कानून अभी भी Basic Structure के विरुद्ध होने पर review योग्य। Land reform laws → health-land-food security nexus।"
+  },
+  {
+    "question": "भारत में 'उपभोक्ता संरक्षण अधिनियम 2019' के तहत स्वास्थ्य सेवाओं में क्या बदलाव आए?",
+    "options": [
+      { "text": "चिकित्सा सेवाएँ इस Act के दायरे से बाहर हैं", "is_correct": false },
+      { "text": "Medical services — 'service' की परिभाषा में शामिल; Central Consumer Protection Authority (CCPA) गठित; e-commerce और online healthcare भी शामिल", "is_correct": true },
+      { "text": "केवल private hospitals इस Act में", "is_correct": false },
+      { "text": "उपभोक्ता अदालतें समाप्त हो गईं", "is_correct": false }
+    ],
+    "explanation": "Consumer Protection Act 2019 ने 1986 Act replace किया। Medical services — 'service' में शामिल (Indian Medical Association v. VP Shantha Case 1995 already established this)। New features: (1) CCPA — unfair trade practices और false advertisements regulate, (2) E-commerce platforms liable, (3) Product liability, (4) Mediation as ADR, (5) District Commission jurisdiction Rs. 1 crore तक। Medical negligence, overcharging, sub-standard care → Consumer Forum।"
+  },
+  {
+    "question": "भारत में 'राष्ट्रीय न्यायिक नियुक्ति आयोग' (NJAC) को क्यों निरस्त किया गया?",
+    "options": [
+      { "text": "NJAC कभी बना ही नहीं", "is_correct": false },
+      { "text": "Supreme Court ने 2015 में इसे Basic Structure (न्यायपालिका की स्वतंत्रता) का उल्लंघन मानते हुए असंवैधानिक घोषित किया", "is_correct": true },
+      { "text": "NJAC — संसद ने खुद वापस लिया", "is_correct": false },
+      { "text": "NJAC — अभी भी लागू है", "is_correct": false }
+    ],
+    "explanation": "99वाँ संविधान संशोधन (2014) — NJAC: 6 member body for judicial appointments (CJI + 2 senior SC judges + Union Law Minister + 2 eminent persons)। Supreme Court (5-judge bench, 2015) — NJAC unconstitutional: violates judicial independence (Basic Structure)। Collegium system restored — judges, judges को चुनते हैं। Health implications: independent judiciary → Right to Health petitions effectively adjudicated।"
+  },
+  {
+    "question": "भारत में 'जन प्रतिनिधित्व अधिनियम' (Representation of People Act) का मुख्य उद्देश्य क्या है?",
+    "options": [
+      { "text": "पंचायत चुनावों का नियमन", "is_correct": false },
+      { "text": "संसद और राज्य विधानसभाओं के चुनावों का नियमन — voters की qualification, candidates की qualification, electoral offences", "is_correct": true },
+      { "text": "राष्ट्रपति चुनाव का नियमन", "is_correct": false },
+      { "text": "केवल electoral malpractice रोकना", "is_correct": false }
+    ],
+    "explanation": "RPA 1950 और RPA 1951। RPA 1951 — elections conduct: (1) Election schedule, (2) Candidates' qualifications/disqualifications, (3) Model Code of Conduct का legal backup, (4) Electoral offences (bribery, undue influence), (5) Election petitions। Health में: election candidates की health declaration (mental illness, certain convictions के आधार पर disqualification)। Health voters' awareness campaigns — ECI।"
+  },
+  {
+    "question": "भारत में 'जिला प्रशासन' में 'जिलाधिकारी' (District Magistrate/Collector) की क्या भूमिका होती है?",
+    "options": [
+      { "text": "केवल law and order", "is_correct": false },
+      { "text": "Revenue collection, law and order, development programs का समन्वय और public service delivery — district का मुख्य executive अधिकारी", "is_correct": true },
+      { "text": "केवल judicial functions", "is_correct": false },
+      { "text": "केवल election conduct", "is_correct": false }
+    ],
+    "explanation": "DM/Collector — IAS officer, district का chief executive। कार्य: (1) Revenue administration (land records, taxes), (2) Law and order, (3) Development program coordination (NHM, ICDS, MNREGS), (4) Disaster management — District Disaster Management Authority chair, (5) Election — District Election Officer। Health में: DM — District Health Society chairperson (NHM), COVID-19 district command → DM की central role। ASHA selection में DM oversight।"
+  },
+  {
+    "question": "भारत में 'राष्ट्रीय विधिक सेवा प्राधिकरण' (NALSA) गरीबों को कैसे सहायता करता है?",
+    "options": [
+      { "text": "केवल अमीरों को legal advice", "is_correct": false },
+      { "text": "निःशुल्क कानूनी सहायता, Lok Adalat, legal literacy camps — vulnerable groups को legal access", "is_correct": true },
+      { "text": "NALSA — criminal courts में ही काम करता है", "is_correct": false },
+      { "text": "NALSA — केवल metro cities में", "is_correct": false }
+    ],
+    "explanation": "NALSA (National Legal Services Authority) — Legal Services Authorities Act 1987। Free legal services: below poverty line, SC/ST, women, children, disabled, disaster victims। NALSA schemes: Victim Compensation, Legal Aid Defence Counsel। Medical Negligence — free legal help under NALSA। Health rights: TB patients, mental illness patients, HIV patients — NALSA provides legal support। 'Legal Empowerment' as health determinant।"
+  },
+  {
+    "question": "भारत में 'केंद्र-राज्य संबंध' (Centre-State Relations) में 'Inter-State Council' क्या करती है?",
+    "options": [
+      { "text": "केंद्र-राज्य विवादों में न्यायालय का काम करती है", "is_correct": false },
+      { "text": "केंद्र-राज्य और राज्यों के बीच नीतिगत समन्वय और परामर्श — एक advisory body", "is_correct": true },
+      { "text": "राज्यों के बीच boundary disputes सुलझाती है", "is_correct": false },
+      { "text": "राज्यों को financial grants देती है", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 263 — Inter-State Council (ISC): advisory body for coordination among Centre and States। Sarkaria Commission (1983) की सिफारिश। ISC — PM chairman + all CMs + some Union Ministers। Health में: ISC ने Centre-State health policy discussions, drug pricing, NHM implementation पर recommendations दी हैं। Zonal Councils — regional coordination। Cooperative federalism mechanism।"
+  },
+  {
+    "question": "भारत में 'वित्तीय आपातकाल' (Financial Emergency — Article 360) के बारे में क्या सत्य है?",
+    "options": [
+      { "text": "India में कभी भी Financial Emergency घोषित नहीं हुई", "is_correct": true },
+      { "text": "1966 में Financial Emergency लागू हुई", "is_correct": false },
+      { "text": "1991 economic crisis में Article 360 लागू किया गया था", "is_correct": false },
+      { "text": "Financial Emergency — COVID-19 के दौरान लगाई गई", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 360 — Financial Emergency: जब राष्ट्रपति को लगे कि भारत या उसके किसी भाग की वित्तीय स्थिरता या credit खतरे में है। इतिहास में कभी घोषित नहीं हुई। 1991 economic crisis — नहीं लगाई। इसके तहत: SC/HC judges, civil servants के वेतन में कटौती। Central direction on financial matters to states। Health budget cuts इसमें संभव।"
+  },
+  {
+    "question": "भारत में 'अनुच्छेद 370' (अब निरस्त) किस राज्य से संबंधित था?",
+    "options": [
+      { "text": "सिक्किम", "is_correct": false },
+      { "text": "जम्मू और कश्मीर", "is_correct": true },
+      { "text": "नागालैंड", "is_correct": false },
+      { "text": "मिजोरम", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 370 — J&K को विशेष दर्जा (1949 से)। 5 अगस्त 2019 — Presidential Order द्वारा अनुच्छेद 370 के अधिकांश प्रावधान निष्क्रिय। J&K → 2 Union Territories: J&K (विधानसभा सहित) और Ladakh (बिना विधानसभा)। Health implications: National health programs अब सीधे J&K में लागू — PMJAY, NHM पूर्ण रूप से। SC ने December 2023 में इस decision को uphold किया।"
+  },
+  {
+    "question": "भारत में 'जनहित याचिका' (Public Interest Litigation — PIL) का मुख्य लाभ क्या है?",
+    "options": [
+      { "text": "PIL — केवल अमीर लोग दायर कर सकते हैं", "is_correct": false },
+      { "text": "कोई भी नागरिक जनहित में अदालत से न्याय माँग सकता है — locus standi की शर्त शिथिल — health rights के लिए प्रभावी", "is_correct": true },
+      { "text": "PIL — केवल criminal matters में", "is_correct": false },
+      { "text": "PIL — केवल Supreme Court में, High Court में नहीं", "is_correct": false }
+    ],
+    "explanation": "PIL — 1980s में Justice P.N. Bhagwati और Justice V.R. Krishna Iyer ने expand किया। Features: (1) कोई भी — यहाँ तक कि letter भी याचिका मान सकती है, (2) Locus standi (cause of action) की शर्त शिथिल, (3) SC (Art. 32) और HC (Art. 226) दोनों में। Health PILs: Right to Food (PUCL Case), Right to Health (paschim Banga), Environmental Health, Hospital fire safety। Health Education में: PIL as accountability tool।"
+  },
+  {
+    "question": "भारत का संविधान किस तरह का है — rigid या flexible?",
+    "options": [
+      { "text": "पूर्णतः Rigid — कोई संशोधन नहीं हो सकता", "is_correct": false },
+      { "text": "Neither fully rigid nor flexible — partly rigid (constitutional provisions) + partly flexible (ordinary legislation) — 'sui generis'", "is_correct": true },
+      { "text": "पूर्णतः Flexible — साधारण बहुमत से बदला जा सकता है", "is_correct": false },
+      { "text": "US Constitution जैसा — only amendment process", "is_correct": false }
+    ],
+    "explanation": "Dr. Ambedkar ने कहा — Constitution is neither wholly rigid nor wholly flexible। अनुच्छेद 368 — तीन methods: (1) Simple majority (schedule changes, new states) → flexible, (2) Special majority (most provisions) → semi-rigid, (3) Special majority + State ratification (federal provisions) → rigid। 'Sui generis' — अपने आप में unique। यह balanced approach: stability + adaptability। India में 106 amendments तक (2024)।"
+  },
+  {
+    "question": "भारत में 'राज्य सभा' (Rajya Sabha) में राज्यों का प्रतिनिधित्व किस आधार पर होता है?",
+    "options": [
+      { "text": "प्रत्येक राज्य को समान सीटें", "is_correct": false },
+      { "text": "राज्य की जनसंख्या के आधार पर — बड़े राज्यों को अधिक सीटें", "is_correct": true },
+      { "text": "राज्य के क्षेत्रफल के आधार पर", "is_correct": false },
+      { "text": "राज्य के GDP के आधार पर", "is_correct": false }
+    ],
+    "explanation": "Rajya Sabha — 250 seats maximum (238 elected + 12 nominated by President). State representation — population-based (4th Schedule). UP → 31, Maharashtra → 19, Tamil Nadu → 18, Bihar → 16। Note: यह US Senate (equal) से भिन्न है। Small states → fewer seats। Nominated — arts, science, literature, social service में eminent। NHM bills, Health legislations — Rajya Sabha में भी पास होते हैं।"
+  },
+  {
+    "question": "भारत में 'राष्ट्रीय आपातकाल' (National Emergency — Article 352) के प्रभाव में मौलिक अधिकारों पर क्या असर होता है?",
+    "options": [
+      { "text": "सभी मौलिक अधिकार स्वतः निलंबित हो जाते हैं", "is_correct": false },
+      { "text": "अनुच्छेद 19 के अधिकार निलंबित; अन्य पर आपातकाल के प्रावधान के अनुसार — अनुच्छेद 20, 21 सदैव संरक्षित", "is_correct": true },
+      { "text": "कोई मौलिक अधिकार प्रभावित नहीं होता", "is_correct": false },
+      { "text": "केवल धर्म की स्वतंत्रता निलंबित होती है", "is_correct": false }
+    ],
+    "explanation": "National Emergency (Art. 352) — war, external aggression, armed rebellion। Effect on FRs: Art. 19 (6 freedoms) — automatically suspended। अनुच्छेद 358 — Art. 19 निलंबन। Art. 359 — President can suspend any FR enforcement (except 20 and 21)। 44वाँ संशोधन (1978) — Art. 20 (protection against conviction) और Art. 21 (life and liberty) — even in Emergency cannot be suspended। Health implications: 1975 Emergency — forced sterilization — gross violation of Art. 21।"
+  },
+  {
+    "question": "भारत में 'प्राथमिक कृषि साख समिति' (PACS) और 'सहकारी समिति' का क्या महत्व है?",
+    "options": [
+      { "text": "केवल urban areas में relevant", "is_correct": false },
+      { "text": "ग्रामीण financial inclusion, credit access, fair price shops — rural health economic determinants को प्रभावित करती हैं", "is_correct": true },
+      { "text": "PACS — केवल agriculture insurance", "is_correct": false },
+      { "text": "Cooperatives — संविधान में उल्लेख नहीं", "is_correct": false }
+    ],
+    "explanation": "97वाँ संविधान संशोधन (2011) — Cooperatives को Part IX-B और Art. 43-B। PACS (Primary Agricultural Credit Societies) — village level, agriculture credit। Health significance: (1) Cooperative hospitals (Amul model in health), (2) ASHA cooperative models, (3) Jan Aushadhi cooperative pharmacies, (4) Rural women's SHG-health cooperatives। Financial security → health expenditure capacity। Rural poor का economic safety net।"
+  },
+  {
+    "question": "भारतीय राजनीतिक व्यवस्था में 'गठबंधन सरकार' (Coalition Government) के क्या निहितार्थ हैं?",
+    "options": [
+      { "text": "Coalition Government — हमेशा unstable होती है", "is_correct": false },
+      { "text": "Multi-party coalition → policy compromises, slower decision-making, but broader representation — health policy continuity challenges", "is_correct": true },
+      { "text": "Coalition — संविधान में वर्जित है", "is_correct": false },
+      { "text": "Coalition सरकारें — health programs बेहतर चलाती हैं", "is_correct": false }
+    ],
+    "explanation": "India में coalition era 1989 से prevalent। Coalition dynamics: (1) Partners with different priorities → policy compromises, (2) Health minister portfolio — coalition bargaining में, (3) Common Minimum Programme (CMP) — health commitments, (4) Unstable coalitions → frequent health minister changes → program continuity issue। Positive: broader social representation। NFHS-5 data: some coalition-era states showed good health outcomes (Tamil Nadu, Kerala)। Political stability — health investment correlation।"
+  },
+  {
+    "question": "भारत में 'विधायक स्थानीय क्षेत्र विकास निधि' (MLA Local Area Development Fund / MLAADS) का क्या उद्देश्य है?",
+    "options": [
+      { "text": "विधायकों के वेतन के लिए", "is_correct": false },
+      { "text": "विधायक अपने निर्वाचन क्षेत्र में स्थानीय विकास कार्यों के लिए सीधे fund recommend करते हैं", "is_correct": true },
+      { "text": "केवल सड़क निर्माण के लिए", "is_correct": false },
+      { "text": "MLAADS — केवल Lok Sabha MPs के लिए", "is_correct": false }
+    ],
+    "explanation": "MLAADS (MLA Area Development Scheme) — State-specific schemes। MPLADS (MP Local Area Development Scheme) — केंद्र (Rs. 5 crore annually per MP)। Both: elected representative recommends local infrastructure works। Health in: MLAs और MPs ने PHC buildings, hospital equipment, ambulances, community health center upgrades के लिए MLAADS/MPLADS funds allocate किए हैं। Discretionary development — community accountability issue।"
+  },
+  {
+    "question": "भारत में 'सार्वजनिक स्वास्थ्य' (Public Health) किस सूची का विषय है?",
+    "options": [
+      { "text": "केंद्रीय सूची (Union List)", "is_correct": false },
+      { "text": "राज्य सूची (State List — Entry 6)", "is_correct": true },
+      { "text": "समवर्ती सूची (Concurrent List)", "is_correct": false },
+      { "text": "संविधान में उल्लेखित नहीं", "is_correct": false }
+    ],
+    "explanation": "7वीं अनुसूची — State List Entry 6: 'Public health and sanitation; hospitals and dispensaries.' इसलिए राज्य सरकारें public health की प्राथमिक जिम्मेदारी लेती हैं। केंद्र — Entry 28 (Union List): 'Port quarantine; seamen's and marine hospitals.' Concurrent List — population control, family planning। Health education — समवर्ती। Dual responsibility: State + Centre — cooperative federalism in health।"
+  },
+  {
+    "question": "भारत में 'आपदा प्रबंधन अधिनियम, 2005' के तहत सबसे महत्वपूर्ण संस्था कौन-सी है?",
+    "options": [
+      { "text": "जिला कलेक्टर", "is_correct": false },
+      { "text": "राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA) — PM अध्यक्षता", "is_correct": true },
+      { "text": "गृह मंत्रालय", "is_correct": false },
+      { "text": "रक्षा मंत्रालय", "is_correct": false }
+    ],
+    "explanation": "Disaster Management Act 2005 — National Framework। NDMA (National Disaster Management Authority): Chair — PM। State DMA (SDMA): Chair — CM। District DMA: Chair — DM/Collector। NDRF (National Disaster Response Force) — 12 battalions। COVID-19 — DM Act 2005 के तहत National Disaster। Health implications: epidemic, pandemic → DM Act activates healthcare preparedness, hospital surge capacity, supply chain management।"
+  },
+  {
+    "question": "भारत में 'महिला एवं बाल विकास मंत्रालय' का ICDS (Integrated Child Development Services) से क्या संबंध है?",
+    "options": [
+      { "text": "ICDS — स्वास्थ्य मंत्रालय चलाता है", "is_correct": false },
+      { "text": "ICDS — Ministry of Women and Child Development के तहत — anganwadi centers के माध्यम से nutrition, health, pre-school education", "is_correct": true },
+      { "text": "ICDS — शिक्षा मंत्रालय का कार्यक्रम है", "is_correct": false },
+      { "text": "ICDS — केवल urban areas में", "is_correct": false }
+    ],
+    "explanation": "ICDS (1975 से): Ministry of Women and Child Development। 6 services through Anganwadi Centers: (1) Supplementary nutrition, (2) Pre-school non-formal education, (3) Nutrition and health education (mother), (4) Immunization (MoH collaboration), (5) Health check-up (ANM), (6) Referral services। Target: 0-6 years children, pregnant women, lactating mothers। Health-Nutrition nexus — ICDS + ASHA + ANM convergence। AWC-as-HUB model।"
+  },
+  {
+    "question": "भारत में 'जल शक्ति मंत्रालय' स्वास्थ्य को कैसे प्रभावित करता है?",
+    "options": [
+      { "text": "Jal Shakti — केवल irrigation के लिए", "is_correct": false },
+      { "text": "Jal Jeevan Mission (Har Ghar Jal) — सुरक्षित पेयजल → waterborne disease reduction → child mortality में कमी", "is_correct": true },
+      { "text": "Jal Shakti Ministry — health से unrelated है", "is_correct": false },
+      { "text": "Jal Shakti — केवल urban water supply", "is_correct": false }
+    ],
+    "explanation": "Jal Shakti Ministry (2019 में created): Jal Jeevan Mission — 2024 तक 'Har Ghar Jal' (functional household tap connections)। Goal: 19 crore rural households को piped water। Health co-benefits: (1) Waterborne disease (cholera, typhoid, diarrhea) reduction, (2) Women's time freed from water collection, (3) ORS effectiveness — clean water, (4) Hand washing facilitated। WASH-Health nexus। SDG 6 (Clean Water and Sanitation) achievement।"
+  },
+  {
+    "question": "भारत में 'POSHAN Abhiyaan' (National Nutrition Mission) का लक्ष्य क्या है?",
+    "options": [
+      { "text": "केवल food distribution", "is_correct": false },
+      { "text": "2022 तक stunting, wasting, anemia और low birth weight में निर्धारित कमी — convergent, technology-driven, community-based approach", "is_correct": true },
+      { "text": "POSHAN — only women के लिए", "is_correct": false },
+      { "text": "POSHAN — MoH का कार्यक्रम है", "is_correct": false }
+    ],
+    "explanation": "POSHAN Abhiyaan (2018) — Ministry of Women & Child Development। Target: Stunting ≥2% reduction/year; Undernutrition ≥2%; Low Birth Weight ≥2%; Anemia ≥3%. Technology: ICDS-CAS app (real-time monitoring), SNAP (Social Norms for Adolescent Pregnancy), PoshanTracker। Multi-ministry convergence (WCD, Health, DWS, Rural Dev)। Community approach: Poshan Maah, Poshan Pakhwada। India's commitment to SDG 2 (Zero Hunger)।"
+  },
+  {
+    "question": "'PM-JAY' (Pradhan Mantri Jan Arogya Yojana / Ayushman Bharat) की मुख्य विशेषताएँ क्या हैं?",
+    "options": [
+      { "text": "केवल सरकारी अस्पतालों में", "is_correct": false },
+      { "text": "10.74 करोड़ गरीब परिवारों को ₹5 लाख तक का स्वास्थ्य बीमा — public AND private empanelled hospitals में — secondary/tertiary care", "is_correct": true },
+      { "text": "Primary care भी शामिल है PM-JAY में", "is_correct": false },
+      { "text": "PM-JAY — केवल BPL card holders को", "is_correct": false }
+    ],
+    "explanation": "PM-JAY (2018) — World's largest health assurance scheme। Coverage: ₹5 lakh per family per year। Beneficiaries: SECC 2011 data-based — 50 crore individuals। Includes: secondary and tertiary hospitalization (1,929+ procedures)। Cashless treatment। Not covered: OPD, medicines, diagnostics। Implementation: State Health Agency (SHA). Ayushman Bharat Health Account (ABHA ID) — digital health identity। 28.23 crore AB ID cards issued (2023)।"
+  },
+  {
+    "question": "भारत में 'राष्ट्रीय स्वास्थ्य नीति' (National Health Policy) सबसे पहले किस वर्ष आई?",
+    "options": [
+      { "text": "1975", "is_correct": false },
+      { "text": "1983", "is_correct": true },
+      { "text": "2002", "is_correct": false },
+      { "text": "2017", "is_correct": false }
+    ],
+    "explanation": "National Health Policies: (1) NHP 1983 — पहली; लक्ष्य: 2000 तक सबके लिए स्वास्थ्य (Alma Ata Declaration के बाद), (2) NHP 2002 — expanded primary care, IMCI, (3) NHP 2017 — latest; universal health coverage, wellness, health sector regulation। NHP 2017 target: GDP का 2.5% health पर खर्च; CPHC (Comprehensive Primary Health Care); sub-center → HWC; service guarantee approach।"
+  },
+  {
+    "question": "भारत में 'PM-ABHIM' (Pradhan Mantri Ayushman Bharat Health Infrastructure Mission) का क्या उद्देश्य है?",
+    "options": [
+      { "text": "केवल AIIMS बनाना", "is_correct": false },
+      { "text": "स्वास्थ्य अवसंरचना को मजबूत करना — PHCs/CHCs से AIIMS तक — pandemic preparedness, disease surveillance", "is_correct": true },
+      { "text": "PM-ABHIM — केवल urban health", "is_correct": false },
+      { "text": "PM-ABHIM — private sector को subsidy", "is_correct": false }
+    ],
+    "explanation": "PM-ABHIM (2021-22 Budget) — Rs. 64,180 crore over 5 years। Components: (1) HWCs को upgrade (urban and rural), (2) Critical care hospital blocks in districts, (3) Block Public Health Units, (4) Integrated Public Health Labs, (5) Regional NCDs, (6) WHO South-East Asia Regional Research Platform, (7) Integrated Disease Surveillance upgrade, (8) National Centre for Disease Control expansion। COVID-19 pandemic lessons — India's health infrastructure gap को address करना।"
+  },
+  {
+    "question": "भारत में 'अनुसूचित जनजाति' (Scheduled Tribes) के लिए संवैधानिक प्रावधान कहाँ हैं?",
+    "options": [
+      { "text": "केवल अनुच्छेद 46 में", "is_correct": false },
+      { "text": "अनुच्छेद 15, 16, 19, 29, 46, 164, 330, 332, 334, 335, 342 और 5वीं-6वीं अनुसूची", "is_correct": true },
+      { "text": "केवल 5वीं अनुसूची में", "is_correct": false },
+      { "text": "ST प्रावधान — संविधान में अलग भाग में नहीं, बिखरे हैं", "is_correct": false }
+    ],
+    "explanation": "ST के संवैधानिक safeguards: (1) Art. 15 — discrimination prohibition, (2) Art. 16 — employment reservations, (3) Art. 46 (DPSP) — economic/educational promotion, (4) Art. 164 — Tribal Affairs Minister in MP, Odisha, Bihar, (5) 5th Schedule — scheduled areas (most of mainland India), (6) 6th Schedule — tribal areas in NE (Assam, Meghalaya, Tripura, Mizoram). Health implications: PVTG special health schemes, tribal sub-plan health components।"
+  },
+  {
+    "question": "भारत में 'Gram Sabha' और 'Gram Panchayat' में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Gram Sabha — village के सभी मतदाताओं का सभा (general body); Gram Panchayat — elected body जो executive functions करती है", "is_correct": true },
+      { "text": "Gram Sabha — elected body है", "is_correct": false },
+      { "text": "Gram Panchayat — जनता की सभा है", "is_correct": false }
+    ],
+    "explanation": "Gram Sabha (अनुच्छेद 243-A): village के सभी registered voters → deliberative/legislative body। Gram Panchayat — elected executive body। PESA Act: Gram Sabha को Central role in tribal areas — forest rights, mining approvals। Health: VHSNC (Village Health Sanitation and Nutrition Committee) → Gram Sabha के अंतर्गत। Gram Sabha — health schemes की community accountability। Social audit mechanism।"
+  },
+  {
+    "question": "भारत में 'महिला आरक्षण विधेयक' (Nari Shakti Vandan Adhiniyam, 2023) से क्या बदलाव आया?",
+    "options": [
+      { "text": "महिलाओं को 50% आरक्षण मिला", "is_correct": false },
+      { "text": "लोकसभा और राज्य विधानसभाओं में महिलाओं के लिए 33% सीटें आरक्षित — census और delimitation के बाद लागू होगा", "is_correct": true },
+      { "text": "यह अभी तक passed नहीं हुआ है", "is_correct": false },
+      { "text": "राज्यसभा में भी 33% आरक्षण", "is_correct": false }
+    ],
+    "explanation": "128वाँ संविधान संशोधन (2023) — Nari Shakti Vandan Adhiniyam: Lok Sabha और State Vidhan Sabhas में 1/3 (33%) सीटें women के लिए reserved। Implementation: Next Census + Delimitation के बाद (likely 2029+)। Rajya Sabha — not included। Health implications: महिला विधायकों की संख्या बढ़ने से → women's health issues (maternal health, nutrition, domestic violence) को अधिक political priority।"
+  },
+  {
+    "question": "भारत में 'प्रधान मंत्री ग्राम सड़क योजना' (PMGSY) का स्वास्थ्य से क्या संबंध है?",
+    "options": [
+      { "text": "PMGSY का health से कोई संबंध नहीं", "is_correct": false },
+      { "text": "ग्रामीण सड़क connectivity → PHC पहुँच, ambulance access, supply chain — health outcomes में सुधार", "is_correct": true },
+      { "text": "PMGSY — केवल agricultural transport के लिए", "is_correct": false },
+      { "text": "PMGSY — health ministry का program है", "is_correct": false }
+    ],
+    "explanation": "PMGSY (2000) — Ministry of Rural Development। 500+ population villages को all-weather road connectivity। Health significance: (1) PHC/hospital access — obstetric emergencies में जीवन-रक्षक, (2) Ambulance (108/102) rural areas में पहुँच, (3) Drug supply chain to PHCs, (4) ASHA/ANM की mobility, (5) Supply chain for vaccines (cold chain vehicles)। Study: Rural road connectivity → 10-15% reduction in maternal mortality। Intersectoral health determinant।"
+  },
+  {
+    "question": "भारत में 'आंगनवाड़ी कार्यकर्ता' (Anganwadi Worker) किस प्रशासनिक structure के अंतर्गत आती है?",
+    "options": [
+      { "text": "स्वास्थ्य विभाग", "is_correct": false },
+      { "text": "Women and Child Development Department (WCD) — राज्य सरकार के माध्यम से", "is_correct": true },
+      { "text": "पंचायत विभाग", "is_correct": false },
+      { "text": "शिक्षा विभाग", "is_correct": false }
+    ],
+    "explanation": "Anganwadi Worker (AWW) — ICDS scheme under Ministry of WCD। AWW — government appointed, contractual ('honorary worker' status — contested)। Supervised by CDPO (Child Development Project Officer) → DPO → WCD Directorate। Note: AWW, ASHA, ANM — 'triangle of community health workers' — different ministries but convergence at village level। AWW salary — central + state share। POSHAN Tracker app — AWW द्वारा उपयोग।"
+  },
+  {
+    "question": "भारत में 'डिजिटल भारत' (Digital India) कार्यक्रम का स्वास्थ्य क्षेत्र में क्या योगदान है?",
+    "options": [
+      { "text": "Digital India — केवल IT sector के लिए", "is_correct": false },
+      { "text": "Telemedicine, e-Health, eSanjeevani, Aarogya Setu, ABHA, CoWIN — digital health ecosystem का निर्माण", "is_correct": true },
+      { "text": "Digital India और health — असंबंधित", "is_correct": false },
+      { "text": "Digital India — केवल urban health में relevant", "is_correct": false }
+    ],
+    "explanation": "Digital India (2015) Mission — e-Governance pillar में health: (1) eSanjeevani — 10 crore+ teleconsultations (world's largest), (2) Aarogya Setu — COVID contact tracing, (3) CoWIN — vaccine management platform (global model), (4) ABHA (Ayushman Bharat Health Account) — digital health ID, (5) Health Management Information System (HMIS), (6) eRaktKosh — blood bank digitization, (7) Nikshay — TB patient management। PM Digital Health Mission (ABDM) — National Digital Health Ecosystem।"
+  },
+  {
+    "question": "भारत में 'राष्ट्रीय स्वास्थ्य मिशन' (NHM) के दो उपमिशन कौन-से हैं?",
+    "options": [
+      { "text": "Rural Health Mission और Urban Health Mission", "is_correct": false },
+      { "text": "NRHM (National Rural Health Mission) और NUHM (National Urban Health Mission)", "is_correct": true },
+      { "text": "Primary और Secondary Health Mission", "is_correct": false },
+      { "text": "Maternal Health और Child Health Mission", "is_correct": false }
+    ],
+    "explanation": "NHM (National Health Mission, 2013): (1) NRHM (National Rural Health Mission, 2005) — ग्रामीण क्षेत्रों में comprehensive primary healthcare, (2) NUHM (National Urban Health Mission, 2013) — 1 lakh population शहरों में। NHM = NRHM + NUHM। Key components: ASHA (NRHM), MMU (Mobile Medical Units), JSSK, JSY, NRC, SNCU, IDSPs। NHM funding: Centre:State = 60:40 (North-Eastern states 90:10)।"
+  },
+  {
+    "question": "भारत में 'प्रत्यायोजित विधान' (Delegated Legislation) क्या है और यह health regulations में कैसे प्रयुक्त होता है?",
+    "options": [
+      { "text": "संसद का सभी कार्य प्रत्यायोजित विधान है", "is_correct": false },
+      { "text": "संसद executive को rule/regulation बनाने की शक्ति प्रदान करती है — drug pricing orders, epidemic regulations, food safety standards इसी से बनते हैं", "is_correct": true },
+      { "text": "Delegated Legislation — unconstitutional है", "is_correct": false },
+      { "text": "Health sector में delegated legislation का उपयोग नहीं होता", "is_correct": false }
+    ],
+    "explanation": "Delegated/Subordinate Legislation: जब Parliament एक Act पारित करती है और executive को detailed rules बनाने की शक्ति देती है। उदाहरण: (1) Drugs & Cosmetics Act → Rules made by Ministry of Health, (2) Food Safety and Standards Act → FSSAI Regulations, (3) Epidemic Diseases Act → State govt directives, (4) PCPNDT Act → Rules on implementation। Parliament का oversight — Committees on Subordinate Legislation। Health में: essential drugs list, drug pricing control (NPPA orders) — all delegated legislation।"
+  },
+  {
+    "question": "भारत में 'PESA Act 1996' (Panchayats Extension to Scheduled Areas) का मुख्य प्रावधान क्या है?",
+    "options": [
+      { "text": "PESA — SC communities के लिए है", "is_correct": false },
+      { "text": "5वीं अनुसूची के आदिवासी क्षेत्रों में Gram Sabha को विशेष शक्तियाँ — minor forest produce, land, local disputes", "is_correct": true },
+      { "text": "PESA — 6वीं अनुसूची क्षेत्रों के लिए है", "is_correct": false },
+      { "text": "PESA — शहरी tribal areas के लिए", "is_correct": false }
+    ],
+    "explanation": "PESA 1996 — 5वीं अनुसूची क्षेत्रों में 73वें संशोधन का extension। Gram Sabha को powers: (1) Minor forest produce, (2) Land alienation control, (3) Money lending regulation, (4) Village markets, (5) Customary laws and disputes। Health significance: (1) Gram Sabha approves health camps in tribal areas, (2) Traditional healing practices — Gram Sabha recognition, (3) Mining/infrastructure that affects tribal health — FPIC (Free Prior Informed Consent) requirement। Community health governance।"
+  },
+  {
+    "question": "भारत में 'राष्ट्रीय खाद्य सुरक्षा अधिनियम 2013' (NFSA) का स्वास्थ्य पर क्या प्रभाव है?",
+    "options": [
+      { "text": "NFSA — केवल poverty reduction के लिए", "is_correct": false },
+      { "text": "75% ग्रामीण और 50% शहरी आबादी को subsidised अनाज → food security → nutrition → child health improvement", "is_correct": true },
+      { "text": "NFSA — BPL परिवारों तक सीमित", "is_correct": false },
+      { "text": "NFSA — health department का कार्यक्रम है", "is_correct": false }
+    ],
+    "explanation": "NFSA 2013 — 'Right to Food': (1) Priority Households — 5 kg/person/month (₹1-3/kg), (2) Antyodaya — 35 kg/family. Coverage: 75% rural, 50% urban. Maternity Benefit: ₹6000 (PMMVY), Mid-Day Meal (school), ICDS nutrition. Health implications: (1) Calorie security → reduced stunting/wasting, (2) Anemia reduction in pregnant women, (3) PDS grain → household nutrition → reduced IMR. State-level implementation — Public Distribution System (PDS). Supreme Court role — 'Right to Food' PIL।"
+  },
+  {
+    "question": "'मनरेगा' (MGNREGS) का स्वास्थ्य क्षेत्र पर क्या अप्रत्यक्ष प्रभाव है?",
+    "options": [
+      { "text": "MGNREGS — health से completely unrelated", "is_correct": false },
+      { "text": "Guaranteed 100 days employment → rural income → health expenditure capacity; water conservation works → malaria prevention; reduced distress migration", "is_correct": true },
+      { "text": "MGNREGS — केवल roads बनाता है", "is_correct": false },
+      { "text": "MGNREGS — health workers को employ करता है", "is_correct": false }
+    ],
+    "explanation": "MGNREGS (Mahatma Gandhi National Rural Employment Guarantee Scheme, 2005) — 100 days guaranteed wage employment। Health co-benefits: (1) Income → food security → nutrition, (2) Water conservation works (ponds, check dams) → malaria prevention (stagnant water reduction), (3) Soil conservation → food crop → nutrition, (4) Women's empowerment (30% reservation) → decision-making including health, (5) Reduced distress migration → family stability → mental health, (6) Less child labor → school attendance → health awareness।"
+  },
+  {
+    "question": "भारत में 'अनुच्छेद 47' (DPSP) का स्वास्थ्य और पोषण से क्या सीधा संबंध है?",
+    "options": [
+      { "text": "अनुच्छेद 47 केवल alcohol से संबंधित है", "is_correct": false },
+      { "text": "राज्य को पोषण स्तर और जीवन स्तर ऊँचा उठाने और public health सुधारने का कर्तव्य — मादक पदार्थों का निषेध भी", "is_correct": true },
+      { "text": "अनुच्छेद 47 — केवल Directive है, state का कोई duty नहीं", "is_correct": false },
+      { "text": "अनुच्छेद 47 — Right to Food का Fundamental Right है", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 47 (DPSP) — 'राज्य, अपने लोगों के पोषण स्तर और जीवन स्तर को ऊँचा करने और लोक स्वास्थ्य के सुधार को अपने प्राथमिक कर्तव्यों में मानेगा और राज्य मादक पेय और स्वास्थ्य के लिए हानिकारक औषधियों के, औषधीय प्रयोजनों के सिवाय, उपभोग का प्रतिषेध करने का प्रयास करेगा।' DPSP होने के कारण non-justiciable — पर public health laws का constitutional basis।"
+  },
+  {
+    "question": "भारत में 'केंद्रीय सतर्कता आयोग' (Central Vigilance Commission — CVC) की क्या भूमिका है?",
+    "options": [
+      { "text": "CVC — केवल election oversight", "is_correct": false },
+      { "text": "केंद्र सरकार के कर्मचारियों में भ्रष्टाचार की जाँच और रोकथाम — health bureaucracy में vigilance", "is_correct": true },
+      { "text": "CVC — state government officials को cover करता है", "is_correct": false },
+      { "text": "CVC — केवल financial irregularities देखता है", "is_correct": false }
+    ],
+    "explanation": "CVC (1964, statutory 2003) — Prevention of Corruption Act। Independent institution। Powers: (1) Central government employees में corruption जाँच, (2) CBI को superintendence in corruption cases, (3) Annual report — Parliament को। Health में: (1) Drug procurement corruption in Central Medical Stores, (2) CGHS fraud, (3) Medical college recognition corruption। State-level: Lokayukta। Health sector anti-corruption → better service delivery।"
+  },
+  {
+    "question": "भारत में 'ASHA' (Accredited Social Health Activist) की नियुक्ति और accountability किसके प्रति होती है?",
+    "options": [
+      { "text": "केंद्र सरकार के प्रति सीधे", "is_correct": false },
+      { "text": "Gram Panchayat और Community — community-based selection और Gram Sabha accountability; ANM supervisory oversight", "is_correct": true },
+      { "text": "केवल ANM के प्रति", "is_correct": false },
+      { "text": "जिला CMO के प्रति सीधे", "is_correct": false }
+    ],
+    "explanation": "ASHA — NRHM 2005, selected by Gram Sabha। Accountability structure: (1) Community — Gram Sabha selection, VHSNCs (Village Health, Sanitation & Nutrition Committees), (2) ANM — supervisory oversight (ASHA को ANM train करती है, verify करती है), (3) PHC Medical Officer — task verification, (4) Block Health Manager — performance tracking। Contractual status (not government employee) — incentive-based। ASHA as bridge between community and health system।"
+  },
+  {
+    "question": "भारत में 'राष्ट्रीय बाल अधिकार संरक्षण आयोग' (NCPCR) का स्वास्थ्य से क्या संबंध है?",
+    "options": [
+      { "text": "NCPCR — केवल education rights monitor करता है", "is_correct": false },
+      { "text": "Children's health rights — malnutrition, vaccination, medical neglect, child marriage के health impact — NCPCR jurisdiction में", "is_correct": true },
+      { "text": "NCPCR — केवल child labor देखता है", "is_correct": false },
+      { "text": "NCPCR — केवल judicial body है", "is_correct": false }
+    ],
+    "explanation": "NCPCR (National Commission for Protection of Child Rights) — Commissions for Protection of Child Rights Act 2005। Health mandate: (1) Child malnutrition — NRC (Nutrition Rehabilitation Centers) monitoring, (2) Vaccination rights, (3) Medical neglect in institutions, (4) Child marriage → health consequences (teenage pregnancy), (5) Children with disabilities — healthcare rights। POSCO (child sexual abuse) health consequences। NCPCR → State CPC Rs → District child protection units।"
+  },
+  {
+    "question": "भारत में 'Health and Wellness Centres' (HWCs) का क्या महत्व है?",
+    "options": [
+      { "text": "HWCs — केवल yoga centers हैं", "is_correct": false },
+      { "text": "Sub-Centres और PHCs को upgrade करके Comprehensive Primary Health Care — 12 service packages — AB-HWC scheme", "is_correct": true },
+      { "text": "HWCs — केवल urban areas में", "is_correct": false },
+      { "text": "HWCs — 2024 में बंद हो गए", "is_correct": false }
+    ],
+    "explanation": "HWCs (2018, NHP 2017 based) — Ayushman Bharat। 1,50,000 SC + PHC → upgrade। 12 CPHC packages: (1) Pregnancy & newborn care, (2) Child health, (3) Adolescent health, (4) Family planning, (5) Communicable diseases (TB, malaria, dengue, leprosy), (6) NCDs (diabetes, hypertension, 3 common cancers), (7) Mental health, (8) Eye care, (9) ENT, (10) Oral health, (11) Geriatric care, (12) Palliative care। Community Health Officer (CHO) — mid-level health provider। Wellness promotion, yoga।"
+  },
+  {
+    "question": "भारत में 'PCPNDT अधिनियम 1994' (Pre-Conception and Pre-Natal Diagnostic Techniques Act) का उद्देश्य क्या है?",
+    "options": [
+      { "text": "Prenatal diagnosis को बढ़ावा देना", "is_correct": false },
+      { "text": "Sex-selective abortion रोकना — कन्या भ्रूण हत्या के विरुद्ध — ultrasound के दुरुपयोग पर प्रतिबंध", "is_correct": true },
+      { "text": "PCPNDT — disability detection के लिए", "is_correct": false },
+      { "text": "PCPNDT — 2005 में पारित हुआ", "is_correct": false }
+    ],
+    "explanation": "PC-PNDT Act 1994 (amended 2003) — Pre-conception + pre-natal diagnostic techniques। Prohibited: sex determination, sex selection। Required: registration of ultrasound machines, PC-PNDT committees (district, state, national). 'Beti Bachao Beti Padhao' (2015) — administrative complement। Violations: imprisonment up to 3 years + fine। Sex ratio at birth (SRB) — India में skewed (934 girls/1000 boys, NFHS-5). States with poor SRB: Haryana, Rajasthan, UP।"
+  },
+  {
+    "question": "भारत में 'Mental Healthcare Act 2017' का मुख्य परिवर्तन क्या है?",
+    "options": [
+      { "text": "Mental Health Act 1987 को stronger बनाया", "is_correct": false },
+      { "text": "Mental illness को 'Right to Healthcare' दिया — stigma कम, community care focus, suicide attempt decriminalized, advance directive", "is_correct": true },
+      { "text": "केवल psychiatric hospitals को regulate किया", "is_correct": false },
+      { "text": "MHCA 2017 — IPC Section 309 को repeal किया", "is_correct": false }
+    ],
+    "explanation": "Mental Healthcare Act 2017 (replaced 1987 Act): Key changes: (1) Right to mental healthcare as legal right, (2) Suicide attempt — no criminal prosecution (IPC 309 effectively decriminalized by this Act), (3) Advance Directive — patient का prior instruction, (4) Nominated Representative, (5) Community mental health focus, (6) NMHC (National Mental Health Commission), (7) State Mental Health Authority। CRPD (Convention on Rights of Persons with Disabilities) aligned।"
+  },
+  {
+    "question": "भारत में 'Public Health Foundation of India' (PHFI) क्या है?",
+    "options": [
+      { "text": "सरकारी स्वास्थ्य विभाग", "is_correct": false },
+      { "text": "Public-Private Partnership — public health capacity building, policy research और professional education के लिए", "is_correct": true },
+      { "text": "WHO का India Chapter", "is_correct": false },
+      { "text": "NGO जो केवल funding देती है", "is_correct": false }
+    ],
+    "explanation": "PHFI (2006) — PPP initiative under Ministry of Health. Mandate: (1) Public health professional education (Indian Institutes of Public Health — IIPHs), (2) Policy-relevant research (disease burden, health systems), (3) Advocacy and capacity building। IIPHs: Gandhinagar, Bhubaneswar, Shillong, Delhi, Hyderabad। Collaborations: Harvard, LSHTM, WHO। India State-Level Disease Burden Initiative — PHFI partnership। Health Education Officers — PHFI training programs।"
+  },
+  {
+    "question": "भारत में 'राज्य पुनर्गठन आयोग' (States Reorganisation Commission, 1953) का क्या कार्य था?",
+    "options": [
+      { "text": "केंद्र-राज्य वित्त का निर्धारण", "is_correct": false },
+      { "text": "भाषाई आधार पर राज्यों की सीमाओं का पुनर्निर्धारण — 1956 में States Reorganisation Act", "is_correct": true },
+      { "text": "Electoral boundaries निर्धारित करना", "is_correct": false },
+      { "text": "Tribal areas की पहचान करना", "is_correct": false }
+    ],
+    "explanation": "States Reorganisation Commission (Fazl Ali Commission, 1953-55): Chairman — Justice Fazl Ali। Recommended: linguistic reorganization of states। SRact 1956 — 14 states, 6 UTs। Language = primary criterion। Subsequent: Maharashtra (1960), Gujarat (1960), Punjab (1966), Northeast (1971-72+), Jharkhand/Uttarakhand/Chhattisgarh (2000), Telangana (2014)। Health implications: state formation → own health departments, separate health budgets, language-appropriate health communication।"
+  },
+  {
+    "question": "भारत में 'IPC Section 269 और 270' का सार्वजनिक स्वास्थ्य से क्या संबंध है?",
+    "options": [
+      { "text": "ये sections education से related हैं", "is_correct": false },
+      { "text": "Negligently/maliciously spreading infectious disease — public health protection के लिए — COVID में लागू", "is_correct": true },
+      { "text": "IPC में public health provisions नहीं हैं", "is_correct": false },
+      { "text": "ये sections drug laws से related हैं", "is_correct": false }
+    ],
+    "explanation": "IPC Sections 269-271 — Public Health offences: Section 269 — negligent act likely to spread infection of dangerous disease। Section 270 — malignant act likely to spread dangerous disease। Section 271 — disobedience of quarantine rule। COVID-19 में: Section 269 का उपयोग quarantine violators के विरुद्ध। Epidemic Diseases Act 1897 + DM Act 2005 + IPC 269/270 — pandemic management legal framework। BNS (Bharatiya Nyaya Sanhita, 2023) में corresponding provisions।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य शिक्षा अधिकारी' (Health Education Officer — HEO) की प्रमुख भूमिका क्या है?",
+    "options": [
+      { "text": "HEO — केवल IEC materials distribute करता है", "is_correct": false },
+      { "text": "Community health education planning, BCC strategy, IEC material development, training of health workers, monitoring health behaviour change — comprehensive role", "is_correct": true },
+      { "text": "HEO — clinical care देता है", "is_correct": false },
+      { "text": "HEO — केवल rural areas में काम करता है", "is_correct": false }
+    ],
+    "explanation": "HEO — State Health Services cadre। Core functions: (1) Health education planning at district/block level, (2) BCC (Behaviour Change Communication) strategy, (3) IEC material development and distribution, (4) Training of ASHAs, ANMs, AWWs on health education skills, (5) School health programs, (6) Media coordination for health campaigns, (7) Coordination with NGOs and CBOs, (8) Monitoring health-seeking behavior indicators। ASHA Sahyogini, health melas, nukkad natak — HEO coordinates। Linkage with CMO office।"
+  },
+  {
+    "question": "भारत में 'National Health Account' (NHA) क्या measure करता है?",
+    "options": [
+      { "text": "केवल government health spending", "is_correct": false },
+      { "text": "देश में health पर कुल व्यय — सरकारी, निजी, out-of-pocket, insurance — WHO-SHA 2011 framework में", "is_correct": true },
+      { "text": "NHA — hospital revenues का account", "is_correct": false },
+      { "text": "NHA — World Bank द्वारा तैयार किया जाता है", "is_correct": false }
+    ],
+    "explanation": "National Health Accounts (NHA) — Ministry of Health। WHO System of Health Accounts (SHA) 2011 framework। Measures: (1) Total Health Expenditure (THE), (2) Government Health Expenditure (GHE), (3) Out-of-Pocket Expenditure (OOPE), (4) Prepaid/Pooled funds (insurance), (5) External assistance। India NHA 2019-20: THE = ₹8,28,906 crore (4.1% of GDP); GHE = 1.35% of GDP; OOPE = 48.2% of THE (declining trend). OOPE — catastrophic health expenditure का indicator।"
+  },
+  {
+    "question": "भारतीय संविधान का 'अनुच्छेद 243G' किससे संबंधित है?",
+    "options": [
+      { "text": "नगरपालिकाओं की शक्तियाँ", "is_correct": false },
+      { "text": "ग्राम पंचायत की शक्तियाँ, प्राधिकार और उत्तरदायित्व — 11वीं अनुसूची के अंतर्गत स्वास्थ्य सहित 29 कार्य", "is_correct": true },
+      { "text": "राज्यपाल की शक्तियाँ", "is_correct": false },
+      { "text": "संसद की वित्तीय शक्तियाँ", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 243G — Gram Panchayats को शक्तियाँ और अधिकार: राज्य विधानमंडल कानून बनाकर 11वीं अनुसूची के 29 विषयों पर Gram Panchayat को जिम्मेदारी दे सकती है। 11वीं अनुसूची में स्वास्थ्य-संबंधी कार्य: (1) स्वास्थ्य और स्वच्छता (Entry 23), (2) परिवार कल्याण (Entry 25), (3) पेयजल (Entry 11), (4) सार्वजनिक वितरण प्रणाली (Entry 28)। Gram Panchayat — PHC oversight, ASHA supervision, VHSNC coordination में केंद्रीय भूमिका।"
+  },
+  {
+    "question": "भारत में 'ASHA' का पूरा नाम क्या है?",
+    "options": [
+      { "text": "Accredited Social Health Assistant", "is_correct": false },
+      { "text": "Accredited Social Health Activist", "is_correct": true },
+      { "text": "Authorised State Health Activist", "is_correct": false },
+      { "text": "Accredited State Health Associate", "is_correct": false }
+    ],
+    "explanation": "ASHA — Accredited Social Health Activist। NRHM (National Rural Health Mission) 2005 के अंतर्गत शुरू की गई। प्रमुख तथ्य: (1) प्रत्येक गाँव में (1000 जनसंख्या पर) एक ASHA, (2) उसी गाँव की महिला — कम से कम 8वीं पास, (3) Gram Sabha द्वारा चुनी जाती है, (4) Incentive-based payment — सरकारी कर्मचारी नहीं, (5) Community और health system के बीच 'कड़ी' (link worker)। ASHA के कार्य: JSY, टीकाकरण, ORS वितरण, TB-DOTS निगरानी।"
+  },
+  {
+    "question": "'जननी सुरक्षा योजना' (JSY) किस मंत्रालय द्वारा लागू की जाती है?",
+    "options": [
+      { "text": "महिला एवं बाल विकास मंत्रालय", "is_correct": false },
+      { "text": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय (Ministry of Health and Family Welfare)", "is_correct": true },
+      { "text": "ग्रामीण विकास मंत्रालय", "is_correct": false },
+      { "text": "वित्त मंत्रालय", "is_correct": false }
+    ],
+    "explanation": "जननी सुरक्षा योजना (JSY) — Ministry of Health and Family Welfare। NRHM 2005 के अंतर्गत। उद्देश्य: संस्थागत प्रसव (institutional delivery) को बढ़ावा देना और मातृ एवं नवजात मृत्यु दर कम करना। लाभ: (1) BPL गर्भवती महिलाओं को नकद प्रोत्साहन — ग्रामीण क्षेत्र Rs. 1400, शहरी Rs. 1000 (LPS states में), (2) ASHA को भी प्रोत्साहन राशि। LPS (Low Performing States): UP, Bihar, Rajasthan, MP, Jharkhand, Odisha, J&K, Uttarakhand, Chhattisgarh, Assam। JSY — world's largest conditional cash transfer scheme।"
+  },
+  {
+    "question": "भारत में 'राष्ट्रीय ग्रामीण स्वास्थ्य मिशन' (NRHM) किस वर्ष शुरू हुआ?",
+    "options": [
+      { "text": "2000", "is_correct": false },
+      { "text": "2005", "is_correct": true },
+      { "text": "2007", "is_correct": false },
+      { "text": "2010", "is_correct": false }
+    ],
+    "explanation": "NRHM (National Rural Health Mission) — 5 अप्रैल 2005 को प्रधानमंत्री Dr. Manmohan Singh द्वारा लॉन्च। मुख्य उद्देश्य: 2005-2012 तक ग्रामीण भारत की स्वास्थ्य व्यवस्था को मजबूत करना। NRHM के स्तंभ: (1) ASHA — community health worker, (2) Rogi Kalyan Samiti — hospital management committees, (3) VHSNC — village health committees, (4) Untied funds to PHCs/sub-centres, (5) IPHS (Indian Public Health Standards)। 2013 में NRHM → NHM (National Health Mission) के NRHM component में बदला।"
+  },
+  {
+    "question": "भारत में 'राष्ट्रीय महिला आयोग' (National Commission for Women — NCW) की स्थापना किस वर्ष हुई?",
+    "options": [
+      { "text": "1985", "is_correct": false },
+      { "text": "1992", "is_correct": true },
+      { "text": "1995", "is_correct": false },
+      { "text": "2000", "is_correct": false }
+    ],
+    "explanation": "NCW (National Commission for Women) — National Commission for Women Act 1990 के तहत 31 जनवरी 1992 को स्थापित। कार्य: (1) महिलाओं के संवैधानिक और कानूनी अधिकारों की सुरक्षा, (2) सरकार को सिफारिशें, (3) महिलाओं से संबंधित शिकायतों का निपटान, (4) कानूनी समीक्षा। स्वास्थ्य में NCW की भूमिका: (1) मातृ स्वास्थ्य अधिकार, (2) Domestic violence — health impact, (3) Workplace harassment complaints, (4) Women's reproductive rights। Chairperson — केंद्र सरकार द्वारा नियुक्त।"
+  },
+  {
+    "question": "भारत में 'बाल श्रम (प्रतिषेध और विनियमन) अधिनियम' (Child Labour Act) का शिक्षा और स्वास्थ्य से क्या संबंध है?",
+    "options": [
+      { "text": "Child Labour Act — केवल कारखानों से संबंधित है", "is_correct": false },
+      { "text": "बाल श्रम प्रतिबंध → बच्चों की शिक्षा, स्वास्थ्य और सुरक्षा सुनिश्चित — स्वास्थ्य जोखिमों से बचाव", "is_correct": true },
+      { "text": "14 वर्ष से कम आयु के बच्चों को सभी कार्य में छूट है", "is_correct": false },
+      { "text": "Child Labour — केवल असंगठित क्षेत्र में प्रतिबंधित", "is_correct": false }
+    ],
+    "explanation": "Child Labour (Prohibition and Regulation) Act 1986, 2016 में संशोधित। 14 वर्ष से कम — सभी व्यवसायों में काम प्रतिबंधित (RTE Act के साथ alignment)। 14-18 वर्ष — hazardous occupations में प्रतिबंधित। स्वास्थ्य संबंध: (1) बाल श्रम → physical hazards (injuries, toxic exposure), (2) मानसिक स्वास्थ्य पर असर, (3) स्कूल छूटना → health literacy कम, (4) पोषण की कमी। Constitutional basis: अनुच्छेद 24 — 14 वर्ष से कम बच्चों को खतरनाक कार्य में नियोजन का निषेध।"
+  },
+  {
+    "question": "भारत में 'भारतीय खाद्य सुरक्षा और मानक प्राधिकरण' (FSSAI) किस मंत्रालय के अंतर्गत है?",
+    "options": [
+      { "text": "कृषि मंत्रालय", "is_correct": false },
+      { "text": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय (Ministry of Health and Family Welfare)", "is_correct": true },
+      { "text": "उपभोक्ता मामले मंत्रालय", "is_correct": false },
+      { "text": "वाणिज्य मंत्रालय", "is_correct": false }
+    ],
+    "explanation": "FSSAI (Food Safety and Standards Authority of India) — Food Safety and Standards Act 2006 के तहत गठित। Ministry of Health and Family Welfare के अंतर्गत। स्थापना: 2008। कार्य: (1) खाद्य सुरक्षा मानकों (Food Safety Standards) का निर्धारण, (2) खाद्य व्यवसायों का लाइसेंसिंग और पंजीकरण, (3) वैज्ञानिक सलाह और तकनीकी सहायता, (4) प्रवर्तन और निगरानी। 'Eat Right India' — FSSAI का जन-जागरूकता अभियान। खाद्य सुरक्षा → सार्वजनिक स्वास्थ्य की नींव।"
+  },
+  {
+    "question": "भारत में 'राष्ट्रीय एड्स नियंत्रण संगठन' (NACO) किस मंत्रालय के अंतर्गत काम करता है?",
+    "options": [
+      { "text": "सामाजिक न्याय मंत्रालय", "is_correct": false },
+      { "text": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय (Ministry of Health and Family Welfare)", "is_correct": true },
+      { "text": "गृह मंत्रालय", "is_correct": false },
+      { "text": "विदेश मंत्रालय", "is_correct": false }
+    ],
+    "explanation": "NACO (National AIDS Control Organisation) — Ministry of Health and Family Welfare के अंतर्गत। स्थापना: 1992। कार्य: (1) राष्ट्रीय AIDS नियंत्रण कार्यक्रम (NACP) का नेतृत्व, (2) HIV/AIDS की रोकथाम, नियंत्रण और उपचार नीति, (3) Blood safety, (4) ICTC (Integrated Counselling and Testing Centres), (5) ART (Antiretroviral Therapy) centres। NACP — चार चरणों में (NACP I से IV)। State AIDS Control Societies (SACS) — राज्य स्तर पर। India में HIV prevalence — 0.22% (NFHS-5)।"
+  },
+  {
+    "question": "भारत में 'मध्याह्न भोजन योजना' (Mid-Day Meal Scheme) का संवैधानिक और कानूनी आधार क्या है?",
+    "options": [
+      { "text": "यह केवल एक कार्यकारी आदेश है — कोई कानूनी आधार नहीं", "is_correct": false },
+      { "text": "अनुच्छेद 21A (शिक्षा का अधिकार) + Supreme Court आदेश (2001) + National Food Security Act 2013", "is_correct": true },
+      { "text": "केवल NFSA 2013 से संचालित", "is_correct": false },
+      { "text": "Mid-Day Meal — RTE Act 2009 में शामिल नहीं है", "is_correct": false }
+    ],
+    "explanation": "Mid-Day Meal Scheme (MDMS) — अब 'PM POSHAN' (2021)। कानूनी आधार: (1) People's Union for Civil Liberties v. Union of India (2001) — Supreme Court ने cooked meal देने का आदेश दिया, (2) National Food Security Act 2013 — धारा 5: 6-14 वर्ष के सभी स्कूली बच्चों को MDM का अधिकार, (3) RTE Act 2009 के साथ alignment। स्वास्थ्य लाभ: (1) पोषण सुधार, (2) School attendance बढ़ना, (3) Anemia में कमी, (4) Cognitive development। Ministry of Education (पूर्व: HRD Ministry) द्वारा।"
+  },
+  {
+    "question": "भारत में 'पर्यावरण संरक्षण अधिनियम 1986' (Environment Protection Act) का सार्वजनिक स्वास्थ्य से क्या संबंध है?",
+    "options": [
+      { "text": "EPA 1986 — केवल वनों की सुरक्षा के लिए है", "is_correct": false },
+      { "text": "पर्यावरण प्रदूषण नियंत्रण → air/water/soil quality → श्वसन, जल-जनित और त्वचा रोगों की रोकथाम", "is_correct": true },
+      { "text": "EPA 1986 — health के साथ असंबंधित", "is_correct": false },
+      { "text": "EPA 1986 — केवल industrial areas पर लागू", "is_correct": false }
+    ],
+    "explanation": "Environment Protection Act 1986 — Bhopal Gas Tragedy (1984) के बाद। 'Umbrella legislation' — पर्यावरण संरक्षण के लिए। स्वास्थ्य संबंध: (1) वायु प्रदूषण मानक (air quality standards) → ARI, COPD, lung cancer रोकथाम, (2) जल प्रदूषण नियंत्रण → waterborne diseases रोकथाम, (3) Hazardous waste management → toxic exposure रोकथाम, (4) Noise pollution — hearing impairment। अनुच्छेद 48A (DPSP) — पर्यावरण संरक्षण। अनुच्छेद 51A(g) — नागरिकों का मूल कर्तव्य। EPA 1986 — Environment-Health nexus का कानूनी ढाँचा।"
+  },
+  {
+    "question": "भारतीय संविधान का 'अनुच्छेद 51A(g)' किस मूल कर्तव्य से संबंधित है?",
+    "options": [
+      { "text": "वैज्ञानिक दृष्टिकोण विकसित करना", "is_correct": false },
+      { "text": "प्राकृतिक पर्यावरण की रक्षा और सुधार तथा जीव-जंतुओं के प्रति दया — जो स्वास्थ्य से सीधे जुड़ा है", "is_correct": true },
+      { "text": "राष्ट्रीय एकता की रक्षा करना", "is_correct": false },
+      { "text": "बच्चों को शिक्षा देना", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 51A(g) — मूल कर्तव्य: 'प्रत्येक नागरिक का यह कर्तव्य होगा कि वह वनों, झीलों, नदियों और वन्य जीवन सहित प्राकृतिक पर्यावरण की रक्षा करे और उसका संवर्धन करे तथा प्राणिमात्र के प्रति दया भाव रखे।' स्वास्थ्य संबंध: (1) स्वच्छ पर्यावरण → respiratory health, (2) वन संरक्षण → medicinal plants, (3) जल स्रोत संरक्षण → safe drinking water। 42वाँ संशोधन 1976 द्वारा जोड़ा गया। अनुच्छेद 48A (DPSP) से जोड़े देखें: State + citizen दोनों का कर्तव्य।"
+  },
+  {
+    "question": "भारत में 'प्रधानमंत्री मातृ वंदना योजना' (PMMVY) के तहत क्या प्रावधान है?",
+    "options": [
+      { "text": "गर्भवती महिलाओं को ₹1000 की एकमुश्त राशि", "is_correct": false },
+      { "text": "पहले जीवित बच्चे के लिए गर्भवती और स्तनपान कराने वाली महिलाओं को ₹5000 की नकद सहायता तीन किस्तों में", "is_correct": true },
+      { "text": "PMMVY — सभी बच्चों के लिए (पहले, दूसरे, तीसरे)", "is_correct": false },
+      { "text": "PMMVY — Ministry of Health का कार्यक्रम है", "is_correct": false }
+    ],
+    "explanation": "PMMVY (Pradhan Mantri Matru Vandana Yojana) — 2017 में शुरू। Ministry of Women and Child Development। NFSA 2013 की धारा 4 के अंतर्गत। लाभ: ₹5000 तीन किस्तों में — (1) गर्भावस्था पंजीकरण पर ₹1000, (2) एक ANC (Ante-Natal Check-up) के बाद ₹2000, (3) बच्चे के जन्म पंजीकरण और पहले टीकाकरण के बाद ₹2000। पात्रता: 19 वर्ष या अधिक आयु की महिला, पहले जीवित बच्चे के लिए। JSY लाभार्थियों को शेष राशि PMMVY से मिलती है। उद्देश्य: wage loss compensation।"
+  },
+  {
+    "question": "भारत में 'वित्त आयोग' (Finance Commission) का संवैधानिक आधार कौन-सा अनुच्छेद है?",
+    "options": [
+      { "text": "अनुच्छेद 263", "is_correct": false },
+      { "text": "अनुच्छेद 280", "is_correct": true },
+      { "text": "अनुच्छेद 312", "is_correct": false },
+      { "text": "अनुच्छेद 324", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 280 — Finance Commission (वित्त आयोग): राष्ट्रपति हर 5 वर्ष (या आवश्यकता पड़ने पर) वित्त आयोग गठित करते हैं। संरचना: अध्यक्ष + 4 सदस्य (न्यायिक, प्रशासनिक, अर्थ-विशेषज्ञ)। कार्य: (1) केंद्र-राज्य करों का वितरण (Vertical + Horizontal Devolution), (2) Grants-in-Aid की सिफारिश। 16वाँ Finance Commission (2026-31) गठित। स्वास्थ्य संबंध: FC की अनुशंसाएँ राज्यों के स्वास्थ्य बजट को प्रत्यक्षतः प्रभावित करती हैं — 15वें FC ने health sector grants विशेष रूप से दिए।"
+  },
+  {
+    "question": "भारत में 'राज्य सूची' (State List) की किस प्रविष्टि (Entry) में 'जनस्वास्थ्य और स्वच्छता' शामिल है?",
+    "options": [
+      { "text": "प्रविष्टि 1", "is_correct": false },
+      { "text": "प्रविष्टि 6", "is_correct": true },
+      { "text": "प्रविष्टि 26", "is_correct": false },
+      { "text": "प्रविष्टि 47", "is_correct": false }
+    ],
+    "explanation": "7वीं अनुसूची — राज्य सूची (State List) प्रविष्टि 6: 'Public health and sanitation; hospitals and dispensaries.' इसी कारण राज्य सरकारें सार्वजनिक स्वास्थ्य की मुख्य जिम्मेदारी निभाती हैं। अन्य स्वास्थ्य-संबंधी प्रविष्टियाँ: (1) Entry 26 — trade and commerce (drugs और pharmaceuticals), (2) Concurrent List Entry 27 — production, supply and distribution of products (medicines)। Union List Entry 28 — 'Port quarantine; seamen's and marine hospitals.' केंद्र-राज्य दोनों की health में भूमिका — Cooperative federalism।"
+  },
+  {
+    "question": "भारत में 'एकीकृत बाल विकास सेवाएँ' (ICDS) की शुरुआत किस वर्ष हुई?",
+    "options": [
+      { "text": "1969", "is_correct": false },
+      { "text": "1975", "is_correct": true },
+      { "text": "1980", "is_correct": false },
+      { "text": "1985", "is_correct": false }
+    ],
+    "explanation": "ICDS (Integrated Child Development Services) — 2 अक्टूबर 1975 को शुरू (Gandhi Jayanti के दिन)। Ministry of Women and Child Development। विश्व का सबसे बड़ा early childhood care and development कार्यक्रम। लक्ष्य: 0-6 वर्ष के बच्चे, गर्भवती महिलाएँ और स्तनपान कराने वाली माताएँ। 6 सेवाएँ Anganwadi Centre (AWC) से: (1) पूरक पोषण, (2) टीकाकरण, (3) स्वास्थ्य जाँच, (4) रेफरल सेवाएँ, (5) स्वास्थ्य और पोषण शिक्षा, (6) प्री-स्कूल शिक्षा। AWC — 'one-stop center' for early childhood।"
+  },
+  {
+    "question": "भारत में 'अनुच्छेद 39' (DPSP) का स्वास्थ्य और स्वास्थ्य कर्मियों से क्या संबंध है?",
+    "options": [
+      { "text": "अनुच्छेद 39 — केवल भूमि सुधार से संबंधित है", "is_correct": false },
+      { "text": "समान कार्य के लिए समान वेतन — ASHA, आंगनवाड़ी कार्यकर्ताओं की समान पारिश्रमिक की माँग का संवैधानिक आधार", "is_correct": true },
+      { "text": "अनुच्छेद 39 — केवल पुरुष श्रमिकों के लिए है", "is_correct": false },
+      { "text": "अनुच्छेद 39 — Fundamental Right है", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 39 (DPSP) — राज्य नीति: (d) 'पुरुष और स्त्री दोनों के लिए समान कार्य के लिए समान वेतन'। स्वास्थ्य कर्मियों से संबंध: (1) ASHA workers — predominantly women, incentive-based (not regular salary) → Equal Pay demand का संवैधानिक आधार, (2) ANM vs male health worker समान कार्य में समान वेतन, (3) AWW (Anganwadi Workers) — Hon'ble Supreme Court में ASHA/AWW के 'worker' status के मामले — अनुच्छेद 39(d) cited। Non-justiciable DPSP — पर courts guidance के रूप में उपयोग करते हैं।"
+  }
+]

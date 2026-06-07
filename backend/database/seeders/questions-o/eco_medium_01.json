@@ -1,0 +1,472 @@
+[
+  {
+    "question": "स्वास्थ्य अर्थशास्त्र (Health Economics) में 'जेब से होने वाला व्यय' (Out-of-Pocket Expenditure - OOP) का क्या अर्थ है?",
+    "options": [
+      { "text": "सरकारी स्वास्थ्य बजट का व्यय", "is_correct": false },
+      { "text": "बीमा या सरकारी सहायता के बिना परिवार द्वारा सीधे किया गया स्वास्थ्य व्यय", "is_correct": true },
+      { "text": "अस्पताल का प्रशासनिक व्यय", "is_correct": false },
+      { "text": "दवा कंपनियों का विनिर्माण व्यय", "is_correct": false }
+    ],
+    "explanation": "OOP वह व्यय है जो परिवार बिना किसी तृतीय-पक्ष (बीमा/सरकार) सहायता के स्वास्थ्य सेवाओं पर करता है। भारत में कुल स्वास्थ्य व्यय का ~47% OOP है जो अनेक परिवारों को गरीबी की ओर धकेलता है।"
+  },
+  {
+    "question": "कुज्नेट्स वक्र (Kuznets Curve) का सिद्धांत क्या बताता है?",
+    "options": [
+      { "text": "आर्थिक विकास के साथ असमानता सदैव घटती है", "is_correct": false },
+      { "text": "विकास के प्रारंभिक चरण में असमानता बढ़ती है और बाद में घटती है (उलटा U आकार)", "is_correct": true },
+      { "text": "असमानता और विकास में कोई संबंध नहीं", "is_correct": false },
+      { "text": "आर्थिक विकास से असमानता सदैव बढ़ती है", "is_correct": false }
+    ],
+    "explanation": "Simon Kuznets (1955) का पर्यावरणीय/आय कुज्नेट्स वक्र बताता है कि औद्योगीकरण के प्रारंभ में असमानता बढ़ती है, परंतु एक बिंदु के बाद घटती है। यह स्वास्थ्य असमानता विश्लेषण में भी प्रासंगिक है।"
+  },
+  {
+    "question": "मानव पूंजी सिद्धांत (Human Capital Theory) के संदर्भ में स्वास्थ्य में निवेश को कैसे देखा जाता है?",
+    "options": [
+      { "text": "केवल उपभोग व्यय के रूप में", "is_correct": false },
+      { "text": "उत्पादकता बढ़ाने वाले निवेश के रूप में जो आर्थिक प्रतिफल देता है", "is_correct": true },
+      { "text": "अनावश्यक सार्वजनिक व्यय के रूप में", "is_correct": false },
+      { "text": "केवल सामाजिक दायित्व के रूप में", "is_correct": false }
+    ],
+    "explanation": "Gary Becker (1964) के Human Capital Theory के अनुसार, शिक्षा और स्वास्थ्य में निवेश भविष्य की उत्पादकता और आय बढ़ाता है। WHO आयोग (2001) ने अनुमान लगाया कि जीवन प्रत्याशा में 10% वृद्धि से प्रति व्यक्ति GDP में 0.3-0.4% वृद्धि होती है।"
+  },
+  {
+    "question": "स्वास्थ्य सेवाओं में 'नैतिक जोखिम' (Moral Hazard) क्या है?",
+    "options": [
+      { "text": "चिकित्सक का नैतिक दायित्व", "is_correct": false },
+      { "text": "बीमाकृत व्यक्ति द्वारा अत्यधिक स्वास्थ्य सेवाओं का उपयोग क्योंकि लागत बीमा कंपनी वहन करती है", "is_correct": true },
+      { "text": "दवाओं के दुष्प्रभाव", "is_correct": false },
+      { "text": "अस्पताल में संक्रमण का खतरा", "is_correct": false }
+    ],
+    "explanation": "Moral Hazard स्वास्थ्य बीमा की एक प्रमुख समस्या है — जब व्यक्ति बीमाकृत होता है तो वह अधिक स्वास्थ्य सेवाओं का उपभोग करता है क्योंकि उसकी लागत शून्य या न्यून होती है। इसे Co-payment, Deductible आदि से नियंत्रित किया जाता है।"
+  },
+  {
+    "question": "भारत में 'विपत्तिपूर्ण स्वास्थ्य व्यय' (Catastrophic Health Expenditure) की परिभाषा क्या है?",
+    "options": [
+      { "text": "जब स्वास्थ्य व्यय ₹10,000 से अधिक हो", "is_correct": false },
+      { "text": "जब स्वास्थ्य OOP व्यय परिवार की कुल आय/उपभोग के 10% से अधिक हो", "is_correct": true },
+      { "text": "जब परिवार सरकारी अस्पताल में जाने में असमर्थ हो", "is_correct": false },
+      { "text": "जब व्यक्ति आपातकालीन चिकित्सा में भर्ती हो", "is_correct": false }
+    ],
+    "explanation": "WHO परिभाषा के अनुसार Catastrophic Health Expenditure तब होता है जब OOP व्यय परिवार की कुल आय/उपभोग के 10% (या subsistence expenditure के 40%) से अधिक हो जाए। यह परिवारों को गरीबी में धकेलता है।"
+  },
+  {
+    "question": "आर्थर लेफर की 'लैफर कर्व' (Laffer Curve) क्या बताती है?",
+    "options": [
+      { "text": "कर दर और उत्पादन के बीच संबंध", "is_correct": false },
+      { "text": "बहुत अधिक कर दर से कर राजस्व घट सकता है", "is_correct": true },
+      { "text": "मुद्रास्फीति और ब्याज दर का संबंध", "is_correct": false },
+      { "text": "GDP और जनसंख्या का संबंध", "is_correct": false }
+    ],
+    "explanation": "Laffer Curve दर्शाती है कि 0% और 100% कर दर पर राजस्व शून्य होगा। इसके बीच एक इष्टतम (optimal) कर दर होती है जिस पर राजस्व अधिकतम होता है। बहुत अधिक कर से कार्य प्रेरणा घटती है और कर चोरी बढ़ती है।"
+  },
+  {
+    "question": "भारत में राष्ट्रीय स्वास्थ्य नीति (NHP) 2017 का स्वास्थ्य व्यय लक्ष्य क्या है?",
+    "options": [
+      { "text": "GDP का 5%", "is_correct": false },
+      { "text": "GDP का 2.5%", "is_correct": true },
+      { "text": "GDP का 1%", "is_correct": false },
+      { "text": "GDP का 8%", "is_correct": false }
+    ],
+    "explanation": "NHP 2017 ने 2025 तक सरकारी स्वास्थ्य व्यय को GDP के 2.5% तक बढ़ाने का लक्ष्य रखा है। वर्तमान में यह लगभग 1.5-2% है जो विकसित देशों के 5-8% से काफी कम है।"
+  },
+  {
+    "question": "सूचना विषमता (Information Asymmetry) स्वास्थ्य बाजार में किस प्रकार बाजार विफलता उत्पन्न करती है?",
+    "options": [
+      { "text": "डॉक्टर के पास जानकारी कम होती है", "is_correct": false },
+      { "text": "चिकित्सक-रोगी के बीच ज्ञान असंतुलन से अनावश्यक उपचार और उपभोक्ता शोषण होता है", "is_correct": true },
+      { "text": "बीमा कंपनियाँ जानकारी छिपाती हैं", "is_correct": false },
+      { "text": "सरकार को बाजार की जानकारी नहीं होती", "is_correct": false }
+    ],
+    "explanation": "Kenneth Arrow (1963) ने स्वास्थ्य बाजार की विशेषता बताई — चिकित्सक के पास रोगी से अधिक जानकारी होती है (Information Asymmetry), जिससे 'Supplier-induced Demand' और अनावश्यक उपचार की समस्या उत्पन्न होती है।"
+  },
+  {
+    "question": "WHO के अनुसार सार्वभौमिक स्वास्थ्य कवरेज (UHC) के तीन आयाम कौन से हैं?",
+    "options": [
+      { "text": "आय, शिक्षा, आवास", "is_correct": false },
+      { "text": "जनसंख्या, सेवाएं, और वित्तीय सुरक्षा", "is_correct": true },
+      { "text": "अस्पताल, दवा, डॉक्टर", "is_correct": false },
+      { "text": "केंद्र, राज्य, ग्राम पंचायत", "is_correct": false }
+    ],
+    "explanation": "WHO का UHC 'Cube' तीन आयाम बताता है: (1) Who is covered? (जनसंख्या कवरेज), (2) Which services? (सेवाओं का विस्तार), और (3) How much cost? (वित्तीय सुरक्षा — OOP में कमी)।"
+  },
+  {
+    "question": "भारत में ESIC (Employees' State Insurance Corporation) किस प्रकार की श्रमिकों को कवर करती है?",
+    "options": [
+      { "text": "सरकारी कर्मचारियों को", "is_correct": false },
+      { "text": "संगठित क्षेत्र के निम्न वेतन कर्मचारियों को", "is_correct": true },
+      { "text": "कृषि मजदूरों को", "is_correct": false },
+      { "text": "स्व-नियोजित व्यक्तियों को", "is_correct": false }
+    ],
+    "explanation": "ESIC (1948) 21,000 रु/माह तक वेतन पाने वाले संगठित क्षेत्र के कर्मचारियों को चिकित्सा, मातृत्व, विकलांगता और मृत्यु लाभ प्रदान करती है। यह नियोक्ता और कर्मचारी दोनों के योगदान पर आधारित है।"
+  },
+  {
+    "question": "मुक्त व्यापार (Free Trade) के विरुद्ध 'शिशु उद्योग' (Infant Industry) तर्क क्या है?",
+    "options": [
+      { "text": "बच्चों से जुड़े उद्योगों की सुरक्षा", "is_correct": false },
+      { "text": "नए और विकासशील उद्योगों को विदेशी प्रतिस्पर्धा से अस्थायी सुरक्षा की आवश्यकता", "is_correct": true },
+      { "text": "कृषि उद्योग की सुरक्षा", "is_correct": false },
+      { "text": "लघु उद्योगों की सुरक्षा", "is_correct": false }
+    ],
+    "explanation": "Friedrich List का Infant Industry तर्क: नए उद्योग प्रारंभ में अकुशल और महंगे होते हैं। उन्हें स्थापित विदेशी प्रतिस्पर्धियों से अस्थायी सुरक्षा (tariff) चाहिए जब तक वे परिपक्व न हो जाएं। यह विकासशील देशों की औद्योगीकरण नीति का आधार है।"
+  },
+  {
+    "question": "भारत में 'डिजीज बर्डन' (Disease Burden) मापने के लिए DALY का क्या अर्थ है?",
+    "options": [
+      { "text": "Daily Activity Level Year", "is_correct": false },
+      { "text": "Disability Adjusted Life Year — रोग के कारण खोए वर्षों का माप", "is_correct": true },
+      { "text": "Drug Administration Licensing Year", "is_correct": false },
+      { "text": "Disease Awareness and Learning Year", "is_correct": false }
+    ],
+    "explanation": "DALY (Disability Adjusted Life Year) = YLL (Years of Life Lost due to premature death) + YLD (Years Lived with Disability)। यह रोग के कुल बोझ का एकीकृत माप है जो WHO और World Bank द्वारा प्राथमिकताएं तय करने में उपयोग होता है।"
+  },
+  {
+    "question": "संरचनात्मक समायोजन कार्यक्रम (SAP) का स्वास्थ्य पर क्या प्रभाव पड़ा?",
+    "options": [
+      { "text": "स्वास्थ्य सेवाएं बेहतर हुईं", "is_correct": false },
+      { "text": "सरकारी स्वास्थ्य व्यय कटौती और सेवाओं का निजीकरण जिससे गरीबों की पहुँच घटी", "is_correct": true },
+      { "text": "दवाओं की कीमतें घटीं", "is_correct": false },
+      { "text": "स्वास्थ्य बीमा का विस्तार हुआ", "is_correct": false }
+    ],
+    "explanation": "1980-90s में IMF/World Bank के SAPs ने विकासशील देशों में सरकारी स्वास्थ्य व्यय में कटौती, User fees और निजीकरण को बढ़ावा दिया। अध्ययनों से स्पष्ट हुआ कि इससे गरीब जनसंख्या की स्वास्थ्य सेवाओं तक पहुँच घटी और स्वास्थ्य असमानता बढ़ी।"
+  },
+  {
+    "question": "खुले अवसर (Giffen Good) की मांग वक्र सामान्य मांग नियम का उल्लंघन क्यों करती है?",
+    "options": [
+      { "text": "यह विलासिता की वस्तु है", "is_correct": false },
+      { "text": "कीमत बढ़ने पर इसकी माँग बढ़ती है क्योंकि आय प्रभाव प्रतिस्थापन प्रभाव से अधिक होता है", "is_correct": true },
+      { "text": "यह सार्वजनिक वस्तु है", "is_correct": false },
+      { "text": "इसका कोई विकल्प नहीं होता", "is_correct": false }
+    ],
+    "explanation": "Giffen Goods निम्न श्रेणी की वस्तुएं हैं (जैसे सस्ता अनाज) जहाँ कीमत वृद्धि पर Negative Income Effect इतना प्रबल होता है कि Substitution Effect को पार कर जाता है, फलतः माँग बढ़ती है।"
+  },
+  {
+    "question": "भारत में PMGKY (प्रधानमंत्री गरीब कल्याण योजना) किस संकट में शुरू की गई थी?",
+    "options": [
+      { "text": "2008 वित्तीय संकट", "is_correct": false },
+      { "text": "COVID-19 महामारी (2020)", "is_correct": true },
+      { "text": "2016 नोटबंदी", "is_correct": false },
+      { "text": "1991 भुगतान संतुलन संकट", "is_correct": false }
+    ],
+    "explanation": "PMGKY मार्च 2020 में COVID-19 लॉकडाउन के दौरान घोषित ₹1.7 लाख करोड़ का राहत पैकेज था। इसमें मुफ्त अनाज, DBT नकद हस्तांतरण, और स्वास्थ्यकर्मियों के लिए बीमा शामिल था।"
+  },
+  {
+    "question": "स्वास्थ्य सेवा में 'बाहरी प्रभाव' (Externality) का सबसे उचित उदाहरण क्या है?",
+    "options": [
+      { "text": "डॉक्टर की फीस", "is_correct": false },
+      { "text": "टीकाकरण — जो व्यक्ति को लाभ देने के साथ झुंड प्रतिरक्षा (Herd Immunity) से समाज को भी लाभ देता है", "is_correct": true },
+      { "text": "अस्पताल का निर्माण", "is_correct": false },
+      { "text": "दवा का उत्पादन", "is_correct": false }
+    ],
+    "explanation": "Positive Externality का सर्वोत्तम उदाहरण: टीकाकरण न केवल व्यक्ति को लाभ देता है बल्कि Herd Immunity से असंरक्षित लोगों को भी। इसीलिए सरकार टीकाकरण पर सब्सिडी देती है — बाजार इसे इष्टतम से कम उत्पन्न करेगा।"
+  },
+  {
+    "question": "भारत में एकाधिकार एवं प्रतिबंधात्मक व्यापार व्यवहार (MRTP) अधिनियम को किस अधिनियम से प्रतिस्थापित किया गया?",
+    "options": [
+      { "text": "SEBI अधिनियम 1992", "is_correct": false },
+      { "text": "प्रतिस्पर्धा अधिनियम 2002 (Competition Act)", "is_correct": true },
+      { "text": "FEMA 1999", "is_correct": false },
+      { "text": "उपभोक्ता संरक्षण अधिनियम 2019", "is_correct": false }
+    ],
+    "explanation": "MRTP Act 1969 को Competition Act 2002 से प्रतिस्थापित किया गया। इसके तहत Competition Commission of India (CCI) की स्थापना 2003 में हुई जो प्रतिस्पर्धा-विरोधी व्यवहारों की जाँच करती है।"
+  },
+  {
+    "question": "आर्थिक चक्र (Business Cycle) में मंदी (Recession) की परिभाषा क्या है?",
+    "options": [
+      { "text": "एक तिमाही में GDP घटना", "is_correct": false },
+      { "text": "लगातार दो तिमाहियों में GDP में गिरावट", "is_correct": true },
+      { "text": "बेरोजगारी दर 10% से अधिक होना", "is_correct": false },
+      { "text": "मुद्रास्फीति 5% से अधिक होना", "is_correct": false }
+    ],
+    "explanation": "तकनीकी परिभाषा: Recession = लगातार दो तिमाहियों (6 महीने) में वास्तविक GDP में गिरावट। इसे NBER (National Bureau of Economic Research) विभिन्न संकेतकों के आधार पर घोषित करता है।"
+  },
+  {
+    "question": "भारत में 'हेल्थ इकोनॉमिक्स' की दृष्टि से 'रोग का आर्थिक बोझ' (Economic Burden of Disease) में क्या शामिल है?",
+    "options": [
+      { "text": "केवल प्रत्यक्ष चिकित्सा व्यय", "is_correct": false },
+      { "text": "प्रत्यक्ष चिकित्सा व्यय, अप्रत्यक्ष व्यय (उत्पादकता हानि) और अमूर्त लागत", "is_correct": true },
+      { "text": "केवल सरकारी स्वास्थ्य व्यय", "is_correct": false },
+      { "text": "दवा कंपनियों का राजस्व", "is_correct": false }
+    ],
+    "explanation": "Disease का आर्थिक बोझ = Direct costs (दवाएं, अस्पताल) + Indirect costs (उत्पादकता हानि, देखभाल करने वाले का समय) + Intangible costs (दर्द, कष्ट, जीवन गुणवत्ता में कमी)।"
+  },
+  {
+    "question": "स्वास्थ्य बीमा में 'प्रतिकूल चयन' (Adverse Selection) समस्या क्या है?",
+    "options": [
+      { "text": "बीमा कंपनी का गलत प्रबंधन", "is_correct": false },
+      { "text": "उच्च जोखिम वाले व्यक्तियों का बीमा में अधिक भाग लेना जिससे प्रीमियम बढ़ता है", "is_correct": true },
+      { "text": "सरकारी नीतियों का विरोध", "is_correct": false },
+      { "text": "डॉक्टरों द्वारा इलाज न करना", "is_correct": false }
+    ],
+    "explanation": "Adverse Selection: जो व्यक्ति बीमार होने की अधिक संभावना रखते हैं वे बीमा अधिक लेते हैं (Information Asymmetry)। इससे Insurance Pool में जोखिम बढ़ता है, प्रीमियम बढ़ता है और स्वस्थ लोग बाजार से बाहर हो जाते हैं (Death Spiral)।"
+  },
+  {
+    "question": "GDP और 'हरित GDP' (Green GDP) में क्या अंतर है?",
+    "options": [
+      { "text": "कोई अंतर नहीं", "is_correct": false },
+      { "text": "हरित GDP में पर्यावरण क्षरण की लागत घटाई जाती है", "is_correct": true },
+      { "text": "हरित GDP केवल कृषि को मापता है", "is_correct": false },
+      { "text": "हरित GDP में केवल नवीकरणीय ऊर्जा शामिल है", "is_correct": false }
+    ],
+    "explanation": "Green GDP = पारंपरिक GDP - पर्यावरण क्षरण की लागत (वायु प्रदूषण, जल प्रदूषण, वनों की कटाई आदि)। यह सतत विकास (Sustainable Development) का बेहतर माप है।"
+  },
+  {
+    "question": "भारत में 'PM-ABHIM' (Ayushman Bharat Health Infrastructure Mission) का मुख्य उद्देश्य क्या है?",
+    "options": [
+      { "text": "केवल शहरी अस्पतालों का उन्नयन", "is_correct": false },
+      { "text": "प्राथमिक से तृतीयक स्तर तक स्वास्थ्य अवसंरचना को मजबूत करना", "is_correct": true },
+      { "text": "निजी अस्पतालों को अनुदान देना", "is_correct": false },
+      { "text": "विदेशी डॉक्टरों को आमंत्रित करना", "is_correct": false }
+    ],
+    "explanation": "PM-ABHIM (2021) ₹64,180 करोड़ की योजना है जो COVID-19 के बाद स्वास्थ्य अवसंरचना में कमियों को दूर करने के लिए शुरू की गई। इसमें Health and Wellness Centres, Critical Care Hospitals, और रोग निगरानी प्रणाली शामिल है।"
+  },
+  {
+    "question": "मुद्रा आपूर्ति और कीमत स्तर के बीच संबंध बताने वाला 'मुद्रा परिमाण सिद्धांत' (Quantity Theory of Money) किसने प्रतिपादित किया?",
+    "options": [
+      { "text": "John Maynard Keynes", "is_correct": false },
+      { "text": "Irving Fisher (MV = PT)", "is_correct": true },
+      { "text": "Adam Smith", "is_correct": false },
+      { "text": "David Ricardo", "is_correct": false }
+    ],
+    "explanation": "Irving Fisher का Quantity Theory: MV = PT, जहाँ M = मुद्रा आपूर्ति, V = मुद्रा का वेग, P = कीमत स्तर, T = लेनदेन। मुद्रावादी (Monetarists) जैसे Milton Friedman ने इसे आगे विकसित किया।"
+  },
+  {
+    "question": "भारत में जनसंख्या स्वास्थ्य वित्तपोषण में 'सामाजिक स्वास्थ्य बीमा' (SHI) और 'निजी स्वास्थ्य बीमा' में मुख्य अंतर क्या है?",
+    "options": [
+      { "text": "SHI केवल शहरों में लागू होता है", "is_correct": false },
+      { "text": "SHI अनिवार्य और जोखिम-एकत्रीकरण पर आधारित है जबकि निजी बीमा स्वैच्छिक और लाभ-आधारित है", "is_correct": true },
+      { "text": "SHI केवल सरकारी कर्मचारियों के लिए है", "is_correct": false },
+      { "text": "दोनों में कोई अंतर नहीं", "is_correct": false }
+    ],
+    "explanation": "SHI (जैसे ESIC) अनिवार्य होता है, आय-आधारित योगदान लेता है और जोखिम पूलिंग करता है। निजी बीमा स्वैच्छिक, जोखिम-मूल्यांकन आधारित और लाभ-चालित होता है। SHI सामाजिक एकजुटता के सिद्धांत पर आधारित है।"
+  },
+  {
+    "question": "भारत में 15वें वित्त आयोग की सिफारिशें (2021-26) किस संदर्भ में महत्वपूर्ण हैं?",
+    "options": [
+      { "text": "केवल केंद्र के व्यय में वृद्धि", "is_correct": false },
+      { "text": "राज्यों को 41% कर हिस्सेदारी और स्वास्थ्य क्षेत्र के लिए Vertical Grant", "is_correct": true },
+      { "text": "निजी क्षेत्र को कर लाभ", "is_correct": false },
+      { "text": "विदेशी ऋण प्रबंधन", "is_correct": false }
+    ],
+    "explanation": "15वें वित्त आयोग (2021-26) ने राज्यों को कर विभाज्य पूल का 41% देने की सिफारिश की। साथ ही स्वास्थ्य क्षेत्र के लिए ₹70,051 करोड़ का Sector-Specific Grant प्रदान किया जो स्वास्थ्य वित्तपोषण में मील का पत्थर है।"
+  },
+  {
+    "question": "भारत में राष्ट्रीय खाद्य सुरक्षा अधिनियम (NFSA 2013) की अर्थशास्त्रीय दृष्टि से क्या आलोचना है?",
+    "options": [
+      { "text": "यह बहुत कम लोगों को कवर करता है", "is_correct": false },
+      { "text": "विशाल राजकोषीय बोझ, भंडारण अकुशलता, और खाद्यान्न विचलन (leakage) की समस्या", "is_correct": true },
+      { "text": "इसमें स्वास्थ्य शामिल नहीं", "is_correct": false },
+      { "text": "यह केवल शहरों में लागू होता है", "is_correct": false }
+    ],
+    "explanation": "NFSA की आलोचना: (1) खाद्य सब्सिडी बिल (₹2 लाख करोड़+) का भारी राजकोषीय बोझ, (2) FCI गोदामों में अकुशल भंडारण और बर्बादी, (3) PDS में 40-50% leakage, (4) लक्षित DBT (Direct Benefit Transfer) से बेहतर होने का तर्क।"
+  },
+  {
+    "question": "स्वास्थ्य निवेश में 'लागत-प्रभावशीलता विश्लेषण' (Cost-Effectiveness Analysis - CEA) का क्या अर्थ है?",
+    "options": [
+      { "text": "केवल लागत की तुलना करना", "is_correct": false },
+      { "text": "प्रति स्वास्थ्य परिणाम (DALY या LYG) की लागत की तुलना कर सर्वोत्तम हस्तक्षेप चुनना", "is_correct": true },
+      { "text": "लाभ को मौद्रिक रूप में मापना", "is_correct": false },
+      { "text": "परियोजना की कुल लागत निकालना", "is_correct": false }
+    ],
+    "explanation": "CEA विभिन्न स्वास्थ्य हस्तक्षेपों की प्रति DALY averted या Life Year Gained (LYG) की लागत की तुलना करता है। WHO थ्रेशहोल्ड: <1× GDPpc/DALY = अत्यंत प्रभावी, <3× = प्रभावी। यह नीति प्राथमिकता निर्धारण का मुख्य उपकरण है।"
+  },
+  {
+    "question": "कीन्सियन अर्थशास्त्र (Keynesian Economics) के अनुसार मंदी में सरकार को क्या करना चाहिए?",
+    "options": [
+      { "text": "सरकारी व्यय घटाना चाहिए", "is_correct": false },
+      { "text": "सरकारी व्यय बढ़ाकर माँग को प्रोत्साहित करना चाहिए", "is_correct": true },
+      { "text": "कर दरें बढ़ानी चाहिए", "is_correct": false },
+      { "text": "मुद्रा आपूर्ति घटानी चाहिए", "is_correct": false }
+    ],
+    "explanation": "J.M. Keynes (1936, General Theory) के अनुसार मंदी में बाजार स्वयं ठीक नहीं होता। सरकार को राजकोषीय प्रोत्साहन (Fiscal Stimulus) — व्यय वृद्धि या कर कटौती — से माँग बढ़ानी चाहिए जो 'गुणक प्रभाव' (Multiplier Effect) से GDP बढ़ाएगी।"
+  },
+  {
+    "question": "भारत में TRIPS समझौते का फार्मास्यूटिकल उद्योग पर क्या प्रभाव पड़ा?",
+    "options": [
+      { "text": "दवाओं की कीमतें घटीं", "is_correct": false },
+      { "text": "पेटेंट संरक्षण से ब्रांडेड दवाओं की कीमतें बढ़ीं और जेनेरिक विकल्प सीमित हुए", "is_correct": true },
+      { "text": "भारत को अधिक दवाएं आयात करनी पड़ीं", "is_correct": false },
+      { "text": "AYUSH को बढ़ावा मिला", "is_correct": false }
+    ],
+    "explanation": "TRIPS (Trade Related Intellectual Property Rights, 1995) ने दवाओं पर 20 वर्षीय पेटेंट अनिवार्य किया। इससे HIV/AIDS दवाओं की कीमतें बढ़ीं। दोहा घोषणा (2001) ने Compulsory Licensing का अधिकार दिया। भारत ने TRIPS-Plus से बचने के लिए Section 3(d) Patent Act प्रावधान रखा।"
+  },
+  {
+    "question": "सरकारी स्वास्थ्य व्यय में 'पूंजीगत व्यय' (Capital Expenditure) और 'राजस्व व्यय' (Revenue Expenditure) का अंतर क्या है?",
+    "options": [
+      { "text": "दोनों एक समान हैं", "is_correct": false },
+      { "text": "पूंजीगत = दीर्घकालिक आस्तियां (अस्पताल, उपकरण), राजस्व = संचालन (वेतन, दवाएं)", "is_correct": true },
+      { "text": "पूंजीगत = वेतन, राजस्व = निर्माण", "is_correct": false },
+      { "text": "पूंजीगत = केंद्र सरकार, राजस्व = राज्य सरकार", "is_correct": false }
+    ],
+    "explanation": "Capital Expenditure: अस्पताल निर्माण, उपकरण खरीद, भूमि — दीर्घकालिक आस्तियां बनाता है। Revenue Expenditure: स्वास्थ्यकर्मियों का वेतन, दवाएं, बिजली-पानी — चालू संचालन। भारत में स्वास्थ्य बजट में Revenue Expenditure का हिस्सा अधिक है जो अवसंरचना विस्तार की बाधा है।"
+  },
+  {
+    "question": "भारत में 'आर्थिक सर्वेक्षण' (Economic Survey) कौन तैयार करता है?",
+    "options": [
+      { "text": "RBI", "is_correct": false },
+      { "text": "NITI आयोग", "is_correct": false },
+      { "text": "वित्त मंत्रालय का आर्थिक मामलों विभाग (DEA), मुख्य आर्थिक सलाहकार (CEA) की देखरेख में", "is_correct": true },
+      { "text": "CSO/MOSPI", "is_correct": false }
+    ],
+    "explanation": "Economic Survey मुख्य आर्थिक सलाहकार (Chief Economic Adviser) की देखरेख में वित्त मंत्रालय के आर्थिक मामलों विभाग (DEA) द्वारा प्रत्येक वर्ष बजट से एक दिन पहले जारी किया जाता है।"
+  },
+  {
+    "question": "फिलिप्स वक्र (Phillips Curve) किस संबंध को दर्शाता है?",
+    "options": [
+      { "text": "GDP और मुद्रास्फीति का संबंध", "is_correct": false },
+      { "text": "बेरोजगारी और मुद्रास्फीति के बीच विपरीत संबंध", "is_correct": true },
+      { "text": "ब्याज दर और निवेश का संबंध", "is_correct": false },
+      { "text": "निर्यात और आयात का संबंध", "is_correct": false }
+    ],
+    "explanation": "A.W. Phillips (1958) ने दिखाया कि बेरोजगारी और मुद्रास्फीति में विपरीत संबंध है — कम बेरोजगारी पर उच्च मुद्रास्फीति। Stagflation (1970s) ने इस संबंध को जटिल किया। दीर्घकाल में वक्र लम्बवत (vertical) होता है।"
+  },
+  {
+    "question": "भारत में प्रत्यक्ष लाभ हस्तांतरण (DBT) का स्वास्थ्य क्षेत्र में क्या महत्व है?",
+    "options": [
+      { "text": "केवल किसानों के लिए प्रासंगिक", "is_correct": false },
+      { "text": "बिचौलियों को हटाकर सब्सिडी/लाभ सीधे लाभार्थी के बैंक खाते में पहुँचाना", "is_correct": true },
+      { "text": "विदेशी सहायता का वितरण", "is_correct": false },
+      { "text": "कर संग्रह को डिजिटल बनाना", "is_correct": false }
+    ],
+    "explanation": "DBT Aadhaar-linked बैंक खातों से सब्सिडी, JSY (Janani Suraksha Yojana) मातृत्व लाभ, और PMJAY भुगतान सीधे हस्तांतरित करता है। इससे Leakage घटती है, पारदर्शिता बढ़ती है और लाभार्थी को क्रय स्वतंत्रता मिलती है।"
+  },
+  {
+    "question": "भारत में चालू खाता घाटा (Current Account Deficit - CAD) का मुख्य कारण क्या है?",
+    "options": [
+      { "text": "सेवा निर्यात में कमी", "is_correct": false },
+      { "text": "माल आयात (विशेषकर कच्चा तेल और सोना) का निर्यात से अधिक होना", "is_correct": true },
+      { "text": "विदेशी पर्यटकों की संख्या में कमी", "is_correct": false },
+      { "text": "प्रत्यक्ष विदेशी निवेश में कमी", "is_correct": false }
+    ],
+    "explanation": "भारत का CAD मुख्यतः कच्चे तेल (~85% आयात निर्भरता) और सोने के भारी आयात के कारण है। IT और सेवा निर्यात, NRI remittances से आंशिक संतुलन होता है। CAD का GDP का 3% से अधिक होना चिंताजनक माना जाता है।"
+  },
+  {
+    "question": "भारत में स्वास्थ्य क्षेत्र में PPP (Public Private Partnership) मॉडल का उदाहरण क्या है?",
+    "options": [
+      { "text": "AIIMS", "is_correct": false },
+      { "text": "राजस्थान में 'चिरंजीवी' योजना और निजी अस्पताल नेटवर्क", "is_correct": true },
+      { "text": "PHC", "is_correct": false },
+      { "text": "ICMR", "is_correct": false }
+    ],
+    "explanation": "PPP मॉडल उदाहरण: (1) आयुष्मान भारत PM-JAY — सरकारी बीमा + निजी अस्पताल नेटवर्क, (2) राजस्थान में चिरंजीवी योजना, (3) Telemedicine platforms, (4) Jan Aushadhi Kendras (सस्ती जेनेरिक दवाएं)।"
+  },
+  {
+    "question": "एकाधिकारी प्रतियोगिता (Monopolistic Competition) की विशेषता क्या है?",
+    "options": [
+      { "text": "एकल विक्रेता", "is_correct": false },
+      { "text": "अनेक विक्रेता लेकिन विभेदित उत्पाद (Product Differentiation)", "is_correct": true },
+      { "text": "समान उत्पाद और असंख्य विक्रेता", "is_correct": false },
+      { "text": "कुछ बड़े विक्रेताओं का प्रभुत्व", "is_correct": false }
+    ],
+    "explanation": "Monopolistic Competition (Edward Chamberlin, 1933) में अनेक विक्रेता होते हैं लेकिन उनके उत्पाद विभेदित होते हैं (branding, quality, packaging)। दवा बाजार इसका उदाहरण है — एक ही रासायनिक संरचना के अनेक ब्रांड।"
+  },
+  {
+    "question": "स्वास्थ्य अर्थशास्त्र में 'तृतीय-पक्ष भुगतान' (Third-Party Payment) की समस्या क्या है?",
+    "options": [
+      { "text": "भुगतान में विलंब", "is_correct": false },
+      { "text": "उपभोक्ता, प्रदाता और भुगतानकर्ता अलग-अलग होने से लागत अनुशासन का अभाव", "is_correct": true },
+      { "text": "विदेशी भुगतान की समस्या", "is_correct": false },
+      { "text": "तकनीकी जटिलता", "is_correct": false }
+    ],
+    "explanation": "जब बीमा कंपनी (Third Party) भुगतान करती है तो न उपभोक्ता (लागत-असंवेदनशील) न प्रदाता (अत्यधिक सेवाओं की प्रेरणा) में लागत नियंत्रण की प्रेरणा होती है। इसे 'Two-party market failure' कहते हैं।"
+  },
+  {
+    "question": "भारत में 'आर्थिक सर्वेक्षण 2021' में 'V-Shaped Recovery' का क्या अर्थ था?",
+    "options": [
+      { "text": "धीमी और लंबी आर्थिक पुनर्प्राप्ति", "is_correct": false },
+      { "text": "COVID-19 के बाद तेज और पूर्ण आर्थिक पुनर्प्राप्ति", "is_correct": true },
+      { "text": "कृषि में तेज विकास", "is_correct": false },
+      { "text": "वित्तीय क्षेत्र का पुनर्गठन", "is_correct": false }
+    ],
+    "explanation": "V-Shaped Recovery: मंदी के बाद तेज और पूर्ण पुनर्प्राप्ति। Economic Survey 2021 ने तर्क दिया कि Countercyclical spending और vaccination से भारत V-shaped recovery करेगा। अन्य आकार: U (धीमी), W (double-dip), K (unequal)।"
+  },
+  {
+    "question": "भारत में 'राजकोषीय संघवाद' (Fiscal Federalism) में राज्यों की मुख्य समस्या क्या है?",
+    "options": [
+      { "text": "अधिक संसाधन लेकिन कम जिम्मेदारी", "is_correct": false },
+      { "text": "अधिक व्यय जिम्मेदारी (स्वास्थ्य, शिक्षा) लेकिन सीमित राजस्व अधिकार", "is_correct": true },
+      { "text": "केंद्र से अधिक सहयोग", "is_correct": false },
+      { "text": "बाहरी ऋण लेने की स्वतंत्रता", "is_correct": false }
+    ],
+    "explanation": "Vertical Fiscal Imbalance: राज्यों के पास स्वास्थ्य, शिक्षा, पुलिस जैसी महंगी जिम्मेदारियाँ हैं लेकिन कर संग्रह की सीमित शक्ति (7वीं अनुसूची)। यह 'वित्तीय असंतुलन' Finance Commission transfers, grants और केंद्र प्रायोजित योजनाओं से पूरा होता है।"
+  },
+  {
+    "question": "भारत में 'गिग इकॉनमी' (Gig Economy) का स्वास्थ्य बीमा पर क्या प्रभाव है?",
+    "options": [
+      { "text": "सभी गिग कर्मचारियों को ESIC कवरेज मिलती है", "is_correct": false },
+      { "text": "गिग कर्मचारी असंगठित क्षेत्र में होने से सामाजिक सुरक्षा के बाहर हैं", "is_correct": true },
+      { "text": "गिग इकॉनमी से स्वास्थ्य बीमा का विस्तार हुआ", "is_correct": false },
+      { "text": "गिग इकॉनमी स्वास्थ्य से असंबंधित है", "is_correct": false }
+    ],
+    "explanation": "Zomato, Ola, Urban Company जैसे प्लेटफॉर्म के गिग कर्मचारी (Platform Workers) अनुबंधित नहीं होते इसलिए ESIC, PF जैसी सामाजिक सुरक्षा से वंचित रहते हैं। Code on Social Security 2020 में इनके लिए प्रावधान किए गए हैं।"
+  },
+  {
+    "question": "पर्यावरणीय कुज्नेट्स वक्र (Environmental Kuznets Curve) भारत के संदर्भ में क्या बताती है?",
+    "options": [
+      { "text": "भारत प्रदूषण की चरम सीमा पार कर चुका है", "is_correct": false },
+      { "text": "भारत अभी विकास-प्रदूषण वक्र के आरोही भाग पर है जहाँ विकास के साथ प्रदूषण बढ़ रहा है", "is_correct": true },
+      { "text": "भारत में विकास और प्रदूषण असंबंधित हैं", "is_correct": false },
+      { "text": "भारत में प्रदूषण घट रहा है", "is_correct": false }
+    ],
+    "explanation": "EKC के अनुसार प्रारंभिक विकास में प्रदूषण बढ़ता है फिर एक बिंदु के बाद घटता है। भारत अभी आरोही चरण पर है — IGP में वायु प्रदूषण, गंगा प्रदूषण, उद्योग विस्तार इसके प्रमाण हैं। स्वास्थ्य व्यय इससे बढ़ रहा है।"
+  },
+  {
+    "question": "भारत में 'आर्थिक पलायन' (Brain Drain) का स्वास्थ्य प्रणाली पर क्या प्रभाव पड़ता है?",
+    "options": [
+      { "text": "कोई प्रभाव नहीं", "is_correct": false },
+      { "text": "प्रशिक्षित डॉक्टर/नर्स विदेश जाने से ग्रामीण क्षेत्रों में स्वास्थ्यकर्मियों की कमी", "is_correct": true },
+      { "text": "विदेशी मुद्रा आय बढ़ती है जो स्वास्थ्य में निवेश को सहायता करती है", "is_correct": false },
+      { "text": "Brain Drain से अस्पतालों की संख्या बढ़ती है", "is_correct": false }
+    ],
+    "explanation": "Brain Drain: भारत के डॉक्टर, नर्स, विशेषज्ञ USA, UK, Australia प्रवासन करते हैं। WHO ने इसे 'perverse subsidy' कहा — भारत प्रशिक्षण में खर्च करता है, लाभ धनी देश उठाते हैं। ग्रामीण क्षेत्रों में Doctor-Population ratio (1:1700+) और भी कम है।"
+  },
+  {
+    "question": "मुद्रास्फीति-बेरोजगारी की 'Stagflation' स्थिति क्या होती है?",
+    "options": [
+      { "text": "कम मुद्रास्फीति और कम बेरोजगारी", "is_correct": false },
+      { "text": "उच्च मुद्रास्फीति और उच्च बेरोजगारी एक साथ", "is_correct": true },
+      { "text": "उच्च GDP वृद्धि और उच्च बेरोजगारी", "is_correct": false },
+      { "text": "शून्य मुद्रास्फीति की स्थिति", "is_correct": false }
+    ],
+    "explanation": "Stagflation 1970s में तेल संकट के दौरान हुई। यह Phillips Curve को चुनौती देती है जो मानती थी कि दोनों एक साथ नहीं हो सकते। Stagflation में Supply-side shock (जैसे तेल कीमत वृद्धि) से उत्पादन घटता है और कीमतें बढ़ती हैं।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य का अधिकार' (Right to Health) किस संवैधानिक प्रावधान से जोड़ा जाता है?",
+    "options": [
+      { "text": "केवल अनुच्छेद 21 (जीवन का अधिकार)", "is_correct": false },
+      { "text": "अनुच्छेद 21 + अनुच्छेद 47 (DPSP) का संयोजन", "is_correct": true },
+      { "text": "केवल अनुच्छेद 47", "is_correct": false },
+      { "text": "अनुच्छेद 19 (अभिव्यक्ति की स्वतंत्रता)", "is_correct": false }
+    ],
+    "explanation": "सर्वोच्च न्यायालय ने Art. 21 (जीवन और व्यक्तिगत स्वतंत्रता) को Art. 47 (पोषण, जीवन स्तर और सार्वजनिक स्वास्थ्य DPSP) के साथ जोड़कर स्वास्थ्य के अधिकार को मान्यता दी है। आर्थिक दृष्टि से यह सरकार के व्यय दायित्व का आधार है।"
+  },
+  {
+    "question": "भारत में 'जन औषधि परियोजना' (Pradhan Mantri Bhartiya Janaushadhi Pariyojana) का मुख्य लक्ष्य क्या है?",
+    "options": [
+      { "text": "दवा कंपनियों को सब्सिडी देना", "is_correct": false },
+      { "text": "उच्च गुणवत्ता वाली जेनेरिक दवाएं कम कीमत पर उपलब्ध कराना", "is_correct": true },
+      { "text": "आयुर्वेदिक दवाओं का प्रचार", "is_correct": false },
+      { "text": "विदेशी दवा आयात बढ़ाना", "is_correct": false }
+    ],
+    "explanation": "PMBJP (2015 में पुनर्गठित) 9000+ Jan Aushadhi Kendras के माध्यम से ब्रांडेड दवाओं से 50-90% सस्ती जेनेरिक दवाएं उपलब्ध कराती है। यह OOP व्यय घटाने का आर्थिक उपाय है।"
+  },
+  {
+    "question": "सार्वजनिक स्वास्थ्य वित्तपोषण में 'Beveridge Model' और 'Bismarck Model' में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Beveridge = कर-आधारित सार्वजनिक वित्तपोषण (UK-NHS); Bismarck = नियोक्ता-कर्मचारी योगदान बीमा (Germany)", "is_correct": true },
+      { "text": "Beveridge निजी और Bismarck सार्वजनिक है", "is_correct": false },
+      { "text": "Bismarck केवल अमीरों के लिए है", "is_correct": false }
+    ],
+    "explanation": "Beveridge Model (UK-NHS): सार्वजनिक करों से वित्तपोषित, सार्वभौमिक। Bismarck Model (जर्मनी): नियोक्ता और कर्मचारी का संयुक्त अनिवार्य बीमा योगदान। Out-of-Pocket Model: रोगी स्वयं भुगतान। भारत में मिश्रित व्यवस्था है।"
+  },
+  {
+    "question": "भारत में ग्रामीण क्षेत्रों में स्वास्थ्य व्यय में कमी का प्रमुख आर्थिक कारण क्या है?",
+    "options": [
+      { "text": "ग्रामीण लोग स्वास्थ्य सेवाएं नहीं चाहते", "is_correct": false },
+      { "text": "सेवाओं की भौगोलिक दूरी और OOP लागत से इलाज टालना (Delayed care seeking)", "is_correct": true },
+      { "text": "शहरों में डॉक्टरों की कमी", "is_correct": false },
+      { "text": "ग्रामीण क्षेत्रों में अधिक सरकारी अस्पताल हैं", "is_correct": false }
+    ],
+    "explanation": "ग्रामीण स्वास्थ्य असमानता के आर्थिक कारण: (1) आय कम → OOP वहन क्षमता कम, (2) सेवाओं की दूरी → परिवहन लागत, (3) मजदूरी हानि का भय, (4) औपचारिक बीमा कवरेज नहीं। परिणामतः 'Catastrophic expenditure' या उपचार त्याग।"
+  }
+]

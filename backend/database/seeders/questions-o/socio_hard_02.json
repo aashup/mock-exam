@@ -1,0 +1,352 @@
+[
+  {
+    "question": "Judith Butler की 'Performativity' की अवधारणा भारतीय स्वास्थ्य प्रणाली में लिंग-आधारित शक्ति संरचनाओं को कैसे प्रकट करती है?",
+    "options": [
+      { "text": "Gender performed social norms हैं — 'Strong male/Weak female' की पुनरावृत्ति स्वास्थ्य सेवाओं में महिलाओं की अधीनस्थ भूमिका को normalize करती है", "is_correct": true },
+      { "text": "Butler ने केवल Theater का अध्ययन किया", "is_correct": false },
+      { "text": "Gender जैविक सत्य है जिसे नहीं बदला जा सकता", "is_correct": false },
+      { "text": "Performativity केवल LGBTQ+ मुद्दों पर लागू है", "is_correct": false }
+    ],
+    "explanation": "Butler ('Gender Trouble', 1990): Gender जन्मजात नहीं बल्कि बार-बार की जाने वाली सामाजिक क्रियाओं से 'perform' होता है। Healthcare में: Female nurses as 'natural caregivers', Male doctors as 'natural authorities' — ये performed gender norms हैं जो Female Medical Students और nurses की agency को सीमित करते हैं। Butler का lens: इन performances को disrupt करना change का रास्ता है।"
+  },
+  {
+    "question": "Nancy Fraser की 'मान्यता और पुनर्वितरण' (Recognition and Redistribution) की dual theory भारत में Dalit स्वास्थ्य असमानता को कैसे समझाती है?",
+    "options": [
+      { "text": "Dalit स्वास्थ्य अन्याय = आर्थिक पुनर्वितरण की जरूरत (संसाधनों का) + सांस्कृतिक पहचान की (Anti-discrimination, Dignity) — दोनों के बिना न्याय अधूरा", "is_correct": true },
+      { "text": "Fraser ने केवल आर्थिक न्याय का अध्ययन किया", "is_correct": false },
+      { "text": "Recognition और Redistribution में से एक पर्याप्त है", "is_correct": false },
+      { "text": "Dalit स्वास्थ्य केवल आर्थिक मुद्दा है", "is_correct": false }
+    ],
+    "explanation": "Nancy Fraser (2000): Health injustice को दो dimensions चाहिए: (1) Redistribution — PHC investment, free drugs, PM-JAY coverage, (2) Recognition — Healthcare में caste discrimination समाप्त करना, dignity ensure करना। केवल resources देने से cultural stigma और discrimination नहीं हटती। 'Transformative' justice दोनों को एक साथ address करती है।"
+  },
+  {
+    "question": "Norbert Elias के 'Civilizing Process' (1939) को भारत के Swachh Bharat Abhiyan और सामाजिक परिवर्तन प्रक्रिया से कैसे जोड़ा जा सकता है?",
+    "options": [
+      { "text": "Open defecation के खिलाफ बदलाव सिर्फ infrastructure से नहीं बल्कि 'Civilizing Process' — लज्जा, घृणा और self-control जैसे भावनात्मक मानकों के आंतरिकीकरण से होगा", "is_correct": true },
+      { "text": "Elias ने केवल यूरोपीय manners का अध्ययन किया", "is_correct": false },
+      { "text": "SBA की सफलता केवल शौचालय निर्माण से होगी", "is_correct": false },
+      { "text": "Civilizing Process और स्वच्छता असंबंधित हैं", "is_correct": false }
+    ],
+    "explanation": "Elias का Civilizing Process: लंबे समय में समाज में body-functions, hygiene के बारे में 'disgust threshold' और 'shame threshold' बदलते हैं। SBA research (WaterAid, CESS) ने दिखाया कि जहाँ community norms और social shame बनी वहाँ ODF sustainable रहा; केवल subsidized toilets से नहीं। यह Behavioral Change Communication का sociological आधार है।"
+  },
+  {
+    "question": "Michel Foucault के 'Biopolitics' ढाँचे में भारतीय जनसंख्या नीति (1952-2000) का विश्लेषण करें:",
+    "options": [
+      { "text": "राज्य ने जनसंख्या को 'जीव' (population as living body) के रूप में शासित किया — Sterilization targets, quota systems और incentives/disincentives के माध्यम से 'Biopower' का प्रयोग", "is_correct": true },
+      { "text": "Population Policy केवल तकनीकी मुद्दा है", "is_correct": false },
+      { "text": "Foucault ने Population Policy का समर्थन किया", "is_correct": false },
+      { "text": "Biopolitics केवल यूरोप में लागू होती है", "is_correct": false }
+    ],
+    "explanation": "Foucault की Biopolitics: 18वीं सदी के बाद State ने 'Population' को governance का object बनाया। India: (1) 1952 — First Family Planning Program (पहला ऐसा program), (2) Emergency (1975-77) — Forced Sterilization = extreme Biopower exercise, (3) 2000 NPP — 'Target-free' approach लेकिन Still state regulating bodies। Foucauldian lens: Population Policy = Making People 'governable'।"
+  },
+  {
+    "question": "Dorothy Smith की 'Institutional Ethnography' (IE) को भारत में स्वास्थ्य सेवाओं के अनुसंधान में कैसे उपयोग किया जाता है?",
+    "options": [
+      { "text": "IE रोगी के 'lived experience' से शुरू होकर उन Institutional Texts और Relations को खोजती है जो उनकी अनुभव को shape करती हैं", "is_correct": true },
+      { "text": "IE केवल Documents का अध्ययन है", "is_correct": false },
+      { "text": "IE केवल महिला अध्ययन में है", "is_correct": false },
+      { "text": "Dorothy Smith ने healthcare research नहीं की", "is_correct": false }
+    ],
+    "explanation": "Dorothy Smith (1987): Standpoint Sociology — marginalized (patients) के दृष्टिकोण से शुरू करो। IE method: Dalit woman PHC में क्या अनुभव करती है → कौन से Texts (protocols, admission forms) और Ruling Relations (caste hierarchy, doctor authority) उस experience को produce करते हैं। यह 'Textually mediated social relations' को expose करता है।"
+  },
+  {
+    "question": "Loïc Wacquant की 'Territorial Stigmatization' की अवधारणा भारत के शहरी Slums में स्वास्थ्य असमानता को कैसे समझाती है?",
+    "options": [
+      { "text": "Slum की Negative Spatial Identity स्वास्थ्य सेवाओं से बहिष्कार को legitimize करती है — 'झुग्गी वाले' के रूप में अपमान और Healthcare avoidance", "is_correct": true },
+      { "text": "Wacquant ने केवल Prison का अध्ययन किया", "is_correct": false },
+      { "text": "Territorial Stigma का स्वास्थ्य पर कोई प्रभाव नहीं", "is_correct": false },
+      { "text": "Slum निवासियों को अधिक सेवाएं मिलती हैं", "is_correct": false }
+    ],
+    "explanation": "Wacquant (2007): 'Advanced Marginality' — Slums को stigmatized territories के रूप में देखा जाता है। Effects: (1) Slum residents internalize shame → healthcare avoid, (2) Healthcare workers PHC में slum patients को differently treat, (3) Government schemes में address proof की जरूरत excludes them। Dharavi, Govandi (Mumbai) में यह pattern documented है।"
+  },
+  {
+    "question": "रैंडल कोलिन्स (Randall Collins) के 'Interaction Ritual Chains' को भारत में समुदाय स्वास्थ्य शिक्षा में कैसे लागू किया जा सकता है?",
+    "options": [
+      { "text": "High Emotional Energy वाले सामूहिक अनुभव (VHND, Gram Sabha स्वास्थ्य बैठकें) 'Solidarity' बनाते हैं जो सामूहिक स्वास्थ्य व्यवहार परिवर्तन को sustain करते हैं", "is_correct": true },
+      { "text": "Collins का सिद्धांत केवल sociology में है", "is_correct": false },
+      { "text": "Individual education chains से अधिक प्रभावी है", "is_correct": false },
+      { "text": "Interaction Rituals Healthcare में अप्रासंगिक हैं", "is_correct": false }
+    ],
+    "explanation": "Collins (2004): Interaction Ritual Chain — जब लोग शारीरिक उपस्थिति में Mutual Focus + Emotional Contagion अनुभव करते हैं तो 'Collective Effervescence' होती है और Solidarity बनती है। VHSNDs, ASHA-facilitated Gram Sabhas — जब Emotional Energy high होती है तो hygiene, nutrition norms change sustain होती हैं। इसीलिए Mass Communication से Community Dialogue अधिक प्रभावी है।"
+  },
+  {
+    "question": "Anthony Giddens की 'Structuration Theory' में 'Duality of Structure' का स्वास्थ्य व्यवहार परिवर्तन में क्या निहितार्थ है?",
+    "options": [
+      { "text": "Structure और Agency दोनों एक-दूसरे का निर्माण करते हैं — Health Behavior Change के लिए सामाजिक संरचना (availability) और individual agency दोनों को एक साथ address करना होगा", "is_correct": true },
+      { "text": "Giddens ने केवल structure को महत्व दिया", "is_correct": false },
+      { "text": "Agency ही सब कुछ निर्धारित करती है", "is_correct": false },
+      { "text": "Structure और Agency विरोधी हैं", "is_correct": false }
+    ],
+    "explanation": "Giddens (1984) का Duality: Structure = enabling + constraining। Health Behavior: Individuals अपने choices से structures reproduce या transform करते हैं। COVID vaccination: Individual decision (agency) + Vaccine availability, information, social norms (structure) दोनों जरूरी। केवल 'Education' (agency focus) या केवल 'Policy' (structure focus) से 100% behavior change नहीं।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य और आध्यात्मिकता' के समाजशास्त्रीय अंतर्संबंध में 'Medicalization of the Sacred' (पवित्र का चिकित्साकरण) क्या है?",
+    "options": [
+      { "text": "जब आध्यात्मिक अनुभव और प्रथाओं (मेडिटेशन, योग, तीर्थ) को बायोमेडिकल research की भाषा में re-frame किया जाता है जिससे वे 'therapeutic' हो जाती हैं", "is_correct": true },
+      { "text": "धर्म को चिकित्सा में शामिल करना", "is_correct": false },
+      { "text": "Medicalization का religion से कोई संबंध नहीं", "is_correct": false },
+      { "text": "आध्यात्मिकता को नकारना", "is_correct": false }
+    ],
+    "explanation": "Medicalization of Sacred: Yoga → 'Therapeutic Yoga' (blood pressure, diabetes management), Meditation → 'Mindfulness Based Stress Reduction (MBSR)', Cow urine → 'Therapeutic agents'। यह Traditional/Sacred को Scientific legitimacy देने की कोशिश है लेकिन साथ ही 'Commodification' भी है। AYUSH ministry का expansion इसी trajectory पर है।"
+  },
+  {
+    "question": "W.E.B. Du Bois की 'Double Consciousness' की अवधारणा को दलित/आदिवासी व्यक्ति के स्वास्थ्य अनुभव पर कैसे लागू किया जा सकता है?",
+    "options": [
+      { "text": "दलित व्यक्ति अपनी पहचान को 'Dominant caste की नजर से' भी देखता है — PHC में जाने पर अपमान का anticipation (Anticipated Stigma) स्वास्थ्य सेवाओं से दूरी बनाता है", "is_correct": true },
+      { "text": "Du Bois का concept केवल Black Americans पर लागू है", "is_correct": false },
+      { "text": "Double Consciousness केवल identity crisis है", "is_correct": false },
+      { "text": "Dalit को Double Consciousness नहीं होती", "is_correct": false }
+    ],
+    "explanation": "Du Bois (1903): Black Americans 'see themselves through the eyes of others' — two warring souls। Parallel: दलित व्यक्ति जानता है PHC में उसे कैसे देखा जाएगा → 'Anticipated Discrimination' → healthcare avoidance। यह Structural Racism/Casteism का Psychological toll है जो 'Caste as Chronic Stress' framework से जुड़ता है।"
+  },
+  {
+    "question": "Ulrich Beck की 'Risk Society' (1992) की अवधारणा आधुनिक भारत में किस प्रकार के नए स्वास्थ्य जोखिमों को समझाती है?",
+    "options": [
+      { "text": "Modernization के दुष्परिणाम ही नए जोखिम हैं — Pesticides, Air Pollution, Industrial toxins, Antibiotic Resistance — जो अदृश्य, अनिश्चित और class-transcending हैं", "is_correct": true },
+      { "text": "Risk Society केवल Nuclear risk के बारे में है", "is_correct": false },
+      { "text": "गरीब ही नए जोखिमों से बचे हैं", "is_correct": false },
+      { "text": "Beck ने India का अध्ययन किया", "is_correct": false }
+    ],
+    "explanation": "Beck's Risk Society: Traditional risks (poverty, famine) → Modern risks (toxic pollution, food contamination, climate change) जो industrial modernity के bye-products हैं। India में: Pesticide-laden food (Punjab Cancer Train), Industrial Mercury/Lead poisoning, COVID-19 as zoonotic risk। ये risks globally travel करते हैं और class distinctions को partially cross करते हैं।"
+  },
+  {
+    "question": "'Biosociality' (Paul Rabinow) की अवधारणा भारत में genetic testing और जाति/समुदाय-आधारित रोग की समझ को कैसे बदल रही है?",
+    "options": [
+      { "text": "Genetic data के आधार पर नई सामाजिक पहचान और समुदाय बन रहे हैं — Sickle Cell Anemia in tribal communities ने 'tribal genetic identity' को reinforce किया", "is_correct": true },
+      { "text": "Genetics केवल biology है, sociology से संबंधित नहीं", "is_correct": false },
+      { "text": "Biosociality पुरानी जाति पहचान को नष्ट करती है", "is_correct": false },
+      { "text": "India में Genetic testing नहीं होती", "is_correct": false }
+    ],
+    "explanation": "Rabinow (1992): Biology और Social Identity का merger — genetic conditions से नई social categories बनती हैं। India में: Sickle Cell Anemia (tribal communities में prevalent) → 'Tribal disease' framing → HMIS में tribal tagging → इससे screening programs और सामाजिक stigma दोनों बनते हैं। National Sickle Cell Anaemia Elimination Mission 2023 ने यह dynamics सामने लाई।"
+  },
+  {
+    "question": "भारत में 'Health and Neoliberal Subjectivity' — कैसे Neo-liberal ideology 'self-responsible healthy citizen' की अवधारणा बनाती है?",
+    "options": [
+      { "text": "Neo-liberalism स्वास्थ्य को व्यक्तिगत जिम्मेदारी बताकर structural determinants को ignore करता है और 'unhealthy choices' को moral failure बताता है", "is_correct": true },
+      { "text": "Neo-liberalism स्वास्थ्य को social responsibility मानता है", "is_correct": false },
+      { "text": "Individual responsibility और structural factors असंबंधित हैं", "is_correct": false },
+      { "text": "Neo-liberalism का healthcare से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Neo-liberal Subject: 'Rational individual making healthy choices' — gym, diet, wellness apps। लेकिन यह 'Responsibilization' (Crawford, 1980 — 'Healthism') structural inequalities को erase करती है। दलित मजदूर का smoking = 'bad choice' या 'occupational stress + cheap coping mechanism'? Structural conditions को individual failure बताना है।"
+  },
+  {
+    "question": "William Julius Wilson की 'Truly Disadvantaged' की अवधारणा को भारतीय संदर्भ में 'Chronic Urban Poor and Health' पर कैसे लागू किया जा सकता है?",
+    "options": [
+      { "text": "Concentrated Poverty में फंसे शहरी गरीब — जहाँ गरीबी, unemployment, poor housing, crime एक साथ हों — वहाँ cumulative health disadvantage होता है जो individual effort से दूर नहीं होता", "is_correct": true },
+      { "text": "Wilson ने केवल USA का अध्ययन किया", "is_correct": false },
+      { "text": "Individual effort से सभी स्वास्थ्य समस्याएं हल होती हैं", "is_correct": false },
+      { "text": "Concentrated Poverty का health से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Wilson's 'Truly Disadvantaged' (1987): Urban Ghettos में Concentrated Poverty → No Role Models, Social Isolation, Unemployment, Crime → Chronic Stress → Poor Health outcomes। Indian parallel: Dharavi, Govandi, Kurla (Mumbai) — Multi-generational urban poverty, limited social mobility, cumulative health deficits। PM-UDAY और JNNURM इसी targeting पर होने चाहिए।"
+  },
+  {
+    "question": "Boaventura de Sousa Santos की 'Epistemologies of the South' का भारतीय AYUSH और पारंपरिक चिकित्सा पर क्या प्रभाव है?",
+    "options": [
+      { "text": "पारंपरिक चिकित्सा ज्ञान को 'Alternative Epistemology' के रूप में validate करना — बायोमेडिकल 'monoculture of knowledge' को चुनौती देना", "is_correct": true },
+      { "text": "Santos ने AYUSH को reject किया", "is_correct": false },
+      { "text": "Epistemologies of the South केवल philosophy है", "is_correct": false },
+      { "text": "Traditional knowledge scientifically irrelevant है", "is_correct": false }
+    ],
+    "explanation": "De Sousa Santos: 'Ecology of Knowledges' — Northern/Western scientific knowledge एकमात्र valid knowledge नहीं। AYUSH, tribal herbal medicine, midwifery practices — उनकी 'Cognitive Justice' (valid पर दबे ज्ञान) है। COVID-19 में Coronil/DRDO controversy — traditional medicine validation vs. rigorous evidence का tension यही है।"
+  },
+  {
+    "question": "भारत में 'Structural Violence' (Johan Galtung) का स्वास्थ्य पर प्रभाव — किसान आत्महत्याओं के विश्लेषण में इसका क्या उपयोग है?",
+    "options": [
+      { "text": "Structural Violence: कोई specific perpetrator नहीं लेकिन Agrarian policies, debt structures, market failures जो किसानों को systematically harm करती हैं और आत्महत्या की ओर ले जाती हैं", "is_correct": true },
+      { "text": "Galtung ने केवल war violence का अध्ययन किया", "is_correct": false },
+      { "text": "Farmer suicides केवल व्यक्तिगत कमजोरी है", "is_correct": false },
+      { "text": "Structural Violence केवल physical violence है", "is_correct": false }
+    ],
+    "explanation": "Galtung (1969) का Structural Violence: बिना किसी direct perpetrator के, सामाजिक-आर्थिक structures ही harm करती हैं। Farmer Suicide (Maharashtra Vidharbha): (1) MSP नीचे input cost, (2) Debt trap (MFI), (3) Climate variability, (4) Insurance failure। ये structures मिलकर 'Deaths of Despair' produce करती हैं — यह structural, not individual violence है।"
+  },
+  {
+    "question": "भारत में 'Postcolonial Healthcare' के संदर्भ में Frantz Fanon की 'Colonial Wound' और Indigenous healing की अवधारणा का क्या महत्व है?",
+    "options": [
+      { "text": "Colonial medicine ने indigenous healing traditions को primitive/backward declare कर 'ontological violence' किया — decolonizing health requires recognizing indigenous knowledge systems", "is_correct": true },
+      { "text": "Fanon ने केवल racial violence का अध्ययन किया", "is_correct": false },
+      { "text": "Colonial medicine हमेशा beneficial था", "is_correct": false },
+      { "text": "Postcolonial theory healthcare में irrelevant है", "is_correct": false }
+    ],
+    "explanation": "Fanon ('The Wretched of the Earth', 1961): Colonial medicine ने African/Indian indigenous practices को delegitimize किया। India में: British medicine ने Ayurveda को 'quackery' कहा, Dais (traditional midwives) को untrained declare किया। Decolonizing Health: AYUSH integration, Dai training, tribal medicine documentation — FRA 2006 के Community Forest Rights में MFP (medicinal plants) का provision।"
+  },
+  {
+    "question": "Arjun Appadurai के 'Scapes' (Ethnoscapes, Mediascapes, Technoscapes) का भारत में Global Health Information प्रवाह पर क्या प्रभाव है?",
+    "options": [
+      { "text": "Global Health Media (WHO campaigns, Netflix health documentaries) local health beliefs को impact करती है लेकिन Digital Divide से selective exposure होता है — यह unequal 'Mediascape' है", "is_correct": true },
+      { "text": "Appadurai का Global Healthcare से कोई संबंध नहीं", "is_correct": false },
+      { "text": "Global health information सभी तक समान पहुँचती है", "is_correct": false },
+      { "text": "Scapes केवल cultural exchange हैं", "is_correct": false }
+    ],
+    "explanation": "Appadurai (1996): Disjunctive Global Flows — Ethnoscapes (NRI doctors), Mediascapes (Health News, Social Media vaccine misinformation), Technoscapes (mRNA vaccine technology transfer), Finanscapes (GAVI funding), Ideoscapes (Right to Health discourse)। COVID-19 WhatsApp misinformation — Mediascape का negative health impact। Digital Divide — Technoscapes का unequal access।"
+  },
+  {
+    "question": "भारत में 'Health and Masculinity' — Raewyn Connell की 'Hegemonic Masculinity' स्वास्थ्य से संबंधित पुरुष व्यवहार को कैसे explain करती है?",
+    "options": [
+      { "text": "Hegemonic Masculinity (strength, stoicism, risk-taking) पुरुषों को healthcare-seeking में 'weak' दिखने से रोकती है जिससे delayed diagnosis और worse outcomes होते हैं", "is_correct": true },
+      { "text": "Masculinity का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false },
+      { "text": "पुरुष स्वास्थ्य सेवाएं अधिक लेते हैं", "is_correct": false },
+      { "text": "Connell ने केवल sports sociology की", "is_correct": false }
+    ],
+    "explanation": "Connell (1995) Hegemonic Masculinity: 'Real men don't cry/complain/see doctors'। Men's Health outcomes: (1) TB में पुरुष देर से diagnosis (stigma), (2) Mental health में help-seeking कम, (3) Road accident rate अधिक (risk-taking), (4) Tobacco/Alcohol use higher। NFHS-5: पुरुष 3x अधिक tobacco use। 'Men's Health' को Masculinity studies से देखना जरूरी है।"
+  },
+  {
+    "question": "भारत में 'Health Nationalism' और COVID-19 Vaccine diplomacy में 'Vaccine Maitri' का समाजशास्त्रीय विश्लेषण क्या है?",
+    "options": [
+      { "text": "Vaccine Maitri Soft Power projection था लेकिन Domestic Vaccine shortage से इसकी legitimacy को challenge मिला — यह National Pride vs. Global Solidarity का tension है", "is_correct": true },
+      { "text": "Vaccine Maitri पूरी तरह सफल था", "is_correct": false },
+      { "text": "Vaccine Maitri केवल foreign policy था", "is_correct": false },
+      { "text": "Health Nationalism और Vaccine Diplomacy असंबंधित हैं", "is_correct": false }
+    ],
+    "explanation": "Vaccine Maitri: India ने 65+ देशों को ~66M doses export किए (2021 Q1)। लेकिन Delta Wave में domestic surge → export रोकना पड़ा। Sociological analysis: (1) Health Nationalism — India First vs. Global Solidarity tension, (2) COVAX equity vs. bilateral diplomacy, (3) Domestic inequality in distribution — Urban first, Rural last। यह Global Health Governance का 'Nationalized Vaccine' dilemma है।"
+  },
+  {
+    "question": "भारत में 'Sociology of Medical Profession' में Eliot Freidson की 'Professional Dominance' की अवधारणा का क्या अनुप्रयोग है?",
+    "options": [
+      { "text": "Medical profession state-sanctioned autonomy और knowledge monopoly से 'Dominant Profession' बनती है — MCI/NMC इस dominance को institutionalize करते हैं", "is_correct": true },
+      { "text": "Freidson ने medical dominance को सकारात्मक माना", "is_correct": false },
+      { "text": "Nurses doctors से अधिक dominant हैं", "is_correct": false },
+      { "text": "Medical profession में कोई power नहीं", "is_correct": false }
+    ],
+    "explanation": "Freidson (1970) 'Profession of Medicine': Medical profession का dominance = (1) State-granted autonomy (license), (2) Knowledge monopoly (only doctors can diagnose), (3) Professional self-regulation (IMA/MCI)। India में: Rural MBBS doctors vs. AYUSH in rural areas — scope of practice conflict, NMC Act में NExT exam, Task-shifting debate। Freidson's lens: Professional dominance resists task-shifting।"
+  },
+  {
+    "question": "भारत में 'Collective Memory' (Maurice Halbwachs) और 'Health Trauma' के अंतर्संबंध में विभाजन (1947 Partition) के स्वास्थ्य प्रभाव का क्या विश्लेषण है?",
+    "options": [
+      { "text": "1947 का सामूहिक आघात (displacement, violence) 'Collective Health Trauma' के रूप में पीढ़ियों में स्थानांतरित हुआ — PTSD, Chronic Stress और Psychosocial Distress का intergenerational transmission", "is_correct": true },
+      { "text": "1947 का Partition केवल political event था", "is_correct": false },
+      { "text": "Collective Memory और Health असंबंधित हैं", "is_correct": false },
+      { "text": "Trauma केवल direct पीड़ितों तक सीमित है", "is_correct": false }
+    ],
+    "explanation": "Halbwachs: Memory social और collective है। 1947 Partition Health Trauma: (1) 14 million displaced → disease outbreaks, malnutrition, (2) Mass violence → Collective PTSD (undiagnosed era में), (3) Epigenetic transmission — refugee families में anxiety disorders के higher rates। Partition archives (LSE, Partition Museum Amritsar) में survivor testimonies mental health narrative reveal करती हैं।"
+  },
+  {
+    "question": "भारत में 'Bioethics और Social Justice' के तनाव में Clinical Trials Controversy (2008-2013) का सामाजिक-राजनीतिक विश्लेषण क्या है?",
+    "options": [
+      { "text": "गरीब, निरक्षर रोगियों को 'Research Subjects' बनाना और inappropriate informed consent — यह 'Therapeutic Misconception' और class-based research exploitation का उदाहरण था", "is_correct": true },
+      { "text": "Clinical Trials से सभी को लाभ था", "is_correct": false },
+      { "text": "India में Clinical Trials पर कोई विवाद नहीं था", "is_correct": false },
+      { "text": "Research Ethics का Healthcare से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "2008-2013 India Clinical Trial Controversy: Parliamentary Committee Report (2012) — 80 deaths in trials, irregular compensation, uninformed consent। Social Justice issues: (1) Poor patients as 'captive research subjects', (2) Language barriers in consent, (3) 'Therapeutic Misconception' — treatment समझकर trial में participate, (4) Compensation inadequacy। ICMR GCP Guidelines 2017 ने reform किए।"
+  },
+  {
+    "question": "Spivak की 'Can the Subaltern Speak?' को भारत में Healthcare में Dalit/Tribal patient voice के संदर्भ में कैसे interpret करते हैं?",
+    "options": [
+      { "text": "Dalit/Tribal patient अपनी स्वास्थ्य समस्याएं भले ही articulate करे — healthcare system उसे 'hear' नहीं करता क्योंकि उसके पास linguistic और representational capital नहीं है", "is_correct": true },
+      { "text": "Spivak ने कहा subaltern बोल नहीं सकते", "is_correct": false },
+      { "text": "Dalit patients की बात healthcare में सुनी जाती है", "is_correct": false },
+      { "text": "Spivak का concept केवल colonial studies में है", "is_correct": false }
+    ],
+    "explanation": "Spivak (1988): Subaltern can speak, but the institutional apparatus doesn't hear। PHC में: Tribal woman बोलती है — but doctor (educated, upper-class, different language) interprets through own lens, dismisses cultural symptoms. Electronic Health Record में उसकी narrative नहीं आती। Community Health Worker (ASHA) का mediator role इस representational gap को partially fill करता है।"
+  },
+  {
+    "question": "भारत में 'Sociology of Waiting' — Healthcare में 'Waiting Time' का सामाजिक-राजनीतिक विश्लेषण क्या है?",
+    "options": [
+      { "text": "Government hospital में घंटों प्रतीक्षा करना 'Temporal Power' का प्रदर्शन है — राज्य citizen के समय पर दावा करता है, विशेषकर गरीबों के समय पर", "is_correct": true },
+      { "text": "Waiting time केवल administrative inefficiency है", "is_correct": false },
+      { "text": "Waiting time सभी के लिए समान है", "is_correct": false },
+      { "text": "Private hospitals में waiting time का कोई विश्लेषण नहीं है", "is_correct": false }
+    ],
+    "explanation": "Auyero (2012) 'Patients of the State': Waiting as political tool — poor citizens wait in queues, government offices, hospitals। यह 'Temporal Domination' है। India PHC: BPL/दलित patient 5-6 घंटे प्रतीक्षा करता है → opportunity cost (दिहाड़ी गँवाना) → healthcare avoidance। Private hospital VIP services — money buys time. यह time-based inequality है।"
+  },
+  {
+    "question": "भारत में 'Indigenous Knowledge System' और 'Biopiracy' का नैतिक और सामाजिक विश्लेषण क्या है?",
+    "options": [
+      { "text": "पारंपरिक जड़ी-बूटी ज्ञान का पेटेंट कर commercial exploitation — Neem, Turmeric controversies — Community knowledge को corporate IP बनाना Epistemic Injustice है", "is_correct": true },
+      { "text": "Biopiracy एक myth है", "is_correct": false },
+      { "text": "Patent system Traditional knowledge को protect करता है", "is_correct": false },
+      { "text": "Biopiracy से communities को लाभ होता है", "is_correct": false }
+    ],
+    "explanation": "Biopiracy cases: (1) Neem patent (W.R. Grace, EPO) — Indian traditional use के बावजूद patent, (2) Turmeric (University of Mississippi) — wound healing patent, (3) Basmati (RiceTec). India ने: (1) TKDL (Traditional Knowledge Digital Library) बनाई — anticipatory disclosure, (2) Biological Diversity Act 2002 — ABS (Access and Benefit Sharing)। CBD Nagoya Protocol 2010 में India active participant।"
+  },
+  {
+    "question": "भारत में 'Epidemiological Transition' के 'Double Burden' और इसके Social Stratification से संबंध का Omran ढाँचे से विश्लेषण करें:",
+    "options": [
+      { "text": "गरीब = Communicable Disease burden अधिक; अमीर = NCD burden अधिक; Middle class = दोनों — यह 'Polarized' Epidemiological Transition है जो Inequality की Spatial Expression है", "is_correct": true },
+      { "text": "Epidemiological Transition सभी वर्गों में समान है", "is_correct": false },
+      { "text": "Omran ने Inequality को ignore किया", "is_correct": false },
+      { "text": "Double Burden केवल राष्ट्रीय स्तर पर है", "is_correct": false }
+    ],
+    "explanation": "Omran (1971) + Frenk 'Polarized Model': India में 'Fourth Stage' नहीं — बल्कि Polarized Transition: (1) Urban Rich: NCDs (Diabetes, Heart disease), (2) Rural Poor: Communicable (TB, Malaria, Diarrhea), (3) Emerging Urban Poor: Both। यह Health Transition as Social Stratification का प्रतिबिंब है। Public health response को दोनों simultaneously address करना होगा।"
+  },
+  {
+    "question": "भारत में 'Surveillance Medicine' (David Armstrong) और Digital Health Surveillance का सामाजिक-नैतिक विश्लेषण क्या है?",
+    "options": [
+      { "text": "Digital Health Data (Aarogya Setu, ABDM) से 'Surveillance State' की संभावना बढ़ती है — health data को risk profiling, insurance discrimination और social control में उपयोग किया जा सकता है", "is_correct": true },
+      { "text": "Health Surveillance हमेशा beneficial है", "is_correct": false },
+      { "text": "Digital Health का Privacy से कोई संबंध नहीं", "is_correct": false },
+      { "text": "Armstrong ने Digital Health की भविष्यवाणी की", "is_correct": false }
+    ],
+    "explanation": "Armstrong (1995): Clinical gaze → Population surveillance। Digital Surveillance Medicine: Aarogya Setu में 15 करोड़+ users के location/contact data। PDPB 2023 (Personal Data Protection Bill) insufficient? Insurance companies using health data for premium pricing। Disability rights activists: COVID Vaccine Certificate as 'Health Passport' — exclusionary। Foucauldian: यह new form of Biopower है।"
+  },
+  {
+    "question": "भारत में 'Reproductive Technology and Social Inequality' — Surrogacy और Assisted Reproduction पर सामाजिक-नारीवादी विश्लेषण क्या है?",
+    "options": [
+      { "text": "Commercial Surrogacy में गरीब महिलाओं के शरीर का commodification होता है — class और gender का intersection जहाँ शरीर reproductive labor की site बनती है", "is_correct": true },
+      { "text": "Surrogacy सभी महिलाओं को समान विकल्प देती है", "is_correct": false },
+      { "text": "India में Surrogacy पर कोई नीति नहीं है", "is_correct": false },
+      { "text": "Feminist scholars Surrogacy का समर्थन करते हैं", "is_correct": false }
+    ],
+    "explanation": "Commercial Surrogacy in India: Anand (Gujarat) 'Surrogacy Hub' — गरीब women को ₹1-2 lakh में body rent, medical risks, limited legal protection। Feminist critique (Pande, 2010): 'Reproductive Labor' का class-based exploitation। Surrogacy (Regulation) Act 2021 ने Commercial Surrogacy ban किया — only Altruistic Surrogacy allowed। लेकिन यह women's autonomy restrict करता है या protect — ongoing debate।"
+  },
+  {
+    "question": "भारत में 'Rural-Urban Health Divide' को समझाने में 'Uneven Development' (Neil Smith) की भौगोलिक-समाजशास्त्रीय अवधारणा का क्या उपयोग है?",
+    "options": [
+      { "text": "Capital accumulation geographically uneven है — healthcare investment शहरों में concentrated होता है जबकि rural areas 'systematically underdeveloped' रहती हैं — यह market logic का अनिवार्य परिणाम है", "is_correct": true },
+      { "text": "Rural underdevelopment accidental है", "is_correct": false },
+      { "text": "Health investment सभी क्षेत्रों में समान है", "is_correct": false },
+      { "text": "Neil Smith ने healthcare का अध्ययन नहीं किया", "is_correct": false }
+    ],
+    "explanation": "Neil Smith (1984): Capital को uneven geography की जरूरत है — कुछ areas develop, कुछ under-develop। Healthcare में: Private hospitals in Metros (profitable) vs. PHC rural (non-profitable) → resource flow urban। NRHM का Rural-focus इसी Uneven Development को correct करने का state attempt था। Healthcare as Geography of Capitalism।"
+  },
+  {
+    "question": "भारत में 'Post-COVID Sociological Changes' — महामारी ने किन सामाजिक-स्वास्थ्य संरचनाओं को expose किया?",
+    "options": [
+      { "text": "Pandemic ने: Public Health Infrastructure की कमी, Migrant Worker vulnerability, Digital Divide, Caste-based vaccine inequality और Mental Health epidemic को एक साथ expose किया", "is_correct": true },
+      { "text": "COVID-19 ने कोई social change नहीं किया", "is_correct": false },
+      { "text": "COVID-19 से केवल economic crisis हुआ", "is_correct": false },
+      { "text": "COVID-19 ने समानता बढ़ाई", "is_correct": false }
+    ],
+    "explanation": "COVID-19 as Sociological Mirror: (1) PHC infrastructure — ASHA/ANM COVID duty में — पर PPE/salary नहीं, (2) Reverse Migration — 11 crore migrant workers stranded, (3) Digital Divide — Online school excluded tribal/rural children, (4) Oxygen Crisis May 2021 — Urban poor vs. Rich hospitals, (5) Vaccine Priority — Urban elites first. PM-ABHIM 2021 ने gaps address करने का प्रयास किया।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य शिक्षा अधिकारी' (HEO) की भूमिका का 'Social Systems Theory' (Luhmann) से विश्लेषण करें:",
+    "options": [
+      { "text": "HEO Health System और Community System के बीच 'Structural Coupling' का माध्यम है — दोनों systems की अपनी भाषा और logic है, HEO इनके बीच translation करता है", "is_correct": true },
+      { "text": "Luhmann ने Healthcare का अध्ययन नहीं किया", "is_correct": false },
+      { "text": "Systems Theory केवल sociology में है", "is_correct": false },
+      { "text": "HEO और Health System कोई connection नहीं रखते", "is_correct": false }
+    ],
+    "explanation": "Niklas Luhmann: Social Systems अपनी operational closure में काम करते हैं — Health System (medical codes), Legal System, Economic System। HEO = Structural Coupling Agent: Medical system की 'illness/wellness' language को Community system की 'fear/hope/tradition' में translate करता है। ASHA कार्यकर्ता का काम भी यही है — यह 'Boundary Spanning' role है।"
+  },
+  {
+    "question": "भारत में 'Health and Caste — Ambedkar's Annihilation of Caste' (1936) के स्वास्थ्य अध्ययन के लिए क्या प्रासंगिकता है?",
+    "options": [
+      { "text": "Ambedkar ने Caste को Social Disease कहा — जब तक Caste-based hierarchy है तब तक Dalit Health Equity असंभव है — केवल service delivery नहीं, structural annihilation जरूरी है", "is_correct": true },
+      { "text": "Ambedkar का Caste Annihilation केवल political था", "is_correct": false },
+      { "text": "Health equity Caste के बिना संभव है", "is_correct": false },
+      { "text": "Ambedkar ने स्वास्थ्य पर नहीं लिखा", "is_correct": false }
+    ],
+    "explanation": "Ambedkar (1936): Caste = 'Graded Inequality' — एक ऐसी आर्थिक और सामाजिक प्रणाली जो Dalit को literally and figuratively 'less alive' रखती है। Health Equity implications: (1) Nutritional deprivation (eating last and least), (2) Unsafe water/sanitation (manual scavenging), (3) Occupational hazards (polluting occupations), (4) Healthcare discrimination। Healthcare alone से नहीं, Caste Annihilation से health justice।"
+  },
+  {
+    "question": "'Planetary Health' ढाँचे (Whitmee et al., 2015) में भारत की सामाजिक-पारिस्थितिक स्थिति का समाजशास्त्रीय विश्लेषण क्या है?",
+    "options": [
+      { "text": "India में सामाजिक असमानता और पारिस्थितिक degradation परस्पर सम्बद्ध हैं — गरीब/आदिवासी समुदाय Climate Change से असंगत रूप से प्रभावित होते हैं जबकि उनका Carbon Footprint न्यूनतम है", "is_correct": true },
+      { "text": "Planetary Health केवल environmental science है", "is_correct": false },
+      { "text": "India में सभी climate effects समान हैं", "is_correct": false },
+      { "text": "Social inequality और ecology का कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Planetary Health (Rockefeller-Lancet, 2015): Human health depends on thriving natural systems। India में Climate Justice dimension: (1) Heatwaves — MGNREGA workers, construction laborers असंगत exposure, (2) Floods — Dalit/tribal tolas in low-lying areas, (3) Drought → crop failure → farmer suicide → nutrition crisis। यह 'Climate change as Social Determinant of Health' है।"
+  },
+  {
+    "question": "भारत में 'Biomedicalization' (Clarke et al., 2003) — यह Medicalization से कैसे अलग है और इसके सामाजिक परिणाम क्या हैं?",
+    "options": [
+      { "text": "Biomedicalization = New technologies (genomics, digital monitoring, AI diagnostics) के through नहीं सिर्फ disease treat करना बल्कि health optimize करना और risk predict करना — 'enhancement' और 'surveillance' की नई site", "is_correct": true },
+      { "text": "Biomedicalization और Medicalization एक ही हैं", "is_correct": false },
+      { "text": "Biomedicalization से health inequality घटती है", "is_correct": false },
+      { "text": "Technology से Medicalization नहीं होती", "is_correct": false }
+    ],
+    "explanation": "Clarke et al. (2003) Biomedicalization: Beyond Medicalization (social control) → technoscientific transformation of health. India में: (1) Genomic screening (prenatal), (2) Wearable health monitors (urban middle class), (3) AI diagnostics, (4) Wellness Industry expansion। यह 'Healthism' का high-tech version है जो class-based है — केवल affluent इन technologies access कर पाते हैं।"
+  }
+]

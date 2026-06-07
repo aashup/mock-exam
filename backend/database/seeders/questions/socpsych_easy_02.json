@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "सामाजिक मनोविज्ञान में 'सामाजिक प्रभाव' (Social Influence) के तीन मुख्य प्रकार कौन-से हैं?",
+    "options": [
+      { "text": "अनुकरण, प्रतिस्पर्धा, सहयोग", "is_correct": false },
+      { "text": "अनुरूपता (Conformity), अनुपालन (Compliance) और आज्ञाकारिता (Obedience)", "is_correct": true },
+      { "text": "पुरस्कार, दंड, उपेक्षा", "is_correct": false },
+      { "text": "भय, प्रेम, आदर", "is_correct": false }
+    ],
+    "explanation": "Social Influence के तीन मुख्य प्रकार: (1) Conformity — समूह के साथ बिना दबाव के मेल खाना (Asch प्रयोग), (2) Compliance — अनुरोध पर मानना (Foot-in-the-door technique), (3) Obedience — प्राधिकार के आदेश पर मानना (Milgram प्रयोग)। तीनों सामाजिक व्यवहार में महत्वपूर्ण हैं।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'पूर्वाग्रह' (Prejudice) के तीन घटक कौन-से हैं?",
+    "options": [
+      { "text": "ज्ञान, कौशल, दृष्टिकोण", "is_correct": false },
+      { "text": "रूढ़िवादिता (Stereotype), पूर्वाग्रह/अभिवृत्ति (Prejudice/Attitude) और भेदभाव (Discrimination)", "is_correct": true },
+      { "text": "नस्ल, धर्म, जाति", "is_correct": false },
+      { "text": "भय, घृणा, हिंसा", "is_correct": false }
+    ],
+    "explanation": "Prejudice के तीन घटक: (1) Cognitive — Stereotype (रूढ़िवादिता — किसी समूह के बारे में अत्यधिक सरलीकृत मान्यताएँ), (2) Affective — Prejudice (नकारात्मक भावना), (3) Behavioral — Discrimination (भेदभावपूर्ण व्यवहार)। तीनों मिलकर सामाजिक असमानता को बनाए रखते हैं।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'आत्म-प्रस्तुति' (Self-Presentation) और 'इंप्रेशन मैनेजमेंट' (Impression Management) की अवधारणा किसने दी?",
+    "options": [
+      { "text": "सिगमंड फ्रायड", "is_correct": false },
+      { "text": "अर्विंग गॉफमैन — 'Presentation of Self in Everyday Life' (1959)", "is_correct": true },
+      { "text": "जॉर्ज हर्बर्ट मीड", "is_correct": false },
+      { "text": "एरिक एरिक्सन", "is_correct": false }
+    ],
+    "explanation": "Erving Goffman ने 'The Presentation of Self in Everyday Life' (1959) में Dramaturgical Theory प्रस्तुत की — जीवन एक रंगमंच है जहाँ हम अपनी 'भूमिका' अदा करते हैं। Front Stage (दूसरों के सामने प्रदर्शन) और Back Stage (वास्तविक स्वयं) की अवधारणाएँ दीं।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'भीड़ में एकाकीपन' (Deindividuation) का क्या अर्थ है?",
+    "options": [
+      { "text": "भीड़ में अधिक जिम्मेदारी अनुभव करना", "is_correct": false },
+      { "text": "गुमनामी और समूह में व्यक्तिगत पहचान खोने से आत्म-नियंत्रण कम होना — उग्र व्यवहार का जोखिम बढ़ता है", "is_correct": true },
+      { "text": "भीड़ में शांत और संयमित रहना", "is_correct": false },
+      { "text": "केवल ऑनलाइन गुमनामी से संबंधित", "is_correct": false }
+    ],
+    "explanation": "Deindividuation (Festinger, 1952; Zimbardo, 1969) — जब व्यक्ति समूह में पहचान खो देता है (जैसे मुखौटे में, भीड़ में) तो आत्म-जागरूकता कम होती है और निषिद्ध व्यवहार (हिंसा, दंगा) की संभावना बढ़ती है। ऑनलाइन trolling में भी यही mechanism काम करता है।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'सामाजिक आलस्य' (Social Loafing) क्या है?",
+    "options": [
+      { "text": "समूह में काम करने से सदैव बेहतर प्रदर्शन होता है", "is_correct": false },
+      { "text": "समूह में काम करते समय व्यक्ति अकेले की तुलना में कम प्रयास करता है", "is_correct": true },
+      { "text": "समूह में काम करने से आलस्य बढ़ता है", "is_correct": false },
+      { "text": "यह केवल बड़े समूहों में होता है", "is_correct": false }
+    ],
+    "explanation": "Social Loafing (Latané, Williams & Harkins, 1979) — जब लोग समूह में काम करते हैं तो व्यक्तिगत योगदान अदृश्य होता है, जिससे प्रयास कम होता है। 'Free rider problem' इसी से जुड़ा है। Remedies: individual accountability, small groups, meaningful tasks।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'मूलभूत귀인 त्रुटि' (Fundamental Attribution Error) का क्या अर्थ है?",
+    "options": [
+      { "text": "हम दूसरों के व्यवहार को परिस्थितियों के कारण समझाते हैं", "is_correct": false },
+      { "text": "हम दूसरों के व्यवहार को उनके व्यक्तिगत गुणों से और अपने व्यवहार को परिस्थितियों से समझाते हैं", "is_correct": true },
+      { "text": "हम हमेशा सही귀인 करते हैं", "is_correct": false },
+      { "text": "यह केवल नकारात्मक व्यवहार में होता है", "is_correct": false }
+    ],
+    "explanation": "Fundamental Attribution Error (Lee Ross, 1977) — हम दूसरे के बुरे व्यवहार को उनके चरित्र (dispositional) से जोड़ते हैं ('वह आलसी है') पर अपने बुरे व्यवहार को परिस्थिति (situational) से ('मैं थका था')। स्वास्थ्य में: रोगी की non-compliance को उनकी 'आलसी' प्रकृति कह देना FAE है।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'समूह ध्रुवीकरण' (Group Polarization) का क्या अर्थ है?",
+    "options": [
+      { "text": "समूह चर्चा के बाद सदैव समझौते पर पहुँचना", "is_correct": false },
+      { "text": "समूह चर्चा के बाद व्यक्तियों की प्रारंभिक मान्यताएँ अधिक चरम (extreme) हो जाती हैं", "is_correct": true },
+      { "text": "समूह में मतभेद बढ़ जाते हैं", "is_correct": false },
+      { "text": "यह केवल नकारात्मक मान्यताओं में होता है", "is_correct": false }
+    ],
+    "explanation": "Group Polarization (Moscovici & Zavalloni, 1969) — यदि अधिकांश सदस्य प्रारंभ में किसी मान्यता की ओर झुके हों, तो चर्चा के बाद वे उस दिशा में और अधिक चरम हो जाते हैं। Online echo chambers में यही होता है। Groupthink का एक कारण।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'परोपकार' (Altruism) के 'सहानुभूति-परोपकार परिकल्पना' (Empathy-Altruism Hypothesis — Batson) का क्या तर्क है?",
+    "options": [
+      { "text": "लोग केवल स्वार्थ से दूसरों की सहायता करते हैं", "is_correct": false },
+      { "text": "जब किसी के प्रति सहानुभूति होती है, तो वास्तव में निःस्वार्थ सहायता की इच्छा होती है", "is_correct": true },
+      { "text": "परोपकार एक सांस्कृतिक नियम है", "is_correct": false },
+      { "text": "सहानुभूति सदैव परोपकार से पैदा नहीं होती", "is_correct": false }
+    ],
+    "explanation": "C. Daniel Batson की Empathy-Altruism Hypothesis — जब हम किसी को कष्ट में देखते हैं और सहानुभूति (Empathy) अनुभव करते हैं, तो उनकी मदद करने की इच्छा शुद्ध रूप से उनके कल्याण के लिए होती है — न कि अपनी बेचैनी दूर करने के लिए। यह True Altruism का मनोवैज्ञानिक आधार है।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'सम्पर्क परिकल्पना' (Contact Hypothesis — Allport) के अनुसार पूर्वाग्रह कब कम होता है?",
+    "options": [
+      { "text": "किसी भी प्रकार के संपर्क से", "is_correct": false },
+      { "text": "जब समान दर्जा, साझा लक्ष्य, अंतर-समूह सहयोग और संस्थागत समर्थन हो", "is_correct": true },
+      { "text": "केवल लंबे समय तक साथ रहने से", "is_correct": false },
+      { "text": "केवल शिक्षा और जानकारी से", "is_correct": false }
+    ],
+    "explanation": "Gordon Allport की Contact Hypothesis (1954) — पूर्वाग्रह कम करने के लिए Contact की चार शर्तें: (1) Equal Status — दोनों समूहों का समान दर्जा, (2) Common Goals, (3) Intergroup Cooperation (न प्रतिस्पर्धा), (4) Institutional Support (कानून, अधिकारियों का समर्थन)। Robbers Cave Experiment (Sherif) ने इसे demonstrate किया।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'स्व-पूर्ति भविष्यवाणी' (Self-Fulfilling Prophecy) का क्या अर्थ है?",
+    "options": [
+      { "text": "भविष्य की सटीक भविष्यवाणी", "is_correct": false },
+      { "text": "जब किसी के बारे में मान्यता इतनी मजबूत हो कि वह उस व्यक्ति के व्यवहार को बदल दे और भविष्यवाणी सच हो जाए", "is_correct": true },
+      { "text": "केवल सकारात्मक मान्यताओं का सच होना", "is_correct": false },
+      { "text": "यह केवल रहस्यवाद में होता है", "is_correct": false }
+    ],
+    "explanation": "Robert Merton ने Self-Fulfilling Prophecy दी। Rosenthal & Jacobson का 'Pygmalion Effect' — शिक्षकों को बताया कि कुछ बच्चे 'bright' हैं (झूठ) — उन बच्चों का IQ वास्तव में बढ़ा। स्वास्थ्य में: यदि doctor रोगी को 'noncompliant' मान ले, तो कम care से वह वास्तव में noncompliant बन सकता है।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'अनुभव द्वारा प्रेरित' (Bystander Effect) में 'Diffusion of Responsibility' और 'Pluralistic Ignorance' दोनों क्या भूमिका निभाते हैं?",
+    "options": [
+      { "text": "केवल Diffusion of Responsibility भूमिका निभाती है", "is_correct": false },
+      { "text": "Diffusion — 'कोई और करेगा'; Pluralistic Ignorance — 'बाकी लोग चिंतित नहीं लग रहे इसलिए शायद emergency नहीं' — दोनों मिलकर helping को रोकते हैं", "is_correct": true },
+      { "text": "केवल Pluralistic Ignorance भूमिका निभाती है", "is_correct": false },
+      { "text": "Bystander Effect केवल बड़े शहरों में होता है", "is_correct": false }
+    ],
+    "explanation": "Latané & Darley (1968) ने दो mechanisms identify किए: (1) Diffusion of Responsibility — जिम्मेदारी बँट जाती है, (2) Pluralistic Ignorance — सब दूसरों को देखते हैं और सोचते हैं 'कोई चिंतित नहीं, तो शायद ठीक है'। दोनों मिलकर बड़े समूह में सहायता को inhibit करते हैं।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'इन-ग्रुप और आउट-ग्रुप' (In-group & Out-group) पक्षपात क्या है?",
+    "options": [
+      { "text": "हम अपने समूह के बाहर के लोगों को अधिक पसंद करते हैं", "is_correct": false },
+      { "text": "हम अपने समूह के सदस्यों को अधिक पसंद करते हैं और उनके प्रति अधिक सकारात्मक होते हैं — In-group Favoritism", "is_correct": true },
+      { "text": "दोनों समूहों के प्रति समान व्यवहार होता है", "is_correct": false },
+      { "text": "Out-group के प्रति सहानुभूति स्वाभाविक है", "is_correct": false }
+    ],
+    "explanation": "Tajfel & Turner के Social Identity Theory के अनुसार, हम अपने In-group (जिससे हम पहचान रखते हैं) को Out-group से बेहतर मानते हैं — यह In-group Favoritism है। Minimal Group Paradigm ने दिखाया कि मनमाने विभाजन (जैसे रंग पसंद) पर भी In-group bias उभरता है।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'सामाजिक तुलना' (Social Comparison) के 'ऊपरगामी और अधोगामी तुलना' (Upward और Downward Comparison) में क्या अंतर है?",
+    "options": [
+      { "text": "Upward Comparison हमेशा प्रेरक है", "is_correct": false },
+      { "text": "Upward — श्रेष्ठों से तुलना (inspiration या envy), Downward — कमजोरों से (comfort) — दोनों Self-Esteem और Motivation को प्रभावित करते हैं", "is_correct": true },
+      { "text": "Downward Comparison हमेशा नकारात्मक है", "is_correct": false },
+      { "text": "सामाजिक तुलना हमेशा Lateral (समान) होती है", "is_correct": false }
+    ],
+    "explanation": "Upward Social Comparison — बेहतर लोगों से तुलना: प्रेरणा (aspiration) या ईर्ष्या (envy) दोनों संभव। Downward Social Comparison — कमजोर लोगों से तुलना: self-esteem boost — 'कम से कम मैं उनसे बेहतर हूँ'। Chronic illness में: patients अक्सर Downward Comparison से coping करते हैं।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'नियंत्रण का भ्रम' (Illusion of Control) का क्या अर्थ है?",
+    "options": [
+      { "text": "व्यक्ति सभी चीजों को नियंत्रित कर सकता है", "is_correct": false },
+      { "text": "व्यक्ति उन परिणामों पर भी नियंत्रण का अनुभव करता है जो वास्तव में chance-based हैं", "is_correct": true },
+      { "text": "नियंत्रण की कमी से हमेशा बेहतर निर्णय होते हैं", "is_correct": false },
+      { "text": "यह केवल मानसिक रोगियों में होता है", "is_correct": false }
+    ],
+    "explanation": "Ellen Langer का Illusion of Control (1975) — लोग chance events पर skill जैसा नियंत्रण महसूस करते हैं — जैसे जुए में खुद पासे फेंकना 'बेहतर' लगता है। स्वास्थ्य में: 'Lucky charm' पहनने से बेहतर health outcome की उम्मीद रखना।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Scapegoating' (बलिदान का बकरा) का क्या अर्थ है?",
+    "options": [
+      { "text": "किसी की सराहना करना", "is_correct": false },
+      { "text": "अपनी समस्याओं और निराशा का दोष एक कमजोर समूह (out-group) पर डालना", "is_correct": true },
+      { "text": "किसी की बलि चढ़ाना (केवल literal अर्थ)", "is_correct": false },
+      { "text": "समूह में निर्णय लेना", "is_correct": false }
+    ],
+    "explanation": "Scapegoating — Frustration-Aggression Hypothesis का विस्तार — जब प्रत्यक्ष निराशा का लक्ष्य उपलब्ध नहीं, तो कमजोर 'Out-group' को दोषी ठहराया जाता है। इतिहास में: नाजी जर्मनी में यहूदियों को, भारत में महामारी में अल्पसंख्यकों को। स्वास्थ्य में: COVID-19 में विशेष समुदायों पर दोष।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'भूमिका संघर्ष' (Role Conflict) का एक व्यावहारिक उदाहरण क्या है?",
+    "options": [
+      { "text": "एक ही भूमिका निभाना", "is_correct": false },
+      { "text": "ASHA जो माँ भी है — बच्चे की बीमारी में घर रहना चाहती है पर कार्यक्षेत्र की प्रसव डयूटी भी है", "is_correct": true },
+      { "text": "किसी भूमिका को अस्वीकार करना", "is_correct": false },
+      { "text": "भूमिकाओं का सफलतापूर्वक निभाना", "is_correct": false }
+    ],
+    "explanation": "Role Conflict तब होता है जब एक व्यक्ति एक साथ दो या अधिक भूमिकाओं की अलग-अलग अपेक्षाओं को एक साथ नहीं पूरा कर सकता। Inter-role Conflict — दो अलग भूमिकाओं में टकराव (माँ vs कार्यकर्ता)। Intra-role Conflict — एक भूमिका में विभिन्न लोगों की परस्पर विरोधी अपेक्षाएँ।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'सामाजिक आदर्श' (Social Norms) के 'Descriptive Norms' और 'Injunctive Norms' में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Descriptive — 'अधिकांश लोग यह करते हैं', Injunctive — 'समाज में यह करना चाहिए (approved)'", "is_correct": true },
+      { "text": "Injunctive Norms अधिक strong होते हैं", "is_correct": false },
+      { "text": "Descriptive Norms केवल नकारात्मक व्यवहार के लिए", "is_correct": false }
+    ],
+    "explanation": "Cialdini का distinction: Descriptive Norms — 'यहाँ अधिकांश लोग मास्क पहनते हैं' (observation); Injunctive Norms — 'मास्क पहनना अनुमोदित/अपेक्षित है' (evaluation)। Descriptive Norms behavior prediction में stronger होते हैं। 'Don't be a litterbug' campaign में यह distinction दिखाया गया।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'व्यक्तिवाद बनाम समूहवाद' (Individualism vs Collectivism — Hofstede) में भारत कहाँ है?",
+    "options": [
+      { "text": "भारत अत्यधिक Individualistic समाज है", "is_correct": false },
+      { "text": "भारत Collectivist समाज है जहाँ परिवार और समूह की प्राथमिकता व्यक्तिगत से अधिक होती है", "is_correct": true },
+      { "text": "भारत पूरी तरह Individualistic हो रहा है", "is_correct": false },
+      { "text": "Individualism vs Collectivism का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Geert Hofstede के Cultural Dimensions में भारत Collectivist समाज है — परिवार, जाति, जनजाति के प्रति loyalty व्यक्तिगत लक्ष्यों से अधिक। स्वास्थ्य निर्णयों में: भारत में medical decisions परिवार सामूहिक रूप से लेता है। ASHA को परिवार के साथ काम करना अधिक प्रभावी है।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'संचार में गैर-मौखिक संकेत' (Non-verbal Communication) का स्वास्थ्य शिक्षा में क्या महत्व है?",
+    "options": [
+      { "text": "केवल बोले गए शब्द महत्वपूर्ण हैं", "is_correct": false },
+      { "text": "55% Body Language, 38% Tone of Voice, 7% Words (Mehrabian Rule) — Non-verbal संकेत संदेश की प्रामाणिकता निर्धारित करते हैं", "is_correct": true },
+      { "text": "Non-verbal Communication केवल विकलांगों के लिए", "is_correct": false },
+      { "text": "Non-verbal Communication का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Albert Mehrabian का '7-38-55 Rule' (सीमित context में) — Communication में: 7% Words, 38% Vocal Tone, 55% Body Language। स्वास्थ्य शिक्षा में: ASHA का आत्मविश्वासी, गर्मजोशी भरा body language संदेश की विश्वसनीयता बढ़ाता है। आँख का संपर्क, सिर हिलाना, खुली body language — ये trust बनाते हैं।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'जनमत' (Public Opinion) और 'सामाजिक प्रतिनिधित्व' (Social Representations — Moscovici) में क्या संबंध है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Social Representations साझा ज्ञान और समझ के ढाँचे हैं जो जनमत को आकार देते हैं — जैसे 'COVID vaccine के बारे में समाज की साझा समझ'", "is_correct": true },
+      { "text": "जनमत Social Representations से स्वतंत्र है", "is_correct": false },
+      { "text": "Social Representations केवल व्यक्तिगत मान्यताएँ हैं", "is_correct": false }
+    ],
+    "explanation": "Serge Moscovici की Social Representations Theory — समाज में वैज्ञानिक ज्ञान को 'commonsense knowledge' में रूपांतरित किया जाता है। Health में: 'Corona virus किसी ने फैलाया' — यह Social Representation है। ASHA को पता होना चाहिए कि समुदाय में vaccine के बारे में कौन-सी Social Representations प्रचलित हैं।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'स्वास्थ्य व्यवहार में समाजीकरण' (Socialisation and Health Behaviour) में परिवार की क्या भूमिका है?",
+    "options": [
+      { "text": "परिवार का स्वास्थ्य व्यवहार पर कोई प्रभाव नहीं", "is_correct": false },
+      { "text": "परिवार प्राथमिक समाजीकरण एजेंट है — बच्चे स्वास्थ्य व्यवहार, खाने की आदतें, स्वच्छता और स्वास्थ्य मान्यताएँ परिवार से सीखते हैं", "is_correct": true },
+      { "text": "केवल स्कूल स्वास्थ्य व्यवहार को प्रभावित करता है", "is_correct": false },
+      { "text": "परिवार केवल आर्थिक सहायता देता है", "is_correct": false }
+    ],
+    "explanation": "Primary Socialisation (Talcott Parsons) — परिवार में बच्चा स्वास्थ्य मान्यताएँ, खाने की आदतें, स्वच्छता और बीमारी में व्यवहार सीखता है। यदि माता-पिता धूम्रपान करते हैं, तो बच्चों में धूम्रपान का जोखिम बढ़ता है। ASHA को परिवार के गेटकीपर (मुखिया, सास) के साथ काम करना आवश्यक है।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'सामाजिक शक्ति' (Social Power — French & Raven) के कितने प्रकार हैं?",
+    "options": [
+      { "text": "3", "is_correct": false },
+      { "text": "6 — पुरस्कार, दंड, वैधानिक, विशेषज्ञ, सन्दर्भ और सूचना शक्ति", "is_correct": true },
+      { "text": "2 — formal and informal", "is_correct": false },
+      { "text": "10", "is_correct": false }
+    ],
+    "explanation": "French & Raven (1959) ने Social Power के 5 bases दिए (बाद में Information Power जोड़ी): (1) Reward Power — पुरस्कार देने की क्षमता, (2) Coercive Power — दंड, (3) Legitimate Power — पद से, (4) Expert Power — विशेषज्ञता से, (5) Referent Power — आकर्षण/सम्मान से, (6) Information Power। ASHA के पास Expert और Referent Power होनी चाहिए।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'प्रेरक संचार' (Persuasive Communication) में 'स्रोत की विश्वसनीयता' (Source Credibility) के दो प्रमुख घटक कौन-से हैं?",
+    "options": [
+      { "text": "आयु और शिक्षा", "is_correct": false },
+      { "text": "विशेषज्ञता (Expertise) और विश्वसनीयता (Trustworthiness)", "is_correct": true },
+      { "text": "आकर्षकता और धन", "is_correct": false },
+      { "text": "भाषा और स्वर", "is_correct": false }
+    ],
+    "explanation": "Hovland, Janis & Kelley के Yale Attitude Change Approach में Source Credibility के दो घटक: (1) Expertise — 'क्या वह विषय जानता है?' (2) Trustworthiness — 'क्या वह ईमानदार है?' दोनों मिलकर संदेश की प्रेरक शक्ति निर्धारित करते हैं। Health Educator की credibility यही तय करती है।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'सामाजिक आदान-प्रदान सिद्धांत' (Social Exchange Theory) के अनुसार रिश्ते कब टिकाऊ होते हैं?",
+    "options": [
+      { "text": "जब एक व्यक्ति सदैव देता है और दूसरा लेता है", "is_correct": false },
+      { "text": "जब लाभ (Benefits) लागत (Costs) से अधिक हों और तुलनात्मक स्तर (Comparison Level) से बेहतर हो", "is_correct": true },
+      { "text": "जब दोनों व्यक्ति एक समान हों", "is_correct": false },
+      { "text": "रिश्ते कभी आर्थिक सिद्धांतों पर नहीं टिकते", "is_correct": false }
+    ],
+    "explanation": "Thibaut & Kelley का Social Exchange Theory — लोग relationships में लाभ-लागत का मूल्यांकन करते हैं। Comparison Level (CL) — अपेक्षित लाभ। CL for Alternatives — अन्य विकल्पों से तुलना। जब Benefits > Costs और alternatives से बेहतर, तो संबंध जारी रहता है। ASHA-community relationship में भी यही लागू होता है।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'सामाजिक न्याय' (Social Justice) और 'वितरणात्मक न्याय' (Distributive Justice) में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Distributive Justice — संसाधनों के उचित वितरण से; Social Justice — व्यापक — समान अवसर, भागीदारी और उत्पीड़न से मुक्ति तक", "is_correct": true },
+      { "text": "Social Justice केवल आर्थिक है", "is_correct": false },
+      { "text": "Distributive Justice केवल स्वास्थ्य क्षेत्र में", "is_correct": false }
+    ],
+    "explanation": "Distributive Justice — Aristotle और Rawls — संसाधनों (स्वास्थ्य, शिक्षा) का निष्पक्ष वितरण। Social Justice — Adams, Rawls, Young — इससे आगे: equal opportunity, recognition, voice, freedom from oppression। स्वास्थ्य में: Distributive Justice = स्वास्थ्य सेवाओं तक समान पहुँच; Social Justice = health equity के सामाजिक निर्धारकों को बदलना।"
+  },
+  {
+    "question": "Elaboration Likelihood Model (ELM) में 'केंद्रीय मार्ग' (Central Route) और 'परिधीय मार्ग' (Peripheral Route) में क्या अंतर है?",
+    "options": [
+      { "text": "केंद्रीय मार्ग — भावनाओं पर; परिधीय — तर्कों पर", "is_correct": false },
+      { "text": "केंद्रीय मार्ग — गहन विचार-विमर्श से दृष्टिकोण परिवर्तन; परिधीय — सरल संकेतों (जैसे celebrity) से", "is_correct": true },
+      { "text": "दोनों समान प्रभावी हैं", "is_correct": false },
+      { "text": "ELM केवल विज्ञापन तक सीमित है", "is_correct": false }
+    ],
+    "explanation": "Petty & Cacioppo (1986) का ELM — दो मार्ग: (1) Central Route — व्यक्ति संदेश के तर्कों को ध्यान से सोचता है → स्थायी दृष्टिकोण परिवर्तन। (2) Peripheral Route — तर्क नहीं, बल्कि संकेत (source attractiveness, music, celebrity) पर निर्भर → अस्थायी बदलाव। Health Education में high-involvement विषयों (vaccination) में Central Route अधिक प्रभावी।"
+  },
+  {
+    "question": "अनुरूपता (Conformity) के दो मुख्य प्रकार — 'सूचनात्मक' (Informational) और 'मानकीय' (Normative) — में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही — भीड़ से मेल खाना", "is_correct": false },
+      { "text": "Informational — सही जानकारी के लिए दूसरों पर निर्भर; Normative — स्वीकृति/अस्वीकृति से बचने के लिए", "is_correct": true },
+      { "text": "Informational — मजबूरी; Normative — स्वेच्छा से", "is_correct": false },
+      { "text": "Normative — ज्ञान आधारित; Informational — भावना आधारित", "is_correct": false }
+    ],
+    "explanation": "Deutsch & Gerard (1955): Informational Conformity — जब स्थिति अस्पष्ट हो और हम दूसरों को सही मानें (जैसे नए क्षेत्र में health advice लेना)। Normative Conformity — सामाजिक स्वीकृति के लिए (जैसे group के साथ smoking करना)। Asch प्रयोग मुख्यतः normative conformity दिखाता है।"
+  },
+  {
+    "question": "'Foot-in-the-Door' तकनीक का मूल सिद्धांत क्या है?",
+    "options": [
+      { "text": "पहले बड़ा अनुरोध करो, फिर छोटा", "is_correct": false },
+      { "text": "पहले छोटा अनुरोध मनवाओ, फिर बड़ा — प्रारंभिक अनुपालन से आत्म-छवि बनती है", "is_correct": true },
+      { "text": "जबरदस्ती से अनुपालन करवाना", "is_correct": false },
+      { "text": "केवल बच्चों पर प्रभावी तकनीक", "is_correct": false }
+    ],
+    "explanation": "Freedman & Fraser (1966) — Foot-in-the-Door: पहले छोटा अनुरोध (जैसे 'क्या आप स्वास्थ्य सर्वे में भाग लेंगे?') स्वीकार होने पर, बड़ा अनुरोध (जैसे 'क्या आप रक्तदान करेंगे?') स्वीकार होने की संभावना बढ़ जाती है। Self-perception theory — लोग खुद को 'helpful' मानने लगते हैं। ASHA की health drives में उपयोगी।"
+  },
+  {
+    "question": "'Door-in-the-Face' तकनीक किस मनोवैज्ञानिक सिद्धांत पर आधारित है?",
+    "options": [
+      { "text": "Self-perception theory", "is_correct": false },
+      { "text": "Reciprocal concession (पारस्परिक रियायत) — पहले बड़ा नकारा, फिर छोटे पर राज़ी होना", "is_correct": true },
+      { "text": "Cognitive Dissonance", "is_correct": false },
+      { "text": "Social Learning Theory", "is_correct": false }
+    ],
+    "explanation": "Cialdini et al. (1975) — Door-in-the-Face: पहले बहुत बड़ा अनुरोध करें (जो नकारा जाए), फिर वास्तविक (छोटा) अनुरोध करें। उदाहरण: 'क्या आप 3 घंटे रक्तदान शिविर में काम करेंगे?' (नकारा) → 'क्या आप कल 30 मिनट के लिए आएंगे?' (स्वीकार)। Reciprocal concession का सिद्धांत — माँग में रियायत दिखने पर लोग मानते हैं।"
+  },
+  {
+    "question": "अंतर-व्यक्तिगत आकर्षण (Interpersonal Attraction) में 'समानता-आकर्षण परिकल्पना' (Similarity-Attraction Hypothesis) क्या कहती है?",
+    "options": [
+      { "text": "विपरीत लोग आकर्षित होते हैं", "is_correct": false },
+      { "text": "हम उन लोगों से अधिक आकर्षित होते हैं जो हमारे जैसे (मूल्य, रुचि, दृष्टिकोण) हों", "is_correct": true },
+      { "text": "शारीरिक सौंदर्य ही आकर्षण का आधार है", "is_correct": false },
+      { "text": "आकर्षण केवल विपरीत लिंग में होता है", "is_correct": false }
+    ],
+    "explanation": "Byrne (1971) का Similarity-Attraction Hypothesis — shared attitudes, values, personality traits → अधिक पसंद और आकर्षण। Proximity (निकटता), Familiarity, और Physical attractiveness भी भूमिका निभाते हैं। Health Education में: समुदाय के लोग उन ASHA से अधिक जुड़ते हैं जो उनकी भाषा, संस्कृति साझा करती हैं।"
+  },
+  {
+    "question": "Sternberg के 'प्रेम के त्रिकोणीय सिद्धांत' (Triangular Theory of Love) के तीन घटक कौन-से हैं?",
+    "options": [
+      { "text": "आकर्षण, विश्वास, निष्ठा", "is_correct": false },
+      { "text": "अंतरंगता (Intimacy), जुनून (Passion) और प्रतिबद्धता (Commitment)", "is_correct": true },
+      { "text": "भावना, कारण, इच्छाशक्ति", "is_correct": false },
+      { "text": "मित्रता, आकर्षण, विवाह", "is_correct": false }
+    ],
+    "explanation": "Robert Sternberg (1986) — Triangular Theory of Love: (1) Intimacy — भावनात्मक निकटता और साझेदारी, (2) Passion — शारीरिक/रोमांटिक आकर्षण, (3) Commitment — साथ रहने का दीर्घकालिक निर्णय। Consummate Love — तीनों का संयोग। परिवार नियोजन परामर्श में दाम्पत्य संबंधों को समझने में उपयोगी।"
+  },
+  {
+    "question": "Bandura के सामाजिक शिक्षण सिद्धांत के अनुसार आक्रामकता (Aggression) कैसे सीखी जाती है?",
+    "options": [
+      { "text": "आक्रामकता जन्मजात (Innate) होती है", "is_correct": false },
+      { "text": "दूसरों को देखकर (Observational Learning/Modeling) — विशेषतः जब आक्रामक व्यवहार पुरस्कृत हो", "is_correct": true },
+      { "text": "केवल हार्मोनल कारणों से", "is_correct": false },
+      { "text": "केवल प्रत्यक्ष अनुभव से सीखी जाती है", "is_correct": false }
+    ],
+    "explanation": "Bandura का Bobo Doll Experiment (1961) — बच्चों ने आक्रामक मॉडल देखा तो स्वयं आक्रामक हुए। Observational Learning/Vicarious Reinforcement — जब मॉडल को पुरस्कार मिले, तो नकल अधिक। Media violence और aggression के संबंध में महत्वपूर्ण। घरेलू हिंसा के चक्र को समझने में प्रासंगिक।"
+  },
+  {
+    "question": "'निराशा-आक्रामकता परिकल्पना' (Frustration-Aggression Hypothesis) किसने दी?",
+    "options": [
+      { "text": "सिगमंड फ्रायड", "is_correct": false },
+      { "text": "Dollard, Doob, Miller et al. (1939) — निराशा सदा आक्रामकता उत्पन्न करती है", "is_correct": true },
+      { "text": "Albert Bandura", "is_correct": false },
+      { "text": "Konrad Lorenz", "is_correct": false }
+    ],
+    "explanation": "Dollard et al. (1939) — Frustration-Aggression Hypothesis: 'Frustration always leads to aggression.' बाद में Berkowitz ने संशोधित किया — निराशा aggressive cues की उपस्थिति में आक्रामकता बढ़ाती है। सामाजिक असमानता, गरीबी, स्वास्थ्य सेवाओं की कमी → निराशा → सामुदायिक हिंसा — health education में प्रासंगिक।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'परोपकारी व्यवहार' (Prosocial Behavior) को बढ़ावा देने वाले मुख्य कारक कौन-से हैं?",
+    "options": [
+      { "text": "केवल पुरस्कार और दंड", "is_correct": false },
+      { "text": "सहानुभूति (Empathy), सामाजिक मानदंड (Social Norms), मॉडलिंग और व्यक्तिगत उत्तरदायित्व", "is_correct": true },
+      { "text": "केवल जन्मजात स्वभाव", "is_correct": false },
+      { "text": "आर्थिक प्रोत्साहन ही एकमात्र कारक", "is_correct": false }
+    ],
+    "explanation": "Prosocial Behavior — दूसरों की भलाई के लिए किया गया व्यवहार। इसे बढ़ावा देने वाले कारक: (1) Empathy (Batson), (2) Reciprocity Norm, (3) Modeling (दूसरों को मदद करते देखना), (4) Personal responsibility (Schwartz — norm activation model), (5) Mood (अच्छे मूड में अधिक मदद)। स्वास्थ्य स्वयंसेवकों को प्रेरित करने में उपयोगी।"
+  },
+  {
+    "question": "Latané और Darley के 'बाईस्टैंडर हस्तक्षेप मॉडल' में पाँच चरण क्या हैं जिनसे गुजरकर व्यक्ति मदद करता है?",
+    "options": [
+      { "text": "देखना, सोचना, महसूस करना, चलना, मदद करना", "is_correct": false },
+      { "text": "घटना देखना → आपात स्थिति मानना → उत्तरदायित्व लेना → जानना कैसे मदद करें → मदद करना", "is_correct": true },
+      { "text": "घटना → भय → भागना → रिपोर्ट → भूलना", "is_correct": false },
+      { "text": "केवल दो चरण: देखना और मदद करना", "is_correct": false }
+    ],
+    "explanation": "Latané & Darley (1970) का 5-step Bystander Intervention Model: (1) Notice the event — घटना देखना, (2) Interpret as emergency — आपात मानना, (3) Assume responsibility — जिम्मेदारी लेना, (4) Know how to help — तरीका जानना, (5) Implement help — मदद करना। किसी भी चरण में विफलता → मदद नहीं। First aid training step 4 को मजबूत करती है।"
+  },
+  {
+    "question": "सामाजिक पहचान (Social Identity) स्वास्थ्य व्यवहार को कैसे प्रभावित करती है?",
+    "options": [
+      { "text": "सामाजिक पहचान का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false },
+      { "text": "लोग अपने समूह के स्वास्थ्य मानदंडों को अपनाते हैं — in-group norms स्वास्थ्य व्यवहार निर्धारित करते हैं", "is_correct": true },
+      { "text": "सामाजिक पहचान केवल राजनीति में प्रासंगिक", "is_correct": false },
+      { "text": "व्यक्ति हमेशा समूह के विरुद्ध जाता है", "is_correct": false }
+    ],
+    "explanation": "Tajfel & Turner का Social Identity Theory — लोग अपनी group membership से पहचान बनाते हैं। In-group health norms → स्वास्थ्य व्यवहार। उदाहरण: यदि समूह में धूम्रपान सामान्य है → व्यक्ति भी करेगा। Community ASHA यदि locally respected हो → उसकी health advice मानी जाएगी। Group identity leveraging — health communication में प्रभावी।"
+  },
+  {
+    "question": "Moscovici के अनुसार 'अल्पसंख्यक प्रभाव' (Minority Influence) कब प्रभावी होता है?",
+    "options": [
+      { "text": "जब अल्पसंख्यक बहुमत से सहमत हों", "is_correct": false },
+      { "text": "जब अल्पसंख्यक अपने मत में निरंतर (Consistent), आत्मविश्वासी और लचीला हो", "is_correct": true },
+      { "text": "जब अल्पसंख्यक के पास अधिक धन हो", "is_correct": false },
+      { "text": "अल्पसंख्यक कभी बहुमत को प्रभावित नहीं कर सकता", "is_correct": false }
+    ],
+    "explanation": "Serge Moscovici (1969) — Minority Influence: अल्पसंख्यक समूह बहुमत को प्रभावित कर सकता है यदि: (1) Consistency — अपने विचार में दृढ़, (2) Confidence — आत्मविश्वास, (3) Flexibility — कभी-कभी समझौता। Blue-green experiment। Health reformers (जैसे early vaccination advocates) minority influence के उदाहरण हैं।"
+  },
+  {
+    "question": "'बूमरैंग प्रभाव' (Boomerang Effect) स्वास्थ्य संचार में क्या है?",
+    "options": [
+      { "text": "स्वास्थ्य संदेश से व्यवहार में सुधार होना", "is_correct": false },
+      { "text": "जब स्वास्थ्य संदेश इच्छित के विपरीत प्रभाव डाले — लोग उल्टा व्यवहार करें", "is_correct": true },
+      { "text": "बार-बार संदेश भेजने की रणनीति", "is_correct": false },
+      { "text": "संदेश का कोई प्रभाव न होना", "is_correct": false }
+    ],
+    "explanation": "Boomerang Effect — जब स्वास्थ्य संदेश उल्टा असर करे। उदाहरण: 'इतने लोग शराब पीते हैं' → और लोग पीने लगते हैं (descriptive norm backfire)। Reactance Theory (Brehm) — लोग स्वतंत्रता पर खतरा महसूस करने पर विरोध करते हैं। 'Don't smoke' → smoking बढ़ सकती है (psychological reactance)। Health messages सावधानी से तैयार करना ज़रूरी।"
+  },
+  {
+    "question": "'Mere Exposure Effect' (केवल-संपर्क प्रभाव) क्या है?",
+    "options": [
+      { "text": "किसी व्यक्ति को देखने मात्र से उससे प्रेम हो जाना", "is_correct": false },
+      { "text": "किसी उत्तेजना (stimulus) के बार-बार संपर्क में आने से उसके प्रति पसंद बढ़ जाती है", "is_correct": true },
+      { "text": "किसी वस्तु को देखने से उसकी कीमत बढ़ना", "is_correct": false },
+      { "text": "Mere exposure — नकारात्मक भावना उत्पन्न करता है", "is_correct": false }
+    ],
+    "explanation": "Robert Zajonc (1968) — Mere Exposure Effect: Familiarity breeds liking। बार-बार किसी चेहरे, शब्द, संगीत के संपर्क में आने से पसंद बढ़ती है। Health Education में: health messages को बार-बार expose करने से स्वीकृति बढ़ती है। IEC materials की repetition इसी सिद्धांत पर आधारित है।"
+  },
+  {
+    "question": "'हेलो प्रभाव' (Halo Effect) सामाजिक धारणा में क्या है?",
+    "options": [
+      { "text": "धार्मिक लोगों को अधिक विश्वसनीय मानना", "is_correct": false },
+      { "text": "एक सकारात्मक गुण के आधार पर व्यक्ति के बारे में सभी गुण सकारात्मक मानना", "is_correct": true },
+      { "text": "प्रसिद्ध व्यक्तियों की नकल करना", "is_correct": false },
+      { "text": "समूह में सबसे अच्छे व्यक्ति को चुनना", "is_correct": false }
+    ],
+    "explanation": "Halo Effect (Thorndike, 1920) — एक प्रमुख गुण (जैसे शारीरिक आकर्षण) अन्य सभी गुणों की धारणा को प्रभावित करता है। आकर्षक लोगों को अधिक बुद्धिमान, नैतिक और सक्षम समझा जाता है। Health Education में: attractive health worker को अधिक भरोसेमंद माना जाता है — 'Presenter effect' IEC में।"
+  },
+  {
+    "question": "'स्व-सेवी पूर्वाग्रह' (Self-Serving Bias) क्या है?",
+    "options": [
+      { "text": "दूसरों की सफलता को अपनी बताना", "is_correct": false },
+      { "text": "सफलता को अपनी योग्यता से और विफलता को बाहरी कारणों से जोड़ना", "is_correct": true },
+      { "text": "स्वयं को हमेशा दोषी मानना", "is_correct": false },
+      { "text": "दूसरों की विफलता में खुशी मनाना", "is_correct": false }
+    ],
+    "explanation": "Self-Serving Bias — Attribution में स्वयं को अनुकूल रूप से देखना: सफलता → Internal attribution ('मैंने कड़ी मेहनत की'); विफलता → External attribution ('परिस्थितियाँ खराब थीं')। Health में: रोगी अपनी health outcomes की जिम्मेदारी नहीं लेता — 'भगवान की मर्जी' (external)। Health counselors को यह bias समझना ज़रूरी।"
+  },
+  {
+    "question": "'अभिनेता-प्रेक्षक पूर्वाग्रह' (Actor-Observer Bias) क्या है?",
+    "options": [
+      { "text": "Actor और Observer का एक-दूसरे से असहमत होना", "is_correct": false },
+      { "text": "अपने व्यवहार को स्थिति से और दूसरों के व्यवहार को उनके स्वभाव से जोड़ना", "is_correct": true },
+      { "text": "Actor हमेशा अधिक जानता है", "is_correct": false },
+      { "text": "Observer हमेशा गलत होता है", "is_correct": false }
+    ],
+    "explanation": "Jones & Nisbett (1971) — Actor-Observer Bias: जब हम खुद करते हैं → 'situation की वजह से'; जब दूसरे करते हैं → 'उनका स्वभाव/personality'। उदाहरण: मैं समय पर नहीं आया → 'ट्रैफिक था'; वह समय पर नहीं आया → 'वह आलसी है'। Health में: मरीज़ का non-compliance → उनके 'attitude' का दोष (observer bias) बनाम structural barriers।"
+  },
+  {
+    "question": "'न्यायसंगत विश्व परिकल्पना' (Just World Hypothesis) क्या कहती है?",
+    "options": [
+      { "text": "दुनिया हमेशा न्यायसंगत है", "is_correct": false },
+      { "text": "लोग मानते हैं कि दुनिया न्यायसंगत है — जिसे जो मिला, वह उसके कर्मों का फल है", "is_correct": true },
+      { "text": "न्यायपालिका ही विश्व को नियंत्रित करती है", "is_correct": false },
+      { "text": "गरीब लोग हमेशा दुखी रहते हैं", "is_correct": false }
+    ],
+    "explanation": "Melvin Lerner (1965) — Just World Hypothesis: लोग believe करते हैं कि 'लोगों को वही मिलता है जिसके वे हकदार हैं।' इससे पीड़ितों को दोष दिया जाता है। Health में: 'उसे cancer हुआ तो उसने खुद की देखभाल नहीं की' — victim blaming। यह bias health disparities और discrimination को normalize करता है। उचित empathy और structural understanding आवश्यक।"
+  },
+  {
+    "question": "'पारस्परिकता मानदंड' (Reciprocity Norm) सामाजिक व्यवहार में क्या भूमिका निभाता है?",
+    "options": [
+      { "text": "लोग हमेशा स्वार्थी होते हैं", "is_correct": false },
+      { "text": "जो व्यक्ति आपकी मदद करे, उसकी मदद करना नैतिक दायित्व माना जाता है", "is_correct": true },
+      { "text": "Reciprocity — केवल बाज़ार में लागू होता है", "is_correct": false },
+      { "text": "Reciprocity Norm — दंड और पुरस्कार की प्रणाली है", "is_correct": false }
+    ],
+    "explanation": "Gouldner (1960) — Reciprocity Norm: सार्वभौमिक सामाजिक नियम — 'जैसे को तैसा' — दूसरे ने मदद की तो मैं भी करूँगा। Cialdini ने इसे Influence के 6 सिद्धांतों में शामिल किया। Health Education में: CHW यदि समुदाय की मदद करे → समुदाय उनकी health drives में सहयोग देगा। Free health camps → community trust और engagement बढ़ता है।"
+  },
+  {
+    "question": "'सामाजिक उत्प्रेरण' (Social Facilitation) स्वास्थ्य शिक्षा में क्यों महत्वपूर्ण है?",
+    "options": [
+      { "text": "भीड़ में हमेशा प्रदर्शन बेहतर होता है", "is_correct": false },
+      { "text": "दूसरों की उपस्थिति में सरल/प्रशिक्षित कार्य बेहतर होते हैं — group health activities में प्रेरणा बढ़ती है", "is_correct": true },
+      { "text": "Social Facilitation — केवल खेल में लागू", "is_correct": false },
+      { "text": "अकेले काम करना हमेशा बेहतर होता है", "is_correct": false }
+    ],
+    "explanation": "Triplett (1898) — पहला social psychology प्रयोग। Zajonc (1965) — Others' presence → arousal → dominant response strengthened। Simple/well-learned tasks (जैसे trained ASHA द्वारा immunization) → group में बेहतर। Health Melas, group exercise programs, community yoga इसी सिद्धांत का उपयोग करते हैं। Self-help groups में social facilitation काम करती है।"
+  },
+  {
+    "question": "Aronson का 'Jigsaw Classroom' (1971) क्या है और यह स्वास्थ्य शिक्षा में कैसे उपयोगी है?",
+    "options": [
+      { "text": "एक परीक्षा पद्धति", "is_correct": false },
+      { "text": "सहयोगी शिक्षण विधि जहाँ प्रत्येक छात्र एक अनोखे भाग का विशेषज्ञ बनता है और समूह को सिखाता है", "is_correct": true },
+      { "text": "पहेलियों से गणित सिखाना", "is_correct": false },
+      { "text": "प्रतिस्पर्धात्मक शिक्षण पद्धति", "is_correct": false }
+    ],
+    "explanation": "Elliot Aronson (1971) — Jigsaw Classroom: प्रत्येक बच्चा किसी विषय का एक भाग सीखता है और विशेषज्ञ (expert) बनता है, फिर समूह को सिखाता है। सभी पर निर्भरता (interdependence)। Prejudice कम होती है, self-esteem बढ़ती है। Health Education में: community members को 'peer educators' बनाना — जैसे गाँव में mahila mandal में एक-एक topic expert बनाना।"
+  },
+  {
+    "question": "सामाजिक समर्थन (Social Support) के चार प्रकार कौन-से हैं?",
+    "options": [
+      { "text": "मानसिक, शारीरिक, आर्थिक, आध्यात्मिक", "is_correct": false },
+      { "text": "उपकरणात्मक (Instrumental), भावनात्मक (Emotional), सूचनात्मक (Informational) और मूल्यांकनात्मक (Appraisal)", "is_correct": true },
+      { "text": "परिवार, मित्र, पड़ोसी, सरकार", "is_correct": false },
+      { "text": "सामाजिक, सांस्कृतिक, आर्थिक, राजनीतिक", "is_correct": false }
+    ],
+    "explanation": "Cobb (1976) और Cohen & Wills (1985) — Social Support के 4 प्रकार: (1) Instrumental — ठोस मदद (जैसे अस्पताल ले जाना), (2) Emotional — सहानुभूति और देखभाल, (3) Informational — जानकारी और सलाह, (4) Appraisal — feedback और मूल्यांकन। स्वास्थ्य पर direct और buffer effect — Stress-Buffering Hypothesis।"
+  },
+  {
+    "question": "'ग्रुपथिंक' (Groupthink) किसने प्रस्तावित किया और इसके मुख्य लक्षण क्या हैं?",
+    "options": [
+      { "text": "Tajfel — समूह में विचार करना", "is_correct": false },
+      { "text": "Irving Janis (1972) — जब समूह में सर्वसम्मति की इच्छा आलोचनात्मक सोच को दबा दे", "is_correct": true },
+      { "text": "Milgram — समूह आज्ञाकारिता", "is_correct": false },
+      { "text": "Festinger — समूह में cognitive dissonance", "is_correct": false }
+    ],
+    "explanation": "Irving Janis (1972) — Groupthink: समूह में harmony/uniformity की इच्छा → critical thinking का दमन। लक्षण: Illusion of invulnerability, Collective rationalization, Out-group stereotyping, Self-censorship। Bay of Pigs invasion उदाहरण। Health committees में Groupthink → गलत health policies। Devil's advocate role और open dissent ज़रूरी।"
+  },
+  {
+    "question": "सामाजिक वर्गीकरण (Social Categorization) हमें कैसे प्रभावित करता है?",
+    "options": [
+      { "text": "यह हमें निष्पक्ष बनाता है", "is_correct": false },
+      { "text": "हम लोगों को समूहों में बाँटते हैं और in-group को out-group से बेहतर मानते हैं — in-group favoritism", "is_correct": true },
+      { "text": "सामाजिक वर्गीकरण केवल जाति-आधारित होता है", "is_correct": false },
+      { "text": "यह केवल बच्चों में होता है", "is_correct": false }
+    ],
+    "explanation": "Tajfel (1971) — Social Categorization: लोग स्वयं को और दूसरों को समूहों (जाति, धर्म, लिंग, पेशा) में वर्गीकृत करते हैं। इससे: In-group Favoritism (अपने समूह के प्रति पक्षपात) और Out-group Homogeneity ('वे सब एक जैसे हैं') उत्पन्न होती है। Stereotyping और discrimination की जड़ — health disparities में महत्वपूर्ण।"
+  },
+  {
+    "question": "'अभिवृत्ति-व्यवहार अंतराल' (Attitude-Behavior Gap) क्या है?",
+    "options": [
+      { "text": "अभिवृत्ति और व्यवहार हमेशा एक-दूसरे के विरुद्ध होते हैं", "is_correct": false },
+      { "text": "लोगों की अभिवृत्ति (जानते हैं क्या सही है) और वास्तविक व्यवहार के बीच का अंतर", "is_correct": true },
+      { "text": "Attitude — व्यवहार का पूर्वानुमान नहीं लगा सकती", "is_correct": false },
+      { "text": "केवल स्वास्थ्य के क्षेत्र में देखा जाता है", "is_correct": false }
+    ],
+    "explanation": "Wicker (1969) — Attitude-Behavior Gap: लोग जानते हैं धूम्रपान हानिकारक है (attitude) परंतु छोड़ते नहीं (behavior)। Gap के कारण: habit strength, social norms, perceived barriers, implementation intention की कमी। Health Education में इस gap को पाटना मुख्य चुनौती है — केवल awareness काफी नहीं।"
+  },
+  {
+    "question": "Ajzen का 'Theory of Planned Behavior' (TPB) किन तीन कारकों पर आधारित है?",
+    "options": [
+      { "text": "ज्ञान, कौशल, प्रेरणा", "is_correct": false },
+      { "text": "अभिवृत्ति (Attitude), व्यक्तिपरक मानदंड (Subjective Norms) और व्यवहार नियंत्रण की अनुभूति (Perceived Behavioral Control)", "is_correct": true },
+      { "text": "इच्छाशक्ति, परिस्थिति, भाग्य", "is_correct": false },
+      { "text": "सामाजिक दबाव, आर्थिक स्थिति, शिक्षा", "is_correct": false }
+    ],
+    "explanation": "Ajzen (1991) — Theory of Planned Behavior: व्यवहार का निर्धारण 'Intention' करती है, जो तीन पर निर्भर: (1) Attitude — 'क्या यह व्यवहार अच्छा है?', (2) Subjective Norms — 'मेरे करीबी क्या सोचते हैं?', (3) Perceived Behavioral Control — 'क्या मैं यह कर सकता हूँ?' (Bandura की self-efficacy से जुड़ा)। Immunization, contraception uptake में अनुप्रयुक्त।"
+  },
+  {
+    "question": "LGBTQ+ व्यक्तियों में 'अल्पसंख्यक तनाव' (Minority Stress) क्या होता है?",
+    "options": [
+      { "text": "LGBTQ+ लोगों में तनाव नहीं होता", "is_correct": false },
+      { "text": "कलंक (Stigma), भेदभाव और अस्वीकृति के कारण उत्पन्न अतिरिक्त पुराना तनाव जो स्वास्थ्य प्रभावित करता है", "is_correct": true },
+      { "text": "केवल आर्थिक कठिनाई का तनाव", "is_correct": false },
+      { "text": "अल्पसंख्यक होने के कारण शारीरिक रोग", "is_correct": false }
+    ],
+    "explanation": "Meyer (2003) — Minority Stress Model: LGBTQ+ व्यक्तियों में distal stressors (भेदभाव, हिंसा) और proximal stressors (आंतरिक stigma, छिपाने की आवश्यकता, अस्वीकृति की प्रत्याशा) → mental और physical health disparities। Depression, anxiety, suicide risk अधिक। Affirmative health services और safe environments आवश्यक।"
+  },
+  {
+    "question": "स्वास्थ्य संचार में 'सक्रिय श्रवण' (Active Listening) के मुख्य तत्व कौन-से हैं?",
+    "options": [
+      { "text": "केवल शांत रहना और इंतजार करना", "is_correct": false },
+      { "text": "ध्यान देना, प्रतिबिंबन (Reflection), स्पष्टीकरण, सारांश और निर्णय न करना", "is_correct": true },
+      { "text": "हर बात पर सहमति जताना", "is_correct": false },
+      { "text": "केवल मौखिक प्रतिक्रिया देना", "is_correct": false }
+    ],
+    "explanation": "Active Listening — Rogers का Person-Centered Approach। तत्व: (1) Attending — शरीर भाषा/eye contact, (2) Reflecting — 'आप कह रहे हैं कि...', (3) Clarifying — 'क्या आपका मतलब...?', (4) Summarizing — मुख्य बिंदु दोहराना, (5) Non-judgment — बिना निर्णय के सुनना। ASHA, ANM की patient counseling में यह कौशल अनिवार्य।"
+  },
+  {
+    "question": "सामाजिक तुलना (Social Comparison) स्वास्थ्य व्यवहार को कैसे प्रभावित करती है?",
+    "options": [
+      { "text": "सामाजिक तुलना केवल बच्चों में होती है", "is_correct": false },
+      { "text": "ऊर्ध्वगामी तुलना (Upward) — प्रेरणा या हीनभावना; अधोगामी (Downward) — संतोष या कृतज्ञता देती है", "is_correct": true },
+      { "text": "तुलना हमेशा नकारात्मक होती है", "is_correct": false },
+      { "text": "Social Comparison का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Festinger (1954) — Social Comparison Theory: हम दूसरों से तुलना करके अपनी abilities और opinions को assess करते हैं। Upward Comparison — अपने से 'बेहतर' से तुलना → प्रेरणा या self-doubt। Downward Comparison — 'बुरे हाल वाले' से तुलना → राहत। Social media पर upward comparison → body image issues, depression। Health promotion में positive role models।"
+  },
+  {
+    "question": "Cooley का 'Looking Glass Self' (दर्पण-स्वयं) सिद्धांत क्या है?",
+    "options": [
+      { "text": "आत्म-छवि केवल दर्पण देखने से बनती है", "is_correct": false },
+      { "text": "हम दूसरों की नज़रों में अपनी छवि देखकर अपनी आत्म-अवधारणा बनाते हैं", "is_correct": true },
+      { "text": "आत्म-अवधारणा जन्मजात होती है", "is_correct": false },
+      { "text": "केवल परिवार की राय आत्म-अवधारणा बनाती है", "is_correct": false }
+    ],
+    "explanation": "Charles Cooley (1902) — Looking Glass Self: Self-concept तीन चरणों में: (1) हम सोचते हैं दूसरे हमें कैसे देखते हैं, (2) हम सोचते हैं वे हमारे बारे में क्या निर्णय लेते हैं, (3) इससे हमारी आत्म-भावना (pride/shame) बनती है। Health workers की self-image community की प्रतिक्रिया से बनती है — community recognition महत्वपूर्ण।"
+  },
+  {
+    "question": "'सामाजिक मानदंड विपणन' (Social Norms Marketing) स्वास्थ्य संवर्धन में क्या है?",
+    "options": [
+      { "text": "लोगों को डराकर स्वास्थ्य व्यवहार बदलना", "is_correct": false },
+      { "text": "समुदाय में वास्तविक सकारात्मक मानदंडों को उजागर करके व्यवहार बदलना — pluralistic ignorance ठीक करना", "is_correct": true },
+      { "text": "बड़े विज्ञापनों से उत्पाद बेचना", "is_correct": false },
+      { "text": "स्वास्थ्य मानदंड कानून द्वारा निर्धारित करना", "is_correct": false }
+    ],
+    "explanation": "Berkowitz (2003) — Social Norms Approach: Pluralistic Ignorance — लोग गलती से सोचते हैं उनका व्यवहार असामान्य है। Correction: 'आपके साथियों में से 70% ने पिछले महीने ORS का उपयोग किया।' इससे positive नोर्म को reinforce किया जाता है। College campuses पर alcohol reduction और rural India में hand washing में प्रयुक्त।"
+  },
+  {
+    "question": "परोपकारी व्यवहार में 'Bystander Calculus' क्या है?",
+    "options": [
+      { "text": "दूसरों को देखकर गणित सीखना", "is_correct": false },
+      { "text": "मदद करने से पहले व्यक्ति मानसिक रूप से लागत-लाभ का आकलन करता है", "is_correct": true },
+      { "text": "केवल बच्चे मदद करने में झिझकते हैं", "is_correct": false },
+      { "text": "Bystander हमेशा मदद करता है", "is_correct": false }
+    ],
+    "explanation": "Piliavin et al. (1981) — Bystander Calculus Model: मदद करने का निर्णय cost-benefit analysis पर: (1) Costs of helping — समय, खतरा, embarrassment, (2) Rewards of helping — satisfaction, praise, (3) Costs of NOT helping — guilt, self-blame। Emergency में: low cost + high empathy → तुरंत मदद। Health emergencies (road accident) में first responder training इसी को target करती है।"
+  },
+  {
+    "question": "Cooley के अनुसार 'प्राथमिक समूह' (Primary Group) और 'द्वितीयक समूह' (Secondary Group) में अंतर क्या है?",
+    "options": [
+      { "text": "प्राथमिक — बड़े; द्वितीयक — छोटे समूह", "is_correct": false },
+      { "text": "प्राथमिक — घनिष्ठ, व्यक्तिगत, स्थायी संबंध (परिवार, मित्र); द्वितीयक — औपचारिक, अस्थायी (कार्यालय, संघ)", "is_correct": true },
+      { "text": "प्राथमिक — केवल परिवार; द्वितीयक — बाकी सब", "is_correct": false },
+      { "text": "दोनों में कोई अंतर नहीं", "is_correct": false }
+    ],
+    "explanation": "Charles Cooley (1909) — Primary Groups: छोटे, घनिष्ठ, face-to-face, लंबे समय के — परिवार, बचपन के मित्र। Personality और values बनाते हैं। Secondary Groups: बड़े, formal, उद्देश्य-आधारित — school, office, political party। Health में Primary Groups का health behavior पर अधिक प्रभाव — family support → treatment adherence।"
+  },
+  {
+    "question": "'संदर्भ समूह' (Reference Group) क्या है और यह व्यवहार को कैसे प्रभावित करता है?",
+    "options": [
+      { "text": "वह समूह जिसका हम हिस्सा हैं", "is_correct": false },
+      { "text": "वह समूह जिसे हम मानक मानकर अपने व्यवहार, मूल्य और दृष्टिकोण की तुलना करते हैं", "is_correct": true },
+      { "text": "केवल परिवार reference group होता है", "is_correct": false },
+      { "text": "Reference Group — केवल नकारात्मक प्रभाव डालती है", "is_correct": false }
+    ],
+    "explanation": "Hyman (1942) — Reference Group: वह समूह (सदस्य हों या न हों) जिसे मानक मानकर हम खुद को judge करते हैं। Comparative reference group — तुलना; Normative reference group — मूल्य और मानदंड। Health में: यदि कोई 'educated professional' को reference group माने → healthy behaviors adopt करने की संभावना। Peer influence mechanism।"
+  },
+  {
+    "question": "Talcott Parsons की 'भूमिका सिद्धांत' (Role Theory) और 'Sick Role' की अवधारणा क्या है?",
+    "options": [
+      { "text": "बीमार व्यक्ति को कोई जिम्मेदारी नहीं होती", "is_correct": false },
+      { "text": "बीमार को दो अधिकार (काम से छूट, दोषमुक्ति) और दो कर्तव्य (ठीक होने की कोशिश, डॉक्टर का पालन) होते हैं", "is_correct": true },
+      { "text": "Sick Role — केवल पुरानी बीमारियों में लागू", "is_correct": false },
+      { "text": "डॉक्टर की कोई सामाजिक भूमिका नहीं", "is_correct": false }
+    ],
+    "explanation": "Talcott Parsons (1951) — Sick Role: Functionalist perspective। Rights: (1) बीमार व्यक्ति सामान्य जिम्मेदारियों से मुक्त, (2) बीमारी उसकी गलती नहीं। Obligations: (1) ठीक होने की कोशिश करे, (2) योग्य चिकित्सक से मिले। Criticism: chronic illness, mental illness, poverty-induced illness में लागू नहीं — structural factors नज़रअंदाज़।"
+  },
+  {
+    "question": "स्वास्थ्य शिक्षा में 'सामाजिक शिक्षण सिद्धांत' (Social Learning Theory) का अनुप्रयोग क्या है?",
+    "options": [
+      { "text": "केवल पुस्तकों से सीखना", "is_correct": false },
+      { "text": "Role models, demonstration और reinforcement से स्वास्थ्य व्यवहार सीखना", "is_correct": true },
+      { "text": "Social Learning — केवल बच्चों के लिए", "is_correct": false },
+      { "text": "Health education में modeling अप्रासंगिक है", "is_correct": false }
+    ],
+    "explanation": "Bandura का Social Learning Theory — स्वास्थ्य शिक्षा में: (1) Modeling — trained ASHA को proper handwashing demonstrate करते देखना, (2) Vicarious Reinforcement — दूसरे की सफलता देखकर प्रेरणा, (3) Self-Efficacy — 'मैं भी कर सकता हूँ', (4) Reciprocal Determinism — person-behavior-environment interaction। IEC materials में role models का उपयोग।"
+  },
+  {
+    "question": "'समाजीकरण के अभिकर्ता' (Agents of Socialisation) कौन-से हैं?",
+    "options": [
+      { "text": "केवल परिवार और विद्यालय", "is_correct": false },
+      { "text": "परिवार, विद्यालय, समकक्ष समूह (Peer Group), मास मीडिया, धर्म और कार्यस्थल", "is_correct": true },
+      { "text": "केवल सरकार और कानून", "is_correct": false },
+      { "text": "केवल माता-पिता", "is_correct": false }
+    ],
+    "explanation": "Primary Socialisation — परिवार (बचपन में मूल्य, भाषा, स्वास्थ्य habits)। Secondary Socialisation — विद्यालय, peer group, media, workplace, religion। Health behaviors परिवार से सीखे जाते हैं (primary) → ASHA का घर-घर जाकर family-level intervention। Peer pressure — adolescent health behaviors में महत्वपूर्ण।"
+  },
+  {
+    "question": "'रूढ़िवादिता खतरा' (Stereotype Threat) स्वास्थ्य सेवाओं में कैसे प्रकट होता है?",
+    "options": [
+      { "text": "Stereotype Threat — केवल परीक्षाओं में होता है", "is_correct": false },
+      { "text": "किसी नकारात्मक stereotype की पुष्टि करने के डर से प्रदर्शन प्रभावित होना — health staff में और मरीजों में", "is_correct": true },
+      { "text": "Stereotype Threat — समाज में कोई समस्या नहीं", "is_correct": false },
+      { "text": "केवल women में होता है", "is_correct": false }
+    ],
+    "explanation": "Steele & Aronson (1995) — Stereotype Threat: जब कोई व्यक्ति उस समूह के negative stereotype की पुष्टि करने से डरे। Health में: (1) Female health workers — 'महिला होने से कमजोर' के डर से confidence कम, (2) Dalit/tribal patients — 'अज्ञानी' stereotype → health facilities में hesitation, under-reporting symptoms। Affirming diverse identities इसे कम करता है।"
+  },
+  {
+    "question": "'स्वास्थ्य असमानताएँ' (Health Disparities) और 'स्वास्थ्य के सामाजिक निर्धारक' (Social Determinants of Health) में क्या संबंध है?",
+    "options": [
+      { "text": "दोनों का कोई संबंध नहीं", "is_correct": false },
+      { "text": "सामाजिक निर्धारक (आय, शिक्षा, जाति, लिंग) → health disparities उत्पन्न करते हैं", "is_correct": true },
+      { "text": "Health Disparities केवल आनुवंशिक हैं", "is_correct": false },
+      { "text": "Social Determinants — केवल विकासशील देशों में", "is_correct": false }
+    ],
+    "explanation": "WHO Commission on Social Determinants of Health (Marmot, 2008) — SDH: socioeconomic position, education, employment, neighborhood, social support networks → health outcomes में असमानता। India में: SC/ST की IMR, MMR अधिक — जाति-आधारित discrimination → health access कम। Health equity = SDH को address करना।"
+  },
+  {
+    "question": "'सामुदायिक गतिशीलता' (Community Mobilisation) में सामाजिक मनोविज्ञान की क्या भूमिका है?",
+    "options": [
+      { "text": "Community Mobilisation — केवल सरकार का काम है", "is_correct": false },
+      { "text": "सामूहिक प्रभावकारिता (Collective Efficacy), shared identity और leadership के माध्यम से समुदाय को health action के लिए प्रेरित करना", "is_correct": true },
+      { "text": "Community को बाहरी विशेषज्ञों पर निर्भर करना", "is_correct": false },
+      { "text": "केवल आर्थिक प्रोत्साहन से होती है", "is_correct": false }
+    ],
+    "explanation": "Community Mobilisation में सामाजिक मनोविज्ञान: (1) Collective Efficacy (Bandura) — 'हम मिलकर बदलाव ला सकते हैं', (2) Shared Social Identity — एकजुटता, (3) Opinion Leaders/Champions, (4) Participatory methods — community ownership। Mahila Arogyasena, SHG-based health programs उदाहरण। Freirean Conscientization — critical awareness।"
+  },
+  {
+    "question": "'समकक्ष शिक्षा' (Peer Education) किस मनोवैज्ञानिक सिद्धांत पर आधारित है?",
+    "options": [
+      { "text": "केवल expert-to-layman teaching", "is_correct": false },
+      { "text": "समान उम्र/स्थिति के लोग जब स्वास्थ्य जानकारी देते हैं तो credibility और relatability अधिक होती है", "is_correct": true },
+      { "text": "Peer Education अप्रभावी है", "is_correct": false },
+      { "text": "केवल बच्चों में प्रभावी", "is_correct": false }
+    ],
+    "explanation": "Peer Education — Social Learning Theory, Reference Group Theory और Source Credibility पर आधारित। Peer educators: (1) Trustworthy (एक जैसे अनुभव), (2) Accessible, (3) Non-judgmental। किशोर यौन स्वास्थ्य, HIV prevention, substance abuse में विशेष रूप से प्रभावी। India में ARSH programs और Saathiya model peer educators का उपयोग।"
+  },
+  {
+    "question": "'राय निर्माता' (Opinion Leaders) कौन होते हैं और स्वास्थ्य संचार में उनकी क्या भूमिका है?",
+    "options": [
+      { "text": "केवल राजनेता opinion leaders होते हैं", "is_correct": false },
+      { "text": "समुदाय में विश्वसनीय, सुने जाने वाले व्यक्ति जो नई जानकारी को अपने नेटवर्क में फैलाते हैं", "is_correct": true },
+      { "text": "Opinion leaders स्वास्थ्य के लिए नकारात्मक हैं", "is_correct": false },
+      { "text": "केवल शिक्षित व्यक्ति ही opinion leaders हो सकते हैं", "is_correct": false }
+    ],
+    "explanation": "Katz & Lazarsfeld (1955) — Two-Step Flow: Mass media → Opinion Leaders → Community। Opinion Leaders: उच्च social connectivity, trusted, अपने peer group में प्रभावशाली। Health में: गाँव का सम्मानित बुज़ुर्ग, female village leader, local पंडित — इन्हें train करने से health message अधिक प्रभावी। ASHA selection में यही criterion।"
+  },
+  {
+    "question": "Rogers के 'नवाचार का प्रसार' (Diffusion of Innovations) सिद्धांत में पाँच प्रकार के अपनाने वाले (Adopter Categories) कौन-से हैं?",
+    "options": [
+      { "text": "जल्दी, मध्यम, देर से, कभी नहीं, विरोधी", "is_correct": false },
+      { "text": "Innovators, Early Adopters, Early Majority, Late Majority, Laggards", "is_correct": true },
+      { "text": "Leaders, Followers, Resistors, Neutrals, Opponents", "is_correct": false },
+      { "text": "Urban, Rural, Educated, Uneducated, Illiterate", "is_correct": false }
+    ],
+    "explanation": "Everett Rogers (1962) — Diffusion of Innovations: (1) Innovators (2.5%) — जोखिम लेने वाले, (2) Early Adopters (13.5%) — opinion leaders, (3) Early Majority (34%) — deliberate, (4) Late Majority (34%) — skeptical, (5) Laggards (16%) — traditional। नए health interventions (ORS, bed nets, FP methods) के adoption pattern इसी से समझे जाते हैं। Early Adopters को target करना सबसे प्रभावी।"
+  },
+  {
+    "question": "स्वास्थ्य संचार में SMCR मॉडल के चार घटक कौन-से हैं?",
+    "options": [
+      { "text": "Subject, Message, Channel, Receiver", "is_correct": false },
+      { "text": "Source (स्रोत), Message (संदेश), Channel (माध्यम), Receiver (प्राप्तकर्ता)", "is_correct": true },
+      { "text": "Sender, Method, Content, Response", "is_correct": false },
+      { "text": "केवल Sender और Receiver महत्वपूर्ण हैं", "is_correct": false }
+    ],
+    "explanation": "Berlo (1960) का SMCR Model: (1) Source — communicator की credibility, skill, attitude, culture, (2) Message — content, elements, treatment, structure, code, (3) Channel — देखना, सुनना, छूना, सूंघना, (4) Receiver — उसकी skill, attitude, culture, knowledge। Feedback और Noise (Shannon-Weaver) भी महत्वपूर्ण। IEC materials में सभी घटकों का ध्यान।"
+  },
+  {
+    "question": "'स्वास्थ्य सामाजिक विपणन' (Health Social Marketing) व्यावसायिक विपणन से कैसे भिन्न है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Social Marketing — व्यक्ति और समाज के लाभ के लिए; Commercial Marketing — लाभ के लिए; दोनों के 4 Ps समान", "is_correct": true },
+      { "text": "Health Social Marketing केवल सरकारी", "is_correct": false },
+      { "text": "Commercial Marketing अधिक प्रभावी है", "is_correct": false }
+    ],
+    "explanation": "Kotler & Zaltman (1971) — Social Marketing: commercial marketing techniques का उपयोग social good (health) के लिए। 4 Ps: Product (व्यवहार परिवर्तन), Price (barriers कम करना), Place (सुलभता), Promotion (communication)। उदाहरण: National Immunization Day campaign, Oral Rehydration promotion, Swachh Bharat। 'Customer' orientation — community की needs से शुरुआत।"
+  },
+  {
+    "question": "'व्यवहार परिवर्तन संचार' (Behavior Change Communication — BCC) और IEC में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "IEC — जानकारी, शिक्षा, संचार (ज्ञान बढ़ाना); BCC — उससे आगे व्यवहार परिवर्तन, सामाजिक नोर्म और structural change पर ध्यान", "is_correct": true },
+      { "text": "BCC — केवल रेडियो के माध्यम से", "is_correct": false },
+      { "text": "IEC अधिक प्रभावी है BCC से", "is_correct": false }
+    ],
+    "explanation": "IEC (Information, Education, Communication) — ज्ञान और जागरूकता बढ़ाना। BCC — IEC का विकसित रूप: केवल जानकारी नहीं, बल्कि: social norms change, enabling environment, community participation, behavior change barriers address करना। SBCC (Social and Behavior Change Communication) — अब UNICEF/WHO द्वारा preferred term — social norms और structural factors शामिल।"
+  },
+  {
+    "question": "स्वास्थ्य संचार में 'जन माध्यम' (Mass Media) की सीमाएँ क्या हैं?",
+    "options": [
+      { "text": "Mass Media सबसे प्रभावी और कोई सीमा नहीं", "is_correct": false },
+      { "text": "एकतरफा संचार, व्यक्तिगत बाधाओं को address नहीं करता, निरक्षर तक पहुँचना कठिन", "is_correct": true },
+      { "text": "Mass Media केवल शहरों में प्रभावी", "is_correct": false },
+      { "text": "Mass Media का स्वास्थ्य पर कोई प्रभाव नहीं", "is_correct": false }
+    ],
+    "explanation": "Mass Media सीमाएँ: (1) One-way communication — feedback नहीं, (2) Individual barriers (fear, literacy) को address नहीं करता, (3) Cultural adaptation कठिन, (4) Selective exposure — लोग अपनी पसंद का देखते हैं, (5) निरक्षर/ग्रामीण तक पहुँच कम। Interpersonal Communication (IPC) — ASHA, ANM — individual concerns address करती है। Multi-channel approach सबसे प्रभावी।"
+  },
+  {
+    "question": "स्वास्थ्य संचार में 'लक्षित समूह विभाजन' (Audience Segmentation) क्यों आवश्यक है?",
+    "options": [
+      { "text": "सभी के लिए एक ही संदेश पर्याप्त है", "is_correct": false },
+      { "text": "भिन्न समूहों (आयु, लिंग, जाति, साक्षरता) की अलग-अलग आवश्यकताएँ होती हैं — tailored message अधिक प्रभावी", "is_correct": true },
+      { "text": "Segmentation केवल commercial marketing में", "is_correct": false },
+      { "text": "Segmentation — कम बजट में संभव नहीं", "is_correct": false }
+    ],
+    "explanation": "Audience Segmentation — demographic, geographic, psychographic, behavioral variables के आधार पर लक्षित समूहों की पहचान। उदाहरण: (1) किशोर लड़कियों के लिए ARSH program, (2) वृद्धों के लिए NCD camp, (3) मातृत्व स्वास्थ्य — pregnant women। Tailored messages → higher relevance → behavior change। 'One size fits all' approach — ineffective।"
+  },
+  {
+    "question": "स्वास्थ्य साक्षरता (Health Literacy) के Nutbeam के तीन स्तर कौन-से हैं?",
+    "options": [
+      { "text": "Basic, Intermediate, Advanced", "is_correct": false },
+      { "text": "Functional (कार्यात्मक), Communicative/Interactive (संवादात्मक) और Critical (आलोचनात्मक)", "is_correct": true },
+      { "text": "Reading, Writing, Numeracy", "is_correct": false },
+      { "text": "Individual, Family, Community", "is_correct": false }
+    ],
+    "explanation": "Don Nutbeam (2000) — Health Literacy 3 Levels: (1) Functional — basic reading/writing skills for health information, (2) Communicative/Interactive — social skills to act on advice, participate in healthcare, (3) Critical — analyze and use information to control health determinants। Level 3 — most empowering। India में health literacy अभी मुख्यतः functional level पर — critical level लक्ष्य होना चाहिए।"
+  },
+  {
+    "question": "सामाजिक और व्यवहार परिवर्तन संचार (SBCC) का मुख्य आधार क्या है?",
+    "options": [
+      { "text": "केवल जानकारी देना", "is_correct": false },
+      { "text": "व्यक्तिगत व्यवहार, सामाजिक नोर्म और सक्षम वातावरण — तीनों एक साथ बदलना", "is_correct": true },
+      { "text": "दंड और प्रोत्साहन का उपयोग", "is_correct": false },
+      { "text": "केवल mass media campaign", "is_correct": false }
+    ],
+    "explanation": "SBCC Socio-Ecological Model पर आधारित: (1) Individual level — knowledge, self-efficacy, (2) Interpersonal level — family/peer influence, (3) Community level — social norms, (4) Policy/Enabling Environment — laws, access। उदाहरण: Handwashing behavior change — soap availability (enabling) + demonstration (individual) + community norms ('सब करते हैं') = SBCC।"
+  },
+  {
+    "question": "स्वास्थ्य शिक्षा में संचार की प्रमुख बाधाएँ (Communication Barriers) कौन-सी हैं?",
+    "options": [
+      { "text": "केवल भाषा की बाधा", "is_correct": false },
+      { "text": "भाषाई, सांस्कृतिक, मनोवैज्ञानिक, शारीरिक और संरचनात्मक बाधाएँ", "is_correct": true },
+      { "text": "केवल निरक्षरता बाधा है", "is_correct": false },
+      { "text": "संचार में कोई बाधा नहीं होती यदि message स्पष्ट हो", "is_correct": false }
+    ],
+    "explanation": "संचार बाधाएँ: (1) Linguistic — बोली/भाषा अंतर, (2) Cultural — मान्यताएँ (पुरुष ANM से बात नहीं करेगा), (3) Psychological — stigma, fear, distrust, (4) Physical — दूरी, बधिरता, (5) Informational overload — अधिक जानकारी → confusion, (6) Noise (Shannon-Weaver), (7) Structural — power imbalance (doctor-patient)। ASHA को सभी barriers समझना ज़रूरी।"
+  },
+  {
+    "question": "समुदाय में 'विश्वास' (Trust) स्वास्थ्य सेवाओं के उपयोग को कैसे प्रभावित करता है?",
+    "options": [
+      { "text": "Trust का health-seeking behavior से कोई संबंध नहीं", "is_correct": false },
+      { "text": "उच्च trust → health services अधिक उपयोग, treatment adherence और open communication; distrust → avoidance", "is_correct": true },
+      { "text": "Trust केवल डॉक्टर और मरीज़ के बीच", "is_correct": false },
+      { "text": "डर से trust बनता है", "is_correct": false }
+    ],
+    "explanation": "Institutional Trust (health system में विश्वास) और Interpersonal Trust (health worker में)। Low trust → delayed care, non-adherence, vaccine hesitancy। High trust → disclosure of sensitive information, medication compliance। India में indigenous communities में government health services का distrust — historical exploitation का परिणाम। Community health workers (ASHA) trust bridge का काम करती हैं।"
+  },
+  {
+    "question": "स्वास्थ्य संचार में 'सांस्कृतिक संवेदनशीलता' (Cultural Sensitivity) का क्या अर्थ है?",
+    "options": [
+      { "text": "सभी संस्कृतियों को एक समान मानना", "is_correct": false },
+      { "text": "लक्षित समुदाय की भाषा, मान्यताओं, मूल्यों और practices का सम्मान करते हुए health messages तैयार करना", "is_correct": true },
+      { "text": "अपनी संस्कृति को श्रेष्ठ मानना", "is_correct": false },
+      { "text": "Cultural Sensitivity — केवल विदेशी contexts में आवश्यक", "is_correct": false }
+    ],
+    "explanation": "Cultural Sensitivity (Kreuter & McClure, 2004): peripheral (superficial changes — language, images) vs deep structure (core cultural values, norms integration)। India में: Hindu festivals में health camps, सामुदायिक बैठकों में स्थानीय भाषा, gender roles को ध्यान में रखकर messages। Cultural Humility — ongoing process of self-reflection। Culturally tailored interventions → higher acceptability।"
+  },
+  {
+    "question": "'सहभागी शिक्षण और कार्य' (Participatory Learning and Action — PLA) विधि क्या है?",
+    "options": [
+      { "text": "शिक्षक द्वारा एकतरफा पढ़ाना", "is_correct": false },
+      { "text": "समुदाय के लोग स्वयं अपनी समस्याओं की पहचान, विश्लेषण और समाधान करते हैं — लोग शोधकर्ता और सीखने वाले दोनों हैं", "is_correct": true },
+      { "text": "PLA — केवल शहरी context में", "is_correct": false },
+      { "text": "PLA में बाहरी विशेषज्ञ ही निर्णय लेते हैं", "is_correct": false }
+    ],
+    "explanation": "Robert Chambers — PLA: Paulo Freire की conscientization और participatory research के सिद्धांतों पर। Tools: Participatory Rural Appraisal (PRA), Social Mapping, Seasonal Calendar, Venn Diagrams। ASHA द्वारा Mahila Mandal में PLA — women स्वयं maternal health issues identify करती हैं → locally owned solutions। Evidence: Nepal/India में MMR reduction।"
+  },
+  {
+    "question": "'सामाजिक नेटवर्क विश्लेषण' (Social Network Analysis) स्वास्थ्य में कैसे उपयोगी है?",
+    "options": [
+      { "text": "Social Media networks का analysis", "is_correct": false },
+      { "text": "सामाजिक संबंधों के पैटर्न को map करके रोग प्रसार, health information flow और influential nodes पहचानना", "is_correct": true },
+      { "text": "केवल HIV research में उपयोगी", "is_correct": false },
+      { "text": "Social Network Analysis — technical experts के लिए, community के लिए नहीं", "is_correct": false }
+    ],
+    "explanation": "Social Network Analysis — Nodes (व्यक्ति) और Edges (संबंध)। Health applications: (1) Disease transmission mapping (STIs, TB, COVID-19), (2) Information diffusion — कौन सबसे पहले नई health info पाता है, (3) Identifying central connectors (हubs) for intervention, (4) Peer support networks। India में TB contact tracing, HIV risk network mapping में प्रयुक्त।"
+  },
+  {
+    "question": "सामुदायिक स्वास्थ्य कार्यकर्ता (CHW/ASHA) की सफलता में सामाजिक मनोविज्ञान की क्या भूमिका है?",
+    "options": [
+      { "text": "ASHA की सफलता केवल चिकित्सा ज्ञान पर निर्भर", "is_correct": false },
+      { "text": "ASHA की social identity, community trust, interpersonal skills और role modeling — ये सभी health outcomes निर्धारित करते हैं", "is_correct": true },
+      { "text": "ASHA — केवल दवाएँ बाँटने वाली", "is_correct": false },
+      { "text": "ASHA की सफलता में community का कोई योगदान नहीं", "is_correct": false }
+    ],
+    "explanation": "ASHA की social psychology में भूमिका: (1) Social Capital — community के साथ strong ties, (2) Source Credibility — trusted community member, (3) Role Modeling — healthy behaviors का प्रदर्शन, (4) Peer Influence — normative influence on health behaviors, (5) Empathy और Active Listening — counseling में, (6) Collective Efficacy building — 'हम मिलकर IMR कम कर सकते हैं'। ASHA = psychosocial bridge between community and health system।"
+  },
+  {
+    "question": "Putnam के अनुसार 'बंधन सामाजिक पूँजी' (Bonding Social Capital) और 'सेतु सामाजिक पूँजी' (Bridging Social Capital) में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Bonding — similar लोगों के बीच घनिष्ठ संबंध; Bridging — diverse समूहों के बीच कमज़ोर लेकिन व्यापक संबंध", "is_correct": true },
+      { "text": "Bonding — बड़े शहरों में; Bridging — गाँवों में", "is_correct": false },
+      { "text": "Bonding — हमेशा नकारात्मक; Bridging — हमेशा सकारात्मक", "is_correct": false }
+    ],
+    "explanation": "Robert Putnam — Social Capital: (1) Bonding SC — same group के बीच (जाति, धर्म) — high trust, exclusion का खतरा, (2) Bridging SC — different groups के बीच — weak ties लेकिन diverse resources। Granovetter — 'Strength of Weak Ties'। Health में: Bonding SC → mutual aid in communities; Bridging SC → health information across groups। Both needed for health equity।"
+  },
+  {
+    "question": "'सामाजिक एकजुटता' (Social Cohesion) और समुदाय के स्वास्थ्य में क्या संबंध है?",
+    "options": [
+      { "text": "Social Cohesion — केवल सांस्कृतिक पहलू है", "is_correct": false },
+      { "text": "उच्च सामाजिक एकजुटता → कम crime, बेहतर mental health, higher health service utilisation और lower mortality", "is_correct": true },
+      { "text": "एकजुटता से बीमारी बढ़ती है", "is_correct": false },
+      { "text": "Social Cohesion और health outcomes का कोई साक्ष्य नहीं", "is_correct": false }
+    ],
+    "explanation": "Kawachi & Berkman — Social Cohesion: समुदाय में trust, cooperation, mutual aid। High cohesion → (1) Faster information spread (outbreaks में), (2) Collective action for health, (3) Reduced isolation → better mental health, (4) Higher vaccine coverage। India में: उच्च caste cohesion वाले गाँवों में SC/ST का exclusion → health disparity। Inclusive cohesion जरूरी।"
+  },
+  {
+    "question": "'एजेंडा-सेटिंग सिद्धांत' (Agenda-Setting Theory) स्वास्थ्य संचार में क्या कहता है?",
+    "options": [
+      { "text": "मीडिया जो कहे वह सच होता है", "is_correct": false },
+      { "text": "मीडिया यह निर्धारित करती है कि लोग किन स्वास्थ्य मुद्दों को महत्वपूर्ण मानें — salience बनाना", "is_correct": true },
+      { "text": "Agenda-Setting — केवल राजनीति में", "is_correct": false },
+      { "text": "मीडिया से स्वास्थ्य व्यवहार सीधे नहीं बदलता", "is_correct": false }
+    ],
+    "explanation": "McCombs & Shaw (1972) — Agenda-Setting: 'Media may not tell us what to think, but it tells us what to think about.' Health में: COVID-19 coverage → lockdown compliance बढ़ी; Polio eradication campaign → जागरूकता। Media framing (कैसे issue present किया जाए) → public health priorities। Health journalists और policy advocates agenda-setting का उपयोग करते हैं।"
+  },
+  {
+    "question": "'Framing Effect' (फ्रेमिंग प्रभाव) स्वास्थ्य संदेशों में क्या है?",
+    "options": [
+      { "text": "संदेश को तस्वीर के साथ प्रस्तुत करना", "is_correct": false },
+      { "text": "एक ही जानकारी को अलग-अलग तरीके से प्रस्तुत करने पर अलग-अलग प्रतिक्रिया — Gain vs Loss Frame", "is_correct": true },
+      { "text": "Framing — केवल negative messages में", "is_correct": false },
+      { "text": "Framing Effect — सभी लोगों पर समान प्रभाव", "is_correct": false }
+    ],
+    "explanation": "Tversky & Kahneman (1981) — Framing: Gain Frame: 'यदि आप टीका लगवाएंगे तो 90% chance आप बीमार नहीं पड़ेंगे।' Loss Frame: 'यदि टीका नहीं लगवाया तो 10% chance गंभीर बीमारी।' Loss frames — prevention behaviors (mammography) के लिए अधिक प्रभावी। Gain frames — detection behaviors के लिए। Health communication में frame selection महत्वपूर्ण।"
+  },
+  {
+    "question": "KAP सर्वेक्षण (Knowledge, Attitude, Practice Survey) स्वास्थ्य कार्यक्रमों में क्यों उपयोगी है?",
+    "options": [
+      { "text": "केवल ज्ञान मापने के लिए", "is_correct": false },
+      { "text": "समुदाय के ज्ञान, अभिवृत्ति और व्यवहार का baseline और change assessment — program planning में आधार", "is_correct": true },
+      { "text": "KAP — केवल academic research के लिए", "is_correct": false },
+      { "text": "KAP survey program की सफलता guarantee करता है", "is_correct": false }
+    ],
+    "explanation": "KAP Survey: (1) Knowledge — लोग क्या जानते हैं (ORS क्या है?), (2) Attitude — वे कैसा महसूस करते हैं (क्या ORS अच्छा है?), (3) Practice — वे क्या करते हैं (क्या वे ORS उपयोग करते हैं?)। Gap Analysis: ज्ञान है पर practice नहीं → barrier क्या है? Program design → implementation → evaluation में KAP का उपयोग। India में NFHS, DLHS, AHS जैसे surveys KAP-based।"
+  },
+  {
+    "question": "स्वास्थ्य शिक्षा में 'अंतर-व्यक्तिगत संचार' (Interpersonal Communication — IPC) के क्या लाभ हैं?",
+    "options": [
+      { "text": "IPC — कम लोगों तक पहुँचता है, इसलिए कम उपयोगी", "is_correct": false },
+      { "text": "Two-way, immediate feedback, personal concerns address करता है, culturally adaptive और trust बनाता है", "is_correct": true },
+      { "text": "IPC — mass media से अधिक महँगा इसलिए बेकार", "is_correct": false },
+      { "text": "IPC — केवल educated लोगों के लिए", "is_correct": false }
+    ],
+    "explanation": "Interpersonal Communication लाभ: (1) Two-way — तुरंत feedback और clarification, (2) Individual tailoring — personal fears और misconceptions address, (3) Trust building — face-to-face interaction, (4) Non-verbal cues — empathy दिखाना, (5) Sensitive topics (family planning, STIs, mental health) में comfort। ASHA-to-family counseling — IPC का सबसे प्रभावी रूप। Mass media reach बढ़ाती है, IPC depth बढ़ाती है।"
+  },
+  {
+    "question": "फेस्टिंगर (Festinger) का 'संज्ञानात्मक असंगति' (Cognitive Dissonance) सिद्धांत स्वास्थ्य व्यवहार में क्या समझाता है?",
+    "options": [
+      { "text": "लोग हमेशा तर्कसंगत निर्णय लेते हैं", "is_correct": false },
+      { "text": "जब विश्वास और व्यवहार में विरोधाभास हो तो असहजता होती है — लोग इसे कम करने के लिए विश्वास या व्यवहार बदलते हैं", "is_correct": true },
+      { "text": "Dissonance — केवल बच्चों में होता है", "is_correct": false },
+      { "text": "Cognitive Dissonance — हमेशा व्यवहार बदलवाता है", "is_correct": false }
+    ],
+    "explanation": "Cognitive Dissonance (Festinger, 1957): जब दो विचार या विचार-व्यवहार में टकराव हो तो मनोवैज्ञानिक असहजता (dissonance) होती है। उदाहरण: धूम्रपायी जानता है 'धूम्रपान हानिकारक है' लेकिन धूम्रपान करता है। समाधान: (1) व्यवहार बदले — धूम्रपान छोड़े, (2) विश्वास बदले — 'थोड़ा धूम्रपान नुकसान नहीं करता', (3) नई सूचना जोड़े — 'मेरे दादा ने 80 साल धूम्रपान किया और ठीक थे'। स्वास्थ्य शिक्षा में dissonance जगाना — व्यवहार परिवर्तन का तरीका।"
+  },
+  {
+    "question": "रोटर (Rotter) का 'नियंत्रण का केंद्र' (Locus of Control) स्वास्थ्य व्यवहार को कैसे प्रभावित करता है?",
+    "options": [
+      { "text": "Locus of Control — केवल शिक्षा में उपयोगी", "is_correct": false },
+      { "text": "आंतरिक LoC (Internal) — अपने स्वास्थ्य पर नियंत्रण महसूस करना → बेहतर health behaviors; बाह्य LoC (External) — भाग्य/ईश्वर पर निर्भर → कम self-care", "is_correct": true },
+      { "text": "बाह्य Locus of Control — हमेशा बेहतर है", "is_correct": false },
+      { "text": "LoC — आनुवंशिक है, बदल नहीं सकता", "is_correct": false }
+    ],
+    "explanation": "Locus of Control (Rotter, 1966): (1) Internal LoC: 'मैं अपने स्वास्थ्य को नियंत्रित कर सकता हूँ' → नियमित व्यायाम, दवा लेना, checkup। (2) External LoC: 'सब ईश्वर की इच्छा है / किस्मत में है' → health behaviors कम। स्वास्थ्य शिक्षा में: Internal LoC develop करना — 'आप ORS बना सकते हैं और बच्चे को बचा सकते हैं।' Wallston ने Health-specific LoC scale बनाया। ASHA समुदाय में internal LoC build करती है।"
+  },
+  {
+    "question": "'स्रोत विश्वसनीयता' (Source Credibility) स्वास्थ्य संचार में क्यों महत्वपूर्ण है?",
+    "options": [
+      { "text": "Source Credibility — केवल विज्ञापन में उपयोगी", "is_correct": false },
+      { "text": "विश्वसनीय स्रोत (डॉक्टर, ASHA, respected community member) से संदेश अधिक प्रभावी होता है — Expertise + Trustworthiness दोनों जरूरी", "is_correct": true },
+      { "text": "कोई भी व्यक्ति health message दे — credibility से फर्क नहीं पड़ता", "is_correct": false },
+      { "text": "Source Credibility — केवल written communication में मायने रखती है", "is_correct": false }
+    ],
+    "explanation": "Source Credibility (Hovland et al., 1953): दो घटक — (1) Expertise: क्या स्रोत को विषय का ज्ञान है? (डॉक्टर, ANM), (2) Trustworthiness: क्या स्रोत ईमानदार है? (ASHA — community member)। स्वास्थ्य में: लोग डॉक्टर की बात अधिक मानते हैं (expertise), लेकिन ASHA की बात भी — क्योंकि वह 'अपने' समुदाय से है (trustworthiness)। Celebrity endorsement — fame ≠ expertise। WHO, ICMR — institutional credibility।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'सहानुभूति' (Empathy) और 'हमदर्दी' (Sympathy) में क्या मूलभूत अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Empathy — दूसरे की भावना महसूस करना ('मैं समझता हूँ आप कैसा महसूस कर रहे हैं'); Sympathy — दूसरे के लिए दया महसूस करना ('मुझे आपके लिए दुख है')", "is_correct": true },
+      { "text": "Sympathy — counseling में अधिक उपयोगी है Empathy से", "is_correct": false },
+      { "text": "Empathy — केवल महिलाओं में होती है", "is_correct": false }
+    ],
+    "explanation": "Empathy vs Sympathy: Empathy (सह-अनुभूति): 'मैं आपकी पीड़ा महसूस कर सकता हूँ' — perspective लेना, judgement-free। Sympathy (सहानुभूति): 'मुझे आपके लिए बुरा लगता है' — ऊपर से देखना। स्वास्थ्य शिक्षा में Empathy अधिक प्रभावी: ASHA जब गर्भवती महिला की चिंताएँ empathically सुनती है → trust बढ़ता है → ANC compliance बेहतर। Brené Brown: 'Empathy fuels connection; sympathy drives disconnection।'"
+  },
+  {
+    "question": "'स्वास्थ्य विश्वास मॉडल' (Health Belief Model) के चार मुख्य घटक कौन-से हैं?",
+    "options": [
+      { "text": "ज्ञान, कौशल, अभिवृत्ति, व्यवहार", "is_correct": false },
+      { "text": "Perceived Susceptibility (संवेदनशीलता), Perceived Severity (गंभीरता), Perceived Benefits (लाभ), Perceived Barriers (बाधाएँ)", "is_correct": true },
+      { "text": "Age, Gender, Education, Income", "is_correct": false },
+      { "text": "Motivation, Ability, Trigger, Reward", "is_correct": false }
+    ],
+    "explanation": "Health Belief Model (Rosenstock, 1966): व्यक्ति तब health action लेता है जब — (1) Perceived Susceptibility: 'मुझे यह बीमारी हो सकती है', (2) Perceived Severity: 'यह बीमारी गंभीर है', (3) Perceived Benefits: 'टीका लगवाने से फायदा होगा', (4) Perceived Barriers: 'टीका लगवाना मुश्किल/दर्दनाक नहीं है'। बाद में जोड़ा: Cues to Action (trigger — poster/ASHA की सलाह) + Self-Efficacy। HEO: community में perceived susceptibility और benefits बढ़ाएँ, barriers कम करें।"
+  },
+  {
+    "question": "'वर्णनात्मक मानदंड' (Descriptive Norms) और 'निर्देशात्मक मानदंड' (Injunctive Norms) में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही प्रकार के social norms हैं", "is_correct": false },
+      { "text": "Descriptive: 'लोग क्या करते हैं' (what most people do); Injunctive: 'लोगों को क्या करना चाहिए' (what is approved/disapproved)", "is_correct": true },
+      { "text": "Descriptive norms — लिखित नियम हैं; Injunctive — मौखिक", "is_correct": false },
+      { "text": "Injunctive norms — केवल धार्मिक समाजों में", "is_correct": false }
+    ],
+    "explanation": "Social Norms (Cialdini): (1) Descriptive Norms: 'इस गाँव में 90% महिलाएँ ANC करवाती हैं' — सामान्य व्यवहार बताना। (2) Injunctive Norms: 'हमारे समाज में माँ को अपने बच्चे को स्तनपान करवाना चाहिए' — सामाजिक स्वीकृति/अस्वीकृति। स्वास्थ्य में: Descriptive norm messaging अधिक प्रभावी (social proof): 'आपके जैसे लोगों में से अधिकतर टीका लगवा चुके हैं।' Hotel towel reuse study — Cialdini का प्रसिद्ध उदाहरण।"
+  },
+  {
+    "question": "'कलंक' (Stigma) के गॉफमैन के अनुसार तीन प्रकार कौन-से हैं और स्वास्थ्य में इसका क्या प्रभाव है?",
+    "options": [
+      { "text": "Stigma — केवल मानसिक बीमारी में", "is_correct": false },
+      { "text": "Physical stigma (दृश्य विकार), Character stigma (व्यसन, जेल), Tribal stigma (जाति, धर्म) — stigmatized व्यक्ति स्वास्थ्य सेवाएँ लेने से बचते हैं", "is_correct": true },
+      { "text": "Stigma — केवल developed देशों में समस्या है", "is_correct": false },
+      { "text": "Stigma — कभी व्यवहार नहीं बदलता", "is_correct": false }
+    ],
+    "explanation": "Goffman (1963) Stigma — 'Spoiled Identity': (1) Abominations of the body: दृश्य शारीरिक विकार (leprosy, disability), (2) Blemishes of individual character: नशा, HIV, mental illness, (3) Tribal stigma: जाति, धर्म, राष्ट्रीयता। Health impact: TB, HIV, leprosy, mental illness के मरीज़ stigma के डर से — देर से treatment लेते हैं, छुपाते हैं, treatment बीच में छोड़ते हैं। HEO: destigmatization campaigns — 'TB कोई भी हो सकता है, इलाज संभव है।'"
+  },
+  {
+    "question": "'सामाजिक अधिगम सिद्धांत' (Social Learning Theory) में बंदूरा (Bandura) के अनुसार स्वास्थ्य व्यवहार कैसे सीखे जाते हैं?",
+    "options": [
+      { "text": "केवल पुरस्कार-दंड से सीखते हैं", "is_correct": false },
+      { "text": "अवलोकन (Observation), अनुकरण (Imitation) और आत्म-प्रभावशीलता (Self-Efficacy) — role model देखकर health behavior सीखते हैं", "is_correct": true },
+      { "text": "सामाजिक अधिगम — केवल बच्चों में होता है", "is_correct": false },
+      { "text": "Bandura — punishment को ही सीखने का आधार मानते हैं", "is_correct": false }
+    ],
+    "explanation": "Bandura's Social Learning Theory (1977): (1) Observation: दूसरों को health behavior करते देखना (ASHA हाथ धोती है), (2) Retention: मस्तिष्क में store करना, (3) Reproduction: स्वयं करना, (4) Motivation: पुरस्कार/मॉडल की सफलता। Self-Efficacy: 'मैं यह कर सकता हूँ' — सबसे महत्वपूर्ण। उदाहरण: माँ को दूसरी माँ को स्तनपान करते देखना → स्वयं करने की संभावना बढ़ती है। Role modeling — ANM, ASHA, community leader। Later → Social Cognitive Theory।"
+  },
+  {
+    "question": "'समूह संसक्तता' (Group Cohesion) और स्वास्थ्य कार्यक्रमों की सफलता में क्या संबंध है?",
+    "options": [
+      { "text": "Group Cohesion — कार्यक्रमों में अवरोध है", "is_correct": false },
+      { "text": "उच्च group cohesion → सदस्य साथ मिलकर health goals प्राप्त करते हैं, dropout कम होता है और peer support मिलती है — SHG और mahila mandal इसी पर आधारित", "is_correct": true },
+      { "text": "Group Cohesion और health outcomes — असंबंधित हैं", "is_correct": false },
+      { "text": "केवल बड़े समूहों में cohesion संभव है", "is_correct": false }
+    ],
+    "explanation": "Group Cohesion: समूह के सदस्यों के बीच आकर्षण और एकजुटता। स्वास्थ्य में: (1) Self-Help Groups (SHG): उच्च cohesion → नियमित बैठक, mutual accountability, health loans, (2) Mahila Mandal/VHSNC: cohesive groups → बेहतर community health planning, (3) AA (Alcoholics Anonymous): cohesion → sobriety maintenance। Factors: shared goals, common experiences, small size, clear norms। HEO: समूह बनाते समय cohesion-building activities महत्वपूर्ण — ice-breaking, participatory methods।"
+  },
+  {
+    "question": "'सामुदायिक भागीदारी' (Community Participation) के अर्नस्टीन (Arnstein) के 'सहभागिता की सीढ़ी' (Ladder of Participation) में कितने पायदान हैं?",
+    "options": [
+      { "text": "3 पायदान", "is_correct": false },
+      { "text": "8 पायदान — non-participation से citizen control तक", "is_correct": true },
+      { "text": "5 पायदान", "is_correct": false },
+      { "text": "10 पायदान", "is_correct": false }
+    ],
+    "explanation": "Arnstein's Ladder of Participation (1969): 8 rungs in 3 levels: Non-Participation: (1) Manipulation, (2) Therapy; Tokenism: (3) Informing, (4) Consultation, (5) Placation; Citizen Power: (6) Partnership, (7) Delegated Power, (8) Citizen Control। स्वास्थ्य में: VHSNC — ideally Rung 6-7 (Partnership/Delegated Power)। अक्सर केवल Rung 3-4 (Informing/Consultation) तक — 'token participation।' सच्ची participation → community-led health programs → बेहतर outcomes।"
+  },
+  {
+    "question": "'परिवर्तन एजेंट' (Change Agent) और 'राय नेता' (Opinion Leader) में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही व्यक्ति होते हैं", "is_correct": false },
+      { "text": "Change Agent — बाहर से आता है (ASHA, Health Worker); Opinion Leader — समुदाय के अंदर का प्रभावशाली व्यक्ति (Sarpanch, Dai, Teacher) जिसे समुदाय स्वयं trust करता है", "is_correct": true },
+      { "text": "Opinion Leader — हमेशा Change Agent से अधिक प्रभावी", "is_correct": false },
+      { "text": "Change Agent — केवल government employee होता है", "is_correct": false }
+    ],
+    "explanation": "Everett Rogers — Diffusion of Innovations: Change Agent: बाहरी व्यक्ति जो नवाचार फैलाता है (ASHA, NGO worker, HEO)। Opinion Leader: समुदाय का आंतरिक, trusted member — उनकी सलाह मानी जाती है। Strategy: Change Agent → Opinion Leader को convince करें → Opinion Leader community को। उदाहरण: ASHA → गाँव की सम्मानित दाई/पुजारी/सरपंच को convince करे → वे institutional delivery recommend करें। Two-step flow of communication (Katz & Lazarsfeld) — इसी पर आधारित।"
+  },
+  {
+    "question": "स्वास्थ्य कार्यक्रमों में 'व्यवहार परिवर्तन संचार' (BCC) की प्रक्रिया में 'FOAM' मॉडल के चरण क्या हैं?",
+    "options": [
+      { "text": "Find, Operate, Analyze, Monitor", "is_correct": false },
+      { "text": "Formative research → Objectives → Action (material+activities) → Monitoring & Evaluation — evidence-based BCC का आधार", "is_correct": true },
+      { "text": "BCC — केवल poster बनाना है", "is_correct": false },
+      { "text": "FOAM — केवल mass media campaigns के लिए", "is_correct": false }
+    ],
+    "explanation": "BCC (Behaviour Change Communication) process: (1) Formative Research: community की KAP study, barriers identify, audience segment करें, (2) Objectives: SMART — specific behavior change goals, (3) Action: IEC material (poster, flip chart, audio), interpersonal communication, community events — सभी activities, (4) Monitoring & Evaluation: process indicators (reach, exposure) + outcome indicators (behavior change)। SBCC (Social and Behaviour Change Communication) — broader framework जिसमें social norms, environment भी address होते हैं। HEO: BCC = evidence-based, not ad-hoc poster distribution।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में '귀인सिद्धांत' (Attribution Theory) के अनुसार जब हम किसी के व्यवहार का कारण उसकी आंतरिक विशेषता को मानते हैं तो उसे क्या कहते हैं?",
+    "options": [
+      { "text": "Situational Attribution (परिस्थितिजन्य귀인)", "is_correct": false },
+      { "text": "Dispositional / Internal Attribution — व्यक्ति के स्वभाव, व्यक्तित्व या इरादे को कारण मानना", "is_correct": true },
+      { "text": "Fundamental Attribution Error", "is_correct": false },
+      { "text": "Self-serving Bias", "is_correct": false }
+    ],
+    "explanation": "Attribution Theory (Heider, 1958; Weiner): हम दूसरों के व्यवहार का कारण ढूँढते हैं। (1) Internal/Dispositional Attribution: 'वह व्यक्ति आलसी है इसीलिए दवा नहीं लेता' — कारण व्यक्ति के गुण में। (2) External/Situational Attribution: 'अस्पताल दूर है इसीलिए दवा नहीं ले पाता' — कारण परिस्थिति में। Fundamental Attribution Error: हम दूसरों के लिए dispositional attribution और स्वयं के लिए situational attribution करते हैं। Health में: मरीज़ का non-compliance — system failure (external) या patient failure (internal)? HEO को balanced attribution अपनानी चाहिए।"
+  }
+]

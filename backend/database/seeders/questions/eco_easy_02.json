@@ -1,0 +1,1003 @@
+[
+  {
+    "question": "प्रति व्यक्ति आय (Per Capita Income) का क्या अर्थ है?",
+    "options": [
+      { "text": "देश की कुल आय को कुल जनसंख्या से भाग देने पर प्राप्त औसत आय", "is_correct": true },
+      { "text": "सबसे अमीर व्यक्ति की आय", "is_correct": false },
+      { "text": "सरकार की कुल आय", "is_correct": false },
+      { "text": "कृषि से होने वाली आय", "is_correct": false }
+    ],
+    "explanation": "प्रति व्यक्ति आय = राष्ट्रीय आय ÷ कुल जनसंख्या। यह किसी देश के औसत जीवन स्तर का सरल सूचक है, परंतु यह असमानता को नहीं दर्शाता।"
+  },
+  {
+    "question": "राजकोषीय नीति (Fiscal Policy) का संबंध किससे है?",
+    "options": [
+      { "text": "मुद्रा आपूर्ति और ब्याज दरों से", "is_correct": false },
+      { "text": "सरकारी व्यय और करारोपण से", "is_correct": true },
+      { "text": "विदेशी व्यापार नीति से", "is_correct": false },
+      { "text": "कृषि सुधार से", "is_correct": false }
+    ],
+    "explanation": "राजकोषीय नीति सरकार की कर और व्यय संबंधी नीति है जिसका उपयोग अर्थव्यवस्था को प्रभावित करने के लिए किया जाता है। मौद्रिक नीति RBI द्वारा मुद्रा आपूर्ति और ब्याज दरों के माध्यम से नियंत्रित होती है।"
+  },
+  {
+    "question": "मौद्रिक नीति (Monetary Policy) कौन तय करता है?",
+    "options": [
+      { "text": "केंद्र सरकार / वित्त मंत्रालय", "is_correct": false },
+      { "text": "भारतीय रिज़र्व बैंक (RBI)", "is_correct": true },
+      { "text": "SEBI", "is_correct": false },
+      { "text": "NITI आयोग", "is_correct": false }
+    ],
+    "explanation": "मौद्रिक नीति RBI द्वारा तय की जाती है। इसके माध्यम से मुद्रा आपूर्ति, ब्याज दरें और ऋण की उपलब्धता को नियंत्रित किया जाता है। राजकोषीय नीति केंद्र सरकार तय करती है।"
+  },
+  {
+    "question": "अप्रत्यक्ष कर (Indirect Tax) का उदाहरण कौन सा है?",
+    "options": [
+      { "text": "आयकर (Income Tax)", "is_correct": false },
+      { "text": "संपत्ति कर", "is_correct": false },
+      { "text": "वस्तु एवं सेवा कर (GST)", "is_correct": true },
+      { "text": "निगम कर", "is_correct": false }
+    ],
+    "explanation": "अप्रत्यक्ष कर वह कर है जो उत्पाद या सेवा की खरीद पर लगता है और इसका बोझ अंतिम उपभोक्ता पर पड़ता है। GST, उत्पाद शुल्क और सीमा शुल्क अप्रत्यक्ष कर हैं।"
+  },
+  {
+    "question": "GST में स्वास्थ्य सेवाओं (अस्पताल उपचार) पर कर की दर क्या है?",
+    "options": [
+      { "text": "5%", "is_correct": false },
+      { "text": "12%", "is_correct": false },
+      { "text": "18%", "is_correct": false },
+      { "text": "शून्य (Exempt)", "is_correct": true }
+    ],
+    "explanation": "GST में स्वास्थ्य सेवाएं जैसे अस्पताल में उपचार, डॉक्टर परामर्श, और आवश्यक दवाइयां GST से छूट (Exempt) हैं। स्वास्थ्य को मेरिट वस्तु मानते हुए इसे कर-मुक्त रखा गया है।"
+  },
+  {
+    "question": "मेरिट वस्तु (Merit Good) के रूप में स्वास्थ्य को क्यों माना जाता है?",
+    "options": [
+      { "text": "क्योंकि यह महंगा है", "is_correct": false },
+      { "text": "क्योंकि इसके सामाजिक लाभ व्यक्तिगत लाभ से अधिक हैं और बाजार इसे पर्याप्त मात्रा में उपलब्ध नहीं कराता", "is_correct": true },
+      { "text": "क्योंकि यह केवल सरकार प्रदान कर सकती है", "is_correct": false },
+      { "text": "क्योंकि इसकी माँग बहुत अधिक है", "is_correct": false }
+    ],
+    "explanation": "मेरिट वस्तुएं वे हैं जिनके उपभोग के सामाजिक लाभ व्यक्तिगत लाभ से अधिक हों और बाजार इन्हें कम मात्रा में उपलब्ध कराता हो। स्वास्थ्य, शिक्षा और स्वच्छता इसके उदाहरण हैं।"
+  },
+  {
+    "question": "जेब से होने वाला स्वास्थ्य व्यय (Out-of-Pocket Expenditure) का क्या अर्थ है?",
+    "options": [
+      { "text": "सरकार द्वारा स्वास्थ्य पर किया गया व्यय", "is_correct": false },
+      { "text": "बीमा कंपनी द्वारा दिया गया दावा", "is_correct": false },
+      { "text": "बिना किसी बीमा या सहायता के मरीज द्वारा सीधे चुकाई गई राशि", "is_correct": true },
+      { "text": "नियोक्ता द्वारा कर्मचारी के लिए किया गया स्वास्थ्य व्यय", "is_correct": false }
+    ],
+    "explanation": "Out-of-Pocket Expenditure (OOP) वह राशि है जो मरीज सीधे अपनी जेब से स्वास्थ्य सेवाओं के लिए चुकाता है, बिना किसी बीमा, सरकारी सहायता के। भारत में कुल स्वास्थ्य व्यय का लगभग 50% OOP है।"
+  },
+  {
+    "question": "स्वास्थ्य बीमा में प्रीमियम (Premium) का क्या अर्थ है?",
+    "options": [
+      { "text": "अस्पताल का बिल", "is_correct": false },
+      { "text": "बीमा पॉलिसी के लिए नियमित रूप से चुकाई जाने वाली राशि", "is_correct": true },
+      { "text": "सरकार द्वारा दी जाने वाली सब्सिडी", "is_correct": false },
+      { "text": "बीमाधारक को मिलने वाला दावा", "is_correct": false }
+    ],
+    "explanation": "बीमा प्रीमियम वह नियमित राशि है जो बीमाधारक बीमा कंपनी को पॉलिसी बनाए रखने के लिए देता है। इसके बदले में बीमा कंपनी स्वास्थ्य खर्च का भुगतान करती है।"
+  },
+  {
+    "question": "स्वास्थ्य बीमा में 'को-पेमेंट' (Co-payment) का क्या अर्थ है?",
+    "options": [
+      { "text": "बीमा का पूरा प्रीमियम", "is_correct": false },
+      { "text": "बीमाधारक द्वारा चिकित्सा बिल का वह हिस्सा जो उसे स्वयं चुकाना होता है", "is_correct": true },
+      { "text": "सरकार और बीमा कंपनी द्वारा संयुक्त भुगतान", "is_correct": false },
+      { "text": "नियोक्ता द्वारा भुगतान", "is_correct": false }
+    ],
+    "explanation": "Co-payment वह व्यवस्था है जिसमें बीमाधारक को हर चिकित्सा सेवा पर एक निश्चित राशि या प्रतिशत स्वयं चुकानी होती है और शेष बीमा कंपनी देती है। यह अनावश्यक स्वास्थ्य सेवा उपयोग रोकता है।"
+  },
+  {
+    "question": "स्वास्थ्य बीमा में 'डिडक्टिबल' (Deductible) का क्या अर्थ है?",
+    "options": [
+      { "text": "बीमा से मिलने वाली अधिकतम राशि", "is_correct": false },
+      { "text": "वार्षिक न्यूनतम राशि जो बीमाधारक को स्वयं चुकानी होती है, उससे अधिक पर बीमा लागू होता है", "is_correct": true },
+      { "text": "मासिक प्रीमियम", "is_correct": false },
+      { "text": "सरकारी छूट", "is_correct": false }
+    ],
+    "explanation": "Deductible वह वार्षिक सीमा है जिसे पार करने के बाद बीमा कंपनी खर्च का भुगतान शुरू करती है। उदाहरण: यदि deductible ₹10,000 है तो पहले ₹10,000 बीमाधारक को स्वयं चुकाने होंगे।"
+  },
+  {
+    "question": "PM-JAY (आयुष्मान भारत) योजना में कितने परिवार लाभान्वित होते हैं?",
+    "options": [
+      { "text": "2 करोड़ परिवार", "is_correct": false },
+      { "text": "5 करोड़ परिवार", "is_correct": false },
+      { "text": "10 करोड़ से अधिक परिवार", "is_correct": true },
+      { "text": "50 करोड़ परिवार", "is_correct": false }
+    ],
+    "explanation": "PM-JAY लगभग 10.74 करोड़ गरीब और कमजोर परिवारों (लगभग 50 करोड़ लोग) को ₹5 लाख प्रति वर्ष का स्वास्थ्य बीमा प्रदान करती है। यह SECC 2011 डेटा के आधार पर लक्षित है।"
+  },
+  {
+    "question": "ESIC (कर्मचारी राज्य बीमा निगम) किन लोगों को कवर करता है?",
+    "options": [
+      { "text": "केवल सरकारी कर्मचारियों को", "is_correct": false },
+      { "text": "संगठित क्षेत्र के वेतनभोगी कर्मचारियों को जिनकी मजदूरी ₹21,000 से कम है", "is_correct": true },
+      { "text": "केवल किसानों को", "is_correct": false },
+      { "text": "असंगठित क्षेत्र के मजदूरों को", "is_correct": false }
+    ],
+    "explanation": "ESIC 1948 में स्थापित किया गया। यह संगठित क्षेत्र के उन कर्मचारियों को चिकित्सा, बीमारी, मातृत्व और विकलांगता लाभ देता है जिनकी मासिक मजदूरी ₹21,000 (अकुशल) तक है।"
+  },
+  {
+    "question": "CGHS (केंद्रीय सरकार स्वास्थ्य योजना) के लाभार्थी कौन हैं?",
+    "options": [
+      { "text": "सभी BPL परिवार", "is_correct": false },
+      { "text": "केंद्रीय सरकारी कर्मचारी, पेंशनभोगी और उनके आश्रित", "is_correct": true },
+      { "text": "राज्य सरकारी कर्मचारी", "is_correct": false },
+      { "text": "केवल सांसद और मंत्री", "is_correct": false }
+    ],
+    "explanation": "CGHS 1954 में शुरू हुई। इसके अंतर्गत केंद्रीय सरकारी कर्मचारी, सेवानिवृत्त कर्मचारी (पेंशनर) और उनके परिवार के सदस्यों को सरकारी और पैनल अस्पतालों में चिकित्सा सुविधा मिलती है।"
+  },
+  {
+    "question": "आंध्र प्रदेश की 'आरोग्यश्री' योजना किस प्रकार की योजना है?",
+    "options": [
+      { "text": "कृषि बीमा योजना", "is_correct": false },
+      { "text": "राज्य स्तरीय स्वास्थ्य बीमा योजना", "is_correct": true },
+      { "text": "जीवन बीमा योजना", "is_correct": false },
+      { "text": "शिक्षा योजना", "is_correct": false }
+    ],
+    "explanation": "आरोग्यश्री आंध्र प्रदेश (और तेलंगाना) की राज्य स्तरीय स्वास्थ्य बीमा योजना है जो BPL परिवारों को नि:शुल्क तृतीयक स्वास्थ्य सेवाएं प्रदान करती है। यह 2007 में शुरू हुई और PM-JAY का मॉडल बनी।"
+  },
+  {
+    "question": "राष्ट्रीय स्वास्थ्य मिशन (NHM) में केंद्र और राज्य के बीच फंडिंग का अनुपात क्या है?",
+    "options": [
+      { "text": "100:0 (केंद्र पूरा देता है)", "is_correct": false },
+      { "text": "50:50", "is_correct": false },
+      { "text": "60:40", "is_correct": true },
+      { "text": "75:25", "is_correct": false }
+    ],
+    "explanation": "NHM में साधारणतः केंद्र और राज्य के बीच 60:40 का फंडिंग अनुपात है (उत्तर-पूर्व और पहाड़ी राज्यों के लिए 90:10)। यह एक केंद्र प्रायोजित योजना (Centrally Sponsored Scheme) है।"
+  },
+  {
+    "question": "अबुजा घोषणा (Abuja Declaration) में अफ्रीकी देशों ने स्वास्थ्य पर बजट का कितना प्रतिशत खर्च करने का लक्ष्य रखा?",
+    "options": [
+      { "text": "5%", "is_correct": false },
+      { "text": "10%", "is_correct": false },
+      { "text": "15%", "is_correct": true },
+      { "text": "20%", "is_correct": false }
+    ],
+    "explanation": "2001 की अबुजा घोषणा में अफ्रीकी सरकारों ने स्वास्थ्य के लिए अपने राष्ट्रीय बजट का कम से कम 15% आवंटित करने का संकल्प लिया। इसका उपयोग अन्य देशों के लिए भी संदर्भ बिंदु के रूप में होता है।"
+  },
+  {
+    "question": "वित्त आयोग (Finance Commission) की स्वास्थ्य में क्या भूमिका है?",
+    "options": [
+      { "text": "स्वास्थ्य नीति बनाना", "is_correct": false },
+      { "text": "केंद्र और राज्यों के बीच कर राजस्व का वितरण करना, जिसमें स्वास्थ्य व्यय भी शामिल", "is_correct": true },
+      { "text": "दवाओं की कीमतें नियंत्रित करना", "is_correct": false },
+      { "text": "डॉक्टरों की नियुक्ति करना", "is_correct": false }
+    ],
+    "explanation": "वित्त आयोग (संविधान अनुच्छेद 280) केंद्र और राज्यों के बीच कर राजस्व के वितरण की सिफारिश करता है। 15वें वित्त आयोग ने स्वास्थ्य क्षेत्र के लिए विशेष अनुदान का प्रावधान किया।"
+  },
+  {
+    "question": "भारत में स्वास्थ्य किस सूची में आता है?",
+    "options": [
+      { "text": "संघ सूची (Union List)", "is_correct": false },
+      { "text": "राज्य सूची (State List)", "is_correct": true },
+      { "text": "समवर्ती सूची (Concurrent List)", "is_correct": false },
+      { "text": "किसी सूची में नहीं", "is_correct": false }
+    ],
+    "explanation": "भारतीय संविधान के अनुसार 'सार्वजनिक स्वास्थ्य और स्वच्छता' राज्य सूची (List II) का विषय है। इसका अर्थ है कि स्वास्थ्य सेवाओं की मुख्य जिम्मेदारी राज्य सरकारों की है।"
+  },
+  {
+    "question": "SECC 2011 (सामाजिक-आर्थिक जाति जनगणना) का उपयोग किस लिए होता है?",
+    "options": [
+      { "text": "जाति-आधारित आरक्षण के लिए", "is_correct": false },
+      { "text": "सरकारी योजनाओं के लाभार्थियों की पहचान के लिए", "is_correct": true },
+      { "text": "चुनाव परिसीमन के लिए", "is_correct": false },
+      { "text": "कर निर्धारण के लिए", "is_correct": false }
+    ],
+    "explanation": "SECC 2011 ग्रामीण और शहरी परिवारों की सामाजिक-आर्थिक स्थिति का डेटाबेस है। इसका उपयोग PM-JAY, आवास योजना, मनरेगा जैसी योजनाओं के लिए लाभार्थियों की पहचान में होता है।"
+  },
+  {
+    "question": "DBT (Direct Benefit Transfer) स्वास्थ्य में किस प्रकार उपयोगी है?",
+    "options": [
+      { "text": "मुफ्त दवाएं देने में", "is_correct": false },
+      { "text": "सब्सिडी सीधे लाभार्थी के बैंक खाते में भेजकर बिचौलियों को हटाना", "is_correct": true },
+      { "text": "डॉक्टरों की नियुक्ति में", "is_correct": false },
+      { "text": "अस्पताल निर्माण में", "is_correct": false }
+    ],
+    "explanation": "DBT के माध्यम से स्वास्थ्य सब्सिडी, ASHA भुगतान, और पोषण संबंधी लाभ सीधे लाभार्थी के बैंक खाते में जाते हैं। इससे भ्रष्टाचार और रिसाव कम होता है।"
+  },
+  {
+    "question": "जेनेरिक दवाएं (Generic Drugs) और ब्रांडेड दवाओं में मुख्य अंतर क्या है?",
+    "options": [
+      { "text": "जेनेरिक दवाएं कम प्रभावशाली होती हैं", "is_correct": false },
+      { "text": "जेनेरिक दवाएं वही रासायनिक संरचना लेकिन बिना ब्रांड नाम के और सस्ती होती हैं", "is_correct": true },
+      { "text": "जेनेरिक दवाएं केवल विदेशों से आती हैं", "is_correct": false },
+      { "text": "ब्रांडेड दवाएं अधिक सुरक्षित होती हैं", "is_correct": false }
+    ],
+    "explanation": "जेनेरिक दवाएं ब्रांडेड दवाओं के समान सक्रिय तत्व (Active Ingredient) और प्रभावशीलता रखती हैं, परंतु इनकी कीमत काफी कम होती है क्योंकि इन पर अनुसंधान और विपणन का खर्च नहीं होता।"
+  },
+  {
+    "question": "प्रधानमंत्री भारतीय जनऔषधि परियोजना (Jan Aushadhi) क्या प्रदान करती है?",
+    "options": [
+      { "text": "मुफ्त चिकित्सा परामर्श", "is_correct": false },
+      { "text": "सस्ती जेनेरिक दवाएं", "is_correct": true },
+      { "text": "मुफ्त अस्पताल उपचार", "is_correct": false },
+      { "text": "मुफ्त बीमा कवरेज", "is_correct": false }
+    ],
+    "explanation": "जन औषधि परियोजना (2008, पुनर्लॉन्च 2015) के तहत जन औषधि केंद्रों पर गुणवत्तापूर्ण जेनेरिक दवाएं बाजार मूल्य से 50-90% कम कीमत पर उपलब्ध कराई जाती हैं।"
+  },
+  {
+    "question": "NLEM (National List of Essential Medicines) क्या है?",
+    "options": [
+      { "text": "महंगी दवाओं की सूची", "is_correct": false },
+      { "text": "वे दवाएं जो अधिकांश स्वास्थ्य आवश्यकताओं को पूरा करती हैं और सरकारी नियंत्रण में हैं", "is_correct": true },
+      { "text": "प्रतिबंधित दवाओं की सूची", "is_correct": false },
+      { "text": "केवल आयात की गई दवाओं की सूची", "is_correct": false }
+    ],
+    "explanation": "NLEM उन दवाओं की सूची है जो जनसंख्या की मूल स्वास्थ्य आवश्यकताओं को पूरा करती हैं। इन पर NPPA द्वारा कीमत नियंत्रण लागू होता है। WHO ने Essential Medicines की अवधारणा 1977 में शुरू की थी।"
+  },
+  {
+    "question": "NPPA (National Pharmaceutical Pricing Authority) का मुख्य कार्य क्या है?",
+    "options": [
+      { "text": "नई दवाओं का अनुसंधान करना", "is_correct": false },
+      { "text": "दवाओं की कीमतें नियंत्रित और निगरानी करना", "is_correct": true },
+      { "text": "दवाओं का आयात करना", "is_correct": false },
+      { "text": "दवाओं की गुणवत्ता परीक्षण करना", "is_correct": false }
+    ],
+    "explanation": "NPPA 1997 में स्थापित हुई। यह NLEM में शामिल दवाओं की अधिकतम कीमत (ceiling price) निर्धारित करती है और DPCO (Drug Price Control Order) को लागू करती है।"
+  },
+  {
+    "question": "पेटेंट (Patent) क्या होता है?",
+    "options": [
+      { "text": "दवा के विक्रय का लाइसेंस", "is_correct": false },
+      { "text": "किसी आविष्कार को एकाधिकार अधिकार देने वाला कानूनी दस्तावेज, जो 20 वर्ष के लिए होता है", "is_correct": true },
+      { "text": "सरकारी दवा खरीद अनुबंध", "is_correct": false },
+      { "text": "दवा की गुणवत्ता प्रमाण पत्र", "is_correct": false }
+    ],
+    "explanation": "पेटेंट एक कानूनी अधिकार है जो आविष्कारक को 20 वर्ष तक अपने आविष्कार का एकाधिकार देता है। इस दौरान अन्य कंपनियां बिना अनुमति उस दवा का निर्माण नहीं कर सकतीं, जिससे कीमत अधिक रहती है।"
+  }
+  ,
+  {
+    "question": "अनिवार्य लाइसेंसिंग (Compulsory Licensing) का क्या अर्थ है?",
+    "options": [
+      { "text": "सरकार द्वारा सभी दवा कंपनियों को लाइसेंस देना", "is_correct": false },
+      { "text": "सरकार द्वारा पेटेंटधारक की अनुमति के बिना किसी अन्य को दवा बनाने की अनुमति देना", "is_correct": true },
+      { "text": "दवा कंपनियों को अनिवार्य रूप से सरकार को बेचना", "is_correct": false },
+      { "text": "विदेशी कंपनियों को भारत में काम करने की अनुमति", "is_correct": false }
+    ],
+    "explanation": "Compulsory Licensing में सरकार सार्वजनिक स्वास्थ्य आपातकाल में पेटेंटधारक की सहमति के बिना किसी अन्य कंपनी को पेटेंट दवा बनाने की अनुमति दे सकती है। भारत ने 2012 में Nexavar (कैंसर दवा) के लिए ऐसा किया था।"
+  },
+  {
+    "question": "TRIPS (ट्रिप्स) समझौते का पूरा नाम क्या है?",
+    "options": [
+      { "text": "Trade Related Intellectual Property Rights", "is_correct": true },
+      { "text": "Trade Regulation and International Pharmaceutical Standards", "is_correct": false },
+      { "text": "Treaty on Research and Innovation in Pharmaceutical Sector", "is_correct": false },
+      { "text": "Technical Regulation of Imported Pharmaceutical Supplies", "is_correct": false }
+    ],
+    "explanation": "TRIPS (Trade-Related Aspects of Intellectual Property Rights) WTO का समझौता है जो 1995 में लागू हुआ। यह दवाओं सहित सभी बौद्धिक संपदाओं पर न्यूनतम 20 वर्ष का पेटेंट संरक्षण अनिवार्य करता है।"
+  },
+  {
+    "question": "WHO ने आवश्यक दवाओं (Essential Medicines) की अवधारणा किस वर्ष शुरू की?",
+    "options": [
+      { "text": "1948", "is_correct": false },
+      { "text": "1977", "is_correct": true },
+      { "text": "1995", "is_correct": false },
+      { "text": "2000", "is_correct": false }
+    ],
+    "explanation": "WHO ने 1977 में पहली Essential Medicines Model List जारी की। इसका उद्देश्य देशों को उन दवाओं की पहचान करने में मदद करना था जो प्राथमिक स्वास्थ्य आवश्यकताओं को पूरा करती हैं और सभी को उपलब्ध होनी चाहिए।"
+  },
+  {
+    "question": "तर्कसंगत दवा उपयोग (Rational Drug Use) का अर्थ क्या है?",
+    "options": [
+      { "text": "जितनी हो सके उतनी दवाएं लेना", "is_correct": false },
+      { "text": "सही मरीज को, सही दवा, सही खुराक में, सही समय पर, उचित मूल्य पर देना", "is_correct": true },
+      { "text": "केवल महंगी दवाएं उपयोग करना", "is_correct": false },
+      { "text": "बिना डॉक्टर की सलाह के दवाएं लेना", "is_correct": false }
+    ],
+    "explanation": "WHO के अनुसार Rational Drug Use में उचित संकेत (indication), सही दवा, सही रोगी, सही खुराक, सही अवधि, सही मार्ग और सही मूल्य शामिल हैं। अतार्किक उपयोग से प्रतिरोध (resistance) और दुष्प्रभाव बढ़ते हैं।"
+  },
+  {
+    "question": "ASHA कार्यकर्ताओं को वेतन किस आधार पर मिलता है?",
+    "options": [
+      { "text": "मासिक निश्चित वेतन", "is_correct": false },
+      { "text": "प्रदर्शन-आधारित प्रोत्साहन (Performance-based incentives)", "is_correct": true },
+      { "text": "वार्षिक बोनस", "is_correct": false },
+      { "text": "कोई भुगतान नहीं, स्वयंसेवक हैं", "is_correct": false }
+    ],
+    "explanation": "ASHA (Accredited Social Health Activist) को मुख्यतः प्रदर्शन-आधारित प्रोत्साहन मिलता है — जैसे प्रसव के लिए अस्पताल लाने पर, टीकाकरण करवाने पर आदि। कुछ राज्यों ने अब न्यूनतम मासिक मानदेय भी शुरू किया है।"
+  },
+  {
+    "question": "भारत में डॉक्टर-जनसंख्या अनुपात क्या है (अनुमानित)?",
+    "options": [
+      { "text": "1:100", "is_correct": false },
+      { "text": "1:834 (WHO मानक 1:1000 से बेहतर)", "is_correct": true },
+      { "text": "1:5000", "is_correct": false },
+      { "text": "1:50", "is_correct": false }
+    ],
+    "explanation": "भारत सरकार के अनुसार पंजीकृत डॉक्टरों को मिलाकर अनुपात WHO मानक (1:1000) से बेहतर हो गया है, लेकिन ग्रामीण-शहरी असमानता बहुत बड़ी है। ग्रामीण क्षेत्रों में गंभीर डॉक्टर की कमी है।"
+  },
+  {
+    "question": "स्वास्थ्य क्षेत्र में 'ब्रेन ड्रेन' (Brain Drain) से क्या समझते हैं?",
+    "options": [
+      { "text": "मानसिक रोगों में वृद्धि", "is_correct": false },
+      { "text": "प्रशिक्षित स्वास्थ्य पेशेवरों का बेहतर अवसरों के लिए विदेश चले जाना", "is_correct": true },
+      { "text": "स्वास्थ्य बजट में कटौती", "is_correct": false },
+      { "text": "अस्पतालों का निजीकरण", "is_correct": false }
+    ],
+    "explanation": "Brain Drain वह प्रक्रिया है जिसमें प्रशिक्षित डॉक्टर, नर्स और अन्य स्वास्थ्यकर्मी उच्च वेतन और बेहतर कार्य परिस्थितियों के लिए विकसित देशों में चले जाते हैं, जिससे विकासशील देशों में स्वास्थ्यकर्मी की कमी होती है।"
+  },
+  {
+    "question": "कार्य स्थानांतरण (Task Shifting) स्वास्थ्य में क्या है?",
+    "options": [
+      { "text": "डॉक्टरों को ग्रामीण क्षेत्रों में स्थानांतरित करना", "is_correct": false },
+      { "text": "कुछ कार्य उच्च योग्य स्वास्थ्यकर्मी से कम योग्य पर स्थानांतरित करना", "is_correct": true },
+      { "text": "अस्पताल से घर पर उपचार", "is_correct": false },
+      { "text": "निजी से सरकारी अस्पताल में स्थानांतरण", "is_correct": false }
+    ],
+    "explanation": "Task Shifting में डॉक्टरों के कुछ कार्य नर्स, ANM या ASHA जैसे कम प्रशिक्षित लेकिन उचित रूप से प्रशिक्षित स्वास्थ्यकर्मियों को सौंपे जाते हैं। यह स्वास्थ्यकर्मी की कमी से निपटने का तरीका है।"
+  },
+  {
+    "question": "WHO के अनुसार स्वास्थ्यकर्मी घनत्व का मानक क्या है?",
+    "options": [
+      { "text": "1 प्रति 1000 जनसंख्या", "is_correct": false },
+      { "text": "4.45 प्रति 1000 जनसंख्या (डॉक्टर + नर्स + दाइयां)", "is_correct": true },
+      { "text": "10 प्रति 1000 जनसंख्या", "is_correct": false },
+      { "text": "0.5 प्रति 1000 जनसंख्या", "is_correct": false }
+    ],
+    "explanation": "WHO का अनुशंसित स्वास्थ्यकर्मी घनत्व न्यूनतम 4.45 प्रति 1000 जनसंख्या है (डॉक्टर + नर्स + मिडवाइव्स मिलाकर)। भारत के कई ग्रामीण क्षेत्र इस मानक से नीचे हैं।"
+  },
+  {
+    "question": "कम्युनिटी हेल्थ ऑफिसर (CHO) कौन होता है?",
+    "options": [
+      { "text": "MBBS डॉक्टर जो गांव में काम करता है", "is_correct": false },
+      { "text": "BSc (Community Health) कोर्स किया हुआ स्वास्थ्यकर्मी जो Health and Wellness Centre पर तैनात है", "is_correct": true },
+      { "text": "जिला स्वास्थ्य अधिकारी", "is_correct": false },
+      { "text": "ASHA कार्यकर्ता की सुपरवाइजर", "is_correct": false }
+    ],
+    "explanation": "CHO 3.5 वर्षीय BSc Community Health डिग्री धारक स्वास्थ्यकर्मी है जिसे आयुष्मान भारत के तहत उन्नत Health and Wellness Centres (HWC) पर तैनात किया जाता है। ये व्यापक प्राथमिक स्वास्थ्य सेवाएं देते हैं।"
+  },
+  {
+    "question": "बीमारी की प्रत्यक्ष लागत (Direct Cost of Illness) में क्या शामिल है?",
+    "options": [
+      { "text": "काम से अनुपस्थिति के कारण आय की हानि", "is_correct": false },
+      { "text": "डॉक्टर फीस, दवाएं, जांच, अस्पताल भर्ती का खर्च", "is_correct": true },
+      { "text": "परिवार का मनोवैज्ञानिक कष्ट", "is_correct": false },
+      { "text": "भविष्य की आय में कमी", "is_correct": false }
+    ],
+    "explanation": "Direct Cost में स्वास्थ्य सेवाओं के लिए सीधे चुकाई गई राशि शामिल है: परामर्श शुल्क, दवाएं, निदान परीक्षण, अस्पताल भर्ती, परिवहन। Indirect Cost में उत्पादकता हानि शामिल है।"
+  },
+  {
+    "question": "बीमारी की अप्रत्यक्ष लागत (Indirect Cost of Illness) का उदाहरण क्या है?",
+    "options": [
+      { "text": "दवाओं का खर्च", "is_correct": false },
+      { "text": "अस्पताल में भर्ती का खर्च", "is_correct": false },
+      { "text": "बीमारी के कारण काम न कर पाने से आय की हानि", "is_correct": true },
+      { "text": "डॉक्टर की फीस", "is_correct": false }
+    ],
+    "explanation": "Indirect Cost में बीमारी के कारण होने वाली उत्पादकता हानि शामिल है — जैसे काम से अनुपस्थिति (morbidity cost) और मृत्यु के कारण भविष्य की आय की हानि (mortality cost)।"
+  },
+  {
+    "question": "लागत-प्रभावशीलता (Cost-Effectiveness) का क्या अर्थ है?",
+    "options": [
+      { "text": "सबसे महंगा उपचार चुनना", "is_correct": false },
+      { "text": "समान स्वास्थ्य परिणाम प्राप्त करने के लिए कम लागत वाला विकल्प चुनना", "is_correct": true },
+      { "text": "उपचार से बचना", "is_correct": false },
+      { "text": "केवल निजी अस्पतालों का उपयोग", "is_correct": false }
+    ],
+    "explanation": "Cost-Effectiveness Analysis में विभिन्न स्वास्थ्य हस्तक्षेपों की लागत और उनसे प्राप्त स्वास्थ्य परिणामों (जैसे QALY या DALYs) की तुलना की जाती है। सबसे कम लागत में सबसे अधिक लाभ देने वाला विकल्प चुना जाता है।"
+  },
+  {
+    "question": "उपयोगकर्ता शुल्क (User Fees) स्वास्थ्य में क्या है?",
+    "options": [
+      { "text": "सरकारी अस्पतालों में बिल्कुल नहीं लिया जाता", "is_correct": false },
+      { "text": "स्वास्थ्य सेवा उपयोग के समय मरीज से लिया जाने वाला प्रत्यक्ष भुगतान", "is_correct": true },
+      { "text": "केवल विदेशी मरीजों से लिया जाता है", "is_correct": false },
+      { "text": "बीमा प्रीमियम का दूसरा नाम", "is_correct": false }
+    ],
+    "explanation": "User Fees वह राशि है जो मरीज सेवा के बिंदु पर चुकाता है। सार्वजनिक अस्पतालों में यह नाममात्र हो सकती है, जबकि निजी अस्पतालों में यह पूर्ण बाजार मूल्य पर होती है।"
+  },
+  {
+    "question": "विनाशकारी स्वास्थ्य व्यय (Catastrophic Health Expenditure) क्या है?",
+    "options": [
+      { "text": "स्वास्थ्य पर कोई भी बड़ा खर्च", "is_correct": false },
+      { "text": "जब स्वास्थ्य व्यय परिवार की आय/उपभोग का 10-40% से अधिक हो जाए", "is_correct": true },
+      { "text": "केवल अस्पताल में भर्ती का खर्च", "is_correct": false },
+      { "text": "सरकारी स्वास्थ्य बजट में कटौती", "is_correct": false }
+    ],
+    "explanation": "Catastrophic Health Expenditure तब होता है जब परिवार की आय का एक बड़ा हिस्सा (WHO परिभाषा: गैर-खाद्य व्यय का 40% से अधिक) स्वास्थ्य पर खर्च होता है। भारत में यह लाखों परिवारों को गरीबी में धकेलता है।"
+  },
+  {
+    "question": "चिकित्सा निर्धनता (Medical Poverty Trap) क्या है?",
+    "options": [
+      { "text": "गरीब लोगों को अस्पताल में प्रवेश नहीं देना", "is_correct": false },
+      { "text": "जब बीमारी के इलाज का खर्च परिवार को गरीबी रेखा से नीचे धकेल दे", "is_correct": true },
+      { "text": "सरकारी अस्पतालों की खराब स्थिति", "is_correct": false },
+      { "text": "दवाओं की कालाबाजारी", "is_correct": false }
+    ],
+    "explanation": "Medical Poverty Trap वह स्थिति है जब स्वास्थ्य पर विनाशकारी व्यय के कारण गैर-गरीब परिवार गरीबी रेखा से नीचे चले जाते हैं। भारत में हर वर्ष लगभग 5-7 करोड़ लोग इस तरह गरीब हो जाते हैं।"
+  },
+  {
+    "question": "राष्ट्रीय स्वास्थ्य लेखा (National Health Accounts - NHA) क्या मापता है?",
+    "options": [
+      { "text": "स्वास्थ्य मंत्रालय के कर्मचारियों की संख्या", "is_correct": false },
+      { "text": "किसी देश में स्वास्थ्य पर सभी स्रोतों से होने वाला कुल व्यय", "is_correct": true },
+      { "text": "अस्पतालों की संख्या", "is_correct": false },
+      { "text": "रोगियों की संख्या", "is_correct": false }
+    ],
+    "explanation": "NHA (National Health Accounts) एक व्यवस्थित ढांचा है जो किसी देश में स्वास्थ्य पर सरकार, निजी क्षेत्र, बीमा, और बाहरी स्रोतों से होने वाले कुल वित्त प्रवाह को मापता है।"
+  },
+  {
+    "question": "MGNREGS (मनरेगा) स्वास्थ्य से किस प्रकार जुड़ा है?",
+    "options": [
+      { "text": "यह सीधे स्वास्थ्य सेवाएं प्रदान करती है", "is_correct": false },
+      { "text": "रोजगार और आय देकर परिवारों की स्वास्थ्य व्यय करने की क्षमता बढ़ाती है", "is_correct": true },
+      { "text": "यह एक स्वास्थ्य बीमा योजना है", "is_correct": false },
+      { "text": "यह मुफ्त दवाएं देती है", "is_correct": false }
+    ],
+    "explanation": "मनरेगा ग्रामीण परिवारों को 100 दिन का रोजगार और आय सुनिश्चित करती है। अधिक आय से परिवार स्वास्थ्य पर अधिक खर्च कर सकते हैं, बेहतर पोषण ले सकते हैं — इस प्रकार यह स्वास्थ्य का सामाजिक निर्धारक है।"
+  },
+  {
+    "question": "PDS (सार्वजनिक वितरण प्रणाली) स्वास्थ्य से कैसे जुड़ी है?",
+    "options": [
+      { "text": "PDS मुफ्त दवाएं देती है", "is_correct": false },
+      { "text": "PDS सब्सिडी पर खाद्यान्न देकर पोषण सुरक्षा और स्वास्थ्य सुधार में मदद करती है", "is_correct": true },
+      { "text": "PDS केवल शहरों में काम करती है", "is_correct": false },
+      { "text": "PDS और स्वास्थ्य का कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "PDS सब्सिडी पर गेहूं, चावल और अन्य आवश्यक वस्तुएं प्रदान कर खाद्य सुरक्षा सुनिश्चित करती है। पर्याप्त पोषण रोगों से बचाव, प्रतिरोधक क्षमता और मातृ-शिशु स्वास्थ्य में सुधार करता है।"
+  },
+  {
+    "question": "स्वच्छ भारत मिशन (SBM) स्वास्थ्य अर्थशास्त्र में क्यों महत्वपूर्ण है?",
+    "options": [
+      { "text": "यह सीधे दवाएं देता है", "is_correct": false },
+      { "text": "स्वच्छता सुधार से जल-जनित रोगों में कमी आती है जिससे स्वास्थ्य व्यय बचता है", "is_correct": true },
+      { "text": "यह डॉक्टरों को प्रशिक्षण देता है", "is_correct": false },
+      { "text": "यह केवल शहरी क्षेत्रों के लिए है", "is_correct": false }
+    ],
+    "explanation": "स्वच्छ भारत मिशन (2014) खुले में शौच मुक्त भारत का लक्ष्य लेकर चला। अनुसंधान बताता है कि बेहतर स्वच्छता से डायरिया, हैजा और अन्य जल-जनित रोगों में कमी आती है, जिससे परिवारों का स्वास्थ्य व्यय कम होता है।"
+  },
+  {
+    "question": "विश्व बैंक (World Bank) स्वास्थ्य क्षेत्र में क्या भूमिका निभाता है?",
+    "options": [
+      { "text": "दवाओं का वितरण करता है", "is_correct": false },
+      { "text": "विकासशील देशों को स्वास्थ्य परियोजनाओं के लिए ऋण और तकनीकी सहायता देता है", "is_correct": true },
+      { "text": "स्वास्थ्य नीति बनाने का अधिकार है", "is_correct": false },
+      { "text": "डॉक्टरों को प्रशिक्षण देता है", "is_correct": false }
+    ],
+    "explanation": "विश्व बैंक स्वास्थ्य क्षेत्र का एक प्रमुख वित्तदाता है। यह ऋण, अनुदान और तकनीकी सहायता से स्वास्थ्य प्रणाली को मजबूत करने में मदद करता है। World Development Report 1993 'Investing in Health' इसका ऐतिहासिक योगदान था।"
+  },
+  {
+    "question": "GAVI (गावी) क्या है?",
+    "options": [
+      { "text": "भारत की टीकाकरण एजेंसी", "is_correct": false },
+      { "text": "वैश्विक टीका और प्रतिरक्षण गठबंधन जो विकासशील देशों में टीकाकरण वित्त करता है", "is_correct": true },
+      { "text": "WHO की एक शाखा", "is_correct": false },
+      { "text": "WTO का स्वास्थ्य प्रभाग", "is_correct": false }
+    ],
+    "explanation": "GAVI (Global Alliance for Vaccines and Immunisation) 2000 में स्थापित हुई। यह निजी और सार्वजनिक क्षेत्र का साझेदारी मॉडल है जो निम्न और मध्यम आय वाले देशों में टीकाकरण कार्यक्रमों को वित्त पोषित करता है।"
+  },
+  {
+    "question": "Global Fund किन बीमारियों के लिए वित्त जुटाता है?",
+    "options": [
+      { "text": "कैंसर और हृदय रोग", "is_correct": false },
+      { "text": "HIV/AIDS, टीबी और मलेरिया", "is_correct": true },
+      { "text": "मधुमेह और मोटापा", "is_correct": false },
+      { "text": "केवल COVID-19", "is_correct": false }
+    ],
+    "explanation": "Global Fund to Fight AIDS, Tuberculosis and Malaria 2002 में स्थापित हुई। यह तीनों प्रमुख संक्रामक रोगों की रोकथाम और उपचार के लिए विकासशील देशों को वित्त प्रदान करती है।"
+  },
+  {
+    "question": "ODA (Official Development Assistance) स्वास्थ्य में क्या है?",
+    "options": [
+      { "text": "निजी कंपनियों का निवेश", "is_correct": false },
+      { "text": "विकसित देशों द्वारा विकासशील देशों को दी जाने वाली सरकारी स्वास्थ्य सहायता", "is_correct": true },
+      { "text": "बहुराष्ट्रीय कंपनियों का दान", "is_correct": false },
+      { "text": "IMF का ऋण कार्यक्रम", "is_correct": false }
+    ],
+    "explanation": "ODA विकसित देशों की सरकारों द्वारा विकासशील देशों को रियायती दरों पर दी जाने वाली सरकारी सहायता है। भारत को स्वास्थ्य के लिए ODA USAID, DFID और अन्य द्विपक्षीय दाताओं से मिलती रही है।"
+  },
+  {
+    "question": "भारत में 'प्रधानमंत्री जन धन योजना' (PMJDY) का स्वास्थ्य से क्या संबंध है?",
+    "options": [
+      { "text": "यह एक स्वास्थ्य बीमा योजना है", "is_correct": false },
+      { "text": "बैंक खाते से DBT के जरिए JSY/PMMVY जैसे स्वास्थ्य लाभ सीधे मिलते हैं", "is_correct": true },
+      { "text": "PMJDY मुफ्त इलाज देती है", "is_correct": false },
+      { "text": "PMJDY केवल पुरुषों के लिए है", "is_correct": false }
+    ],
+    "explanation": "PMJDY (2014) ने करोड़ों लोगों को बैंकिंग से जोड़ा। JSY (मातृत्व लाभ), PMMVY, PM-KISAN, MGNREGS मजदूरी — सभी DBT (Direct Benefit Transfer) के माध्यम से सीधे खातों में जाते हैं। बैंक खाता न होने से पहले बिचौलिए पैसे खा जाते थे।"
+  },
+  {
+    "question": "भारत में 'आयुष्मान भारत — PM-JAY' का लाभ किसे मिलता है?",
+    "options": [
+      { "text": "सभी भारतीय नागरिकों को", "is_correct": false },
+      { "text": "SECC 2011 के आधार पर चिन्हित गरीब और वंचित परिवारों को", "is_correct": true },
+      { "text": "केवल BPL कार्ड धारकों को", "is_correct": false },
+      { "text": "केवल सरकारी कर्मचारियों को", "is_correct": false }
+    ],
+    "explanation": "PM-JAY में SECC (Socio-Economic Caste Census) 2011 के आधार पर ग्रामीण (6 deprivation criteria) और शहरी (11 occupational criteria) के आधार पर ~50 करोड़ लाभार्थी चिन्हित किए गए हैं। इन्हें ₹5 लाख का सालाना health cover मिलता है।"
+  },
+  {
+    "question": "भारत में 'ESI' (कर्मचारी राज्य बीमा) scheme किस श्रेणी के कर्मचारियों को cover करती है?",
+    "options": [
+      { "text": "सरकारी कर्मचारियों को", "is_correct": false },
+      { "text": "संगठित क्षेत्र के कारखाना श्रमिकों को (₹21,000/माह तक के वेतन पर)", "is_correct": true },
+      { "text": "कृषि श्रमिकों को", "is_correct": false },
+      { "text": "सभी असंगठित क्षेत्र के कर्मचारियों को", "is_correct": false }
+    ],
+    "explanation": "ESI (Employees' State Insurance) Act 1948 के तहत कारखानों और कुछ प्रतिष्ठानों में ₹21,000/माह तक के वेतन वाले कर्मचारियों को बीमारी, मातृत्व, विकलांगता लाभ और चिकित्सा सुविधा मिलती है। इसमें employer और employee दोनों योगदान देते हैं।"
+  },
+  {
+    "question": "स्वास्थ्य में 'Moral Hazard' (नैतिक जोखिम) का सरल उदाहरण क्या है?",
+    "options": [
+      { "text": "डॉक्टर का झूठ बोलना", "is_correct": false },
+      { "text": "बीमा होने पर लोग अधिक बेपरवाह होकर स्वास्थ्य सेवाओं का उपयोग करते हैं", "is_correct": true },
+      { "text": "सरकार का बजट घटाना", "is_correct": false },
+      { "text": "अस्पताल का महंगी दवाएं देना", "is_correct": false }
+    ],
+    "explanation": "Moral Hazard: जब insurance के कारण व्यक्ति का रिस्क लेने का व्यवहार बदल जाता है। जैसे — बीमा होने पर लोग अनावश्यक जाँचें कराते हैं, डॉक्टर के पास अधिक जाते हैं। इससे overall healthcare costs बढ़ सकती हैं।"
+  },
+  {
+    "question": "भारत में 'जेनेरिक दवाएं' (Generic Medicines) ब्रांडेड दवाओं से सस्ती क्यों होती हैं?",
+    "options": [
+      { "text": "इनकी गुणवत्ता कम होती है", "is_correct": false },
+      { "text": "R&D और marketing खर्च न होने से ये सस्ती होती हैं", "is_correct": true },
+      { "text": "इनमें active ingredient कम होती है", "is_correct": false },
+      { "text": "इन्हें WHO बनाती है", "is_correct": false }
+    ],
+    "explanation": "Generic medicines में वही active ingredient होती है जो branded medicines में होती है लेकिन R&D (Research & Development) और marketing पर खर्च नहीं होता। इसलिए ये branded दवाओं से 50-90% सस्ती होती हैं। PM Bhartiya Janaushadhi Pariyojana में यही उपलब्ध कराई जाती हैं।"
+  },
+  {
+    "question": "भारत में 'Pradhan Mantri Surakshit Matritva Abhiyan' (PMSMA) का आर्थिक लाभ क्या है?",
+    "options": [
+      { "text": "गर्भवती महिलाओं को मुफ्त दवाएं मिलती हैं", "is_correct": false },
+      { "text": "हर माह की 9 तारीख को PHC पर मुफ्त ANC जाँच से निजी अस्पताल का खर्च बचता है", "is_correct": true },
+      { "text": "यह केवल BPL परिवारों के लिए है", "is_correct": false },
+      { "text": "इसमें केवल blood test होती है", "is_correct": false }
+    ],
+    "explanation": "PMSMA (2016): हर महीने की 9 तारीख को PHC/CHC पर विशेषज्ञ डॉक्टर द्वारा गर्भवती महिलाओं की मुफ्त ANC (Antenatal Care) जाँच। इससे high-risk pregnancy की पहचान और निजी जाँच का खर्च बचता है।"
+  },
+  {
+    "question": "भारत में 'HLEG' (High Level Expert Group) ने UHC के लिए क्या सिफारिश की?",
+    "options": [
+      { "text": "सभी healthcare निजी क्षेत्र को सौंपने की सिफारिश", "is_correct": false },
+      { "text": "Government Health Expenditure को GDP का 3% करने और free comprehensive primary care की सिफारिश", "is_correct": true },
+      { "text": "केवल insurance पर निर्भर रहने की सिफारिश", "is_correct": false },
+      { "text": "HLEG ने केवल hospital beds बढ़ाने की सिफारिश की", "is_correct": false }
+    ],
+    "explanation": "Planning Commission की HLEG on Universal Health Coverage (2011, K. Srinath Reddy) ने सिफारिश की: (1) सरकारी स्वास्थ्य व्यय GDP का 3% किया जाए; (2) Comprehensive Primary Health Care मुफ्त दी जाए; (3) Drugs/diagnostics मुफ्त; (4) HR कमी दूर की जाए। NHP 2017 में इन्हें partially include किया।"
+  },
+  {
+    "question": "भारत में 'NLEM 2022' में कितनी आवश्यक दवाएं हैं?",
+    "options": [
+      { "text": "100", "is_correct": false },
+      { "text": "384", "is_correct": true },
+      { "text": "500", "is_correct": false },
+      { "text": "250", "is_correct": false }
+    ],
+    "explanation": "National List of Essential Medicines (NLEM) 2022 में 384 दवाएं हैं। ये वे दवाएं हैं जो भारत की प्राथमिक स्वास्थ्य जरूरतों को पूरा करती हैं। DPCO (Drug Price Control Order) 2013 के तहत इन दवाओं की कीमत NPPA (National Pharmaceutical Pricing Authority) नियंत्रित करती है।"
+  },
+  {
+    "question": "भारत का स्वास्थ्य पर कुल सरकारी व्यय GDP का लगभग कितना प्रतिशत है?",
+    "options": [
+      { "text": "5%", "is_correct": false },
+      { "text": "1.35% (NHA 2019-20)", "is_correct": true },
+      { "text": "3%", "is_correct": false },
+      { "text": "10%", "is_correct": false }
+    ],
+    "explanation": "NHA (National Health Accounts) 2019-20 के अनुसार भारत में Government Health Expenditure GDP का 1.35% है। NHP 2017 का लक्ष्य 2025 तक 2.5% करना है। विश्व औसत 6% से अधिक है। भारत अपने स्वास्थ्य पर वैश्विक मानकों के अनुपात में बहुत कम खर्च करता है।"
+  },
+  {
+    "question": "'प्रत्यक्ष लाभ हस्तांतरण' (DBT — Direct Benefit Transfer) स्वास्थ्य में कैसे काम करता है?",
+    "options": [
+      { "text": "मुफ्त दवाएं देने की प्रक्रिया", "is_correct": false },
+      { "text": "सरकारी लाभ सीधे लाभार्थी के बैंक खाते में जाते हैं — बिचौलिए नहीं", "is_correct": true },
+      { "text": "डॉक्टरों को भुगतान की प्रक्रिया", "is_correct": false },
+      { "text": "अस्पतालों को subsidy देना", "is_correct": false }
+    ],
+    "explanation": "DBT (Direct Benefit Transfer) में PMJDY खाते के माध्यम से JSY (₹1400), PMMVY (₹5000), LPG subsidy, MGNREGS wages सीधे खाते में जाते हैं। इससे leakage और corruption कम होती है। Aadhaar-linked DBT से identification और targeting बेहतर होती है।"
+  },
+  {
+    "question": "भारत में 'Pradhan Mantri Ujjwala Yojana' (PMUY) का स्वास्थ्य पर क्या प्रभाव है?",
+    "options": [
+      { "text": "यह एक स्वास्थ्य बीमा योजना है", "is_correct": false },
+      { "text": "LPG connection से indoor air pollution कम होता है जिससे respiratory disease घटती है", "is_correct": true },
+      { "text": "यह केवल खाना पकाने के लिए है — health impact नहीं", "is_correct": false },
+      { "text": "PMUY केवल शहरों में लागू है", "is_correct": false }
+    ],
+    "explanation": "PMUY (2016) BPL परिवारों को मुफ्त LPG connection देती है। इससे biomass (लकड़ी, गोबर) से खाना पकाने पर निर्भरता कम होती है। Biomass से indoor air pollution → respiratory diseases (COPD, pneumonia), आँखों की बीमारी। WHO के अनुसार household air pollution 4 million मौतों का कारण globally है।"
+  },
+  {
+    "question": "किस भारतीय राज्य ने सबसे पहले 'Free Essential Medicine Initiative' सफलतापूर्वक लागू की?",
+    "options": [
+      { "text": "बिहार", "is_correct": false },
+      { "text": "राजस्थान (2011)", "is_correct": true },
+      { "text": "उत्तर प्रदेश", "is_correct": false },
+      { "text": "मध्य प्रदेश", "is_correct": false }
+    ],
+    "explanation": "Rajasthan ने 2011 में Free Essential Medicine Scheme (FEMS) शुरू की — सरकारी अस्पतालों में 713+ आवश्यक दवाएं मुफ्त। इसे 'Rajasthan Model' कहते हैं। Tamil Nadu दशकों से free medicines दे रहा है। इन राज्यों में OOP expenditure कम है। कई अन्य राज्यों ने इस model को अपनाया।"
+  },
+  {
+    "question": "भारत में 'वित्त आयोग' (Finance Commission) का स्वास्थ्य से क्या संबंध है?",
+    "options": [
+      { "text": "वित्त आयोग स्वास्थ्य नीति बनाती है", "is_correct": false },
+      { "text": "15वें वित्त आयोग ने ₹70,000 crore स्वास्थ्य grants दिए जो राज्यों को PRI/ULB के माध्यम से स्वास्थ्य पर खर्च करने हैं", "is_correct": true },
+      { "text": "Finance Commission केवल central government के लिए काम करता है", "is_correct": false },
+      { "text": "Finance Commission ने PM-JAY को fund किया", "is_correct": false }
+    ],
+    "explanation": "15वें Finance Commission (2021-26) ने पहली बार health के लिए untied grants राज्यों को दिए: ₹70,000 crore (2021-26), जिन्हें local bodies (Panchayati Raj Institutions और Urban Local Bodies) के माध्यम से स्वास्थ्य infrastructure पर खर्च करना है। यह local health governance का बड़ा push था।"
+  },
+  {
+    "question": "स्वास्थ्य में 'बाह्यता' (Externality) का सकारात्मक उदाहरण क्या है?",
+    "options": [
+      { "text": "प्रदूषण से स्वास्थ्य हानि", "is_correct": false },
+      { "text": "टीकाकरण से 'herd immunity' — जिन्हें टीका नहीं मिला वे भी सुरक्षित", "is_correct": true },
+      { "text": "अस्पताल खुलने से भीड़ बढ़ना", "is_correct": false },
+      { "text": "बीमा से moral hazard", "is_correct": false }
+    ],
+    "explanation": "Positive Externality: टीकाकरण का उत्कृष्ट उदाहरण। जब पर्याप्त लोगों को vaccine मिल जाती है तो 'herd immunity' (झुंड प्रतिरक्षा) बनती है — जिन्हें vaccine नहीं मिली वे भी रोग से सुरक्षित हो जाते हैं। इसलिए सरकार vaccine पर subsidy देती है — positive externality को promote करने के लिए।"
+  },
+  {
+    "question": "भारत में 'IRDAI' (Insurance Regulatory and Development Authority of India) का स्वास्थ्य बीमा में क्या काम है?",
+    "options": [
+      { "text": "IRDAI स्वास्थ्य सेवाएं प्रदान करती है", "is_correct": false },
+      { "text": "स्वास्थ्य बीमा कंपनियों को नियंत्रित और regulate करती है", "is_correct": true },
+      { "text": "IRDAI मुफ्त बीमा देती है", "is_correct": false },
+      { "text": "IRDAI WHO की भारतीय शाखा है", "is_correct": false }
+    ],
+    "explanation": "IRDAI (Insurance Regulatory and Development Authority of India) भारत में सभी insurance companies (life, general, health) को नियंत्रित करती है। यह consumer protection, premium setting के नियम, claim settlement standards, और health insurance policy के नियम बनाती है।"
+  },
+  {
+    "question": "भारत में 'Pradhan Mantri Arogya Mitra' (PMAM) कौन होते हैं?",
+    "options": [
+      { "text": "PM-JAY में empanelled doctors", "is_correct": false },
+      { "text": "PM-JAY में empanelled hospitals में मरीजों की मदद करने वाले trained helpdesk workers", "is_correct": true },
+      { "text": "ASHA workers का दूसरा नाम", "is_correct": false },
+      { "text": "State insurance officers", "is_correct": false }
+    ],
+    "explanation": "PM Arogya Mitras (PMAM) PM-JAY के तहत empanelled hospitals में posted trained workers होते हैं जो: (1) PM-JAY लाभार्थियों की पहचान में मदद करते हैं; (2) Aadhaar verification करते हैं; (3) Cashless treatment प्रक्रिया में मार्गदर्शन देते हैं। ये scheme और patient के बीच की कड़ी हैं।"
+  },
+  {
+    "question": "स्वास्थ्य में 'Adverse Selection' (विपरीत चयन) क्या है?",
+    "options": [
+      { "text": "अच्छे डॉक्टरों का चयन", "is_correct": false },
+      { "text": "स्वास्थ्य बीमा में सबसे बीमार लोग ज्यादा बीमा लेते हैं जिससे premium बढ़ता है", "is_correct": true },
+      { "text": "सरकार द्वारा गलत नीति चुनना", "is_correct": false },
+      { "text": "hospital का महंगे patient चुनना", "is_correct": false }
+    ],
+    "explanation": "Adverse Selection (information asymmetry का परिणाम): insurance में वे लोग ज्यादा insurance लेते हैं जो जानते हैं कि वे बीमार हैं। healthy लोग insurance नहीं लेते। इससे insured pool में सिर्फ बीमार होते हैं → premium बढ़ता है → और healthy लोग हटते हैं → death spiral। Community rating और mandatory enrollment इसे रोकते हैं।"
+  },
+  {
+    "question": "भारत में 'CGHS' (Central Government Health Scheme) में किसे cover किया जाता है?",
+    "options": [
+      { "text": "सभी भारतीय नागरिकों को", "is_correct": false },
+      { "text": "केंद्रीय सरकारी कर्मचारियों, सांसदों, जजों और उनके आश्रितों को", "is_correct": true },
+      { "text": "केवल IAS अधिकारियों को", "is_correct": false },
+      { "text": "BPL परिवारों को", "is_correct": false }
+    ],
+    "explanation": "CGHS (1954): Central government employees (current + retired), MPs, ex-MPs, Judges (SC + High Courts), Freedom Fighters और उनके dependents को medical benefits मिलते हैं। 85+ शहरों में CGHS Wellness Centres हैं। Cashless treatment की सुविधा empanelled hospitals में मिलती है।"
+  },
+  {
+    "question": "स्वास्थ्य में 'मांग की लोच' (Price Elasticity of Demand) सामान्यतः कैसी होती है?",
+    "options": [
+      { "text": "अत्यधिक elastic (लोचदार)", "is_correct": false },
+      { "text": "inelastic (अलोचदार) — कीमत बढ़ने पर भी मांग कम नहीं होती", "is_correct": true },
+      { "text": "perfectly elastic", "is_correct": false },
+      { "text": "unit elastic", "is_correct": false }
+    ],
+    "explanation": "आवश्यक स्वास्थ्य सेवाओं (जैसे emergency treatment, life-saving drugs) की मांग price inelastic होती है — कीमत बढ़ने पर भी लोग इन्हें लेते हैं क्योंकि विकल्प नहीं होता। इसीलिए healthcare market में price regulation जरूरी है और सरकार को हस्तक्षेप करना पड़ता है।"
+  },
+  {
+    "question": "भारत में 'Aarogya Setu' और 'COWIN' ने COVID-19 में क्या economic function किया?",
+    "options": [
+      { "text": "COVID treatment provide किया", "is_correct": false },
+      { "text": "Contact tracing और vaccine registration से pandemic management लागत कम की और vaccination में efficiency लाई", "is_correct": true },
+      { "text": "COVID के लिए insurance provide किया", "is_correct": false },
+      { "text": "केवल travel tracking के लिए था", "is_correct": false }
+    ],
+    "explanation": "Aarogya Setu: Bluetooth-based contact tracing app → early quarantine → reduced transmission → fewer hospitalizations → economic savings. COWIN (COVID Vaccine Intelligence Network): vaccine registration, slot booking, certificate — centralized. दोनों ने vaccination program में logistical efficiency लाई जिससे 220 crore+ doses सुव्यवस्थित तरीके से दिए जा सके।"
+  },
+  {
+    "question": "भारत में 'Pradhan Mantri Swasthya Suraksha Yojana' (PMSSY) का उद्देश्य क्या है?",
+    "options": [
+      { "text": "PHC बनाना", "is_correct": false },
+      { "text": "देश के अल्पसेवित क्षेत्रों में AIIMS जैसे tertiary institutes और upgrade medical colleges बनाना", "is_correct": true },
+      { "text": "बीमा coverage देना", "is_correct": false },
+      { "text": "ASHA workers को प्रशिक्षण देना", "is_correct": false }
+    ],
+    "explanation": "PMSSY (2006): उद्देश्य — tertiary care में inequality कम करना। इसके तहत: (1) 22 नए AIIMS-like institutions (विभिन्न राज्यों में); (2) 75+ existing government medical colleges को upgrade करना। इससे देश के वंचित क्षेत्रों में specialist care और medical education की उपलब्धता बढ़ी।"
+  },
+  {
+    "question": "भारत में 'सार्वजनिक-निजी भागीदारी' (PPP) मॉडल स्वास्थ्य में कैसे काम करता है?",
+    "options": [
+      { "text": "सरकार सब कुछ private sector को दे देती है", "is_correct": false },
+      { "text": "सरकार infrastructure/funding देती है, private sector services provide करता है — जैसे Rajasthan में diagnostic PPP", "is_correct": true },
+      { "text": "PPP में सरकार का कोई role नहीं होता", "is_correct": false },
+      { "text": "PPP केवल अस्पताल निर्माण के लिए है", "is_correct": false }
+    ],
+    "explanation": "PPP (Public-Private Partnership) में: सरकार — land, building, equipment, partial funding; Private partner — operations, management, services। Examples: Rajasthan diagnostic PPP (CT scan, MRI free at govt hospitals), 108 ambulance service (GVK-EMRI), Jan Aushadhi stores, Chiranjeevi scheme (Gujarat — private hospital delivery for BPL). PM-JAY भी PPP — government funds + private hospitals deliver care।"
+  },
+  {
+    "question": "भारत में 'NPPA' (National Pharmaceutical Pricing Authority) क्या करती है?",
+    "options": [
+      { "text": "दवाओं का उत्पादन करती है", "is_correct": false },
+      { "text": "NLEM में शामिल दवाओं की अधिकतम कीमत नियंत्रित करती है", "is_correct": true },
+      { "text": "दवाओं का export करती है", "is_correct": false },
+      { "text": "NPPA FDA का Indian version है", "is_correct": false }
+    ],
+    "explanation": "NPPA (1997, DPIIT + MOHFW के अधीन): Essential Commodities Act 1955 और DPCO 2013 के तहत 384 NLEM दवाओं की maximum ceiling price निर्धारित करती है। Market-based formula: बाजार में top-3 brands का weighted average price = ceiling। Stents (2017) और knee implants (2017) की prices 60-80% कम की। OOP expenditure reduction में important role।"
+  },
+  {
+    "question": "भारत में 'NHSRC' (National Health Systems Resource Centre) की भूमिका क्या है?",
+    "options": [
+      { "text": "NHSRC एक अस्पताल है", "is_correct": false },
+      { "text": "NHM के technical support institute के रूप में policy, research और capacity building", "is_correct": true },
+      { "text": "NHSRC medical colleges accredit करती है", "is_correct": false },
+      { "text": "NHSRC WHO की भारतीय शाखा है", "is_correct": false }
+    ],
+    "explanation": "NHSRC (National Health Systems Resource Centre): MOHFW के तहत autonomous body; NHM का technical arm। कार्य: (1) Health systems research; (2) State health societies को technical assistance; (3) HWC, ASHA, HR capacity building; (4) Policy formulation support; (5) Data analysis और learning documentation। NHSRC ने HWC design, ASHA incentive reform, Community Monitoring toolkit develop किए।"
+  },
+  {
+    "question": "भारत में आर्थिक विकास (Economic Growth) और स्वास्थ्य परिणामों (Health Outcomes) के बीच क्या संबंध है?",
+    "options": [
+      { "text": "Economic growth हमेशा health outcomes सुधारती है", "is_correct": false },
+      { "text": "Growth जरूरी लेकिन पर्याप्त नहीं — distribution, public spending और social protection भी चाहिए", "is_correct": true },
+      { "text": "Economic growth और health का कोई संबंध नहीं", "is_correct": false },
+      { "text": "केवल GDP बढ़ने से सभी health indicators अपने-आप सुधरते हैं", "is_correct": false }
+    ],
+    "explanation": "Amartya Sen और Jean Drèze ने बताया: 'growth-mediated security' (growth से health) केवल तभी काम करती है जब growth के benefits distribute हों। Kerala का example: कम GDP पर उत्कृष्ट health outcomes — public health investment, female literacy। India vs China comparison: China ने 1949-78 में health में direct investment से better outcomes पाए। SDGs 1, 2, 3 — income + nutrition + health का multi-dimensional connection।"
+  },
+  {
+    "question": "भारत में 'Out-of-Pocket Expenditure' में कमी के लिए NHP 2017 का लक्ष्य क्या था?",
+    "options": [
+      { "text": "OOPE को 100% खत्म करना", "is_correct": false },
+      { "text": "OOPE को Total Health Expenditure का 47% से 35% तक लाना", "is_correct": true },
+      { "text": "OOPE को 50% से 60% तक बढ़ाना", "is_correct": false },
+      { "text": "NHP 2017 में OOPE का कोई लक्ष्य नहीं था", "is_correct": false }
+    ],
+    "explanation": "NHP 2017 ने OOPE को THE (Total Health Expenditure) के 47% से घटाकर 35% करने का लक्ष्य रखा। NHA 2019-20: OOPE 47.1% — अभी भी ऊँचा। SDG 3.8.2: CHE incidence monitoring। PM-JAY, free medicine schemes, HWC — सभी OOPE reduction की रणनीति के हिस्से हैं।"
+  },
+  {
+    "question": "भारत में 'Swasthya Sathi' (West Bengal) जैसी state health insurance schemes का PM-JAY से क्या संबंध है?",
+    "options": [
+      { "text": "State schemes PM-JAY को replace करती हैं", "is_correct": false},
+      { "text": "State schemes PM-JAY के साथ 'convergence' या 'wrapping' model में काम करती हैं — कुछ states PM-JAY को अपनी scheme में integrate करते हैं", "is_correct": true },
+      { "text": "West Bengal में PM-JAY लागू नहीं है", "is_correct": false },
+      { "text": "State schemes केवल private hospitals के लिए हैं", "is_correct": false }
+    ],
+    "explanation": "India में कई states की अपनी health insurance schemes हैं: Swasthya Sathi (WB), Bhamashah (Rajasthan), Chief Minister Comprehensive Health Insurance (TN), Aarogyasri (Telangana)। PM-JAY के साथ integration: (1) Wrap-around model: PM-JAY + State top-up; (2) Convergence: common beneficiary database; (3) West Bengal, Odisha — own schemes parallel। PM-JAY में states opt-in (30 states + UTs) और opt-out (WB left in 2019) का option।"
+  },
+  {
+    "question": "भारत में 'Social Health Insurance' और 'Community Health Insurance' में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों बिल्कुल समान हैं", "is_correct": false },
+      { "text": "Social HI = mandatory, employer-employee funded (ESI); Community HI = voluntary, community-based (SEWA, Yeshasvini)", "is_correct": true },
+      { "text": "Community HI सरकार चलाती है", "is_correct": false },
+      { "text": "Social HI केवल farmers के लिए है", "is_correct": false }
+    ],
+    "explanation": "Social Health Insurance (SHI): mandatory contributions — employer + employee + government; ESI India में SHI है। Community-Based Health Insurance (CBHI): voluntary, community pools risk — SEWA (Self-Employed Women's Association), Yeshasvini (Karnataka cooperative farmers), VimoSEWA। CBHI formal insurance का विकल्प उन लोगों के लिए जो SHI में नहीं। PM-JAY = government-sponsored (tax-funded), neither SHI nor CBHI — targeted scheme।"
+  },
+  {
+    "question": "भारत में 'NITI Aayog Health Index' क्या मापता है?",
+    "options": [
+      { "text": "केवल infant mortality", "is_correct": false },
+      { "text": "राज्यों की overall health system performance — outcomes, governance, key inputs के composite indicators", "is_correct": true },
+      { "text": "केवल hospital beds", "is_correct": false },
+      { "text": "प्रति व्यक्ति स्वास्थ्य बजट", "is_correct": false }
+    ],
+    "explanation": "NITI Aayog Healthy States, Progressive India (Health Index, 2018 से): States और UTs को health performance पर rank करता है। Indicators: (1) Health Outcomes (NMR, U5MR, TFR, institutional delivery, sex ratio); (2) Governance & Information (HMIS reporting, financial management); (3) Key Inputs & Processes (specialists at CHC, fund utilization). Competitive federalism — states improvement पर incentivize होते हैं।"
+  },
+  {
+    "question": "भारत में 'NPCDCS' (National Programme for NCD) के economic burden को कम करने का approach क्या है?",
+    "options": [
+      { "text": "केवल treatment पर focus", "is_correct": false },
+      { "text": "Population-based screening + early detection + affordable treatment — NCD से premature death और disability कम करना", "is_correct": true },
+      { "text": "NCD patients को private hospitals refer करना", "is_correct": false },
+      { "text": "NPCDCS केवल tobacco control है", "is_correct": false }
+    ],
+    "explanation": "NPCDCS (National Programme for Prevention & Control of Cancer, Diabetes, CVD & Stroke, 2010): Population-based approach: (1) PHC पर opportunistic screening (HTN, DM, oral/cervical/breast cancer); (2) 30+ age में all PHC visitors को screen; (3) District NCD clinic (30-bed) at District Hospital; (4) Free drugs: Metformin, Statins, Aspirin, Antihypertensives at public facilities। Economic logic: prevent complications (dialysis, amputation, stroke) → reduce catastrophic expenditure।"
+  },
+  {
+    "question": "भारत में स्वास्थ्य क्षेत्र में 'मांग पक्ष' (Demand-side) बनाम 'आपूर्ति पक्ष' (Supply-side) financing क्या है?",
+    "options": [
+      { "text": "दोनों बिल्कुल समान हैं", "is_correct": false },
+      { "text": "Demand-side: insurance/cash transfer (PM-JAY, JSY) — patient का choice; Supply-side: infrastructure, HR, medicines (NHM) — facility को resources", "is_correct": true },
+      { "text": "Supply-side finance patient को पैसे देती है", "is_correct": false },
+      { "text": "Demand-side finance government hospitals को fund करती है", "is_correct": false }
+    ],
+    "explanation": "Health financing दो approaches: Demand-side financing: लाभार्थी को पैसा/insurance देना — PM-JAY (₹5 lakh insurance), JSY (₹1400 cash), PMMVY (₹5000) — patient chose where to go। Supply-side financing: सुविधाओं को संसाधन देना — NHM में PHC/CHC को HR, medicines, equipment, building — बिना patient choice के। Ideal: दोनों का combination — NHM (supply) + PM-JAY (demand) = Ayushman Bharat।"
+  },
+  {
+    "question": "भारत में 'Medical Inflation' (चिकित्सा मुद्रास्फीति) क्या है और यह general inflation से कैसे अलग है?",
+    "options": [
+      { "text": "Medical inflation general inflation के समान है", "is_correct": false },
+      { "text": "Healthcare costs सामान्य inflation से तेज बढ़ते हैं — भारत में 12-15% Medical Inflation vs 4-6% general", "is_correct": true },
+      { "text": "Medical inflation से दवाएं सस्ती होती हैं", "is_correct": false },
+      { "text": "Medical inflation only private hospitals में होती है", "is_correct": false }
+    ],
+    "explanation": "Medical Inflation: Healthcare goods और services की कीमतें general CPI inflation से अधिक तेज बढ़ती हैं। India में medical inflation ~12-15% annually (ICICI Lombard estimates)। कारण: (1) New technology और drugs महंगे; (2) Specialist shortage → higher fees; (3) Insurance-driven demand; (4) Low price elasticity। Impact: aging population + medical inflation = long-term affordability crisis। Health insurance premium भी इसी से बढ़ता है।"
+  },
+  {
+    "question": "भारत में 'Burden of Disease' study का अर्थ और उपयोग क्या है?",
+    "options": [
+      { "text": "केवल hospital beds की संख्या", "is_correct": false },
+      { "text": "DALYs (Disability Adjusted Life Years) में rोगों से होने वाली स्वास्थ्य हानि को मापना — policy priority के लिए", "is_correct": true },
+      { "text": "केवल संक्रामक रोगों की गिनती", "is_correct": false },
+      { "text": "Burden of disease = hospital expenditure", "is_correct": false }
+    ],
+    "explanation": "Burden of Disease study: DALY (Disability-Adjusted Life Year) में मापता है — YLL (Years of Life Lost due to premature death) + YLD (Years Lived with Disability)। India में ICMR-PHFI-IHME (2017) India Burden of Disease study: Cardiovascular, COPD, diabetes = top NCD burden; Diarrhea, Neonatal conditions = still significant; Bihar + UP = highest burden states। Policy use: budget priority, intervention targeting।"
+  },
+  {
+    "question": "भारत में 'PHC' (Primary Health Centre) पर क्या services free में मिलती हैं?",
+    "options": [
+      { "text": "केवल emergency services free हैं", "is_correct": false },
+      { "text": "NHM के तहत OPD, basic medicines, lab tests, ANC, delivery, immunization — सभी free", "is_correct": true },
+      { "text": "PHC पर कोई service free नहीं है", "is_correct": false },
+      { "text": "केवल बच्चों की services free हैं", "is_correct": false }
+    ],
+    "explanation": "NHM के तहत सरकारी PHC पर: (1) OPD consultation — free; (2) Essential medicines (NLEM-based) — free; (3) Basic diagnostics (Blood sugar, Hb, Malaria, etc.) — free; (4) ANC (Antenatal Care) — free; (5) Delivery — free (JSSK); (6) Immunization — free (UIP); (7) Family planning services — free। JSSK ने facility delivery को zero-cost बनाया। HWC upgrade के साथ NCD screening भी free।"
+  },
+  {
+    "question": "भारत में 'Health Sector Workforce' में ASHA, ANM, और MPW के बीच क्या अंतर है?",
+    "options": [
+      { "text": "तीनों एक ही काम करते हैं", "is_correct": false },
+      { "text": "ASHA = community volunteer (incentive-based); ANM = trained nurse-midwife (Sub-Centre, fixed salary); MPW (M) = Male Health Worker (Sub-Centre)", "is_correct": true },
+      { "text": "ANM केवल delivery कराती है", "is_correct": false },
+      { "text": "MPW hospital में काम करता है", "is_correct": false }
+    ],
+    "explanation": "India's primary health workforce: (1) ASHA: 1 per 1000 rural population; volunteer + performance-based incentive; community mobilizer; (2) ANM (Auxiliary Nurse Midwife): Sub-Health Centre में trained, fixed government salary; MCH, immunization, family planning; (3) MPW (Male) — Multi-Purpose Worker: Sub-Centre में; sanitation, disease surveillance, vector control. तीनों मिलकर sub-health centre team बनाते हैं। AWW (Anganwadi Worker) — ICDS के लिए (Women & Child Development Dept)।"
+  },
+  {
+    "question": "भारत में 'Primary Health Care' (PHC) को 'Comprehensive' और 'Selective' के बीच का अंतर:",
+    "options": [
+      { "text": "दोनों बिल्कुल समान हैं", "is_correct": false },
+      { "text": "Comprehensive PHC: सभी health needs address (Alma Ata); Selective PHC: GOBI जैसे कुछ cost-effective interventions — WHO + UNICEF का 1990s approach", "is_correct": true },
+      { "text": "Comprehensive PHC केवल hospitals में होती है", "is_correct": false },
+      { "text": "Selective PHC India में लागू नहीं हुई", "is_correct": false }
+    ],
+    "explanation": "Comprehensive PHC (CPHC): Alma Ata 1978 — सभी health needs: promotive, preventive, curative, rehabilitative; social determinants; community participation। Selective PHC: Walsh & Warren (1979) — GOBI (Growth monitoring, ORT, Breastfeeding, Immunization) — कुछ proven cost-effective interventions। India में HWC = CPHC की ओर। India में 1990s: ORS, UIP, CSSM = Selective PHC approach। NHM 2005+ ने both elements integrated किए।"
+  },
+  {
+    "question": "भारत में 'Swasthya Shiksha Adhikari' (Health Education Officer) की आर्थिक भूमिका क्या है?",
+    "options": [
+      { "text": "केवल पाठ्यक्रम पढ़ाना", "is_correct": false },
+      { "text": "IEC से demand-side behavior change — health services का उचित उपयोग — यह health expenditure की efficiency बढ़ाता है", "is_correct": true },
+      { "text": "केवल budget management करना", "is_correct": false },
+      { "text": "दवाओं की खरीद करना", "is_correct": false }
+    ],
+    "explanation": "HEO (Health Education Officer/Swasthya Shiksha Adhikari) की आर्थिक भूमिका: (1) IEC (Information, Education, Communication) से लोगों को preventive services का उपयोग करना सिखाता है → बीमारी कम → treatment cost कम; (2) Demand creation for government health services → better utilization of existing infrastructure; (3) Behavior change (smoking cessation, ORS use, institutional delivery) → downstream health cost savings; (4) Health literacy → informed consumer → better health seeking."
+  },
+  {
+    "question": "भारत में 'National Health Policy 2017' में private sector के लिए क्या दृष्टिकोण रखा गया?",
+    "options": [
+      { "text": "Private sector को सभी health services से बाहर रखना", "is_correct": false },
+      { "text": "Strategic purchasing — निजी क्षेत्र को regulate करते हुए public purpose के लिए engage करना", "is_correct": true },
+      { "text": "सभी private hospitals का nationalization", "is_correct": false },
+      { "text": "NHP 2017 में private sector का कोई उल्लेख नहीं", "is_correct": false }
+    ],
+    "explanation": "NHP 2017 ने private sector के प्रति 'strategic partnership' approach अपनाया: (1) Clinical Establishments Act — quality regulation; (2) PM-JAY में private hospitals empanel करना; (3) PPP in diagnostics, telemedicine; (4) NABH accreditation incentivize करना; (5) Private sector को LMIC में rural posting incentive। Private sector की 70% ambulatory care role को acknowledge करते हुए उसे public purpose में align करने की strategy।"
+  },
+  {
+    "question": "भारत में 'PHFI' (Public Health Foundation of India) की भूमिका क्या है?",
+    "options": [
+      { "text": "PHFI एक सरकारी मंत्रालय है", "is_correct": false },
+      { "text": "public health research, education और policy advocacy का non-profit institute — WHO Collaborating Centre", "is_correct": true },
+      { "text": "PHFI दवाओं का उत्पादन करती है", "is_correct": false },
+      { "text": "PHFI NMC का हिस्सा है", "is_correct": false }
+    ],
+    "explanation": "PHFI (Public Health Foundation of India, 2006): Public-private partnership; 5 Indian Institutes of Public Health (IIPH) — Delhi, Hyderabad, Gandhinagar, Bhubaneswar, Shillong। MPH (Masters in Public Health) programmes; research (Lancet Countdown India Chapter); policy advocacy। Funding: BMGF, Wellcome Trust, USAID, Indian government। WHO Collaborating Centre for Public Health Education। PHFI ने NCD burden study (India State-level Disease Burden Initiative, 2017) — major policy input।"
+  },
+  {
+    "question": "'Universal Health Coverage' (UHC) की मूल परिभाषा क्या है?",
+    "options": [
+      { "text": "केवल सरकारी अस्पतालों में मुफ्त इलाज", "is_correct": false },
+      { "text": "सभी लोगों को बिना वित्तीय कठिनाई के जरूरी quality health services मिलना", "is_correct": true },
+      { "text": "केवल गरीबों के लिए स्वास्थ्य बीमा", "is_correct": false },
+      { "text": "सभी बीमारियों का free इलाज", "is_correct": false }
+    ],
+    "explanation": "UHC (Universal Health Coverage) का अर्थ है: (1) सभी लोग — बिना किसी भेदभाव के; (2) जरूरी health services — promotive, preventive, curative, rehabilitative, palliative; (3) Sufficient quality; (4) Financial hardship के बिना — catastrophic expenditure नहीं। WHO SDG 3.8 में UHC शामिल है। India में PM-JAY, AB-PMJAY, JSSK, free medicine, free diagnostics — सब UHC की दिशा में steps हैं।"
+  },
+  {
+    "question": "भारत में 'Catastrophic Health Expenditure' क्या होती है?",
+    "options": [
+      { "text": "किसी भी healthcare पर खर्च", "is_correct": false },
+      { "text": "जब healthcare पर OOPE household की consumption/income के 10% से अधिक हो जाए", "is_correct": true },
+      { "text": "केवल cancer treatment का खर्च", "is_correct": false },
+      { "text": "सरकारी hospital में हुआ खर्च", "is_correct": false }
+    ],
+    "explanation": "Catastrophic Health Expenditure: WHO की परिभाषा — जब healthcare OOPE, household की total consumption/income के 10% से अधिक हो (या non-food expenditure का 25% से अधिक)। India में NSSO data: ~7% households प्रतिवर्ष catastrophic expenditure face करती हैं। Inpatient care मुख्य कारण। PM-JAY का लक्ष्य: secondary/tertiary care में catastrophic expenditure कम करना।"
+  },
+  {
+    "question": "भारत में 'Jan Aushadhi Scheme' (PM-BJAY) का मुख्य उद्देश्य क्या है?",
+    "options": [
+      { "text": "नई दवाइयों का अनुसंधान करना", "is_correct": false },
+      { "text": "Generic medicines को branded से 50-90% कम कीमत पर उपलब्ध कराना", "is_correct": true },
+      { "text": "केवल BPL परिवारों को दवाएं देना", "is_correct": false },
+      { "text": "दवा export बढ़ाना", "is_correct": false }
+    ],
+    "explanation": "PM Bhartiya Jan Aushadhi Pariyojana (PM-BJAY): Bureau of Pharma PSUs of India (BPPI) द्वारा संचालित। Jan Aushadhi Kendras पर generic medicines — branded से 50-90% कम कीमत पर। 2024 तक 10,000+ Jan Aushadhi Kendras। NLEM में listed generics mostly available। OOPE कम करने का direct mechanism। HEO का कार्य: community को Jan Aushadhi centers के बारे में educate करना।"
+  },
+  {
+    "question": "भारत में 'BPL' (Below Poverty Line) का स्वास्थ्य से क्या संबंध है?",
+    "options": [
+      { "text": "BPL परिवारों को स्वास्थ्य से कोई लाभ नहीं", "is_correct": false },
+      { "text": "BPL परिवारों को RSBY, PM-JAY, free medicine — विभिन्न targeted health schemes का लाभ मिलता है", "is_correct": true },
+      { "text": "BPL केवल food security के लिए है", "is_correct": false },
+      { "text": "BPL list में शामिल होने से hospital care free नहीं होती", "is_correct": false }
+    ],
+    "explanation": "BPL status — health schemes में targeting के लिए: (1) RSBY (2008): BPL families — ₹30,000 hospitalization cover; (2) PM-JAY: SECC-based 10.74 crore BPL-like families — ₹5 lakh/year; (3) State free medicine initiatives: BPL priority; (4) JSY: BPL mothers को delivery cash incentive। Poverty और health — bidirectional: गरीबी → बीमारी → और गरीबी (poverty trap)।"
+  },
+  {
+    "question": "'Merit Good' के रूप में स्वास्थ्य सेवाओं को क्यों देखा जाता है?",
+    "options": [
+      { "text": "क्योंकि यह बहुत महंगी होती है", "is_correct": false },
+      { "text": "क्योंकि इसके सामाजिक लाभ व्यक्तिगत लाभ से अधिक होते हैं — इसलिए सरकार subsidize करती है", "is_correct": true },
+      { "text": "क्योंकि इसमें profit नहीं होता", "is_correct": false },
+      { "text": "क्योंकि इसे सिर्फ doctors प्रदान करते हैं", "is_correct": false }
+    ],
+    "explanation": "Merit Good: वह वस्तु/सेवा जिसे समाज चाहता है कि लोग उपभोग करें, चाहे वे afford कर पाएं या नहीं, क्योंकि इसके सामाजिक लाभ (externalities) बड़े हैं। Vaccination — merit good: individual benefit + herd immunity (social benefit)। इसीलिए सरकार: free UIP, subsidized medical education, public hospitals। Pure public good (non-excludable, non-rival) से अलग — health services excludable हो सकती हैं।"
+  },
+  {
+    "question": "भारत में 'ESIC' (Employee State Insurance Corporation) किन लोगों को cover करती है?",
+    "options": [
+      { "text": "केवल सरकारी कर्मचारियों को", "is_correct": false },
+      { "text": "₹21,000/माह तक वेतन पाने वाले organized sector employees और उनके परिवार को", "is_correct": true },
+      { "text": "केवल BPL परिवारों को", "is_correct": false },
+      { "text": "सभी भारतीय नागरिकों को", "is_correct": false }
+    ],
+    "explanation": "ESIC (1948, ESI Act 1948): ₹21,000/माह तक वेतन वाले organized sector workers (factories, shops, establishments)। Contributions: Employer 3.25% + Employee 0.75% of wages। Benefits: Medical care (ESIC hospitals/dispensaries), sickness benefit (66.67% wages), maternity benefit (26 weeks), disability benefit, dependent benefit। India में ~3.5 crore insured workers + dependents। CGHS — central government employees के लिए अलग scheme।"
+  },
+  {
+    "question": "भारत में 'National Health Accounts' (NHA) का उद्देश्य क्या है?",
+    "options": [
+      { "text": "Hospital accounts manage करना", "is_correct": false },
+      { "text": "देश में स्वास्थ्य पर कुल खर्च — सरकारी, निजी, OOPE — का systematic measurement", "is_correct": true },
+      { "text": "केवल केंद्र सरकार के health budget को track करना", "is_correct": false },
+      { "text": "State governments के accounts audit करना", "is_correct": false }
+    ],
+    "explanation": "National Health Accounts (NHA): WHO SHA 2011 framework पर based। India की NHA 2019-20 (latest): Current Health Expenditure (CHE) = ₹7.27 lakh crore = GDP का 3.3%। Government Health Expenditure (GHE) = CHE का 41% = GDP का 1.35%। OOPE = CHE का 48.2% (declining trend)। NHA data — UHC progress monitor करने के लिए, policy decisions के लिए उपयोग।"
+  },
+  {
+    "question": "भारत में 'Drug Price Control' (DPCO) का कार्य कौन करता है?",
+    "options": [
+      { "text": "CDSCO", "is_correct": false },
+      { "text": "NPPA (National Pharmaceutical Pricing Authority)", "is_correct": true },
+      { "text": "IMA", "is_correct": false },
+      { "text": "WHO India", "is_correct": false }
+    ],
+    "explanation": "NPPA (National Pharmaceutical Pricing Authority, 1997): Essential medicines (NLEM में listed) की maximum retail price fix करती है। DPCO (Drug Price Control Order) 2013 के तहत market-based pricing (average of top-3 brands)। NPPA ceiling price तय करती है — manufacturers इससे अधिक price नहीं ले सकते। लगभग 850+ formulations DPCO 2013 के दायरे में। NPPA — Ministry of Chemicals & Fertilizers के under।"
+  },
+  {
+    "question": "स्वास्थ्य क्षेत्र में 'Equity' और 'Equality' में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों का अर्थ एक ही है", "is_correct": false },
+      { "text": "Equality = सबको समान resources; Equity = जरूरत के अनुसार — जिसे अधिक जरूरत, उसे अधिक संसाधन", "is_correct": true },
+      { "text": "Equity का अर्थ सबको free treatment देना", "is_correct": false },
+      { "text": "Equality का अर्थ गरीबों को अधिक देना", "is_correct": false }
+    ],
+    "explanation": "Health Equity vs Equality: Equality = equal distribution (सबको एक-समान); Equity = fair distribution based on need (जिसे अधिक जरूरत — जैसे BPL, tribal, disabled — उसे proportionally अधिक)। उदाहरण: High Focus States को NHM में अधिक funding → Equity। Targeted schemes (PM-JAY for SECC families) → Equity approach। HEO का लक्ष्य: health equity promote करना — marginalized populations तक services पहुंचाना।"
+  },
+  {
+    "question": "भारत में 'PM Ayushman Bharat Health Infrastructure Mission' (PM-ABHIM) किससे संबंधित है?",
+    "options": [
+      { "text": "केवल health insurance से", "is_correct": false },
+      { "text": "देश में health infrastructure — labs, ICUs, critical care blocks — को strengthen करने से", "is_correct": true },
+      { "text": "ASHA workers की training से", "is_correct": false },
+      { "text": "Medical colleges की fees तय करने से", "is_correct": false }
+    ],
+    "explanation": "PM-ABHIM (2021, ₹64,180 crore, 5 years): (1) Health & Wellness Centres strengthen करना; (2) District/sub-district hospitals में critical care blocks; (3) Block level public health units; (4) Integrated Public Health Labs (IPHL); (5) National Centre for Disease Control (NCDC) network strengthen; (6) One Health platform। COVID-19 pandemic से सीख — health infrastructure gap address करने की response। Capital investment in health = economic multiplier।"
+  },
+  {
+    "question": "'Imperfect Information' स्वास्थ्य बाज़ार में किस समस्या का मुख्य कारण है?",
+    "options": [
+      { "text": "दवाओं की कमी", "is_correct": false },
+      { "text": "Doctor-patient information asymmetry — patient को उतनी जानकारी नहीं जितनी doctor को — इससे market failure होती है", "is_correct": true },
+      { "text": "Government regulation की कमी", "is_correct": false },
+      { "text": "Healthcare बहुत expensive है", "is_correct": false }
+    ],
+    "explanation": "Health market में Information Asymmetry (Kenneth Arrow, 1963): Patient (Principal) को अपनी बीमारी, treatment options, costs — doctor (Agent) जितनी जानकारी नहीं। इससे: (1) Supplier-induced demand — doctor अनावश्यक tests/procedures recommend कर सकता है; (2) Patient bargaining power कम; (3) Market failure। इसीलिए: Regulation (Clinical Establishments Act), Consumer Protection Act (medical negligence), Right to Information — health सेवाओं में जरूरी। HEO — health literacy बढ़ाकर information asymmetry कम करता है।"
+  },
+  {
+    "question": "भारत में 'AYUSH' क्षेत्र का आर्थिक महत्व क्या है?",
+    "options": [
+      { "text": "AYUSH का कोई आर्थिक महत्व नहीं है", "is_correct": false },
+      { "text": "बड़ा domestic market, export potential, और allopathy पर load कम — healthcare cost reduction में सहायक", "is_correct": true },
+      { "text": "AYUSH केवल धार्मिक प्रथा है", "is_correct": false },
+      { "text": "AYUSH केवल rural areas में relevant है", "is_correct": false }
+    ],
+    "explanation": "AYUSH (Ayurveda, Yoga, Unani, Siddha, Homeopathy) का आर्थिक महत्व: (1) ₹50,000+ crore domestic market; (2) Herbal/AYUSH products export — growing; (3) COVID में Kadha, Ashwagandha — AYUSH surge; (4) Preventive health → allopathic care पर load कम → cost saving; (5) Rural India में first contact care → OOPE कम; (6) Medical tourism — Yoga, Panchakarma। Ministry of AYUSH (2014) ने separate ministry बनाकर इसे mainstream किया। NHP 2017 ने AYUSH integration recommend किया।"
+  }
+]

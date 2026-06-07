@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "भारतीय संविधान में 'Concurrent List' के किसी विषय पर केंद्र और राज्य के कानून में टकराव होने पर क्या होता है?",
+    "options": [
+      { "text": "राज्य का कानून प्रभावी होता है", "is_correct": false },
+      { "text": "अनुच्छेद 254 — केंद्र का कानून प्रभावी होता है (Repugnancy Rule) — परंतु राज्य को राष्ट्रपति की सहमति से अपवाद मिल सकता है", "is_correct": true },
+      { "text": "दोनों कानून समान रूप से प्रभावी होते हैं", "is_correct": false },
+      { "text": "Supreme Court तय करती है कि कौन-सा प्रभावी होगा", "is_correct": false }
+    ],
+    "explanation": "अनुच्छेद 254 — Repugnancy: Concurrent List पर Centre-State conflict → Central Law prevails (inconsistent state law void to extent of repugnancy)। Exception: यदि राज्य विधानमंडल ने कानून पारित किया और President ने assent दिया → state law prevails in that state। Health education (Concurrent List) → Central NHM guidelines vs State health education programs — central norms prevail, but states can add।"
+  },
+  {
+    "question": "भारत में 'न्यायिक सक्रियता' (Judicial Activism) और 'न्यायिक संयम' (Judicial Restraint) के बीच tension को उदाहरण सहित समझाएँ।",
+    "options": [
+      { "text": "Judicial Activism — केवल India में होती है", "is_correct": false },
+      { "text": "Judicial Activism: courts legislature/executive के domain में enter करती हैं (Right to Food case); Judicial Restraint: courts stay within constitutional role — tension: democratic accountability vs rights protection", "is_correct": true },
+      { "text": "Judicial Restraint — हमेशा बेहतर approach है", "is_correct": false },
+      { "text": "Judicial Activism — unconstitutional होती है", "is_correct": false }
+    ],
+    "explanation": "Judicial Activism examples: (1) Vishaka Guidelines (1997) — SC created sexual harassment law before Parliament, (2) PUCL v. Union — Right to Food → mid-day meals mandated, (3) MC Mehta cases — pollution enforcement. Judicial Restraint: Courts avoid policy decisions (Kesavananda — basic structure but not policy). Tension: Separation of powers vs rights vacuum. PIL mechanism enables activism. Health: SC orders on medical oxygen during COVID, free COVID vaccination PIL — judicial activism in health governance।"
+  },
+  {
+    "question": "भारत में 'Cooperative Federalism' और 'Competitive Federalism' के बीच अंतर और स्वास्थ्य नीति में इनकी भूमिका क्या है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Cooperative: Centre-State joint goals (NHM funding, SBCC); Competitive: states compete for investment/talent/rankings (Health Index) — दोनों health improvement में सहायक", "is_correct": true },
+      { "text": "Competitive Federalism — health में हानिकारक", "is_correct": false },
+      { "text": "India में केवल Cooperative Federalism है", "is_correct": false }
+    ],
+    "explanation": "Cooperative Federalism: Centre-State common agenda — NHM (60:40 funding), immunization campaigns, COVID response. Instruments: GST Council, Inter-State Council, NDC (now scrapped). Competitive Federalism: NITI Aayog's Health Index (rankings) → states compete on IMR, MMR, vaccination → best practices emerge. Kerala, TN consistently top rankings → policy diffusion. NITI's SDG India Index — similar. Health: both mechanisms work — cooperative for baseline, competitive for excellence।"
+  },
+  {
+    "question": "भारत में 'सातवीं अनुसूची' की 'समवर्ती सूची' (Concurrent List) में स्वास्थ्य से संबंधित कौन-से प्रमुख विषय हैं?",
+    "options": [
+      { "text": "समवर्ती सूची में स्वास्थ्य का कोई विषय नहीं", "is_correct": false },
+      { "text": "जनसंख्या नियंत्रण और परिवार नियोजन (Entry 20A), Education (Entry 25), drugs and poisons (Entry 19), forests (Entry 17-A)", "is_correct": true },
+      { "text": "सार्वजनिक स्वास्थ्य — Concurrent List में", "is_correct": false },
+      { "text": "समवर्ती सूची में केवल education है", "is_correct": false }
+    ],
+    "explanation": "Concurrent List health-related entries: (1) Entry 19 — 'Drugs and poisons' (drug regulation, CDSCO, pharmacies), (2) Entry 20A — 'Population control and family planning' (Family Welfare programs), (3) Entry 17A — Forests (tribal health linkage), (4) Entry 25 — Education (health education). State List Entry 6: Public health, sanitation, hospitals। Union List: Port quarantine (Entry 28)। This split → complex centre-state health policy।"
+  },
+  {
+    "question": "'Sarkaria Commission' (1983) और 'Punchhi Commission' (2007) ने Centre-State relations में स्वास्थ्य क्षेत्र के लिए क्या सिफारिशें दीं?",
+    "options": [
+      { "text": "दोनों commissions ने health को ignore किया", "is_correct": false },
+      { "text": "दोनों ने Concurrent List items (family planning, drugs) में coordination mechanism strengthen करने, राज्यों की health autonomy respect करने की सिफारिश दी", "is_correct": true },
+      { "text": "दोनों commissions ने health को Union List में shift करने की सिफारिश की", "is_correct": false },
+      { "text": "Sarkaria Commission — health पर कोई view नहीं", "is_correct": false }
+    ],
+    "explanation": "Sarkaria Commission (1983-88): (1) Strengthen Inter-State Council for policy coordination, (2) Avoid misuse of Art. 356, (3) Governor's role reform, (4) Concurrent List — consultation before Central legislation. Punchhi Commission (2007-10): (1) Health as shared responsibility — more cooperative mechanisms, (2) States' fiscal capacity for health, (3) Central health schemes — State conditionalities should be flexible. Health implication: Both emphasized partnership model, not Central dominance in health policy।"
+  },
+  {
+    "question": "भारत में 'Separation of Powers' के सिद्धांत और 'Checks and Balances' का स्वास्थ्य नीति में क्या महत्व है?",
+    "options": [
+      { "text": "Separation of Powers — India में strictly maintained है", "is_correct": false },
+      { "text": "India में partial separation: Parliament legislates, Executive implements, Judiciary reviews — health में: legislation (PCPNDT), executive (NHM), judicial (Right to Health PILs) — all roles distinct but overlapping", "is_correct": true },
+      { "text": "India में Separation of Powers — US जैसा strict है", "is_correct": false },
+      { "text": "Checks and Balances — केवल political, health में irrelevant", "is_correct": false }
+    ],
+    "explanation": "India — partial separation (not strict like US): PM and Cabinet are part of both executive and legislature. Checks: (1) Parliament: questions, no-confidence, legislation, (2) Judiciary: judicial review, PIL, writs, (3) Constitutional bodies: CBI, CAG, EC. Health-specific checks: (1) Parliamentary Health Committee reviews health bills, (2) CAG audits NHM expenditures, (3) Supreme Court PILs on Right to Health, (4) CVC monitors drug procurement corruption. Without checks — health system accountability collapses।"
+  },
+  {
+    "question": "भारत में 'संसदीय लोकतंत्र' (Parliamentary Democracy) और 'अध्यक्षात्मक लोकतंत्र' (Presidential Democracy) की तुलना करें और भारत की system की विशेषताएँ बताएँ।",
+    "options": [
+      { "text": "India — presidential democracy है", "is_correct": false },
+      { "text": "Parliamentary: executive Legislature के प्रति जवाबदेह; Presidential: executive independent (US); India: Westminster Parliamentary model — but President elected indirectly, Supreme Court stronger than UK", "is_correct": true },
+      { "text": "India — mixed presidential-parliamentary है, constitution में defined", "is_correct": false },
+      { "text": "दोनों में कोई अंतर नहीं", "is_correct": false }
+    ],
+    "explanation": "Parliamentary features in India: (1) Collective ministerial responsibility to Lok Sabha, (2) PM from majority party, (3) President ceremonial (nominal executive), (4) Government's term depends on Lok Sabha confidence. Presidential features (US): (1) Fixed term, (2) Separate election, (3) Veto power, (4) No collective responsibility. India's unique features: (1) Written constitution, (2) Judicial review stronger than UK, (3) Federal character (state govts), (4) DPSP — social welfare constitutionalized. Health: Health Minister accountable to Parliament।"
+  },
+  {
+    "question": "भारत में 'Public Interest Litigation' (PIL) के माध्यम से 'Right to Health' को किन महत्वपूर्ण न्यायिक निर्णयों ने आकार दिया?",
+    "options": [
+      { "text": "PIL और Right to Health — असंबंधित", "is_correct": false },
+      { "text": "Paschim Banga (1996), PUCL v. Union (Right to Food), Parmanand Katara (emergency care), Devika Biswas (sterilization) — अनुच्छेद 21 के तहत health rights expand हुए", "is_correct": true },
+      { "text": "Right to Health — केवल 2017 MHCA से", "is_correct": false },
+      { "text": "PIL — Right to Health के लिए अनुचित mechanism है", "is_correct": false }
+    ],
+    "explanation": "Key health PILs: (1) Paschim Banga Khet Majoor Samity v. State (1996) — emergency medical care as Art. 21 right, (2) Consumer Education and Research Society — right to information about drugs, (3) Vincent Panikurlangara — right to free medicine, (4) PUCL — Mid-day meal, (5) Devika Biswas v. Union (2016) — sterilization deaths, right against negligent sterilization. Art. 21 (right to life) → right to health. SC has used PIL to direct governments on healthcare infrastructure, drug availability, emergency care।"
+  },
+  {
+    "question": "भारत में 'Constitutional Morality' की अवधारणा और health rights में इसकी क्या भूमिका है?",
+    "options": [
+      { "text": "Constitutional Morality — केवल sexual rights में", "is_correct": false },
+      { "text": "Supreme Court ने Constitutional Morality को popular morality से ऊपर रखा — LGBTQ+ health rights, Sabarimala, IPC 377 decriminalization — health equity implications", "is_correct": true },
+      { "text": "Constitutional Morality — Dr. Ambedkar की original concept नहीं", "is_correct": false },
+      { "text": "Constitutional Morality और popular morality — identical हैं", "is_correct": false }
+    ],
+    "explanation": "Dr. Ambedkar — Constitutional Morality: constitutional values trump popular sentiment. SC applications: (1) Navtej Johar (2018) — IPC 377 partially struck down: LGBTQ+ persons' dignity and health → Art. 21, (2) Sabarimala (2018) — women's equal access, (3) Right to Privacy (2017) — includes health data privacy. Health implications: (1) LGBTQ+ health services legally protected, (2) Trans rights → right to health, (3) Sexual and reproductive rights — constitutional morality basis. Popular morality cannot override constitutional health rights।"
+  },
+  {
+    "question": "भारत में 'Direct Benefit Transfer' (DBT) ने स्वास्थ्य क्षेत्र में क्या परिवर्तन लाए हैं?",
+    "options": [
+      { "text": "DBT — केवल LPG subsidy के लिए", "is_correct": false },
+      { "text": "Health DBT: JSY, JSSK, PMMVY, NHM incentives — Aadhaar-linked payment → leakage कम, beneficiary empowerment, real-time tracking", "is_correct": true },
+      { "text": "DBT — health sector में अप्रभावी है", "is_correct": false },
+      { "text": "DBT — केवल food subsidies में", "is_correct": false }
+    ],
+    "explanation": "DBT in Health (DBT Bharat portal): (1) JSY (Janani Suraksha Yojana) — institutional delivery incentive directly to mother's Aadhaar-linked account, (2) PMMVY — maternity benefit transfer, (3) ASHA incentives — direct transfer, (4) NHM scholarships — medical students, (5) PM-JAY — cashless claims to hospitals directly. Benefits: (1) Elimination of middlemen, (2) Reduces leakage, (3) Financial inclusion, (4) Real-time tracking। Challenges: (1) Aadhaar-health linkage exclusions, (2) Bank access in rural areas, (3) Network connectivity।"
+  },
+  {
+    "question": "भारत में 'Decentralization' के तीन आयाम (3Ds) क्या हैं और स्वास्थ्य में इनका क्या महत्व है?",
+    "options": [
+      { "text": "Devolution, Delegation, Deconcentration — केवल administrative theory", "is_correct": false },
+      { "text": "Decentralization (Rondinelli): Deconcentration (field offices), Delegation (parastatal), Devolution (local government) — health में: district health societies, Block PHCs, Gram Panchayat oversight", "is_correct": true },
+      { "text": "India में केवल Devolution है", "is_correct": false },
+      { "text": "Decentralization — health में counter-productive", "is_correct": false }
+    ],
+    "explanation": "Rondinelli's 3Ds: (1) Deconcentration — field offices of central agency (CMO, DCMO, Block Medical Officer — हिrarchy), (2) Delegation — parastatals (State Health Society, CMHO office), (3) Devolution — true local government power (Gram Panchayat over VHSNC). India's health decentralization: NRHM pushed devolution → District Health Society (DHS) with independent budget, Rogi Kalyan Samiti (hospital management committees). Benefits: local needs responsive, community accountability. Challenges: capacity, elite capture, corruption।"
+  },
+  {
+    "question": "भारत में 'Right to Information Act 2005' का स्वास्थ्य जवाबदेही में क्या व्यावहारिक महत्व है?",
+    "options": [
+      { "text": "RTI — health sector में अनुप्रयुक्त नहीं", "is_correct": false },
+      { "text": "PHC drug stock, ASHA payment records, inspection reports, tenders — सब RTI-able; patient's own medical records; hospital budget — transparency tool", "is_correct": true },
+      { "text": "RTI — केवल government ministers पर लागू", "is_correct": false },
+      { "text": "Medical records — RTI से exempt हैं", "is_correct": false }
+    ],
+    "explanation": "RTI in Health Applications: (1) PHC drug availability (stock registers), (2) ASHA incentive payment records, (3) Hospital inspection reports (fire safety, Bio-medical waste), (4) Drug tender documents, (5) NHM fund utilization, (6) Government hospital bed occupancy, (7) Patient's own medical records (if public hospital). Third Party Information — doctor's personal info protected. 2019 Amendment — weakens CIC but RTI right intact. NGO tool: PHRN (People's Health Rights Network) uses RTI extensively। Health accountability instrument।"
+  },
+  {
+    "question": "भारत में 'Social Audit' (सामाजिक अंकेक्षण) किस प्रकार health programs में accountability सुनिश्चित करती है?",
+    "options": [
+      { "text": "Social Audit — केवल MGNREGS में", "is_correct": false },
+      { "text": "Community members records verify करते हैं, public hearing में falsehood expose करते हैं — Gram Sabha की role; MGNREGS, NRHM, PDS, Midday Meal में applied", "is_correct": true },
+      { "text": "Social Audit — government द्वारा की जाती है", "is_correct": false },
+      { "text": "Social Audit — courts में होती है", "is_correct": false }
+    ],
+    "explanation": "Social Audit — MKSS (Mazdoor Kisan Shakti Sangathan) — Aruna Roy — pioneered in Rajasthan 1990s। Process: (1) Documents obtained (muster rolls, registers), (2) Community verification (who benefited?), (3) Jan Sunwai (public hearing) — discrepancies exposed, (4) Follow-up action. Health applications: (1) JSY/JSSK payments verification, (2) ASHA incentive misuse, (3) Hospital construction costs, (4) Drug procurement. 2011 amendment — Social Audit made mandatory for MGNREGS. Rajasthan — Social Audit Directorate. Tool for participatory accountability।"
+  },
+  {
+    "question": "भारत में 'Pesa Act 1996' के section 4(m)(ii) में क्या प्रावधान है जो tribal health governance को प्रभावित करता है?",
+    "options": [
+      { "text": "Gram Sabha को mining approve करने का अधिकार है", "is_correct": false },
+      { "text": "Gram Sabha को minor forest produce (सहित medicinal plants) का ownership — traditional healing resources पर समुदाय का अधिकार", "is_correct": true },
+      { "text": "Section 4(m) — education से related है", "is_correct": false },
+      { "text": "PESA में medicinal plants का कोई प्रावधान नहीं", "is_correct": false }
+    ],
+    "explanation": "PESA 1996, Section 4(m): Gram Sabha को ownership of minor forest produce। Minor Forest Produce (MFP) — includes medicinal plants, herbs। Significance: (1) Tribal healers (Vaidyas) maintain traditional medicine through this, (2) Community protection of medicinal plant resources, (3) Bio-piracy prevention, (4) Nagoya Protocol implementation. Health implications: (1) Traditional medicine continuation, (2) Bioversity of medicinal plants protected, (3) Economic returns from MFP → health expenditure capacity. Van Dhan Vikas Kendras — MFP value addition।"
+  },
+  {
+    "question": "भारत में 'District Health Action Plan' (DHAP) तैयार करने की प्रक्रिया में political science के किन सिद्धांतों का अनुप्रयोग होता है?",
+    "options": [
+      { "text": "DHAP — केवल medical officers prepare करते हैं", "is_correct": false },
+      { "text": "Participatory planning, Bottom-up approach, Needs-assessment with community, Multi-stakeholder convergence, Electoral accountability — DHAP एक political-technical document है", "is_correct": true },
+      { "text": "DHAP — top-down central mandate है", "is_correct": false },
+      { "text": "DHAP — non-political, purely technical है", "is_correct": false }
+    ],
+    "explanation": "DHAP (District Health Action Plan) — NHM framework। Political science dimensions: (1) Participatory planning (Gram Sabha inputs → Block → District), (2) Needs assessment — community health needs, (3) Multi-stakeholder: elected representatives (ZP), health officials, NGOs, (4) Public finance: district PIP (Program Implementation Plan), (5) Accountability: to State Health Society, (6) Democratic accountability: elected local bodies approve. DHAP = Technical health plan + Political process. CMO + CEOs + Zila Parishad + Community inputs। Annual planning cycle।"
+  },
+  {
+    "question": "भारत में 'Rogi Kalyan Samiti' (RKS) / 'Hospital Management Society' किस अवधारणा के तहत आते हैं और इनकी health governance में क्या भूमिका है?",
+    "options": [
+      { "text": "RKS — private hospital management के लिए", "is_correct": false },
+      { "text": "Community governance of public hospitals — locally managed, elected representatives + community + officials — Hospital revenue re-investment, patient welfare", "is_correct": true },
+      { "text": "RKS — केवल financial auditing करता है", "is_correct": false },
+      { "text": "RKS — केवल district hospitals में होती है", "is_correct": false }
+    ],
+    "explanation": "Rogi Kalyan Samiti (RKS) — registered society at PHC, CHC, District Hospital। NHM initiative for hospital community governance। Composition: elected MP/MLA/Panchayat representatives + officials (CMO, District Officer) + community members। Functions: (1) User fees management and re-investment, (2) Quality improvement, (3) Infrastructure maintenance, (4) Service monitoring, (5) Patient welfare. Democratic accountability mechanism: elected representatives in hospital governance. Untied funds → RKS discretion। Example: Madhya Pradesh, UP RKS successful models।"
+  },
+  {
+    "question": "भारत में 'Disaster Management Act 2005' के section 35 और health preparedness में केंद्र की क्या भूमिका है?",
+    "options": [
+      { "text": "DM Act 2005 में health का कोई mention नहीं", "is_correct": false },
+      { "text": "Section 35 — Central Government shall take all measures for effective implementation: national disaster management plan, guidelines, coordination with state agencies; NDMA health guidelines में pandemic preparedness", "is_correct": true },
+      { "text": "DM Act केवल natural disasters के लिए है", "is_correct": false },
+      { "text": "Health Emergency — अलग Act से manage होती है", "is_correct": false }
+    ],
+    "explanation": "DM Act 2005 — Section 35: Central Govt responsibilities including disaster management. NDMA → National Disaster Management Plan (NDMP). COVID-19 as 'notified disaster' under DM Act — enabled: (1) Lockdowns, (2) National directives overriding state autonomy partially, (3) NDRF deployment, (4) Economic packages. Health-specific: (1) NDMA COVID guidelines, (2) Hospital surge capacity, (3) Medical oxygen supply chain, (4) Vaccination as disaster response। Epidemic Diseases Act 1897 + DM Act 2005 — dual legal framework in COVID।"
+  },
+  {
+    "question": "भारत में 'Gender Budgeting' (लिंग-उत्तरदायी बजट) का स्वास्थ्य क्षेत्र में क्या महत्व है?",
+    "options": [
+      { "text": "Gender Budgeting — केवल women's welfare ministry के लिए", "is_correct": false },
+      { "text": "स्वास्थ्य बजट में महिलाओं और लड़कियों के specific health needs को अलग से allocate और track करना — gender-responsive health planning", "is_correct": true },
+      { "text": "Gender Budgeting — India में 2023 में शुरू हुई", "is_correct": false },
+      { "text": "Gender Budget — केवल education में relevant", "is_correct": false }
+    ],
+    "explanation": "Gender Budgeting — India से 2005 Union Budget में formally started। Health Gender Budget Statement: Part A (100% women-specific: JSY, Mahila Shakti Kendras) + Part B (30%+ women-benefiting schemes: Pradhan Mantri Surakshit Matritva Abhiyan). Health-specific: (1) Maternal health funding tracking, (2) Nutrition for girls (POSHAN), (3) PCPNDT enforcement funds, (4) Women's mental health. Gender-disaggregated data in HMIS। UN Women support। SDG 5 (Gender Equality) + SDG 3 (Health) nexus।"
+  },
+  {
+    "question": "भारत में 'Epidemic Diseases Act 1897' की सीमाएँ और 'New Public Health Bill' की आवश्यकता क्यों है?",
+    "options": [
+      { "text": "Epidemic Diseases Act 1897 — COVID में पर्याप्त था", "is_correct": false },
+      { "text": "1897 Act — colonial, narrow (only epidemic), powers undefined, no preparedness framework, no compensation; New PH Bill — comprehensive, rights-based, surveillance, one-health approach", "is_correct": true },
+      { "text": "India में Epidemic Diseases Act को 2015 में replace किया गया", "is_correct": false },
+      { "text": "New Public Health Law — unnecessary है", "is_correct": false }
+    ],
+    "explanation": "Epidemic Diseases Act 1897 — limitations: (1) Only 4 sections, colonial era, (2) No definition of 'epidemic,' (3) State powers only (section 2), (4) No preparedness or surveillance framework, (5) No rights protection, (6) No compensation for affected, (7) No health emergency standards. COVID revealed gaps → DM Act 2005 invoked. Proposed Public Health (Prevention, Control and Management of Epidemics, Bio-terrorism and Disasters) Bill — comprehensive, (2017 draft) pending। Features: One Health, rights-based, compensations, surveillance system।"
+  },
+  {
+    "question": "भारत में 'Drugs and Cosmetics Act 1940' के तहत 'Schedule H1' और 'Schedule X' का स्वास्थ्य नीति में क्या महत्व है?",
+    "options": [
+      { "text": "ये schedules — cosmetics के लिए हैं", "is_correct": false },
+      { "text": "H1 — prescription-only drugs (antibiotics, steroids); Schedule X — psychotropic substances requiring special prescription and records — misuse prevention", "is_correct": true },
+      { "text": "Schedule H1 — OTC drugs हैं", "is_correct": false },
+      { "text": "Drugs Act 1940 — केवल manufacturing को regulate करता है", "is_correct": false }
+    ],
+    "explanation": "Drugs and Cosmetics Act 1940: Schedule H1 (2014 amendment) — high-risk drugs (3rd generation antibiotics, anti-TB, anti-retroviral) — licensed pharmacist, prescription mandatory, pharmacy records kept 3 years. Schedule X — psychotropics, narcotics (morphine, tramadol) — special prescription pad, double records. Significance: (1) Antibiotic stewardship, (2) Prevent drug misuse/addiction, (3) TB — DOTS compliance, (4) Opioid access for palliative care — difficult due to Schedule X complexity (Narcotic Drugs and Psychotropic Substances Act 1985 also applies)।"
+  },
+  {
+    "question": "भारत में 'National Commission for Backward Classes' (NCBC) और OBC health provisions में क्या संबंध है?",
+    "options": [
+      { "text": "NCBC — केवल education reservations देखता है", "is_correct": false },
+      { "text": "102वें संशोधन द्वारा NCBC — constitutional body बना; OBC inclusion → Mandal quotas in medical education; OBC health workers → community reach, service equity", "is_correct": true },
+      { "text": "NCBC — health से completely unrelated", "is_correct": false },
+      { "text": "NCBC — state list का विषय है", "is_correct": false }
+    ],
+    "explanation": "102nd Constitutional Amendment (2018) — NCBC → Article 338-B (constitutional body). OBC reservation (27%) in Central services + medical colleges (post-Mandal). Health implications: (1) OBC reservation in MBBS, PG medical seats → more OBC doctors, (2) OBC health workers → cultural proximity with communities, (3) OBC anganwadi workers, ASHA in OBC villages → better service uptake, (4) OBC community health insurance — PM-JAY coverage. EWS 10% reservation (103rd Amendment) → economically weak patients also covered।"
+  },
+  {
+    "question": "भारत में 'Biological Diversity Act 2002' और स्वास्थ्य के पारंपरिक ज्ञान (Traditional Knowledge) संरक्षण में इसकी क्या भूमिका है?",
+    "options": [
+      { "text": "Biological Diversity Act — केवल wildlife protection के लिए", "is_correct": false },
+      { "text": "BD Act — ABS (Access and Benefit Sharing) framework; Traditional Knowledge of tribal healers protected; bio-piracy prevention; National Biodiversity Authority oversees", "is_correct": true },
+      { "text": "Traditional Knowledge — BD Act में covered नहीं", "is_correct": false },
+      { "text": "BD Act — Intellectual Property Rights Act का part है", "is_correct": false }
+    ],
+    "explanation": "Biological Diversity Act 2002: Implements CBD (Convention on Biological Diversity). Three tiers: National Biodiversity Authority (NBA), State Biodiversity Boards (SBBs), Biodiversity Management Committees (BMCs) at local level. Access and Benefit Sharing (ABS) — Nagoya Protocol aligned. Traditional Knowledge (TK): (1) Documentation — Traditional Knowledge Digital Library (TKDL) — 35 million pages, (2) Prior Informed Consent required for foreign access, (3) Benefit sharing with local communities/healers. Anti-bio-piracy: neem, turmeric patents challenged using TKDL। Community Health — traditional medicine practitioners' rights।"
+  },
+  {
+    "question": "भारत में 'Tobacco Control' नीति में केंद्र और राज्य की क्या भूमिकाएँ हैं?",
+    "options": [
+      { "text": "Tobacco control — केवल state का विषय है", "is_correct": false },
+      { "text": "COTPA 2003 — Central legislation; states — enforcement, penalties enhancement, graphic health warnings, public places ban; India के WHO FCTC obligations", "is_correct": true },
+      { "text": "Tobacco — Union List का विषय है, states को कोई role नहीं", "is_correct": false },
+      { "text": "India में tobacco control law 2017 में बना", "is_correct": false }
+    ],
+    "explanation": "COTPA (Cigarettes and Other Tobacco Products Act 2003): Central law. Provisions: (1) Cigarette pack warnings (85% graphic health warning), (2) Smoking bans in public places, (3) No sale near educational institutions (100 meters), (4) No advertising. State role: (1) Enforcement through police/magistrates, (2) Can be stricter, (3) Penalty provisions. WHO Framework Convention on Tobacco Control (FCTC) 2003 — India signatory. ITC taxes — Ministry of Finance. NTCP (National Tobacco Control Programme) — NHM component। SUA (Smoke-free areas) compliance।"
+  },
+  {
+    "question": "भारत में 'National Commission for Protection of Child Rights' (NCPCR) और 'Juvenile Justice Act 2015' का health context में क्या महत्व है?",
+    "options": [
+      { "text": "JJ Act — केवल criminal juvenile matters के लिए", "is_correct": false },
+      { "text": "JJ Act 2015 — Child Care Institutions में healthcare mandatory; NCPCR — nutrition, vaccination, mental health of institutionalized children monitor करती है; POCSO — health evidence protocols", "is_correct": true },
+      { "text": "JJ Act 2015 — health से असंबंधित", "is_correct": false },
+      { "text": "NCPCR — जेलों में बच्चों को देखती है", "is_correct": false }
+    ],
+    "explanation": "JJ (Care and Protection of Children) Act 2015: Sections on health in Child Care Institutions: (1) Medical examination within 24 hours of admission, (2) Regular health check-ups, (3) Mental health services, (4) Medical treatment records. NCPCR mandate: (1) Monitor nutrition status in CCIs, (2) Vaccination coverage in children's homes, (3) Mental health of children in conflict with law, (4) POCSO — child-friendly medical examination protocols. 'Bal Swaraj' portal — NCPCR online monitoring of CCIs। Child trafficking → health consequences also monitored।"
+  },
+  {
+    "question": "भारत में 'National Food Security Act 2013' के 'Grievance Redressal Mechanism' का क्या प्रावधान है?",
+    "options": [
+      { "text": "NFSA में कोई grievance mechanism नहीं", "is_correct": false },
+      { "text": "District Grievance Redressal Officer (DGRO), State Food Commission, third-party audit — NFSA की accountability chain", "is_correct": true },
+      { "text": "केवल RTI से शिकायत की जा सकती है", "is_correct": false },
+      { "text": "NFSA grievances — High Court में ही जाती हैं", "is_correct": false }
+    ],
+    "explanation": "NFSA 2013 — Grievance Redressal: (1) District Grievance Redressal Officer (DGRO) — entitlement-related complaints, (2) State Food Commission — DGRO orders on appeal, central oversight, (3) Third-party evaluation of scheme, (4) Social audit by Gram Sabha (rural areas). Health connection: NFSA PDS → nutrition → health. Grievance when PDS grain denied → nutrition affected → child health. PDS + ICDS + MDM convergence — all have grievance systems. Food courts — some states established।"
+  },
+  {
+    "question": "भारत में 'Inter-State River Water Disputes Act 1956' और स्वास्थ्य में water-health nexus का क्या महत्व है?",
+    "options": [
+      { "text": "River water disputes — health से असंबंधित", "is_correct": false },
+      { "text": "Water allocation conflicts → downstream communities का drinking water availability → waterborne disease burden; Cauvery, Krishna, Godavari disputes → affected communities' health", "is_correct": true },
+      { "text": "River water disputes — केवल agricultural interest", "is_correct": false },
+      { "text": "IS River Water Disputes — अनुच्छेद 131 से ही सुलझाए जाते हैं", "is_correct": false }
+    ],
+    "explanation": "Inter-State Water Disputes Act 1956 (Art. 262): Tribunals for Cauvery (Karnataka-TN), Krishna, Godavari, Mahanadi, etc. Health implications: (1) Reduced water flow → drinking water scarcity → communities revert to unsafe sources → waterborne disease, (2) Riparian communities — arsenic/fluoride contamination disputes, (3) Dam-affected communities — displacement → healthcare disruption, (4) Irrigation conflicts → agricultural communities' food security → nutrition. Water as SDH — water governance = health governance।"
+  },
+  {
+    "question": "भारत में '12वीं पंचवर्षीय योजना' (2012-17) और उसके बाद 'NITI Aayog Vision 2035' में स्वास्थ्य की प्राथमिकताएँ क्या थीं?",
+    "options": [
+      { "text": "12th Plan में health — secondary priority", "is_correct": false },
+      { "text": "12th Plan: Universal Health Coverage, mental health, NCD focus, RMNCH+A; NITI Vision 2035: Preventive Health, Universal Health Coverage, health technology — progressive evolution", "is_correct": true },
+      { "text": "NITI Aayog — no health vision document", "is_correct": false },
+      { "text": "12th Plan और NITI Vision — identical health priorities", "is_correct": false }
+    ],
+    "explanation": "12th Five Year Plan (2012-17): (1) Universal Health Coverage (UHC) — Shri B K Chaturvedi Committee, (2) RMNCH+A (Reproductive, Maternal, Newborn, Child and Adolescent Health), (3) NCD National Programme, (4) Rashtriya Swasthya Bima Yojana expansion, (5) Mental health focus. NITI Aayog Health Vision 2035 (2019): (1) Digital health, (2) Preventive health focus, (3) UHC through PMJAY + CPHC, (4) Health technology innovation, (5) Disease surveillance modernization। Planning Commission → NITI Aayog shift: indicative to aspirational planning।"
+  },
+  {
+    "question": "भारत में 'Consumer Protection in Healthcare' के संदर्भ में 'Medical Negligence' के निर्धारण में कौन-से कानूनी मानक हैं?",
+    "options": [
+      { "text": "Medical Negligence — किसी भी गलत treatment में", "is_correct": false },
+      { "text": "Bolam Test (reasonable doctor standard) + Jacob Mathew Case 2005 (SC India) — negligence ≠ mere error; gross negligence या recklessness required — IPC 304A + Consumer Protection", "is_correct": true },
+      { "text": "India में Medical Negligence — no law", "is_correct": false },
+      { "text": "Medical Negligence — only criminal law applicable", "is_correct": false }
+    ],
+    "explanation": "Medical Negligence legal standards in India: (1) Bolam Test (UK 1957): Doctor not negligent if acted per accepted medical practice (supported by reputable body of doctors), (2) Jacob Mathew v. State of Punjab (SC 2005): For criminal negligence — must show gross, reckless, lack of reasonable care; mere error not criminal. (3) IPC 304A — negligent act causing death, (4) Consumer Protection Act — Medical service = 'service'; negligence → compensation, (5) Civil suits for damages. Health Education: Medical practitioners' rights + accountability balance।"
+  },
+  {
+    "question": "भारत में 'Right to Health Bill' (Draft 2021) और इसकी आवश्यकता का विश्लेषण करें।",
+    "options": [
+      { "text": "India में Right to Health already a Fundamental Right है", "is_correct": false },
+      { "text": "Art. 21 से derived, पर justiciable statutory right absent; Draft Bill — उचित health care का कानूनी अधिकार, mandatory primary care, no denial of emergency treatment, accountability framework", "is_correct": true },
+      { "text": "Rajasthan Right to Health Act 2023 — first in India, paved way for central bill", "is_correct": false },
+      { "text": "Right to Health Bill — Parliament में पास हो गया", "is_correct": false }
+    ],
+    "explanation": "Right to Health in India: Currently implied under Art. 21 (paschim Banga case). Not explicitly justiciable statutory right. Rajasthan Right to Health Act 2023 — India's first state law: (1) Free outpatient services at public hospitals, (2) Emergency care rights (no denial even if no money), (3) Patient rights charter, (4) Grievance mechanism. Doctors' strike against — controversy. Draft National Right to Health Bill: (1) Universal right to quality healthcare, (2) Emergency care free, (3) Health ombudsman, (4) Patient rights. UHC target alignment।"
+  },
+  {
+    "question": "भारत में 'Scheduled Castes and Scheduled Tribes' के लिए 'Special Component Plan' और 'Tribal Sub-Plan' का health budgeting में क्या महत्व है?",
+    "options": [
+      { "text": "दोनों plans अब बंद हो गए हैं", "is_correct": false },
+      { "text": "SC Sub-Plan और TSP — SC/ST जनसंख्या अनुपात में health budget allocate करना — earmarked funds — proper implementation poor", "is_correct": true },
+      { "text": "SC/ST Sub-Plans — केवल education sector में", "is_correct": false },
+      { "text": "Tribal Sub-Plan — Ministry of Tribal Affairs का कार्यक्रम है केवल", "is_correct": false }
+    ],
+    "explanation": "SC Sub-Plan (now SCSP) and Tribal Sub-Plan (TSP) — 5th FYP से: SC और ST population के अनुपात में सभी departments के budget में earmarking। MHFW SCSP/TSP: health funds specifically for SC/ST communities। Challenges: (1) Merged with general budget (some states), (2) Poor tracking, (3) Funds diverted, (4) Implementation at ground level weak. Positive: Forces data disaggregation for SC/ST health outcomes. State-specific TSP: Odisha, Chhattisgarh tribal health allocations। Adivasi health equity।"
+  },
+  {
+    "question": "भारत में 'National Rural Health Mission' (2005) के लागू होने से पहले की ग्रामीण स्वास्थ्य अवसंरचना की स्थिति क्या थी?",
+    "options": [
+      { "text": "NRHM से पहले India में primary health care excellent था", "is_correct": false },
+      { "text": "Pre-NRHM: severe infrastructure gap (Bhore Report gap still existing), staff vacancies, supply chain failures, no community health workers, poor accountability — NRHM जवाब था", "is_correct": true },
+      { "text": "NRHM — already working primary care को और बेहतर बनाया", "is_correct": false },
+      { "text": "NRHM से पहले कोई rural health structure नहीं था", "is_correct": false }
+    ],
+    "explanation": "Pre-NRHM situation (pre-2005): (1) PHC/CHC shortfall — 40% PHCs closed half day, (2) Doctor vacancies — 70% rural posts vacant, (3) Essential drugs unavailable at public facilities, (4) No formal CHW — ASHA not existed, (5) Institutional deliveries — only 40% nationally, (6) High MMR (301/lakh LB) and IMR (58/1000 LB), (7) Poor accountability. NRHM (2005) — Community Processes (ASHA), Untied Funds (Rs 10,000/sub-center), IPHS norms, RKS, DLHS tracking, state flexibility। Paradigm shift।"
+  },
+  {
+    "question": "भारत में 'Central Government Health Scheme' (CGHS) और 'Employee State Insurance' (ESI) में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "CGHS — Central govt employees + pensioners (tax-funded); ESI — organized sector workers (contributory, payroll deduction) — अलग beneficiary groups, different financing", "is_correct": true },
+      { "text": "ESI — only accident insurance", "is_correct": false },
+      { "text": "CGHS — private sector employees को cover करता है", "is_correct": false }
+    ],
+    "explanation": "CGHS (Central Government Health Scheme) — 1954: (1) Central govt employees + pensioners + dependents, (2) Tax-funded (employer = Central Govt), (3) CGHS wellness centers across cities, (4) Cashless in empanelled hospitals, (5) Drug supply from CGHS pharmacies. ESI (Employees' State Insurance) — ESIC (1948): (1) Organized sector employees (income ≤ ₹21,000/month), (2) Contributory: Employee 0.75% + Employer 3.25% of wages, (3) ESI dispensaries + hospitals, (4) Comprehensive: medical, sickness benefit, maternity, disability. Both cover only formal sector।"
+  },
+  {
+    "question": "भारत में 'Public Private Partnership' (PPP) स्वास्थ्य में किन प्रमुख models में है?",
+    "options": [
+      { "text": "PPP health में नहीं होती", "is_correct": false },
+      { "text": "Concession (BOT), Management Contract, Social Franchise (Jan Aushadhi), Contracting-in (specialists), Output-based Aid (Janani Express) — multiple PPP models", "is_correct": true },
+      { "text": "PPP — केवल hospital building में", "is_correct": false },
+      { "text": "PPP — India में constitutionally prohibited", "is_correct": false }
+    ],
+    "explanation": "PPP Health Models in India: (1) Build-Operate-Transfer (BOT) — private builds, operates, transfers (e.g., Rajasthan DISHA PPP), (2) Management Contract — private manages public facility, (3) Social Franchise — standardized quality private clinics (accredited social health franchises), (4) Jan Aushadhi — government generic drug retail through private franchisees, (5) Contracting-in — private specialists in PHC/CHC, (6) PPP diagnostics — free diagnostics in public hospitals (UP, Delhi), (7) Ambulance services — 108/102 by private operators. NHM PPP guidelines. PPP risks: cherry-picking, quality assurance challenges।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य और परिवार कल्याण मंत्रालय' के अंतर्गत कौन-से प्रमुख विभाग हैं?",
+    "options": [
+      { "text": "केवल एक विभाग", "is_correct": false },
+      { "text": "Department of Health & Family Welfare और Department of Health Research (ICMR के अंतर्गत) — दोनों", "is_correct": true },
+      { "text": "तीन विभाग: Health, Family Welfare, AYUSH", "is_correct": false },
+      { "text": "AYUSH — MoHFW का हिस्सा है", "is_correct": false }
+    ],
+    "explanation": "Ministry of Health and Family Welfare (MoHFW): (1) Department of Health and Family Welfare — NHM, Hospital Services, Drug Regulation (CDSCO), Blood Safety, Mental Health, (2) Department of Health Research — ICMR (Indian Council of Medical Research), biomedical research funding. Note: Ministry of AYUSH — separate ministry (since 2014). Pharmaceutical Department — Ministry of Chemicals and Fertilizers। National Health Mission — under DoHFW। Health education — HEO cadre under state DoHFW।"
+  },
+  {
+    "question": "भारत में 'Lokur Committee 1970' (Scheduled Tribes criteria) और health equity में इसकी क्या relevance है?",
+    "options": [
+      { "text": "Lokur Committee — education के बारे में थी", "is_correct": false },
+      { "text": "Lokur Committee ने ST definition के 5 criteria दिए — सही identification → constitutional safeguards → health schemes eligibility; wrong ST listing → health deprivation", "is_correct": true },
+      { "text": "Lokur Committee recommendations — कभी accepted नहीं हुई", "is_correct": false },
+      { "text": "ST criteria — केवल economic poverty based हैं", "is_correct": false }
+    ],
+    "explanation": "Lokur Committee (1965, report 1970) — Criteria for ST: (1) Tribal origin and primitive traits, (2) Geographical isolation, (3) Shyness of contact with community at large, (4) Backwardness in general, (5) Distinct culture. Health relevance: (1) Correct ST listing → PVTG scheme eligibility (special health schemes), (2) Tribal Sub-Plan health components, (3) FRA rights → medicinal plants, (4) 6th Schedule health provisions, (5) Tribal health program targeting. Fraudulent ST claims → real tribes deprived। NHRC monitoring।"
+  },
+  {
+    "question": "भारत में 'Rashtriya Swasthya Bima Yojana' (RSBY 2008) के अनुभव से PM-JAY 2018 ने क्या सीखा?",
+    "options": [
+      { "text": "PM-JAY और RSBY — identical schemes हैं", "is_correct": false },
+      { "text": "RSBY — ₹30,000 limit inadequate; enrollment quality poor; asymmetric information problems; PM-JAY — ₹5 lakh, cashless, secondary/tertiary focus, technology-driven, convergent", "is_correct": true },
+      { "text": "RSBY — successful था, PM-JAY unnecessary था", "is_correct": false },
+      { "text": "RSBY — केवल अस्पताल निर्माण था", "is_correct": false }
+    ],
+    "explanation": "RSBY (2008) — ₹30,000/family/year for BPL families, 5 members, smart card system. Lessons: (1) Low limit → catastrophic expenditure still occurred, (2) Enrollment errors — non-poor included, poor excluded, (3) Adverse selection, (4) Provider fraud (unnecessary procedures), (5) Limited secondary care coverage, (6) State variation. PM-JAY improvements: (1) ₹5 lakh limit (10x higher), (2) SECC-based identification (better targeting), (3) Technology — QR code, Aadhaar verification, (4) Cashless secondary + tertiary, (5) Expanded to 1,929 procedures, (6) Portability across India।"
+  },
+  {
+    "question": "भारत में 'Swachh Bharat Mission' (SBM) के health co-benefits को political science के 'intersectoral policy' दृष्टिकोण से समझाएँ।",
+    "options": [
+      { "text": "SBM — केवल sanitation program है, health से unrelated", "is_correct": false },
+      { "text": "SBM — ODF achievement → reduced diarrheal disease, child stunting, IMR; women's safety and dignity; school attendance — intersectoral health dividend through political will", "is_correct": true },
+      { "text": "SBM का health impact — सिद्ध नहीं हुआ", "is_correct": false },
+      { "text": "SBM — health ministry का program है", "is_correct": false }
+    ],
+    "explanation": "Swachh Bharat Mission (2014): Phase I (rural + urban, 2014-19) — ODF (Open Defecation Free) achievement by Oct 2, 2019 (claimed). Phase 2 (2020-24+) — solid waste management, ODF++, faecal sludge management. Health co-benefits evidence: (1) Diarrheal disease 45% reduction (UNICEF modelling), (2) Under-5 stunting reduction — 5.7% reduction linked (Bill & Melinda Gates study), (3) Women's safety — no open defecation at night → fewer sexual assaults, (4) School girls' retention — separate toilets. Political dimensions: High PM priority → fast implementation → governance demonstrates intersectoral health।"
+  },
+  {
+    "question": "भारत में 'PM Poshan' (Mid-Day Meal Scheme renamed) और 'Right to Education Act 2009' का स्वास्थ्य-शिक्षा nexus क्या है?",
+    "options": [
+      { "text": "Mid-Day Meal — केवल food scheme है", "is_correct": false },
+      { "text": "MDM → school enrollment + retention + nutrition → child health improvement; RTE — 6-14 years education guarantee → health literacy platform", "is_correct": true },
+      { "text": "RTE — health से असंबंधित", "is_correct": false },
+      { "text": "Mid-Day Meal — private schools में compulsory नहीं है", "is_correct": false }
+    ],
+    "explanation": "PM Poshan (formerly MDM Scheme, 1995) — Supreme Court Order 2001 (PUCL v. Union) mandated it. Health benefits: (1) 10+ crore children served daily, (2) Reduced class-room hunger → attention, learning, (3) Micronutrient supplementation (iron, folic acid, vitamin A in meal), (4) Deworming, (5) Enrollment especially of girls. RTE (2009) — Free and Compulsory Education 6-14 years → school as health platform (screening, vaccination, health education). School Health Programme (NHM + RTE) — linkage। Adolescent health education in schools → reproductive health।"
+  },
+  {
+    "question": "भारत में 'National Policy on AYUSH' (Ayurveda, Yoga, Unani, Siddha, Homeopathy) के mainstreaming में क्या political और institutional challenges हैं?",
+    "options": [
+      { "text": "AYUSH — केवल cultural heritage है, clinical value नहीं", "is_correct": false },
+      { "text": "AYUSH Ministry (2014) — अलग identity; mainstreaming challenges: evidence gap, integration with allopathy (turf conflicts), regulation standardization, drug quality, practitioner competency", "is_correct": true },
+      { "text": "AYUSH — fully evidence-based और integrated", "is_correct": false },
+      { "text": "AYUSH — WHO द्वारा endorsed नहीं है", "is_correct": false }
+    ],
+    "explanation": "Ministry of AYUSH (2014, separate from MoHFW): Ayurveda, Yoga, Naturopathy, Unani, Siddha, Homeopathy. Challenges: (1) Evidence — RCT evidence limited for most therapies, (2) Turf conflict — IMA vs AYUSH practitioners, (3) Drug quality — 34% AYUSH drugs fail quality test (CAG 2023), (4) Regulation — Ayurveda drugs regulated under D&C Act Schedule E (inadequate), (5) COVID — CORONIL controversy — evidence vs claim. Opportunities: (1) HWC Yoga program, (2) AYUSH HWC integration, (3) WHO Traditional Medicine Strategy. NHP 2017 — integration envisaged।"
+  },
+  {
+    "question": "भारत में 'National AIDS Control Organization' (NACO) की governance structure और 'NACP IV' की मुख्य रणनीतियाँ क्या हैं?",
+    "options": [
+      { "text": "NACO — WHO का India chapter है", "is_correct": false },
+      { "text": "NACO — MoHFW autonomous body; NACP IV (2012-17) — zero new infections, zero AIDS-related deaths, zero stigma; NACP V — treatment expansion, PrEP, key population focus", "is_correct": true },
+      { "text": "NACO — केवल awareness campaigns", "is_correct": false },
+      { "text": "NACP IV — पूरी तरह सफल रहा, new HIV cases — zero", "is_correct": false }
+    ],
+    "explanation": "NACO: (1) Autonomous body under MoHFW, (2) National AIDS and STD Control Programme, (3) State AIDS Control Societies (SACS) — state level, (4) District AIDS Prevention and Control Units (DAPCUs). NACP IV goals: zero new HIV infections, zero AIDS-related deaths, zero discrimination. Strategies: (1) Key population focus (sex workers, IDU, MSM, transgender), (2) Prevention of Parent to Child Transmission (PPTCT), (3) Free ART (Antiretroviral Treatment), (4) TI (Targeted Interventions), (5) Blood safety. India — AIDS response globally praised. HIV Act 2017 — legal protection for PLHIV।"
+  },
+  {
+    "question": "भारत में 'प्रधानमंत्री राष्ट्रीय राहत कोष' (PMNRF) और 'आरोग्य निधि' का health welfare में क्या उपयोग है?",
+    "options": [
+      { "text": "PMNRF — political fund है", "is_correct": false },
+      { "text": "PMNRF — disaster relief + major surgery financial assistance to poor patients; Arogya Nidhi — BPL patients में Rs. 1.5 lakh तक medical assistance — आर्थिक कठिनाई में", "is_correct": true },
+      { "text": "PMNRF — केवल natural disasters के लिए", "is_correct": false },
+      { "text": "Arogya Nidhi — PM-JAY का हिस्सा है", "is_correct": false }
+    ],
+    "explanation": "PMNRF (Prime Minister's National Relief Fund): (1) Public contributions, (2) Major life-threatening illness treatment assistance, (3) Medical treatment for organs (transplant) — BPL patients. Arogya Nidhi: (1) National Illness Assistance Fund → States → State Illness Assistance Funds (SIAF), (2) BPL patients, (3) Life-threatening conditions, (4) Rs. 1.5 lakh for specified conditions, (5) Not covered by other insurance. Health welfare funds complement PM-JAY for conditions outside its scope. Cancer treatment, heart surgery, kidney transplant — PMNRF/Arogya Nidhi supported।"
+  },
+  {
+    "question": "भारत में 'Indian Public Health Standards' (IPHS) क्या निर्धारित करती है और इसकी compliance की क्या स्थिति है?",
+    "options": [
+      { "text": "IPHS — केवल private hospitals के लिए", "is_correct": false },
+      { "text": "IPHS — Sub-Centre, PHC, CHC, SDH, District Hospital के लिए infrastructure, human resources, equipment, service standards — compliance अभी भी 50-60% है", "is_correct": true },
+      { "text": "IPHS — केवल HR standards", "is_correct": false },
+      { "text": "IPHS compliance — 100% है", "is_correct": false }
+    ],
+    "explanation": "IPHS (Indian Public Health Standards) — NHM 2007 (revised 2012): (1) Infrastructure: SC (2 rooms + toilet), PHC (6-bed), CHC (30-bed), SDH (100-bed), DH (varies), (2) Human resources: PHC = 1 MBBS + 1 LHV + 2 ANMs + 1 pharmacist, (3) Essential drugs + equipment, (4) Service delivery norms, (5) Quality accreditation (NQAS). Compliance status (DLHS-4, RHS 2022): (1) ~30% PHCs function 24×7, (2) Significant drug stock-outs, (3) Doctor shortages. NQA (National Quality Assurance) — Kayakalp award for clean hospitals।"
+  },
+  {
+    "question": "भारत में 'Parliamentary Standing Committee on Health' के क्या कार्य हैं और इसने हाल के वर्षों में किन health issues को उठाया है?",
+    "options": [
+      { "text": "Health Standing Committee — केवल budget review करती है", "is_correct": false },
+      { "text": "Bills scrutiny, demand for grants examination, policy review, ministry accountability — heatwave deaths, antibiotic resistance, generic drugs, NHM funding gaps उठाए", "is_correct": true },
+      { "text": "Parliamentary Health Committee — केवल doctors द्वारा composed है", "is_correct": false },
+      { "text": "Health Committee — राज्यसभा में नहीं होती", "is_correct": false }
+    ],
+    "explanation": "Departmentally Related Standing Committee on Health and Family Welfare: (1) Members from both Lok Sabha and Rajya Sabha, (2) Examines bills (NMC Bill, Drugs Act Amendment), (3) Scrutinizes Demands for Grants (Health Budget), (4) Ministry accountability. Recent reports: (1) Drug pricing — NPPA effectiveness, (2) Generic medicine availability (Jan Aushadhi), (3) NHM funding shortfalls, (4) Medical education quality (NMC), (5) Antibiotic resistance policy, (6) COVID pandemic preparedness gaps, (7) Mental health system gaps. Important oversight body। Committee reports tabled in Parliament।"
+  },
+  {
+    "question": "भारत में 'National Medical Commission Act 2020' (NMC) ने 'Medical Council of India' (MCI) को replace क्यों किया?",
+    "options": [
+      { "text": "MCI — perfectly functional था, NMC necessary नहीं था", "is_correct": false },
+      { "text": "MCI corruption scandals (capitation fees, college recognition), regulatory failure → NMC: 33-member commission, autonomous boards, NEXT exam, community health training", "is_correct": true },
+      { "text": "NMC — केवल cosmetic change है", "is_correct": false },
+      { "text": "MCI — 1950 में बना था, outdated", "is_correct": false }
+    ],
+    "explanation": "MCI (Medical Council of India, 1934 Act) — problems: (1) Corruption — Ketan Desai case (arrested 2010), (2) Medical college recognition irregularities, (3) Capitation fee racket, (4) Poor enforcement of curriculum quality, (5) Self-regulated (doctors regulating doctors). NMC Act 2020: (1) 33-member National Medical Commission, (2) 4 autonomous boards (UG, PG, assessment, ethics), (3) NEXT (National Exit Test) — single licensing exam, (4) Community health doctor provisions, (5) Autonomy to colleges, (6) Ethics Board more independent. Controversies: capitation fees (section 10D), bridge course।"
+  },
+  {
+    "question": "भारत में 'One Health' approach और सरकारी नीतियों में इसकी पहचान कहाँ होती है?",
+    "options": [
+      { "text": "One Health — India में अपरिचित concept है", "is_correct": false },
+      { "text": "Human-Animal-Environment interface; zoonotic diseases (COVID, Nipah, avian flu); National One Health Mission — intersectoral coordination; ICMR-NIV-ICAR-MoEF collaboration", "is_correct": true },
+      { "text": "One Health — केवल veterinary medicine है", "is_correct": false },
+      { "text": "India में One Health के लिए कोई governance mechanism नहीं", "is_correct": false }
+    ],
+    "explanation": "One Health — WHO/FAO/OIE concept: human, animal, environmental health interconnected. India's response: (1) National One Health Mission (PM-ABHIM component) — zoonotic disease surveillance, (2) Nipah (Kerala) — human+bat+pig interface, (3) COVID — possible animal origin, (4) Antimicrobial Resistance — agriculture overuse of antibiotics. Governance: (1) National Expert Group on One Health (2021), (2) MoHFW + Ministry of Animal Husbandry + MoEF coordination, (3) ICMR — research, (4) NCDC — surveillance. Global: WHO-World Bank One Health Joint Plan।"
+  },
+  {
+    "question": "भारत में 'Pradhan Mantri Swasthya Suraksha Yojana' (PMSSY) का क्या उद्देश्य है और इसके अंतर्गत कौन-से संस्थान हैं?",
+    "options": [
+      { "text": "PMSSY — health insurance scheme है", "is_correct": false },
+      { "text": "AIIMS (6 new initially, now 22+) और Government Medical Colleges upgradation — tertiary care और health education quality improvement — underserved states में", "is_correct": true },
+      { "text": "PMSSY — केवल Delhi AIIMS के लिए", "is_correct": false },
+      { "text": "PMSSY — private hospital construction के लिए subsidy", "is_correct": false }
+    ],
+    "explanation": "PMSSY (Pradhan Mantri Swasthya Suraksha Yojana, 2006): Two components: (1) New AIIMS — 6 initially (Bhopal, Bhubaneswar, Jodhpur, Patna, Raipur, Rishikesh) → expanded to 22+ across India, (2) Upgradation of existing Government Medical Colleges. Objectives: (1) Address regional imbalance in tertiary healthcare, (2) Reduce medical tourism within India, (3) Train more doctors for rural areas, (4) Research capacity. New AIIMS fully functional — Mangalagiri, Bibinagar, Gorakhpur, Kalyani, etc. Significant investment in healthcare infrastructure।"
+  },
+  {
+    "question": "भारत में 'National Health Mission' के 'Flexible Pool' और 'Rigid Pool' funding का क्या अर्थ है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Flexible Pool — states अपनी priorities के अनुसार use कर सकते हैं (State Specific Needs); Rigid Pool — central priorities के लिए (Immunization, FP, RMNCH) — fixed allocations", "is_correct": true },
+      { "text": "Flexible Pool — केवल NE states के लिए", "is_correct": false },
+      { "text": "NHM में कोई flexible funding नहीं है", "is_correct": false }
+    ],
+    "explanation": "NHM Flexible Financing: (1) Rigid Pool/Central Pool — core programs: immunization, family planning, TB, malaria, leprosy, blindness — centrally designed and funded, (2) Flexible Pool — state specific: block-level planning (DHAP), state innovations, state-specific disease burden. State gets Flexible Pool based on PIP (Program Implementation Plan) approval. Benefits: (1) Addresses local epidemiology, (2) State innovation (Tamil Nadu maternal health model), (3) Accountability through PIPs. Challenges: PIP approval delays, unspent funds lapse। Finance: Centre 60:State 40।"
+  },
+  {
+    "question": "भारत में 'Compulsory Licensing' (CL) pharmaceutical drugs में क्या है और Natco-Bayer case का क्या महत्व है?",
+    "options": [
+      { "text": "Compulsory Licensing — drug manufacturing ban है", "is_correct": false },
+      { "text": "TRIPS Article 31 के तहत public health में government third party को patent drug बनाने का license दे सकती है — India ने पहली CL 2012 में Bayer's Sorafenib के लिए Natco को दी", "is_correct": true },
+      { "text": "CL — India में कभी issue नहीं हुआ", "is_correct": false },
+      { "text": "CL — only for vaccines", "is_correct": false }
+    ],
+    "explanation": "Compulsory License (Patents Act 1970, Section 84): Government can license third party to make patented drug without patent holder's consent — conditions: not reasonably available, not at reasonable price, or not worked in India. India's CL: March 2012 — Controller General of Patents issued CL to Natco Pharma for Bayer's Sorafenib (Nexavar — liver/kidney cancer) — Natco could sell at ₹8,800/month vs ₹2.8 lakh. Doha Declaration (2001) — public health over patents. India's Patents Act Section 3(d) — prevents evergreening (Novartis Gleevec case 2013)। Access to medicines — political economy।"
+  },
+  {
+    "question": "भारत में 'Niti Aayog State Health Index' और इसके मुख्य indicators का विश्लेषण करें।",
+    "options": [
+      { "text": "NITI Aayog Health Index — only economic indicators", "is_correct": false },
+      { "text": "Health Outcomes (NMR, U5MR, institutional delivery, full immunization) + Governance and Processes + Key Inputs/Processes — 3 domain index; Kerala consistently tops", "is_correct": true },
+      { "text": "State Health Index — केवल total spending measure करता है", "is_correct": false },
+      { "text": "Health Index — केवल 10 states के लिए", "is_correct": false }
+    ],
+    "explanation": "NITI Aayog Health Index (since 2017, annual): 3 domains: (1) Health Outcomes — NMR (Neonatal Mortality Rate), U5MR, MMR, full immunization, institutional delivery (70% weight), (2) Governance & Information (10%) — HMIS quality, financial management, (3) Key Inputs/Processes (20%) — ANM vacancy, doctors, beds, drugs. Categories: Large states, Small states, UTs. Consistently top: Kerala, Tamil Nadu, Telangana (large states). Improved most: Rajasthan, HP, J&K. Used for: Centre-State performance-based incentives (reward good performers)।"
+  },
+  {
+    "question": "भारत में 'Menstrual Hygiene Management' (MHM) policy में केंद्र और राज्य सरकारों के क्या प्रयास हैं?",
+    "options": [
+      { "text": "MHM — government policy में नहीं", "is_correct": false },
+      { "text": "National MHM Guidelines (2015), Swachh Bharat-school toilets, sanitary napkin subsidies (Suvidha scheme, Saathi), free napkins in ASHA kits, school health curriculum — multi-ministry", "is_correct": true },
+      { "text": "MHM — केवल NGO कार्य है", "is_correct": false },
+      { "text": "India में free sanitary napkins — all women को provide किए जाते हैं", "is_correct": false }
+    ],
+    "explanation": "MHM in India: (1) National MHM Guidelines 2015 — policy framework, (2) Swachh Bharat Mission — separate girls' toilets in schools with incinerator/disposal, (3) 'Suvidha' brand — subsidized sanitary napkins through ASHA (₹1/pad), (4) 'Saathi' program — school girls (MHRD), (5) ASHA kit — free pads to promote institutional delivery (Janani Suraksha incentive), (6) GST reduction on sanitary pads (2018 — 12% to 0%), (7) School Health Programme curriculum — menstrual health education. Adolescent health strategy — RKSK।"
+  },
+  {
+    "question": "भारत में 'Clinical Establishments Act 2010' का क्या महत्व है और राज्यों में इसकी क्या स्थिति है?",
+    "options": [
+      { "text": "All India Act है और सभी राज्यों में लागू है", "is_correct": false },
+      { "text": "All hospitals/clinics के registration + minimum standards — voluntary adoption by states; कई बड़े states ने adopt नहीं किया — regulatory gap", "is_correct": true },
+      { "text": "Clinical Establishments Act — केवल private hospitals के लिए", "is_correct": false },
+      { "text": "Act — 2020 में replaced हुआ", "is_correct": false }
+    ],
+    "explanation": "Clinical Establishments (Registration and Regulation) Act 2010: Initially applicable to states consenting under Article 252. Provisions: (1) Registration mandatory for all clinical establishments, (2) Minimum standards (infrastructure, services), (3) Display of rates (services/procedures), (4) Maintaining records. Adopted by: Arunachal Pradesh, Himachal Pradesh, Mizoram, Sikkim, UTs, J&K. NOT adopted: Maharashtra, Karnataka, Kerala, TN, West Bengal (have own laws). Gap: Major private hospital hubs without central regulation. Consumer Protection Act + CPA as default recourse।"
+  },
+  {
+    "question": "भारत की 'National Population Policy 2000' (NPP 2000) के तीन स्तरीय जनसंख्या लक्ष्य और उनकी नीतिगत विशेषताएं क्या हैं?",
+    "options": [
+      { "text": "NPP 2000 — केवल परिवार नियोजन तक सीमित", "is_correct": false },
+      { "text": "Immediate goal: unmet contraceptive need पूरा; Medium-term: TFR 2.1 by 2010; Long-term: 2045 तक stable population — rights-based, target-free approach + ICPD Cairo framework", "is_correct": true },
+      { "text": "NPP 2000 — compulsory sterilization की नीति है", "is_correct": false },
+      { "text": "TFR लक्ष्य — केवल UP-Bihar के लिए", "is_correct": false }
+    ],
+    "explanation": "National Population Policy 2000 (NPP 2000): Immediate goals: (1) Reduce MMR <100/lakh LB, (2) Reduce IMR <30/1000 LB, (3) Universal immunization, (4) 80% institutional delivery. Medium-term: TFR 2.1 by 2010 (not achieved — India reached 2.0 only ~2020). Long-term: stable population by 2045. Key principles: (1) Target-free approach (no sterilization quotas), (2) Rights-based — informed choice, (3) ICPD Cairo 1994 framework — reproductive rights. Mission Parivar Vikas (2016) for High Focus districts (UP, Bihar, MP, Rajasthan, Chhattisgarh, Jharkhand, Assam) — 146 high TFR districts।"
+  },
+  {
+    "question": "'Janani Suraksha Yojana (JSY)' के governance mechanism और इसकी accountability structure में क्या प्रमुख विशेषताएं हैं?",
+    "options": [
+      { "text": "JSY — Centrally Sponsored Scheme नहीं है", "is_correct": false },
+      { "text": "JSY (2005) — 100% CSS, conditional cash transfer (Low Performing States में अधिक), ASHA linkage, district + state के माध्यम से fund flow, beneficiary-level accountability", "is_correct": true },
+      { "text": "JSY — केवल urban areas में", "is_correct": false },
+      { "text": "JSY — State government की पूर्ण funded scheme है", "is_correct": false }
+    ],
+    "explanation": "Janani Suraksha Yojana (JSY) governance: (1) 100% Centrally Sponsored Scheme — no state share, (2) Cash transfer: LPS (Low Performing States) — ₹1400 rural, ₹1000 urban; HPS ₹700/600, (3) Beneficiary: BPL/SC/ST/below 19 age (originally). (4) ASHA role: registers pregnant women, accompanies to facility, gets incentive (₹600 rural LPS), (5) Fund flow: NHM state treasury → district health society → PHC → ASHA/beneficiary, (6) Accountability: MCP card, beneficiary register, ASHA diary, HMIS reporting, (7) Evaluation: NFHS data shows institutional delivery improvement (from 39% 2005 to 89% 2021)।"
+  },
+  {
+    "question": "भारत में ASHA की 'legal status' और 'labour rights' को लेकर क्या प्रमुख विवाद और नीतिगत प्रश्न हैं?",
+    "options": [
+      { "text": "ASHA — government employee हैं और ESI/PF मिलता है", "is_correct": false },
+      { "text": "ASHA — 'volunteer' या 'incentive-based worker' — permanent employee नहीं; न minimum wage, न ESI/PF; ASHA strikes ने regular pay और social protection की मांग की", "is_correct": true },
+      { "text": "ASHA को ₹15,000/month fixed salary मिलती है", "is_correct": false },
+      { "text": "ASHA — state government employees की तरह pension eligible हैं", "is_correct": false }
+    ],
+    "explanation": "ASHA labour rights controversy: (1) Official status: 'Accredited Social Health Activist' — volunteer/community health worker, not employee, (2) Remuneration: performance-based incentives (not salary) — varies ₹1500-6000/month depending on activities and state top-up, (3) No ESI, PF, pension, maternity leave, (4) ASHA Strikes (multiple 2017-2023): demanded ₹18,000/month + employee status, (5) Government position: ASHAs are 'volunteers' — converting to employees would change program design, (6) SC ruling (2021): acknowledged ASHA contributions but didn't grant employee status, (7) States like Kerala provide better packages. HEO must understand this structural inequity।"
+  },
+  {
+    "question": "WHO Framework Convention on Tobacco Control (FCTC) के तहत भारत की क्या अंतर्राष्ट्रीय प्रतिबद्धताएं हैं और COTPA 2003 कैसे उन्हें implement करता है?",
+    "options": [
+      { "text": "India ने FCTC ratify नहीं किया है", "is_correct": false },
+      { "text": "India ने FCTC 2004 में ratify किया; COTPA 2003 — FCTC Articles implement करता है: Article 8 (smoke-free places), Article 11 (warnings), Article 13 (advertising ban), Article 14 (cessation)", "is_correct": true },
+      { "text": "FCTC — केवल WHO member countries पर binding है, India पर नहीं", "is_correct": false },
+      { "text": "COTPA 2003 — FCTC के पहले बना, इसलिए FCTC relevant नहीं", "is_correct": false }
+    ],
+    "explanation": "India & FCTC: (1) India ratified FCTC in 2004 (one of first), (2) COTPA 2003 (Cigarettes and Other Tobacco Products Act) — key provisions: Section 4 — smoke-free public places, Section 5 — advertising/promotion ban, Section 6 — no sale near educational institutions, pictorial warnings (85% packaging — among world's largest), (3) FCTC compliance gaps: no illicit trade protocol implementation, smokeless tobacco regulation weak, (4) National Tobacco Control Programme (NTCP) — district-level IEC, cessation, (5) Challenge: India — world's 2nd largest tobacco consumer; 1.3 million deaths/year, (6) MPOWER: Monitor, Protect, Offer cessation, Warn, Enforce bans, Raise taxes।"
+  },
+  {
+    "question": "'Rights of Persons with Disabilities Act 2016' (RPWD Act) में health से संबंधित क्या प्रावधान हैं और HEO की क्या भूमिका है?",
+    "options": [
+      { "text": "RPWD Act 2016 — health provisions नहीं हैं", "is_correct": false },
+      { "text": "RPWD Act 2016: 21 disability categories, health insurance समानता, free health care BPL PWDs, rehabilitation, accessible health facilities, disability certificate — CMO द्वारा", "is_correct": true },
+      { "text": "RPWD Act — PWD Act 1995 के समान है", "is_correct": false },
+      { "text": "RPWD Act — केवल education और employment के लिए है", "is_correct": false }
+    ],
+    "explanation": "RPWD Act 2016 health provisions: (1) 21 disability categories (vs 7 in PWD 1995) including mental illness, autism, intellectual disability, (2) Section 25: equal health care, no discrimination; accessible healthcare facilities, (3) Section 26: free health services (BPL PWDs) — government hospitals, (4) Section 27: manpower development — disability-inclusive health education, (5) Insurance: no discrimination (Section 25(3)), (6) Disability Certificate: CMO/Chief Medical Officer issues — gate-keeper role for HEO, (7) DISHA programme under Ministry of Social Justice (early intervention), (8) Accessible India Campaign (Sugamya Bharat) — health facility accessibility. HEO: ensures PWD-friendly PHC, disability data in HMIS।"
+  },
+  {
+    "question": "भारत की 'National Mental Health Policy 2014' और 'Mental Healthcare Act 2017' में राज्य की जिम्मेदारियां क्या हैं?",
+    "options": [
+      { "text": "Mental health — exclusively Central government responsibility है", "is_correct": false },
+      { "text": "NMHP 2014: vision, goals, strategic directions; MHCA 2017: rights-based framework — State Mental Health Authority (SMHA), mental health establishments registration, right to treatment, advance directive, nominated representative", "is_correct": true },
+      { "text": "NMHP 2014 और MHCA 2017 — same document हैं", "is_correct": false },
+      { "text": "Mental Health — Concurrent List में नहीं", "is_correct": false }
+    ],
+    "explanation": "National Mental Health Policy 2014: Vision: 'mentally healthy India'; Goals: prevention, access, community care, rights, research. Strategic directions: (1) community-based MH services, (2) integration with PHC (District Mental Health Programme — DMHP), (3) intersectoral coordination. Mental Healthcare Act 2017: (1) State Mental Health Authority (SMHA) — registration, monitoring of mental health establishments, (2) Rights: free basic MH services (BPL), informed consent, no solitary confinement/chaining, (3) Advance Directive — patient's wishes when capacity lost, (4) Nominated Representative, (5) Central MHA — national oversight. HEO role: DMHP implementation, MH awareness, stigma reduction।"
+  },
+  {
+    "question": "भारत में '12वीं Schedule' (74वें संशोधन) में शामिल 'urban health' functions क्या हैं और ULBs की वास्तविक स्थिति क्या है?",
+    "options": [
+      { "text": "12th Schedule में health functions नहीं हैं", "is_correct": false },
+      { "text": "12th Schedule (18 functions): public health, hospitals, primary health, sanitation, SWM, water supply — ULBs को assign; but most states ने actual devolution नहीं किया — fund/function/functionary gap", "is_correct": true },
+      { "text": "ULBs को 12th Schedule से full autonomy मिल गई है", "is_correct": false },
+      { "text": "Urban health — केवल Central government की जिम्मेदारी", "is_correct": false }
+    ],
+    "explanation": "12th Schedule (74th Amendment, 1992): 18 functions listed for Urban Local Bodies including: (1) Public health, sanitation, conservancy, SWM, (2) Regulation of slaughterhouses, (3) Provision of urban amenities. Health-specific: hospitals, primary health, Mother and Child Care. Reality: (1) Only 8 functions effectively transferred on average (NIPFP study), (2) State governments retain control of major hospitals, (3) ULB health staff on deputation from state, (4) NUHM (National Urban Health Mission) — tried to fill gap, (5) Urban Health Resource Centres (UHRC) — SHC equivalent, (6) Smart Cities Mission — health facility upgrade in 100 cities. 3F devolution (Funds, Functions, Functionaries) — weak।"
+  },
+  {
+    "question": "'District Mineral Foundation (DMF)' और 'PMKKKY' का स्वास्थ्य क्षेत्र में क्या उपयोग है और इसका governance framework क्या है?",
+    "options": [
+      { "text": "DMF — health activities के लिए use नहीं हो सकता", "is_correct": false },
+      { "text": "DMF (MMDR Act 2015) + PMKKKY: mining-affected districts में health infrastructure — PHC, hospitals, safe drinking water, sanitation; Governing Council में elected representatives + collector", "is_correct": true },
+      { "text": "DMF — केवल environment restoration के लिए है", "is_correct": false },
+      { "text": "DMF funds — State Consolidated Fund में जाते हैं", "is_correct": false }
+    ],
+    "explanation": "District Mineral Foundation (DMF): Created under MMDR (Amendment) Act 2015 — non-profit trust in mining districts. Funded by: miners paying % of royalty (major minerals 10-30%, minor minerals 10%). PMKKKY (Pradhan Mantri Khanij Kshetra Kalyan Yojana) — guidelines: 60% funds for priority works (drinking water, environment, health, education, livelihood); 40% for other development. Health uses: PHC building, equipment, ambulances, community health workers. Governance: DMF Trust with Collector/DM as ex-officio head, elected gram panchayat/municipality representatives. Total DMF collection: ₹50,000+ crore (2015-2023). Issues: slow utilization, lack of community participation।"
+  },
+  {
+    "question": "भारत में 'National Nutrition Strategy 2017' और 'POSHAN Abhiyaan' के बीच क्या संबंध है और convergence का governance model क्या है?",
+    "options": [
+      { "text": "National Nutrition Strategy 2017 और POSHAN Abhiyaan — असंबंधित हैं", "is_correct": false },
+      { "text": "National Nutrition Strategy 2017 (NITI Aayog) — policy framework; POSHAN Abhiyaan 2018 — implementation mechanism; Jan Andolan approach, technology-based monitoring (ICDS-CAS), convergence of 8+ departments", "is_correct": true },
+      { "text": "POSHAN Abhiyaan — केवल WCD Ministry का कार्यक्रम है", "is_correct": false },
+      { "text": "Stunting लक्ष्य 2022 तक 25% था — achieve हुआ", "is_correct": false }
+    ],
+    "explanation": "National Nutrition Strategy 2017 (NITI Aayog): Policy blueprint — reduce stunting, wasting, undernutrition, anemia. Key principle: nutrition-sensitive + nutrition-specific interventions. POSHAN Abhiyaan (PM's Overarching Scheme for Holistic Nourishment) 2018: (1) Targets: reduce stunting/wasting 2%/year, anemia 3%/year, LBW 2%/year, (2) Technology: ICDS-CAS (Common Application Software) for real-time monitoring, (3) Convergence: 8 ministries (WCD, Health, Drinking Water, Rural Dev, Tribal, Food, School Education, AYUSH), (4) Jan Andolan: community mobilization, (5) Poshan Maah (September), (6) Real-time data: growth monitoring through AWC. NFHS-5 (2019-21): stunting 35.5% (from 38.4%) — progress but goal not met।"
+  },
+  {
+    "question": "भारत में 'Antimicrobial Resistance (AMR) National Action Plan 2017' में स्वास्थ्य विभाग की क्या जिम्मेदारियां हैं?",
+    "options": [
+      { "text": "AMR — केवल veterinary/agriculture problem है", "is_correct": false },
+      { "text": "India NAP on AMR 2017 (5 years): One Health approach — MoHFW, Animal Husbandry, Agriculture, Environment; surveillance (ICMR-AMR network), antibiotic stewardship, infection prevention, IEC, research", "is_correct": true },
+      { "text": "AMR — WHO की जिम्मेदारी है, India की नहीं", "is_correct": false },
+      { "text": "Antibiotic use — India में regulated नहीं है", "is_correct": false }
+    ],
+    "explanation": "India National Action Plan on AMR 2017-2021 (aligned with WHO Global Action Plan 2015): 6 strategic priorities: (1) Awareness & education — IEC for healthcare providers + public (no self-medication), (2) Surveillance — ICMR AMR Surveillance + Research Network (AMRSN) in 30 hospitals, (3) Infection Prevention & Control — hand hygiene, WASH, (4) Antibiotic stewardship — hospital antibiotic policy, (5) Agricultural AMR — Veterinary antibiotics, food safety (FSSAI), (6) R&D — new antibiotics, diagnostics, vaccines. Key issues: OTC antibiotic sale (Schedule H1 but poorly enforced), AYUSH-allopathy combinations, livestock growth promoters. NAP 2.0 (2022-2025) continued।"
+  },
+  {
+    "question": "'15वां वित्त आयोग' (15th Finance Commission) ने स्वास्थ्य क्षेत्र को लेकर क्या विशेष प्रावधान किए?",
+    "options": [
+      { "text": "15th Finance Commission — health sector को specifically address नहीं किया", "is_correct": false },
+      { "text": "15th FC ने पहली बार dedicated health grant (₹70,051 crore) — States को health spend बढ़ाने की condition; Local Bodies को health SHC/PHC upgrade के लिए tied grant", "is_correct": true },
+      { "text": "15th FC — health funds केवल Central Ministry को देता है", "is_correct": false },
+      { "text": "Finance Commission — health sector की recommendation नहीं कर सकता", "is_correct": false }
+    ],
+    "explanation": "15th Finance Commission (2021-26) health provisions — historic first: (1) Sector-specific grants for health: ₹70,051 crore (2021-26) to states — conditional on states increasing health expenditure to ≥8% of state budget, (2) Local body grants for health: ULBs and PRIs for SHC/HWC upgradation, sanitation, water, (3) States must publish health accounts (NHA framework), (4) Vertical fiscal imbalance: states to increase own health spending, (5) Performance grants linked to health outcomes (MMR, IMR, TFR improvement). Significance: First time FC created conditional health-specific grants — nudges states toward spending commitments. India health spending goal: 2.5% of GDP by 2025 (NHP 2017)।"
+  },
+  {
+    "question": "भारत में 'Central Drugs Standard Control Organisation (CDSCO)' और 'State Drug Controllers' के बीच regulatory jurisdiction कैसे विभाजित है?",
+    "options": [
+      { "text": "CDSCO — सभी drug regulation करता है, states का कोई role नहीं", "is_correct": false },
+      { "text": "CDSCO: new drug approval, import, clinical trials, biologicals; State Drug Controllers: manufacture license, distribution, retail sale, drug quality surveillance — Drugs & Cosmetics Act 1940", "is_correct": true },
+      { "text": "State Drug Controllers — केवल Ayurvedic drugs regulate करते हैं", "is_correct": false },
+      { "text": "Drug regulation — पूर्णतः Concurrent List में है", "is_correct": false }
+    ],
+    "explanation": "Drug Regulation in India — divided under Drugs & Cosmetics Act 1940: Central (CDSCO under MoHFW): (1) New Drug approval (IND/NDA/ANDA), (2) Import licenses, (3) Clinical trial permission, (4) Biologicals/vaccines, (5) Medical devices (CDSCO-MDCO), (6) Schedule H, H1, X drugs. State Drug Controllers: (1) Manufacturing licenses (GMP inspection), (2) Distribution, wholesale, retail licenses, (3) Drug quality testing (State Drug Testing Labs), (4) Enforcement at field level. Issue: Regulatory gap — state capacity varies, spurious/substandard drugs. Drugs (Prices Control) Order under NPPA (National Pharmaceutical Pricing Authority) — MoC&I, not MoHFW. HEO: drug quality vigilance, rational drug use promotion।"
+  },
+  {
+    "question": "भारत में 'RMNCH+A Strategy' (2013) का 'continuum of care' approach और HEO की क्या भूमिका है?",
+    "options": [
+      { "text": "RMNCH+A — केवल child health program है", "is_correct": false },
+      { "text": "RMNCH+A (Reproductive Maternal Neonatal Child and Adolescent health): continuum — preconception to adolescence; convergence platform; high burden districts first; facility + community + outreach levels", "is_correct": true },
+      { "text": "RMNCH+A — replaced NHM को", "is_correct": false },
+      { "text": "RMNCH+A में Adolescent health component नहीं है", "is_correct": false }
+    ],
+    "explanation": "RMNCH+A Strategy 2013 (MoHFW): 'Strategic Approach to Reproductive, Maternal, Newborn, Child and Adolescent Health.' Key features: (1) Continuum of care: preconception → pregnancy → birth → postnatal → childhood → adolescence, (2) Life-cycle approach: not vertical programs, (3) Convergence: NHM umbrella — JSY, JSSK, iMNCl, RBSK, RKSK under one framework, (4) High-burden districts (184) prioritized, (5) Three levels: household-community (ASHA, AWW), outreach (VHNDs), facility (SHC to DH), (6) '5×5 strategy matrix' — 5 interventions × 5 stages. JSSK: Janani Shishu Suraksha Karyakram — free delivery + newborn services. HEO coordinates all RMNCH+A components at field level।"
+  },
+  {
+    "question": "भारत में 'Integrated Disease Surveillance Programme (IDSP)' का governance structure और HEO की surveillance भूमिका क्या है?",
+    "options": [
+      { "text": "IDSP — केवल epidemic situations में activate होता है", "is_correct": false },
+      { "text": "IDSP (2004): P-form (community), L-form (lab), S-form (clinician) — weekly data; District Surveillance Unit (DSU) headed by CMO/DM; HEO: field verification, outbreak investigation support, community reporting", "is_correct": true },
+      { "text": "IDSP — WHO द्वारा operate किया जाता है", "is_correct": false },
+      { "text": "IDSP data — confidential, public को available नहीं", "is_correct": false }
+    ],
+    "explanation": "IDSP (Integrated Disease Surveillance Programme, 2004 — World Bank funded): 3-level structure: District → State → Central. Reporting forms: P-form (Presumptive/community — ASHA, AWW — weekly), L-form (Lab confirmed), S-form (Syndromic — clinicians). District Surveillance Unit (DSU): DM + CMO as co-chairs, Epidemiologist, Microbiologist, Entomologist. Alerts: if disease doubles in 2 weeks → outbreak declaration. IHIP (Integrated Health Information Platform) — digital upgrade of IDSP (2020 COVID era). HEO role: (1) Community-level surveillance coordination, (2) Verify rumors, (3) Rapid Response Team (RRT) support, (4) IEC during outbreaks, (5) IDSP report dissemination to community health workers।"
+  },
+  {
+    "question": "'Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)' का क्या उद्देश्य है और इसका accountability mechanism क्या है?",
+    "options": [
+      { "text": "PMSMA — JSY का duplicate program है", "is_correct": false },
+      { "text": "PMSMA (2016): हर महीने 9 तारीख को 2nd/3rd trimester की ANC — specialist doctors (private sector volunteer), high-risk pregnancy identification, assured quality ANC, 'Happy Mother Healthy Baby' portal", "is_correct": true },
+      { "text": "PMSMA — केवल urban health facilities में", "is_correct": false },
+      { "text": "PMSMA — institutional delivery ensure करने का program है", "is_correct": false }
+    ],
+    "explanation": "Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA) 2016: Objective — assured, quality ANC on 9th of every month for 2nd/3rd trimester pregnancies at government facilities. Features: (1) Specialist participation: OB-GYN, physicians — government + volunteer private doctors, (2) High-risk pregnancy (HRP) identification + referral — MCP card marked in red, (3) Services: BP, weight, blood test, ultrasound, iron/folic acid, TT, (4) 'Happy Mother Healthy Baby' portal — beneficiary registration, doctor reporting, (5) PMSMA Plus (2021): first trimester coverage added. Accountability: HMIS reporting, beneficiary feedback mechanism. Different from JSY: JSY = delivery cash transfer; PMSMA = ANC quality improvement।"
+  },
+  {
+    "question": "भारत में 'National Health Systems Resource Centre (NHSRC)' की क्या भूमिका है और यह NHM implementation में कैसे सहायता करता है?",
+    "options": [
+      { "text": "NHSRC — एक financial institution है", "is_correct": false },
+      { "text": "NHSRC (2007): NHM का technical support institution — guidelines, operational research, training modules, PIP review support, HR policy, community processes, QI, HWC design; State HRCs के capacity building", "is_correct": true },
+      { "text": "NHSRC — केवल private sector health के लिए काम करता है", "is_correct": false },
+      { "text": "NHSRC — WHO की संस्था है", "is_correct": false }
+    ],
+    "explanation": "National Health Systems Resource Centre (NHSRC) 2007: Autonomous body under MoHFW — technical + knowledge support to NHM. Functions: (1) Policy support: NHM guidelines development (HWC, VHSNC, RKS operational guidelines), (2) Operational research: documentation of innovations, evidence generation, (3) Training: Master trainers, curricula for ASHA, ANM, MOs, (4) PIP (Programme Implementation Plan) technical review, (5) Quality Assurance: LaQshya, NQAS, Kayakalp program design, (6) Community processes: VHSNC, social audit guidelines, (7) HR policy: HRSRC (Human Resources for Health resource centre within NHSRC). State HRCs — State counterparts. NHSRC produces annual reports on community processes, HR for health。"
+  },
+  {
+    "question": "'New Education Policy 2020 (NEP 2020)' और स्वास्थ्य शिक्षा (Health Education) के बीच क्या महत्वपूर्ण संबंध हैं?",
+    "options": [
+      { "text": "NEP 2020 — health education को address नहीं करता", "is_correct": false },
+      { "text": "NEP 2020: Foundational Literacy + Numeracy में health literacy; Vocational education में community health; Medical education — integrated curriculum; School Health Programme linkage; Life Skills education", "is_correct": true },
+      { "text": "NEP 2020 — केवल school education का framework है, health से असंबंधित", "is_correct": false },
+      { "text": "NEP 2020 ने AYUSH को medical curriculum से हटाया", "is_correct": false }
+    ],
+    "explanation": "NEP 2020 and Health Education: (1) Foundational stage (3-8 years): health habits, hygiene, nutrition — integrated in curriculum, (2) Vocational Education: healthcare — community health worker as vocational stream, (3) Higher Education: medical education reform — NMC coordinates, integrated curriculum, (4) School Health Programme (SHP): linkage — annual health checkup, RBSK screening, health record, (5) Life Skills education: mental health, substance abuse prevention, (6) Midday Meal + POSHAN convergence, (7) M.Sc. Public Health, MPH — included in higher education expansion vision, (8) HEO training institutionalized — BSc Community Health, (9) NEP vision: 'holistic development' — physical, mental health integral to education। Significance: HEO role in school health programs strengthened।"
+  },
+  {
+    "question": "भारत में 'Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)' का क्या उद्देश्य है और यह NHM से कैसे भिन्न है?",
+    "options": [
+      { "text": "PM-ABHIM — NHM का ही नया नाम है", "is_correct": false },
+      { "text": "PM-ABHIM (2021, ₹64,180 crore): health infrastructure focus — HWCs, Critical Care blocks, 5000 Urban HWCs, Integrated Public Health Labs, Block/District/National institutions; NHM = service delivery; ABHIM = infrastructure", "is_correct": true },
+      { "text": "PM-ABHIM — केवल rural health infrastructure के लिए है", "is_correct": false },
+      { "text": "PM-ABHIM — insurance scheme है", "is_correct": false }
+    ],
+    "explanation": "PM Ayushman Bharat Health Infrastructure Mission (PM-ABHIM) 2021: Budget ₹64,180 crore (2021-26). Components: (1) 17,788 HWCs (rural) + 11,024 Urban HWCs, (2) Critical Care Hospital Blocks (CCBs) in district hospitals — ICU, OT, NICU, (3) Integrated Public Health Labs (IPHL) in 730 districts, (4) Block Public Health Units (BPHUs) in 3382 blocks, (5) 15 Health Emergency Operation Centres (HEOCs) — pandemic preparedness, (6) National Centre for Disease Control strengthening, (7) WHO SEARO Collaborating Centres. Difference from NHM: NHM = program funds (ASHA wages, drugs, HR); PM-ABHIM = capital infrastructure. Together: NHM provides services in PM-ABHIM-built infrastructure।"
+  },
+  {
+    "question": "भारत में 'WHO-India Country Cooperation Strategy' और SDG health targets में alignment कैसे है?",
+    "options": [
+      { "text": "WHO-India — केवल epidemic response में collaborate करते हैं", "is_correct": false },
+      { "text": "WHO-India CCS: 3 strategic priorities — Universal Health Coverage, Health Security, Healthier Populations; SDG 3 targets mapped; WHO technical support — surveillance, guidelines, training, policy", "is_correct": true },
+      { "text": "India को WHO से कोई technical support नहीं मिलती", "is_correct": false },
+      { "text": "SDG health targets — India ने adopt नहीं किए", "is_correct": false }
+    ],
+    "explanation": "WHO-India Country Cooperation Strategy (CCS 2019-2023, renewed 2024-2028): 3 priorities aligned with WHO Thirteenth General Programme of Work: (1) Universal Health Coverage (UHC) — PM-JAY, HWCs, human resources, (2) Health Security — IDSP, IHR, pandemic preparedness, (3) Healthier Populations — NCD prevention, nutrition, WASH, mental health. SDG 3 alignment: (1) SDG 3.1 MMR <70 (India: 97 per lakh LB, 2020), (2) SDG 3.2 U5MR <25 (India: 32, NFHS-5), (3) SDG 3.3 AIDS/TB/malaria, (4) SDG 3.8 UHC index. WHO role: normative guidance, technical review of programs, emergency response (COVID, outbreak). SEARO (South-East Asia Regional Office) — New Delhi।"
+  },
+  {
+    "question": "भारत में 'State-specific Health Plans (State NHM PIPs)' बनाने की प्रक्रिया और केंद्र-राज्य संबंध में इसकी क्या भूमिका है?",
+    "options": [
+      { "text": "States — Centre के approval के बिना अपने health programs चला सकते हैं", "is_correct": false },
+      { "text": "Annual PIP process: States prepare → District PIPs aggregate → State PIP → National NHM Program Coordination Committee review → approval + fund release; state flexibility within national norms", "is_correct": true },
+      { "text": "PIP — केवल financial document है, programmatic planning नहीं", "is_correct": false },
+      { "text": "PIP — WHO द्वारा approve किया जाता है", "is_correct": false }
+    ],
+    "explanation": "Programme Implementation Plan (PIP) process under NHM: (1) Bottom-up: VHSNC → Gram Panchayat → PHC → Block → District Health Action Plan (DHAP) → State PIP, (2) State PIP contents: epidemiological profile, last year performance, proposed activities, budget, HR plan, (3) National Program Coordination Committee (NPCC) at MoHFW: reviews, negotiates with states, approves, (4) Fund flow: Central share released in installments based on utilization + audit, (5) Flexibility: States can reallocate within approved budget (up to 10-15%), (6) Innovation: States can propose new interventions in 'flexible pool'. Centre-State tension: Center's approval power vs State's right to health planning. NHSRC provides technical support for PIP preparation।"
+  },
+  {
+    "question": "'Positive Deviance (PD) Approach' को भारत में health programs में कैसे लागू किया गया है?",
+    "options": [
+      { "text": "PD Approach — India में use नहीं होता", "is_correct": false },
+      { "text": "PD Approach: community के सफल outliers (positive deviants) की practices identify करना — Rajasthan में malnutrition reduction, VHSNC best practices replication; community-owned solution", "is_correct": true },
+      { "text": "PD — top-down expert-driven intervention है", "is_correct": false },
+      { "text": "PD — Statistical outlier removal technique है", "is_correct": false }
+    ],
+    "explanation": "Positive Deviance (PD) Approach: Sternin concept — find 'positive deviants' (community members who succeed despite same constraints as others). India applications: (1) Rajasthan Nutrition: families with well-nourished children in poor communities — their feeding practices identified and spread, (2) Uttar Pradesh: ASHAs with better immunization coverage — their strategies shared, (3) VHSNC: high-functioning VSHNCs studied and replicated, (4) Bihar: community leaders promoting institutional delivery in conservative areas. Process: (1) Define problem, (2) Discover PD individuals, (3) Inquire PD behaviors, (4) Design community activities to share, (5) Monitor. Advantage: Community ownership, sustainability. Used in NHM community processes documentation (NHSRC)।"
+  },
+  {
+    "question": "भारत में 'Health and Wellness Centres (HWCs)' के transformation में HEO की comprehensive governance भूमिका क्या है?",
+    "options": [
+      { "text": "HWC — केवल clinical service delivery center है", "is_correct": false },
+      { "text": "HEO at HWC: comprehensive primary care 12 service packages, Community Health Officer (CHO) supervision, Jan Arogya Samiti (JAS), VHSNC linkage, HMIS data quality, community outreach, IEC coordination, quality assurance (NQAS)", "is_correct": true },
+      { "text": "HWC — Medical Officer द्वारा ही manage हो सकता है", "is_correct": false },
+      { "text": "HEO — HWC में administrative नहीं बल्कि केवल clinical role है", "is_correct": false }
+    ],
+    "explanation": "HEO's comprehensive role at Health and Wellness Centre (HWC/AB-HWC): (1) Service delivery coordination: 12 CPHC packages (NCDs, maternal, child, palliative, mental health, AYUSH, oral, eye, ENT, emergency), (2) Community Health Officer (CHO — B.Sc. Community Health) supervision, (3) Jan Arogya Samiti (JAS): community governance body — meetings, agenda, minutes, (4) VHSNC: village-level health + sanitation committee — coordinate monthly meetings, village health plan, (5) HMIS data quality: verify entries, correct errors, submit monthly, (6) IEC: Arogya Melas, health camps, mobile health units coordination, (7) NQAS certification: prepare HWC for quality assessment, (8) NCD screening camps: HbP, DM, cancer (CPHC focus), (9) ASHA/AWW coordination: monthly meetings, problem-solving। HEO is the backbone of community health governance।"
+  },
+  {
+    "question": "भारत में 'Epidemic Diseases Amendment Act 2020' ने 1897 के original act में क्या महत्वपूर्ण बदलाव किए?",
+    "options": [
+      { "text": "2020 Amendment — COVID-specific था और expire हो गया", "is_correct": false },
+      { "text": "Epidemic Diseases Amendment Act 2020: healthcare workers पर attacks को criminal offense (imprisonment + fine), gender-neutral 'person' term, Central powers expand — Inspecting Officers; COVID context में enacted", "is_correct": true },
+      { "text": "2020 Amendment ने quarantine powers को cancel किया", "is_correct": false },
+      { "text": "2020 Amendment — State powers बढ़ाई, Central नहीं", "is_correct": false }
+    ],
+    "explanation": "Epidemic Diseases (Amendment) Act 2020: Context: COVID-19, attacks on healthcare workers. Key amendments to 1897 Act: (1) New Section 3A: Protection of healthcare service personnel — attacks, harassment, damage to property → offense, (2) Cognizable and non-bailable offenses: imprisonment 3 months-5 years + fine ₹50,000-2 lakh; grievous hurt: 6 months-7 years, ₹1-5 lakh, (3) Compensation: damage/destruction of property by attacker (2x market value), (4) Central powers: Central Government can also invoke provisions (earlier only state government), (5) Inspecting Officers: Central government can designate, (6) 'Person' gender-neutral. Limitation: Still doesn't have comprehensive health emergency framework — DM Act 2005 + Epidemic Diseases Act 1897 + 2020 remain patchwork।"
+  },
+  {
+    "question": "भारत में 'Health Education Officer (HEO)' की comprehensive political-administrative role में किन क्षमताओं की आवश्यकता है?",
+    "options": [
+      { "text": "HEO — केवल IEC material बनाता है", "is_correct": false },
+      { "text": "HEO: policy analysis (Central-State health laws), program management (NHM, RMNCH+A, NCD), community governance (VHSNC, JAS), inter-departmental coordination, surveillance (IDSP), advocacy, rights-based health approach, data-driven planning", "is_correct": true },
+      { "text": "HEO — clinical treatment भी provide करता है", "is_correct": false },
+      { "text": "HEO — District Collector के under directly काम करता है, CMO के under नहीं", "is_correct": false }
+    ],
+    "explanation": "Health Education Officer (HEO) — comprehensive role synthesis: (1) Policy competencies: understands Constitutional health provisions, NHM framework, DPSP Art. 47, State/Concurrent List, key health Acts (MHCA 2017, RPWD 2016, PCPNDT, COTPA), (2) Program management: NHM PIP process, RMNCH+A, NCD screening, TB program (NIKSHAY), IDSP surveillance, (3) Community governance: VHSNC, JAS, Gram Panchayat coordination, social audit, (4) IEC/BCC: evidence-based communication, SBCC, culturally sensitive messaging, (5) Data: HMIS quality, data analysis, DHAP preparation input, (6) Coordination: AWW, ASHA, PHC staff, Block, District, NGOs, PRIs, (7) Rights-based: address health inequities, SC/ST/PWD/mental health rights, (8) Accountability: RTI compliance, grievance redressal support. HEO = link between community and health system।"
+  },
+  {
+    "question": "भारत में 'National Health Mission' के अंतर्गत 'Village Health, Sanitation and Nutrition Committee (VHSNC)' की संरचना और कार्य क्या हैं?",
+    "options": [
+      { "text": "VHSNC — केवल sanitation का काम करती है", "is_correct": false },
+      { "text": "VHSNC: 15 सदस्य (ward member, ASHA, AWW, educated youth, महिला, SC/ST प्रतिनिधि) — ग्राम स्तरीय स्वास्थ्य योजना, untied fund ₹10,000, जवाबदेही और सामुदायिक स्वास्थ्य निगरानी", "is_correct": true },
+      { "text": "VHSNC — केवल Gram Panchayat सदस्यों से मिलकर बनती है", "is_correct": false },
+      { "text": "VHSNC — District Hospital स्तर पर होती है", "is_correct": false }
+    ],
+    "explanation": "VHSNC (Village Health, Sanitation and Nutrition Committee): NHM 2005 में स्थापित — ग्राम स्तरीय स्वास्थ्य शासन। संरचना: 15 सदस्य — Ward Member (Chairperson), ASHA (Secretary), AWW, शिक्षित युवा, 2 महिला सदस्य, SC/ST प्रतिनिधि, ASHA facilitator। कार्य: (1) Village Health Plan तैयार करना, (2) Untied Fund ₹10,000/year manage करना (VHSNC + Gram Panchayat joint), (3) VHND (Village Health and Nutrition Day) आयोजन, (4) IDSP निगरानी — बीमारी की रिपोर्टिंग, (5) स्वच्छता निरीक्षण, (6) मृत्यु और जन्म पंजीकरण सहायता। NHSRC ने VHSNC operational guidelines जारी की हैं। चुनौतियाँ: नियमित बैठकें नहीं, fund utilization कम, elite capture।"
+  },
+  {
+    "question": "भारत में 'National Tobacco Control Programme (NTCP)' की जिला-स्तरीय implementation में HEO की क्या भूमिका है?",
+    "options": [
+      { "text": "NTCP — केवल IEC posters लगाना है", "is_correct": false },
+      { "text": "NTCP: COTPA enforcement support, Tobacco Cessation Centres (TCC), school-based awareness, quit line (1800-11-2356), data collection (GATS/GYTS), district tobacco cell — HEO इन सबका coordinator है", "is_correct": true },
+      { "text": "NTCP — Police Department द्वारा implement होता है", "is_correct": false },
+      { "text": "NTCP — केवल urban areas में चलता है", "is_correct": false }
+    ],
+    "explanation": "National Tobacco Control Programme (NTCP) 2007-08: District Tobacco Control Cell (DTCC) में HEO की केंद्रीय भूमिका। Components: (1) COTPA 2003 enforcement — 100m school zone, public places ban, labelling — awareness campaign; (2) Tobacco Cessation Centres (TCC): NHM-linked DHs/PHCs में; (3) School programmes: Global Youth Tobacco Survey (GYTS) data, student awareness, (4) IEC: MPOWER strategy के अनुसार — Warning labels, public awareness, (5) Quit Line: 1800-11-2356 (national), (6) GATS (Global Adult Tobacco Survey) data utilization. HEO role: (1) School health programme में tobacco module, (2) Enforcement coordination with police/municipality, (3) Tobacco cessation counselling training for ANMs/ASHAs, (4) District data compilation. India — 1.3 million tobacco-related deaths/year।"
+  },
+  {
+    "question": "भारत में 'National Programme for Non-Communicable Diseases (NP-NCD)' के अंतर्गत कौन-कौन से कार्यक्रम आते हैं और HEO की क्या भूमिका है?",
+    "options": [
+      { "text": "NCD — केवल diabetes और hypertension है", "is_correct": false },
+      { "text": "NP-NCD: NPCDCS (cardiovascular, diabetes, cancer, stroke), NTCP, NACP-NCD, NPCB, NMHP, NPPCD — HEO: community NCD screening camps, CPHC 30+ population screening, data, IEC", "is_correct": true },
+      { "text": "NCD programs — separate से चलते हैं, HEO की role नहीं", "is_correct": false },
+      { "text": "India में NCDs — fully controlled हो गए हैं", "is_correct": false }
+    ],
+    "explanation": "National Programme for Non-Communicable Diseases (NP-NCD) — NHM umbrella: (1) NPCDCS (National Programme for Cancer, Diabetes, CVD and Stroke) — population-based screening, CHO-led at HWC, (2) NTCP (tobacco), (3) NACP (alcohol/substance — NIMHANS), (4) NPCB (National Programme for Control of Blindness — cataract camps), (5) NMHP (mental health), (6) NPPCD (National Programme for Prevention and Control of Deafness). NCD Burden: 60%+ of deaths. CPHC focus: 30+ years population screening — HbP, DM, 3 common cancers (oral, cervical, breast). HEO role: (1) NCD camp planning and execution, (2) CBAC (Community-Based Assessment Checklist) training for ASHA, (3) Referral pathway strengthening, (4) HMIS NCD data quality, (5) IEC on lifestyle modification।"
+  },
+  {
+    "question": "भारत में 'Pradhan Mantri Jan Arogya Yojana (PM-JAY)' के अंतर्गत 'Empanelment' की प्रक्रिया और निजी अस्पतालों की accountability क्या है?",
+    "options": [
+      { "text": "PM-JAY में सभी private hospitals automatically empanelled हैं", "is_correct": false },
+      { "text": "Empanelment: minimum criteria (beds, OT, ICU, specialists), NABH accreditation preferred, SHA/DISHA द्वारा inspection → agreement → TMS (Transaction Management System) में claim; fraud: de-empanelment", "is_correct": true },
+      { "text": "PM-JAY — केवल government hospitals के लिए है", "is_correct": false },
+      { "text": "PM-JAY hospital billing — unregulated private rate पर है", "is_correct": false }
+    ],
+    "explanation": "PM-JAY (Pradhan Mantri Jan Arogya Yojana / Ayushman Bharat) Hospital Empanelment: (1) Criteria: minimum 10 beds (general ward), OT, ICU, specialist doctors — verified by State Health Agency (SHA) or District Implementing Support Agency (DISHA), (2) NABH accreditation — preferably pre-entry or entry-level, (3) Agreement with SHA — rates fixed (package rates, not market rates), (4) Process: application → inspection → empanelment order → IT system (TMS) integration, (5) Claims: cashless — hospital files online, NHA verifies, pays within 15 days, (6) Accountability: fraud detection — random audits, beneficiary verification, anti-fraud unit (National Anti-Fraud Unit — NAFU), (7) Penalty: de-empanelment, recovery, blacklisting. Over 27,000 hospitals empanelled (2024). Package rates defined — hospitals cannot charge more।"
+  },
+  {
+    "question": "भारत में 'Nikshay Poshan Yojana' और TB elimination में DBT का क्या योगदान है?",
+    "options": [
+      { "text": "Nikshay — केवल TB registration portal है", "is_correct": false },
+      { "text": "Nikshay Poshan Yojana (2018): TB patients को ₹500/month nutritional support — DBT directly to account; nutrition → treatment adherence → cure rate; National TB Elimination Programme (2025 target)", "is_correct": true },
+      { "text": "TB treatment — India में सशुल्क है", "is_correct": false },
+      { "text": "Nikshay — private hospitals को monitor नहीं करता", "is_correct": false }
+    ],
+    "explanation": "Nikshay Poshan Yojana (NPY) 2018: TB-nutrition nexus — malnutrition → TB susceptibility; TB → worsening nutrition. DBT: ₹500/month directly to notified TB patient's Aadhaar-linked bank account for duration of treatment. Nikshay portal (nikshay.in): (1) All TB cases (public + private) notified, (2) Treatment tracking, (3) NPY payment status. National TB Elimination Programme (NTEP): Eliminate TB by 2025 (WHO target 2030). Additional support: Ni-kshay Mitra (donor support for food baskets, nutritional supplements). Private sector notification mandatory under PCPNR Act 2013. CBAC: community screening for TB symptoms. Diagnosis: Free NAAT (molecular test) at DR-TB labs. India — 28% of global TB burden। Government provides: free diagnosis, free treatment (FDC — Fixed Dose Combination drugs)।"
+  },
+  {
+    "question": "भारत में 'National Vector Borne Disease Control Programme (NVBDCP)' की governance structure और primary healthcare में इसकी क्या भूमिका है?",
+    "options": [
+      { "text": "NVBDCP — केवल malaria के लिए है", "is_correct": false },
+      { "text": "NVBDCP: malaria, dengue, chikungunya, kala-azar, filaria, JE/AES — integrated vector control; District Malaria Officer; ASHA peripheral surveillance; PHC diagnosis + treatment; National Framework for Malaria Elimination (2027 target)", "is_correct": true },
+      { "text": "Vector-borne diseases — only urban problem", "is_correct": false },
+      { "text": "NVBDCP — WHO द्वारा operate किया जाता है", "is_correct": false }
+    ],
+    "explanation": "National Vector Borne Disease Control Programme (NVBDCP) — NHM component: Diseases covered: (1) Malaria, (2) Dengue + Chikungunya, (3) Kala-azar (Visceral Leishmaniasis), (4) Lymphatic Filariasis (elephantiasis), (5) Japanese Encephalitis/Acute Encephalitis Syndrome (JE/AES). Governance: District Malaria Officer (DMO) → Block level → PHC → ASHA. ASHA role: malaria RDT (Rapid Diagnostic Test), treat Pv malaria (Chloroquine), refer Pf cases. National Framework for Malaria Elimination (NFME) 2016-2030: eliminate by 2027. Kala-azar Elimination: target <1 case/10,000 population at block level. IRS (Indoor Residual Spraying), LLIN (Long Lasting Insecticidal Nets), larval source management. ASHA: fever surveillance, blood slide collection। HEO: IEC on vector control, cooler/container clearance campaigns।"
+  },
+  {
+    "question": "भारत में 'National Programme for Control of Blindness and Visual Impairment (NPCB&VI)' की प्रमुख विशेषताएं और district-level implementation क्या है?",
+    "options": [
+      { "text": "NPCB — केवल cataract surgery तक सीमित है", "is_correct": false },
+      { "text": "NPCB&VI: cataract, refractive error, low vision, diabetic retinopathy, childhood blindness, corneal blindness — District Blindness Control Society (DBCS); mobile ophthalmic units; school screening", "is_correct": true },
+      { "text": "Blindness control — private sector की जिम्मेदारी है", "is_correct": false },
+      { "text": "India में blindness — completely eliminated हो गई है", "is_correct": false }
+    ],
+    "explanation": "National Programme for Control of Blindness and Visual Impairment (NPCB&VI) — NHM component: Causes: cataract (66%), refractive error, corneal blindness, glaucoma, diabetic retinopathy. District Blindness Control Society (DBCS): registered society — similar to RKS model. Key initiatives: (1) Cataract surgeries (target: 7 million/year), (2) School eye screening — RBSK linkage, (3) Free spectacle distribution to children + elderly, (4) Mobile Ophthalmic Units in tribal areas, (5) Diabetic retinopathy screening at NCD clinics, (6) National Blindness Survey (2015-19): blindness 1.99% (reduced from 8.9% in 1971). PPP model: government empanels ophthalmologists, NGO hospitals (Arvind Eye Care, LV Prasad). HEO role: camp organisation, transport, RBSK school screening coordination, cataract camp IEC।"
+  },
+  {
+    "question": "भारत में 'Universal Immunization Programme (UIP)' के Mission Indradhanush 2.0 और 3.0 में क्या नया था?",
+    "options": [
+      { "text": "Mission Indradhanush — 2015 में पूर्ण हो गया था", "is_correct": false },
+      { "text": "MI 2.0 (2019-20): hard-to-reach + urban slum areas में intense focus; MI 3.0 (2021): COVID disruption recovery — 8 new vaccines, ILR (cold chain), eVIN tracking, AEFI monitoring", "is_correct": true },
+      { "text": "MI — केवल polio eradication के लिए था", "is_correct": false },
+      { "text": "UIP में 10 से अधिक vaccines नहीं हैं", "is_correct": false }
+    ],
+    "explanation": "Universal Immunization Programme (UIP) — India 1985 से। Mission Indradhanush (MI) 2014 — 'catch-up' immunization for missed children. MI 2.0 (Intensified, 2019-20): (1) Hard-to-reach, conflict-affected, urban slum areas focus, (2) 272 districts covered, (3) Anti-vaxxer communities. MI 3.0 (2021) — post-COVID recovery: (1) August-October 2021 — 3 rounds, (2) 250 districts, (3) Recovery from COVID disruption (immunization dropped 40% in 2020). New vaccines added to UIP (over years): Rotavirus, IPV, MR (Measles-Rubella), PCV (Pneumococcal Conjugate), MenA, JE. eVIN (Electronic Vaccine Intelligence Network) — real-time cold chain monitoring. AEFI surveillance — Adverse Events Following Immunization. Full immunization: 76.4% (NFHS-5 2021 vs 62% NFHS-4). U-WIN (UIP digital platform) — beneficiary registration।"
+  },
+  {
+    "question": "भारत में 'Adolescent Health Programme — RKSK (Rashtriya Kishor Swasthya Karyakram)' की क्या विशेषताएं हैं और यह पूर्ववर्ती ARSH से कैसे भिन्न है?",
+    "options": [
+      { "text": "RKSK — केवल लड़कियों के लिए है", "is_correct": false },
+      { "text": "RKSK (2014): 10-19 वर्ष (किशोर + किशोरी दोनों), 6 थीम — nutrition, SRHR, mental health, substance abuse, NCDs, injuries; Peer Education model; AFHC; WIFS — ARSH से व्यापक", "is_correct": true },
+      { "text": "RKSK — ARSH का ही दूसरा नाम है", "is_correct": false },
+      { "text": "RKSK — केवल school-based programme है", "is_correct": false }
+    ],
+    "explanation": "Rashtriya Kishor Swasthya Karyakram (RKSK) 2014 — replaces ARSH (Adolescent Reproductive and Sexual Health) 2005. Differences: (1) Coverage: ARSH — 10-19 girls focus; RKSK — both boys and girls 10-19 years, (2) Themes: ARSH — mainly SRHR; RKSK — 6 themes: Nutrition, SRHR (Sexual and Reproductive Health and Rights), Mental health, Substance abuse, NCDs, Non-intentional injuries and violence, (3) Peer Educator model: trained adolescent peers in school and community, (4) AFHC (Adolescent Friendly Health Clinics) at PHC/CHC — counsellor, 1 day/week, (5) WIFS (Weekly Iron and Folic Acid Supplementation) — institutional + community, (6) MHM (Menstrual Hygiene). Out-of-school adolescents also targeted. Adolescent nutrition — a key gap. SABLA → POSHAN Abhiyaan for girls 14-18।"
+  },
+  {
+    "question": "भारत में 'National Programme for Health Care of Elderly (NPHCE)' की क्या आवश्यकता है और primary care में इसे कैसे integrate किया जाता है?",
+    "options": [
+      { "text": "Elderly care — family की जिम्मेदारी, government program नहीं", "is_correct": false },
+      { "text": "NPHCE (2010): 60+ आयु; dedicated OPD in DH/CHC, geriatric ward, home-based elderly care (ASHA), SEHAT (awareness), Regional Geriatric Centres (RGC) — PHC level पर elderly-friendly services", "is_correct": true },
+      { "text": "NPHCE — केवल urban hospitals में है", "is_correct": false },
+      { "text": "India में elderly population — healthcare priority नहीं है", "is_correct": false }
+    ],
+    "explanation": "National Programme for Health Care of Elderly (NPHCE) 2010 (MoHFW): Context: India 104 million elderly (60+); 2050 — 300 million projected. Key features: (1) District Hospital: Geriatric OPD (dedicated weekly day), 10-bed geriatric ward, physiotherapy, (2) CHC: Geriatric day-care, (3) PHC: training of MO and parastaff, (4) Home-based: ASHA visits elderly monthly (HBNC extended), identifies functional decline, (5) SEHAT awareness programme, (6) Regional Geriatric Centres (8 AIIMS + medical colleges) — training + referral, (7) Long-term care: linkage with Ministry of Social Justice schemes (NSAP pension). Challenges: (1) Doctor shortages, (2) No dedicated geriatric cadre, (3) Community isolation. HEO: elderly register maintenance, monthly ASHA visit verification, linkage to social protection schemes।"
+  },
+  {
+    "question": "भारत में 'Pradhan Mantri Matru Vandana Yojana (PMMVY)' की eligibility, benefit और implementation challenges क्या हैं?",
+    "options": [
+      { "text": "PMMVY — सभी mothers को मिलती है, unlimited बच्चों के लिए", "is_correct": false },
+      { "text": "PMMVY (2017): first living child के लिए ₹5000 (3 किस्त — ANC, delivery, 6-month breastfeeding), Aadhaar-DBT; institutional delivery + breastfeeding को incentivize करता है", "is_correct": true },
+      { "text": "PMMVY — केवल BPL महिलाओं के लिए है", "is_correct": false },
+      { "text": "PMMVY — JSY का ही अंग है", "is_correct": false }
+    ],
+    "explanation": "Pradhan Mantri Matru Vandana Yojana (PMMVY) — under PMMVVY Act 2017 (maternity benefit): (1) Beneficiary: all pregnant/lactating women for first living child (19+ years); excludes govt employees with paid maternity leave, (2) Benefit: ₹5000 in 3 installments: ₹1000 (early ANC registration), ₹2000 (after 1 ANC — 6 months), ₹2000 (after 14 weeks + breastfeeding/nutrition counselling), (3) Additional benefit: JSY ₹1000 for institutional delivery → total ₹6000, (4) DBT: Aadhaar-linked bank account, (5) PMMVY-CAS: Common Application Software for tracking. Implementation challenges: (1) Second child excluded (gender imbalance criticism), (2) Aadhaar linkage exclusions, (3) Low awareness, (4) Bank account access. PMMVY 2.0 (2022): second girl child also ₹6000 conditional (incentivize girl child)।"
+  },
+  {
+    "question": "'Janani Shishu Suraksha Karyakram (JSSK)' और 'JSY' के बीच क्या अंतर है और JSSK के तहत क्या entitlements हैं?",
+    "options": [
+      { "text": "JSSK और JSY — एक ही program हैं", "is_correct": false },
+      { "text": "JSY — cash transfer (mother को); JSSK (2011) — cashless entitlement: free delivery, C-section, drugs, diagnostics, diet, blood, transport, newborn services — government hospital में 'zero expense' delivery", "is_correct": true },
+      { "text": "JSSK — private hospitals में भी applicable है", "is_correct": false },
+      { "text": "JSSK — केवल C-section deliveries के लिए है", "is_correct": false }
+    ],
+    "explanation": "Janani Shishu Suraksha Karyakram (JSSK) 2011: Concept — 'zero expense' delivery at government health facility. Entitlements for pregnant women: (1) Free delivery (normal + C-section), (2) Free drugs and consumables, (3) Free diagnostics (blood test, ultrasound), (4) Free blood, (5) Free diet (3 days normal, 7 days C-section), (6) Free transport (home to facility + facility to referral + back home), (7) Free treatment for sick newborn (0-30 days): drugs, diagnostics, diet, blood, transport. JSY vs JSSK: JSY = conditional cash incentive to mother for institutional delivery; JSSK = cashless service guarantee in government hospital. Combined effect: institutional delivery — 89% (NFHS-5 2021). HEO role: JSSK entitlement awareness, IEC, ensuring facilities are stocked with JSSK requirements।"
+  },
+  {
+    "question": "भारत में 'Ayushman Bharat — CPHC (Comprehensive Primary Health Care)' का design क्या है और यह secondary/tertiary care से कैसे link है?",
+    "options": [
+      { "text": "CPHC — केवल sub-centre transformation है", "is_correct": false },
+      { "text": "CPHC: HWC-based 12-service packages + PMJAY referral linkage — preventive + promotive + curative continuum; CHO at HWC, referral to PMJAY-empanelled hospitals — two pillars of Ayushman Bharat", "is_correct": true },
+      { "text": "CPHC — केवल NCD management करता है", "is_correct": false },
+      { "text": "Ayushman Bharat — केवल PM-JAY insurance है", "is_correct": false }
+    ],
+    "explanation": "Ayushman Bharat — Comprehensive Primary Health Care (CPHC): Pillar 1 of Ayushman Bharat scheme. Design: (1) 1,50,000+ Health and Wellness Centres (HWCs) by 2022 — Sub-Centres (SHC-HWCs) and PHC-HWCs, (2) 12 service packages: Maternal health, Child health, Adolescent health, Family Planning, Elderly care, Mental health, Oral health, Eye care, ENT, NCD screening, Palliative, Emergency. Community Health Officer (CHO) — B.Sc. Community Health (2-year bridge course). Linkage with PM-JAY (Pillar 2): referral → empanelled hospital → cashless secondary/tertiary. CPHC → PM-JAY continuum: prevents unnecessary tertiary care, gate-keeping. CPHC benefits: (1) Reduces OOP at primary level, (2) Early NCD detection, (3) Preventive health focus. NHM provides staff, drugs, diagnostics at HWCs।"
+  },
+  {
+    "question": "भारत में 'Central Council of Health and Family Welfare' की क्या भूमिका है और यह health policy में किस प्रकार कार्य करती है?",
+    "options": [
+      { "text": "CCHFW — केवल advisory body है, कोई authority नहीं", "is_correct": false },
+      { "text": "CCHFW (अनुच्छेद — non-constitutional, statutory/convention): health policy सिफारिशें, National Health Policy draft करती है, Centre-State health coordination — health ministers' conference", "is_correct": true },
+      { "text": "CCHFW — Parliament द्वारा directly run होती है", "is_correct": false },
+      { "text": "CCHFW — constitutional body है जैसे Finance Commission", "is_correct": false }
+    ],
+    "explanation": "Central Council of Health and Family Welfare (CCHFW): Established under Section 3 of the Pharmacy Act 1948 and reconstituted by Resolution. Not a constitutional body — statutory convention body. Composition: Union Health Minister (Chairman), State Health Ministers, Chief Ministers (optional), technical experts. Functions: (1) National Health Policy formulation recommendations (NHP 1983, 2002, 2017), (2) Coordination of health policies between Centre and States, (3) Minimum standards — medical education, essential services, (4) Recommendations on legislation. Meets periodically (ideally annually, but irregular). Distinct from ICMR (research), NMC (medical education), MCI (replaced). Health Ministers' Conference — equivalent consultative forum. CCHFW recommendations → Cabinet for NHP approval।"
+  },
+  {
+    "question": "भारत में 'National Health Accounts (NHA)' framework क्या है और यह health financing policy में कैसे उपयोगी है?",
+    "options": [
+      { "text": "NHA — केवल government health expenditure account है", "is_correct": false },
+      { "text": "NHA (System of Health Accounts 2011): सभी health financing flows — government, private, OOP, insurance, donor; Total Health Expenditure (THE) और OOP tracking; India 2019-20: THE 1.96% GDP — policy baseline", "is_correct": true },
+      { "text": "NHA — IMF द्वारा prepare की जाती है", "is_correct": false },
+      { "text": "NHA — केवल hospitalisation expenditure count करती है", "is_correct": false }
+    ],
+    "explanation": "National Health Accounts (NHA) — India: Follows SHA 2011 (System of Health Accounts) — WHO/OECD/Eurostat framework. Prepared by: National Health Accounts Technical Secretariat (NHATS) under MoHFW. Key metrics: (1) Total Health Expenditure (THE) as % of GDP: India 2019-20 — 1.96% (goal 2.5%), (2) Government Health Expenditure (GHE) as % of THE: 41.3%, (3) Out-of-Pocket Expenditure (OOPE): 47.1% of THE (reducing — was 62% in 2015-16), (4) External Aid: <1%. Policy relevance: (1) Monitors progress toward 2.5% GDP target (NHP 2017), (2) Tracks OOP reduction (OOPE reduction → UHC progress), (3) Guides budget allocations, (4) 15th Finance Commission condition: states must publish NHA. State Health Accounts (SHA) also developed।"
+  },
+  {
+    "question": "भारत में 'IPC Section 312-316' (गर्भपात संबंधी धाराएं) और 'MTP Act 1971 Amendment 2021' के बीच क्या संबंध है?",
+    "options": [
+      { "text": "IPC और MTP Act — विरोधाभासी हैं और दोनों साथ apply नहीं होते", "is_correct": false },
+      { "text": "IPC 312-316: abortion — criminal; MTP Act 1971 provides legal exceptions — medical termination conditions; 2021 Amendment: 24 weeks limit, unmarried women included, MTP Boards for special cases", "is_correct": true },
+      { "text": "MTP Act 2021 — abortion को fully decriminalized किया", "is_correct": false },
+      { "text": "IPC 312 — MTP Act के बाद repeal हो गई", "is_correct": false }
+    ],
+    "explanation": "IPC and Abortion: IPC Sections 312-316 — abortion = criminal offense (with exceptions). MTP Act 1971 (Medical Termination of Pregnancy) creates legal space: abortion permitted if: (1) Pregnancy endangers life/physical/mental health, (2) Contraceptive failure (married women initially, now all women), (3) Fetal abnormality. MTP Amendment Act 2021: Key changes: (1) Gestational limit: 20 weeks → 24 weeks for special categories (rape survivors, differently abled, minors), (2) Single-doctor opinion: up to 20 weeks (was 12 weeks), (3) Unmarried women also included for contraceptive failure clause, (4) Medical Boards: for >24 weeks cases (fetal abnormality), (5) Confidentiality: providers cannot reveal identity. IPC 312 still exists — not repealed — MTP Act provides exception. Reproductive rights — Art. 21 (privacy judgment)।"
+  },
+  {
+    "question": "भारत में 'Pre-Conception and Pre-Natal Diagnostic Techniques Act 1994 (PCPNDT Act)' का enforcement mechanism और sex ratio at birth में इसका क्या प्रभाव है?",
+    "options": [
+      { "text": "PCPNDT Act — sex selective abortion को पूरी तरह रोकने में सफल रहा है", "is_correct": false },
+      { "text": "PCPNDT Act: ultrasound machines registration + form F + monitoring board; 2003 Amendment: portable machines covered; Beti Bachao Beti Padhao convergence; SRB improvement — limited but visible (919 to 934 NFHS-5)", "is_correct": true },
+      { "text": "PCPNDT Act — sex determination को legal बनाता है", "is_correct": false },
+      { "text": "PCPNDT Act — DNA testing को regulate करता है", "is_correct": false }
+    ],
+    "explanation": "PCPNDT Act 1994 (Pre-Conception and Pre-Natal Diagnostic Techniques Act): Prevents sex-selective abortion through regulation of diagnostic techniques. Provisions: (1) Registration of all genetic centres, ultrasound clinics, (2) Form F: mandatory record of every procedure, (3) Prohibition: revealing sex of fetus — criminal offense (3-5 years imprisonment), (4) Appropriate Authority at District, State, National level, (5) 2003 Amendment: covered pre-conception sex selection, portable ultrasound machines. Monitoring: Decoy operations (fake patient sting), 'Save the Girl Child' campaigns. Challenges: (1) Under-enforcement (Appropriate Authority capacity), (2) Portable machine regulation weak, (3) Prenatal determination in private rooms. SRB (Sex Ratio at Birth): 918 (Census 2011) → 934 (NFHS-5 2021) — improvement but gap remains (ideal: 950+). Beti Bachao Beti Padhao (2015) — convergence with PCPNDT enforcement।"
+  },
+  {
+    "question": "भारत में 'Rashtriya Bal Swasthya Karyakram (RBSK)' के 4D screening approach और district-level implementation क्या है?",
+    "options": [
+      { "text": "RBSK — केवल newborn screening है", "is_correct": false },
+      { "text": "RBSK (2013): 0-18 years — 4Ds (Defects at birth, Diseases, Deficiencies, Developmental delays/disabilities) — Mobile Health Teams (MHT) at school/AWC; early intervention; District Early Intervention Centre (DEIC)", "is_correct": true },
+      { "text": "RBSK — private schools में compulsory है", "is_correct": false },
+      { "text": "RBSK — केवल 0-6 years के लिए है", "is_correct": false }
+    ],
+    "explanation": "Rashtriya Bal Swasthya Karyakram (RBSK) 2013 — Child Health Screening and Early Intervention: Target: 0-18 years (0-6 at AWC, 6-18 at school). 4D approach: (1) Defects at birth (congenital heart disease, cleft lip/palate, NTDs, talipes, developmental dysplasia of hip), (2) Diseases (sickle cell, TB, dental caries, vision, hearing), (3) Deficiencies (malnutrition, anemia, IDD, Vitamin D), (4) Developmental delays/disabilities (autism, ADHD, cerebral palsy, learning disability). Mobile Health Teams (MHT): 2 AYUSH doctors + pharmacist + ANM + vision technician — school visits. DEIC (District Early Intervention Centre): specialist referral point. Free treatment for detected conditions (PM-JAY convergence for high-cost conditions). HEO: MHT coordination, school-AWC scheduling, DEIC referral management।"
+  },
+  {
+    "question": "भारत में 'Health and Wellness Centre' पर तैनात 'Community Health Officer (CHO)' की क्या योग्यता और अधिकार हैं?",
+    "options": [
+      { "text": "CHO — MBBS doctor होते हैं", "is_correct": false },
+      { "text": "CHO: B.Sc. Community Health (2-year bridge course) graduates — 12-package CPHC delivery, limited prescribing rights for common ailments, NCD screening, ASHA supervision — HWC को functionally upgrade करते हैं", "is_correct": true },
+      { "text": "CHO — ANM का ही दूसरा designation है", "is_correct": false },
+      { "text": "CHO — केवल NHM के data entry करते हैं", "is_correct": false }
+    ],
+    "explanation": "Community Health Officer (CHO): New cadre under Ayushman Bharat CPHC. Qualification: B.Sc. Community Health — 2-year bridge course (developed by NMC/NHSRC) — diploma/BSc science graduates eligible. Training institutions: Community Health Provider programme. Scope of practice: (1) 12 CPHC service packages delivery, (2) Limited prescribing: common ailments (ORS, paracetamol, OCP, iron-folic acid, antibiotics for RTI, etc.) — under supervision protocol, (3) NCD screening: CBAC, hypertension/diabetes protocol, (4) ASHA supervision and mentoring, (5) HMIS data entry and quality, (6) Jan Arogya Samiti (JAS) secretariat support, (7) Teleconsultation facilitation. Controversy: IMA opposed prescribing rights — 'backdoor MBBS.' States deploying: HP, Chhattisgarh, UP, Assam. Shortage of doctors → CHO as solution।"
+  },
+  {
+    "question": "भारत में 'National Nutrition Mission (POSHAN Abhiyaan) 2.0' में क्या बदलाव किए गए और 'Poshan Tracker' की क्या भूमिका है?",
+    "options": [
+      { "text": "POSHAN Abhiyaan 2.0 — 1.0 से identical है", "is_correct": false },
+      { "text": "POSHAN 2.0 (2021): ICDS + PMMVY + anganwadi services merge; Poshan Tracker app — AWW real-time growth monitoring; beneficiary-centric; adolescent girls (SAG) added; diet diversity focus", "is_correct": true },
+      { "text": "POSHAN 2.0 — केवल WCD Ministry का program है, health ministry का नहीं", "is_correct": false },
+      { "text": "Poshan Tracker — government employees के लिए nutrition app है", "is_correct": false }
+    ],
+    "explanation": "POSHAN Abhiyaan 2.0 (2021-26): Merges: (1) Integrated Child Development Services (ICDS), (2) PM Matru Vandana Yojana (PMMVY), (3) Anganwadi Services — into unified scheme. New elements: (1) Adolescent Girls (SAG) — 14-18 years, out-of-school: nutrition, health, life skills at Anganwadi, (2) Diet Diversity: beyond just calories — micronutrient-rich foods, (3) Poshan Tracker App: replaces ICDS-CAS — AWW records weight, height, MUAC on mobile, real-time dashboard, (4) Poshan Maah (September) + Poshan Pakhwada (15 days), (5) Convergence: 8 ministries. Targets: reduce stunting 2%/year, wasting 2%/year, anemia 3%/year. NFHS-5: stunting 35.5%, wasting 19.3%, anemia 67% in children <5 — still high。 HEO: POSHAN Maah activities, AWC visits, VHND linkage।"
+  },
+  {
+    "question": "भारत में 'National Urban Health Mission (NUHM)' की क्या आवश्यकता थी और urban slum health governance में इसका क्या योगदान है?",
+    "options": [
+      { "text": "Urban health — केवल private sector की जिम्मेदारी है", "is_correct": false },
+      { "text": "NUHM (2013): शहरी गरीबों, slum dwellers के लिए — Urban Health Resource Centres (UHRC), ANM + ASHA (Urban ASHA/MAHILA AROGYA SAMITI), Mohalla Clinic concept, ULB-health integration", "is_correct": true },
+      { "text": "NUHM — NHM में merge होने के बाद बंद हो गया", "is_correct": false },
+      { "text": "NUHM — केवल metro cities के लिए है", "is_correct": false }
+    ],
+    "explanation": "National Urban Health Mission (NUHM) 2013: Context — rapid urbanization; urban poor/slum dwellers face double burden (communicable + NCD) but excluded from rural NHM. Merged into NHM 2014 as urban component. Key features: (1) Urban Health Resource Centres (UHRC) — equivalent to Sub-Centre in urban slum area, (2) Urban ASHA/Link Worker: community mobilizer in slum, (3) Mahila Arogya Samiti (MAS): urban equivalent of VHSNC, (4) Target: cities with >50,000 population, (5) ULB (Urban Local Bodies) role: health service delivery, (6) Delhi's Mohalla Clinics (2015) — inspired by NUHM PHC model. Challenges: (1) Floating population (migrants), (2) ULB capacity, (3) Coordination between municipal health and state NHM, (4) Urban ASHA payment regularity. HEO in urban context: slum health mapping, MAS activation, IEC in migrant communities।"
+  },
+  {
+    "question": "भारत में 'Pradhan Mantri TB Mukt Bharat Abhiyaan' और 'Ni-kshay Mitra' initiative क्या है?",
+    "options": [
+      { "text": "यह TB patients को निःशुल्क hospitalize करने की scheme है", "is_correct": false },
+      { "text": "PM TB Mukt Bharat Abhiyaan (2022): individuals/organisations (Ni-kshay Mitras) — TB patients को nutritional, diagnostic, vocational support adopt करें; community participation through elected representatives, corporates, NGOs", "is_correct": true },
+      { "text": "Ni-kshay Mitra — ASHA workers का दूसरा नाम है", "is_correct": false },
+      { "text": "PM TB Mukt Bharat — केवल MDR-TB patients के लिए है", "is_correct": false }
+    ],
+    "explanation": "Pradhan Mantri TB Mukt Bharat Abhiyaan (2022, launched September 9): India's 2025 TB elimination goal requires community participation. Ni-kshay Mitra concept: (1) Donors (individuals, NGOs, corporates, elected representatives) adopt TB patients — minimum 1 TB patient for 1 treatment period, (2) Support provided: nutritional support (food basket ₹500-1000/month), diagnostics, vocational training, emotional support, (3) Ni-kshay portal integration — donor-patient matching, (4) Target: engage MPs (adopt district), MLAs (block), gram panchayat heads. Connection with Nikshay Poshan Yojana: NPY gives govt cash (₹500/month); Ni-kshay Mitra provides community support additionally. Political dimensions: elected representatives take ownership. HEO role: coordinate Ni-kshay Mitra program in district, organize adoption events।"
+  },
+  {
+    "question": "भारत में 'ASHA programme' की national-level governance और 'ASHA Mentoring Group' की क्या भूमिका है?",
+    "options": [
+      { "text": "ASHA — केवल state governments द्वारा manage होती हैं", "is_correct": false },
+      { "text": "MoHFW — ASHA national guidelines, incentive structure; State — recruitment, training, deployment; NHSRC ASHA Resource Centre — technical support; ASHA Mentoring Group — quality improvement, interstate learning", "is_correct": true },
+      { "text": "WHO — ASHA program को design किया था", "is_correct": false },
+      { "text": "ASHA — district hospitals में तैनात होती हैं", "is_correct": false }
+    ],
+    "explanation": "ASHA Governance Structure: (1) National Level: MoHFW — ASHA guidelines (selection, training, incentives), NHSRC (ASHA Resource Centre — ARC): technical support, training materials, documentation, (2) State Level: State Health Society — recruitment (1 ASHA/1000 population in rural areas), deployment, training calendar, incentive payment, (3) District Level: CMO office — ASHA training, monthly meetings, incentive processing, (4) Block Level: ASHA facilitator (1 per 20 ASHAs) — mentoring, problem-solving, (5) Village Level: ASHA — VHSNC Secretary, community mobilization. ASHA Mentoring Group (National): (1) Annual conference of state ASHA program managers, (2) Interstate learning, best practices, (3) NHSRC facilitation, (4) Guidelines revision. Data: 1.02 million ASHAs (2023). Quality: annual ASHA survey (NHSRC)。"
+  },
+  {
+    "question": "भारत में 'Digital Health' policy framework — 'National Digital Health Mission (ABDM)' के चार building blocks क्या हैं और इनकी health governance में क्या भूमिका है?",
+    "options": [
+      { "text": "ABDM — केवल Ayushman Bharat health insurance का digital platform है", "is_correct": false },
+      { "text": "ABDM (2021): ABHA (health ID), Health Facility Registry, Healthcare Professional Registry, Health Claims Exchange — unified digital health ecosystem; interoperability, portability, patient-centricity", "is_correct": true },
+      { "text": "ABDM — केवल government hospitals के लिए है", "is_correct": false },
+      { "text": "Digital health — India में अभी प्रारंभिक चरण में भी नहीं है", "is_correct": false }
+    ],
+    "explanation": "Ayushman Bharat Digital Mission (ABDM) 2021 — National Health Authority: Building blocks: (1) ABHA (Ayushman Bharat Health Account) — unique 14-digit Health ID for every citizen — links all health records, (2) Health Facility Registry (HFR) — all public + private health facilities digitally registered with unique ID, (3) Healthcare Professional Registry (HPR) — all doctors, nurses, paramedics digitally registered (linked to ABHA), (4) Health Claims Exchange (HCX) — interoperable insurance claim processing. Additional: PHR (Personal Health Records) app — patient controls own records. Interoperability: ABHA links records across providers — physician change — continuity of care. Privacy: Data Protection Bill alignment. NHP 2017 — digital health envisioned. COVID vaccination (CoWIN) → early ABDM precursor। HEO: ABHA enrollment camps, facility registration support, HFR verification।"
+  },
+  {
+    "question": "भारत में 'Mission Parivar Vikas (MPV)' किन जिलों में और क्यों लागू किया गया और इसकी प्रमुख रणनीतियाँ क्या हैं?",
+    "options": [
+      { "text": "Mission Parivar Vikas — पूरे भारत में equally apply होता है", "is_correct": false },
+      { "text": "MPV (2016): 7 high-TFR states (UP, Bihar, MP, Rajasthan, Chhattisgarh, Jharkhand, Assam) के 146 जिले — contraceptive basket विस्तार, नई contraceptive methods (injectable, centchroman), ASHA प्रोत्साहन, नवदम्पति सम्पर्क", "is_correct": true },
+      { "text": "MPV — compulsory family planning scheme है", "is_correct": false },
+      { "text": "MPV — केवल urban couples के लिए है", "is_correct": false }
+    ],
+    "explanation": "Mission Parivar Vikas (MPV) 2016 (MoHFW): Context — India's TFR 2.0 (national average 2021) but 7 states still above replacement (TFR 3+). Target: 146 high-TFR districts in 7 states (UP, Bihar, MP, Rajasthan, Chhattisgarh, Jharkhand, Assam). Strategies: (1) Expanded contraceptive basket: injectable contraceptive (Antara — MPA, 3-monthly injection), Centchroman (Chhaya — weekly pill), condoms, IUCDs, OCPs — all free at PHC, (2) Naya Saathi: new entrant contraceptive counsellor, (3) ASHA incentives for contraceptive uptake, (4) Nayi Pahel Kit: newlywed couple welcome kit (contraceptives + information), (5) Saas Bahu Sammelans: mother-in-law + daughter-in-law meetings for family planning awareness, (6) Contraceptive sabbatical: improving quality, reducing sterilization dependence. Key principle: rights-based, target-free, voluntary — NPP 2000 framework। HMIS tracking of modern contraceptive prevalence rate (mCPR)।"
+  }
+]

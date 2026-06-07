@@ -1,0 +1,572 @@
+[
+  {
+    "question": "नृशास्त्र (Anthropology) की कितनी प्रमुख शाखाएं हैं?",
+    "options": [
+      { "text": "चार — भौतिक, सांस्कृतिक, पुरातत्व और भाषाई", "is_correct": true },
+      { "text": "दो — भौतिक और सांस्कृतिक", "is_correct": false },
+      { "text": "तीन — भौतिक, सांस्कृतिक और पुरातत्व", "is_correct": false },
+      { "text": "पाँच", "is_correct": false }
+    ],
+    "explanation": "आधुनिक नृशास्त्र की चार प्रमुख शाखाएं हैं: (1) Physical/Biological Anthropology — मानव जैव-विकास, (2) Cultural Anthropology — समाज और संस्कृति, (3) Archaeology — भौतिक अवशेष, (4) Linguistic Anthropology — भाषा और संस्कृति।"
+  },
+  {
+    "question": "जनजाति (Tribe) की प्रमुख विशेषता क्या है?",
+    "options": [
+      { "text": "साझा भूभाग, भाषा, संस्कृति और साझा नेतृत्व", "is_correct": true },
+      { "text": "केवल धर्म की साझेदारी", "is_correct": false },
+      { "text": "केवल भाषाई एकता", "is_correct": false },
+      { "text": "राज्य के नियंत्रण में रहना", "is_correct": false }
+    ],
+    "explanation": "Tribe की विशेषताएं: साझा भूभाग (Territory), साझा भाषा, साझा संस्कृति और परंपरा, स्वतंत्र नेतृत्व (Chief/Elder), बंद सामाजिक संगठन और प्रकृति से गहरा जुड़ाव।"
+  },
+  {
+    "question": "'Totemism' (टोटेमवाद) क्या है?",
+    "options": [
+      { "text": "किसी प्राणी या वस्तु को सामाजिक समूह का प्रतीक और पवित्र मानना", "is_correct": true },
+      { "text": "पूर्वजों की पूजा", "is_correct": false },
+      { "text": "प्रकृति शक्तियों की पूजा", "is_correct": false },
+      { "text": "मूर्ति पूजा", "is_correct": false }
+    ],
+    "explanation": "Totemism में एक समूह (clan) कोई पशु, पौधा या प्राकृतिक वस्तु को अपना Totem मानता है। वे उसे अपना पूर्वज या रक्षक मानते हैं। दुर्खीम ने Totemism को धर्म का आदिम रूप माना।"
+  },
+  {
+    "question": "नृशास्त्र में 'Field Work' (क्षेत्र कार्य) का क्या महत्व है?",
+    "options": [
+      { "text": "समुदाय के साथ रहकर उनकी संस्कृति को प्रत्यक्ष अनुभव से समझना", "is_correct": true },
+      { "text": "केवल पुस्तकों से अध्ययन करना", "is_correct": false },
+      { "text": "केवल सर्वेक्षण प्रश्नावली भरना", "is_correct": false },
+      { "text": "प्रयोगशाला में प्रयोग करना", "is_correct": false }
+    ],
+    "explanation": "Field Work नृशास्त्र की मूल शोध पद्धति है। Bronisław Malinowski ने Trobriand Islands (1914-18) में Participant Observation पद्धति विकसित की। इसमें शोधकर्ता समुदाय के साथ दीर्घकाल तक रहता है।"
+  },
+  {
+    "question": "भारत में 'अनुसूचित जनजाति' (Scheduled Tribe) की कुल जनसंख्या लगभग कितनी है (2011 जनगणना)?",
+    "options": [
+      { "text": "लगभग 10 करोड़ (8.6% कुल जनसंख्या)", "is_correct": true },
+      { "text": "लगभग 2 करोड़", "is_correct": false },
+      { "text": "लगभग 20 करोड़", "is_correct": false },
+      { "text": "लगभग 5 करोड़", "is_correct": false }
+    ],
+    "explanation": "2011 जनगणना के अनुसार भारत में अनुसूचित जनजाति (ST) की जनसंख्या 10.42 करोड़ (8.6%) थी। भारत में 700+ जनजातीय समूह हैं। ओडिशा, झारखंड और मध्य प्रदेश में सर्वाधिक जनजातीय जनसंख्या है।"
+  },
+  {
+    "question": "'Exogamy' (बहिर्विवाह) का क्या अर्थ है?",
+    "options": [
+      { "text": "अपने सामाजिक समूह (clan/gotra) के बाहर विवाह करना", "is_correct": true },
+      { "text": "अपने समूह के भीतर विवाह करना", "is_correct": false },
+      { "text": "एक से अधिक पत्नियाँ रखना", "is_correct": false },
+      { "text": "विवाह न करना", "is_correct": false }
+    ],
+    "explanation": "Exogamy = अपने clan, gotra या tribe के बाहर विवाह। Endogamy = अपने समूह के भीतर विवाह। भारत में हिंदू समाज में Gotra Exogamy और Caste Endogamy दोनों प्रचलित हैं।"
+  },
+  {
+    "question": "सांस्कृतिक सापेक्षवाद (Cultural Relativism) क्या है?",
+    "options": [
+      { "text": "प्रत्येक संस्कृति को उसके अपने मानदंडों और संदर्भ में समझना", "is_correct": true },
+      { "text": "सभी संस्कृतियाँ एक समान हैं", "is_correct": false },
+      { "text": "पश्चिमी संस्कृति श्रेष्ठ है", "is_correct": false },
+      { "text": "कोई भी संस्कृति मूल्यवान नहीं है", "is_correct": false }
+    ],
+    "explanation": "Cultural Relativism (Franz Boas) का सिद्धांत: किसी संस्कृति के रीति-रिवाज, विश्वास और मूल्यों को उसी संस्कृति के संदर्भ में समझना चाहिए, न कि बाहरी मानकों से। इसका विपरीत Ethnocentrism है।"
+  },
+  {
+    "question": "भारत में सबसे बड़ी जनजाति कौन सी है?",
+    "options": [
+      { "text": "गोंड (Gond)", "is_correct": true },
+      { "text": "मुंडा", "is_correct": false },
+      { "text": "संथाल", "is_correct": false },
+      { "text": "भील", "is_correct": false }
+    ],
+    "explanation": "गोंड भारत की सबसे बड़ी जनजाति है जो मुख्यतः मध्य प्रदेश, छत्तीसगढ़, महाराष्ट्र, तेलंगाना और ओडिशा में निवास करती है। इनकी जनसंख्या 1.2 करोड़ से अधिक है।"
+  },
+  {
+    "question": "'मिथक' (Myth) का नृशास्त्रीय महत्व क्या है?",
+    "options": [
+      { "text": "मिथक समाज के मूल्यों, विश्वदृष्टि और सामाजिक व्यवस्था को explain और legitimize करता है", "is_correct": true },
+      { "text": "मिथक केवल झूठी कहानियाँ हैं", "is_correct": false },
+      { "text": "मिथक केवल धर्म से संबंधित हैं", "is_correct": false },
+      { "text": "मिथक का कोई सामाजिक कार्य नहीं", "is_correct": false }
+    ],
+    "explanation": "Myth (पुराकथा) समाज की उत्पत्ति, प्रकृति व्यवस्था और नैतिक मानकों को explain करता है। Levi-Strauss ने Structural Analysis of Myths में बताया कि myths binary oppositions (nature/culture, life/death) को resolve करते हैं।"
+  },
+  {
+    "question": "नृशास्त्र में 'Participant Observation' पद्धति किसने विकसित की?",
+    "options": [
+      { "text": "Bronisław Malinowski", "is_correct": true },
+      { "text": "Franz Boas", "is_correct": false },
+      { "text": "Margaret Mead", "is_correct": false },
+      { "text": "Claude Lévi-Strauss", "is_correct": false }
+    ],
+    "explanation": "Bronisław Malinowski (1884-1942) ने Trobriand Islands (Papua New Guinea) में Participant Observation पद्धति विकसित की। वे 4 वर्षों तक वहाँ रहे और 'Argonauts of the Western Pacific' (1922) लिखी।"
+  },
+  {
+    "question": "'Polyandry' (बहुपतित्व) का क्या अर्थ है?",
+    "options": [
+      { "text": "एक महिला के एक से अधिक पति", "is_correct": true },
+      { "text": "एक पुरुष की एक से अधिक पत्नियाँ", "is_correct": false },
+      { "text": "सामूहिक विवाह", "is_correct": false },
+      { "text": "विवाह का अभाव", "is_correct": false }
+    ],
+    "explanation": "Polyandry में एक महिला एक साथ एक से अधिक पुरुषों से विवाहित होती है। भारत में यह Toda (तमिलनाडु), Jaunsari (उत्तराखंड) और Himalayan क्षेत्र की कुछ जनजातियों में पाया जाता है।"
+  },
+  {
+    "question": "भारत में 'वन अधिकार अधिनियम (FRA) 2006' किन समुदायों के लिए है?",
+    "options": [
+      { "text": "अनुसूचित जनजाति और वन-निर्भर समुदाय", "is_correct": true },
+      { "text": "केवल अनुसूचित जाति", "is_correct": false },
+      { "text": "केवल पहाड़ी समुदाय", "is_correct": false },
+      { "text": "सभी ग्रामीण", "is_correct": false }
+    ],
+    "explanation": "FRA 2006 (Forest Rights Act) वन क्षेत्रों में रहने वाली अनुसूचित जनजातियों और अन्य पारंपरिक वन-निर्भर समुदायों को वन भूमि पर निवास, खेती और वन उत्पाद संग्रह का अधिकार देता है।"
+  },
+  {
+    "question": "'संस्कृति' (Culture) की परिभाषा E.B. Tylor के अनुसार क्या है?",
+    "options": [
+      { "text": "वह जटिल समग्रता जिसमें ज्ञान, विश्वास, कला, नैतिकता, कानून और समाज के सदस्य के रूप में अर्जित आदतें शामिल हैं", "is_correct": true },
+      { "text": "केवल कला और संगीत", "is_correct": false },
+      { "text": "केवल धार्मिक विश्वास", "is_correct": false },
+      { "text": "केवल भाषा", "is_correct": false }
+    ],
+    "explanation": "E.B. Tylor ने 1871 में 'Primitive Culture' में संस्कृति की पहली वैज्ञानिक परिभाषा दी: 'That complex whole which includes knowledge, belief, art, law, morals, custom, and any other capabilities and habits acquired by man as a member of society.''"
+  },
+  {
+    "question": "मध्य भारत में 'बस्तर' क्षेत्र किस कारण नृशास्त्रीय दृष्टि से महत्वपूर्ण है?",
+    "options": [
+      { "text": "गोंड, मुरिया और माड़िया जैसी अनेक जनजातियों की विविधता और घोटुल संस्था", "is_correct": true },
+      { "text": "केवल खनिज संसाधनों के कारण", "is_correct": false },
+      { "text": "केवल पर्यटन के कारण", "is_correct": false },
+      { "text": "बौद्ध मठों के कारण", "is_correct": false }
+    ],
+    "explanation": "बस्तर (छत्तीसगढ़) में गोंड, मुरिया, माड़िया, धुरवा जनजातियाँ निवास करती हैं। मुरिया जनजाति की 'घोटुल' (युवागृह) संस्था नृशास्त्रीय दृष्टि से विशेष महत्वपूर्ण है। Verrier Elwin ने यहाँ व्यापक शोध किया।"
+  },
+  {
+    "question": "नृशास्त्र में 'Diffusion' (प्रसार) का क्या अर्थ है?",
+    "options": [
+      { "text": "एक संस्कृति से दूसरी संस्कृति में सांस्कृतिक तत्वों का प्रसार", "is_correct": true },
+      { "text": "समाज का बिखरना", "is_correct": false },
+      { "text": "जनसंख्या का विस्तार", "is_correct": false },
+      { "text": "भाषा का विकास", "is_correct": false }
+    ],
+    "explanation": "Cultural Diffusion: जब एक संस्कृति के तत्व (तकनीक, धर्म, भाषा, भोजन) संपर्क, व्यापार, प्रवासन या मीडिया के माध्यम से अन्य संस्कृतियों में प्रसारित होते हैं।"
+  },
+  {
+    "question": "भारत में 'PESA Act 1996' किससे संबंधित है?",
+    "options": [
+      { "text": "जनजातीय क्षेत्रों में ग्राम सभा को स्वशासन का अधिकार", "is_correct": true },
+      { "text": "अनुसूचित जातियों का आरक्षण", "is_correct": false },
+      { "text": "वन अधिकार", "is_correct": false },
+      { "text": "महिला आरक्षण", "is_correct": false }
+    ],
+    "explanation": "PESA (Panchayats Extension to Scheduled Areas) Act 1996 पाँचवीं अनुसूची के जनजातीय क्षेत्रों में ग्राम सभा को परंपरागत संसाधनों, भूमि और स्थानीय विकास पर निर्णय का अधिकार देता है।"
+  },
+  {
+    "question": "'Animism' (सर्वात्मवाद) क्या है?",
+    "options": [
+      { "text": "सभी प्राकृतिक वस्तुओं में आत्मा या जीवन शक्ति की मान्यता", "is_correct": true },
+      { "text": "एकेश्वरवाद", "is_correct": false },
+      { "text": "मूर्ति पूजा", "is_correct": false },
+      { "text": "बहुदेववाद", "is_correct": false }
+    ],
+    "explanation": "Animism (E.B. Tylor, 1871) — धर्म का आदिम रूप जिसमें नदी, पहाड़, पेड़, पत्थर सभी में आत्मा की मान्यता होती है। भारतीय जनजातियों में Animism के अनेक रूप पाए जाते हैं।"
+  },
+  {
+    "question": "नृशास्त्र में 'Ethnography' (नृजातिवर्णन) क्या है?",
+    "options": [
+      { "text": "किसी समुदाय की संस्कृति का विस्तृत लिखित विवरण/अध्ययन", "is_correct": true },
+      { "text": "जनसंख्या गणना", "is_correct": false },
+      { "text": "इतिहास का लेखन", "is_correct": false },
+      { "text": "मानव जीवाश्म का अध्ययन", "is_correct": false }
+    ],
+    "explanation": "Ethnography किसी समुदाय की संस्कृति, सामाजिक संगठन, रीति-रिवाज, भाषा और जीवन पद्धति का दीर्घकालिक field work के आधार पर विस्तृत लिखित विवरण है।"
+  },
+  {
+    "question": "भारत में Verrier Elwin किस क्षेत्र में विशेष रूप से जाने जाते हैं?",
+    "options": [
+      { "text": "मध्य भारत की जनजातियों के नृशास्त्रीय अध्ययन", "is_correct": true },
+      { "text": "भाषाई नृशास्त्र", "is_correct": false },
+      { "text": "भौतिक नृशास्त्र", "is_correct": false },
+      { "text": "पुरातत्व", "is_correct": false }
+    ],
+    "explanation": "Verrier Elwin (1902-1964) ब्रिटिश-भारतीय नृशास्त्री थे जिन्होंने Baiga, Agaria, Muria और NEFA (आज का Arunachal Pradesh) की जनजातियों पर व्यापक अध्ययन किया। वे भारत के नागरिक बने।"
+  },
+  {
+    "question": "'Magic' (जादू) और 'Religion' (धर्म) में Frazer के अनुसार क्या अंतर है?",
+    "options": [
+      { "text": "Magic: प्रकृति को नियंत्रित करने का प्रयास (Manipulation); Religion: अलौकिक शक्तियों से विनती (Propitiation)", "is_correct": true },
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Religion प्रकृति को नियंत्रित करती है", "is_correct": false },
+      { "text": "Magic धर्म का एक प्रकार है", "is_correct": false }
+    ],
+    "explanation": "J.G. Frazer ('The Golden Bough', 1890): Magic — प्रकृति के नियमों को जानकर उन्हें नियंत्रित करने का प्रयास (Sympathetic Magic, Contagious Magic)। Religion — अलौकिक शक्तियों की विनती और पूजा। विज्ञान ने Magic को replace किया।"
+  },
+  {
+    "question": "भारत में जनजातीय स्वास्थ्य की दृष्टि से 'Sickle Cell Anemia' किन क्षेत्रों में अधिक प्रचलित है?",
+    "options": [
+      { "text": "मध्य भारत और पश्चिमी भारत के जनजातीय क्षेत्र (छत्तीसगढ़, ओडिशा, महाराष्ट्र, गुजरात)", "is_correct": true },
+      { "text": "उत्तर भारत", "is_correct": false },
+      { "text": "केवल पूर्वोत्तर भारत", "is_correct": false },
+      { "text": "केवल तटीय क्षेत्र", "is_correct": false }
+    ],
+    "explanation": "Sickle Cell Disease — मध्य और पश्चिम भारत की जनजातियों में (Gond, Bhil, Oraon आदि) अधिक प्रचलित है। 2023 में National Sickle Cell Anaemia Elimination Mission (NSCAEM) शुरू किया गया।"
+  },
+  {
+    "question": "'Rite of Passage' (संस्कार) का नृशास्त्रीय क्या महत्व है?",
+    "options": [
+      { "text": "जन्म, यौवन, विवाह और मृत्यु जैसे जीवन-संक्रमण का सामाजिक उत्सव जो व्यक्ति को नई सामाजिक भूमिका में स्वीकार करता है", "is_correct": true },
+      { "text": "केवल धार्मिक अनुष्ठान", "is_correct": false },
+      { "text": "केवल मृत्यु से संबंधित अनुष्ठान", "is_correct": false },
+      { "text": "केवल धन-संपदा का वितरण", "is_correct": false }
+    ],
+    "explanation": "Arnold van Gennep ('Les Rites de Passage', 1909): Rites of Passage = Separation (पुरानी स्थिति छोड़ना) + Liminality (बीच की अवस्था) + Incorporation (नई स्थिति में प्रवेश)। भारत में जनेऊ संस्कार, विवाह, गृहप्रवेश — ये सभी Rites of Passage हैं।"
+  },
+  {
+    "question": "भारत में 'पूर्वोत्तर की जनजातियाँ' किस भाषा परिवार की हैं?",
+    "options": [
+      { "text": "मुख्यतः तिब्बत-बर्मी (Tibeto-Burman) भाषा परिवार", "is_correct": true },
+      { "text": "आर्य भाषा परिवार", "is_correct": false },
+      { "text": "द्रविड़ भाषा परिवार", "is_correct": false },
+      { "text": "ऑस्ट्रो-एशियाटिक भाषा परिवार", "is_correct": false }
+    ],
+    "explanation": "पूर्वोत्तर भारत की अधिकांश जनजातियाँ (नागा, मिज़ो, मणिपुरी आदि) Tibeto-Burman भाषा परिवार की भाषाएं बोलती हैं। झारखंड-ओडिशा की मुंडा, संथाल जनजातियाँ Austro-Asiatic परिवार की।"
+  },
+  {
+    "question": "'Matrilineal' (मातृवंशीय) व्यवस्था में क्या होता है?",
+    "options": [
+      { "text": "वंश परंपरा और संपत्ति माँ की ओर से निर्धारित होती है", "is_correct": true },
+      { "text": "परिवार में माँ का शासन होता है", "is_correct": false },
+      { "text": "बहुपतित्व होता है", "is_correct": false },
+      { "text": "संपत्ति पर महिलाओं का विशेष अधिकार", "is_correct": false }
+    ],
+    "explanation": "Matrilineal व्यवस्था में वंश और उत्तराधिकार माँ की रेखा से होता है। भारत में खासी (मेघालय), नायर (केरल) मातृवंशीय हैं। यह मातृसत्ता (Matriarchy) से अलग है।"
+  },
+  {
+    "question": "भारत में जनजातीय आभूषण और वस्त्र परंपरा का नृशास्त्रीय महत्व क्या है?",
+    "options": [
+      { "text": "ये सामाजिक पहचान, जाति, वैवाहिक स्थिति और आध्यात्मिक विश्वास को व्यक्त करते हैं", "is_correct": true },
+      { "text": "केवल सौंदर्य के लिए", "is_correct": false },
+      { "text": "आर्थिक स्थिति मात्र दिखाने के लिए", "is_correct": false },
+      { "text": "इनका कोई सांस्कृतिक महत्व नहीं", "is_correct": false }
+    ],
+    "explanation": "जनजातीय आभूषण और वस्त्र पहचान चिह्न (Identity markers) हैं। जैसे गोंड महिलाओं के टैटू (Godna), नागा के हार उनकी warrior status बताते थे। ये सामाजिक संरचना के दृश्य प्रतीक हैं।"
+  },
+  {
+    "question": "भारत में 'जनजातीय कल्याण' के लिए संविधान की कौन सी अनुसूची है?",
+    "options": [
+      { "text": "पाँचवीं और छठी अनुसूची", "is_correct": true },
+      { "text": "सातवीं अनुसूची", "is_correct": false },
+      { "text": "नौवीं अनुसूची", "is_correct": false },
+      { "text": "दूसरी अनुसूची", "is_correct": false }
+    ],
+    "explanation": "भारतीय संविधान की पाँचवीं अनुसूची (मध्य भारत के जनजातीय क्षेत्रों) और छठी अनुसूची (पूर्वोत्तर के जनजातीय क्षेत्रों) में जनजातियों के विशेष प्रशासन का प्रावधान है।"
+  },
+  {
+    "question": "'Potlatch' किस नृशास्त्रीय अवधारणा का उदाहरण है?",
+    "options": [
+      { "text": "Gift Economy — संपत्ति के व्यापक वितरण और प्रतिस्पर्धात्मक दान द्वारा प्रतिष्ठा अर्जन", "is_correct": true },
+      { "text": "Market Economy", "is_correct": false },
+      { "text": "Barter System", "is_correct": false },
+      { "text": "Feudal Economy", "is_correct": false }
+    ],
+    "explanation": "Potlatch — उत्तरी अमेरिका की Pacific Northwest tribes की परंपरा जिसमें Chief दूसरों को व्यापक दान देकर प्रतिष्ठा अर्जित करता था। Marcel Mauss ('The Gift', 1925) ने Gift Exchange को समाजशास्त्री दृष्टि से analyze किया।"
+  },
+  {
+    "question": "भारत में 'Primitive Tribal Groups' (PTG) अब किस नाम से जाने जाते हैं?",
+    "options": [
+      { "text": "Particularly Vulnerable Tribal Groups (PVTGs)", "is_correct": true },
+      { "text": "Scheduled Tribes केवल", "is_correct": false },
+      { "text": "Forest Dwellers", "is_correct": false },
+      { "text": "Indigenous People", "is_correct": false }
+    ],
+    "explanation": "PTGs (2006 से PVTGs — Particularly Vulnerable Tribal Groups) वे जनजातियाँ हैं जो: pre-agricultural technology, low literacy, stagnant or declining population और subsistence economy से विशेषित हैं। भारत में 75 PVTGs हैं।"
+  },
+  {
+    "question": "Bronisław Malinowski के अनुसार 'Magic' का सामाजिक कार्य क्या है?",
+    "options": [
+      { "text": "अनिश्चितता और भय की स्थिति में व्यक्ति को मनोवैज्ञानिक सुरक्षा और नियंत्रण की भावना देना", "is_correct": true },
+      { "text": "वास्तव में प्रकृति को नियंत्रित करना", "is_correct": false },
+      { "text": "केवल धार्मिक कार्य", "is_correct": false },
+      { "text": "आर्थिक लाभ अर्जित करना", "is_correct": false }
+    ],
+    "explanation": "Malinowski ने Trobriand Islands में पाया कि मछुआरे गहरे समुद्र में जाने से पहले Magic करते थे जबकि तट पर नहीं। जहाँ uncertainty और risk अधिक था वहाँ Magic अधिक — यह psychological anxiety management है।"
+  },
+  {
+    "question": "भारत में 'जनजातीय बच्चों' की प्रमुख स्वास्थ्य समस्याएं क्या हैं?",
+    "options": [
+      { "text": "कुपोषण (Stunting, Wasting), एनीमिया, मलेरिया और दस्त रोग — राष्ट्रीय औसत से काफी अधिक", "is_correct": true },
+      { "text": "जनजातीय बच्चे सबसे स्वस्थ होते हैं", "is_correct": false },
+      { "text": "केवल मलेरिया समस्या है", "is_correct": false },
+      { "text": "जनजातीय और गैर-जनजातीय बच्चों में समान स्वास्थ्य है", "is_correct": false }
+    ],
+    "explanation": "NFHS-5: जनजातीय बच्चों में Stunting 40%+, Wasting, Anemia — राष्ट्रीय औसत से काफी अधिक। Malaria burden (Odisha, Jharkhand, Chhattisgarh) में जनजातियों की 60-70% cases। Sickle Cell Disease, Fluorosis, Arsenic poisoning अतिरिक्त बोझ।"
+  },
+  {
+    "question": "नृशास्त्र में 'Holism' (समग्रता) का क्या अर्थ है?",
+    "options": [
+      { "text": "मानव को उसके जैविक, सामाजिक, सांस्कृतिक और ऐतिहासिक संदर्भ में समग्रता से समझना", "is_correct": true },
+      { "text": "केवल जैविक पहलू", "is_correct": false },
+      { "text": "केवल सांस्कृतिक पहलू", "is_correct": false },
+      { "text": "केवल आर्थिक पहलू", "is_correct": false }
+    ],
+    "explanation": "Holism नृशास्त्र का मूल सिद्धांत है — मानव को Biology + Culture + History + Social Context सभी के एकीकृत परिप्रेक्ष्य में देखना। इसीलिए नृशास्त्र में 4 शाखाएं हैं।"
+  },
+  {
+    "question": "भारत में 'Birsa Munda' का जनजातीय आंदोलन में क्या स्थान है?",
+    "options": [
+      { "text": "मुंडा जनजाति के क्रांतिकारी नेता जिन्होंने 1899-1900 में 'Ulgulan' (विद्रोह) किया", "is_correct": true },
+      { "text": "गोंड जनजाति के नेता", "is_correct": false },
+      { "text": "संथाल जनजाति के नेता", "is_correct": false },
+      { "text": "भील जनजाति के नेता", "is_correct": false }
+    ],
+    "explanation": "Birsa Munda (1875-1900) मुंडा जनजाति के करिश्माई नेता थे जिन्होंने अंग्रेजी शासन और ज़मींदारी व्यवस्था के विरुद्ध 'Ulgulan' (The Great Tumult) का नेतृत्व किया। उन्हें 'Dharti Abba' (पृथ्वी पिता) कहा जाता है।"
+  },
+  {
+    "question": "Emile Durkheim के अनुसार 'Primitive Religion' का सबसे आदिम रूप कौन सा है?",
+    "options": [
+      { "text": "Totemism", "is_correct": true },
+      { "text": "Animism", "is_correct": false },
+      { "text": "Polytheism", "is_correct": false },
+      { "text": "Monotheism", "is_correct": false }
+    ],
+    "explanation": "दुर्खीम ('Elementary Forms of Religious Life', 1912) ने Totemism को धर्म का सबसे आदिम रूप माना। उन्होंने Australian Aboriginal tribes का अध्ययन कर बताया कि Totem के माध्यम से समाज वास्तव में खुद की पूजा करता है।"
+  },
+  {
+    "question": "भारत में 'संथाल विद्रोह' (1855-56) का नेतृत्व किसने किया?",
+    "options": [
+      { "text": "सिद्धू और कान्हू मुर्मू", "is_correct": true },
+      { "text": "Birsa Munda", "is_correct": false },
+      { "text": "Tantia Bhil", "is_correct": false },
+      { "text": "Tilka Manjhi", "is_correct": false }
+    ],
+    "explanation": "संथाल विद्रोह (Hul, 1855-56) के नेता सिद्धू और कान्हू मुर्मू थे। यह ब्रिटिश शासन और जमींदारी शोषण के विरुद्ध था। संथाल का स्थान झारखंड और पश्चिम बंगाल में था।"
+  },
+  {
+    "question": "भारत में जनजातीय समुदायों में 'कुपोषण' का प्रमुख सामाजिक-आर्थिक कारण क्या है?",
+    "options": [
+      { "text": "भूमि अधिकारों का अभाव, वन उत्पादों से विस्थापन, शराब की समस्या और ICDS की अपर्याप्त पहुँच", "is_correct": true },
+      { "text": "जानबूझकर खाना न खाना", "is_correct": false },
+      { "text": "जनजातीय खाद्य परंपरा में कमी", "is_correct": false },
+      { "text": "जनजातियों की उच्च जनसंख्या", "is_correct": false }
+    ],
+    "explanation": "जनजातीय कुपोषण के कारण: (1) Land loss → कम खाद्य उत्पादन, (2) Forest produce rights की कमी → MFP से आय नहीं, (3) Migration → disrupted food practices, (4) ICDS/PHC की दूरी, (5) Alcohol dependence (displacement-induced stress)। NITI Aayog के Aspirational Districts में इसे priority दी गई।"
+  },
+  {
+    "question": "'Naga' जनजाति किस राज्य से संबंधित है?",
+    "options": [
+      { "text": "नागालैंड", "is_correct": true },
+      { "text": "मणिपुर केवल", "is_correct": false },
+      { "text": "मेघालय", "is_correct": false },
+      { "text": "सिक्किम", "is_correct": false }
+    ],
+    "explanation": "नागा जनजाति मुख्यतः नागालैंड में निवास करती है, हालाँकि मणिपुर, अरुणाचल और म्यांमार में भी हैं। नागा वास्तव में 30+ से अधिक उप-जनजातियों का समूह है जिनमें Ao, Angami, Sema, Lotha प्रमुख हैं।"
+  },
+  {
+    "question": "नृशास्त्र में 'Emics' और 'Etics' में क्या अंतर है?",
+    "options": [
+      { "text": "Emics: समुदाय का अपना आंतरिक दृष्टिकोण; Etics: बाहरी शोधकर्ता का दृष्टिकोण", "is_correct": true },
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Emics वैज्ञानिक और Etics अवैज्ञानिक", "is_correct": false },
+      { "text": "Etics सही और Emics गलत है", "is_correct": false }
+    ],
+    "explanation": "Kenneth Pike ने Emics/Etics का भेद किया: Emic = Insider perspective (community की अपनी समझ), Etic = Outsider perspective (researcher की वैज्ञानिक analysis)। अच्छा नृशास्त्रीय अध्ययन दोनों को संतुलित करता है।"
+  },
+  {
+    "question": "भारत में 'जनजातीय चिकित्सा पद्धति' (Tribal Medicine) का क्या महत्व है?",
+    "options": [
+      { "text": "हर्बल ज्ञान, पारंपरिक उपचार और प्रकृति-आधारित स्वास्थ्य प्रणाली जो भौगोलिक रूप से दुर्गम क्षेत्रों में एकमात्र उपलब्ध विकल्प हो सकती है", "is_correct": true },
+      { "text": "पूरी तरह अवैज्ञानिक और हानिकारक", "is_correct": false },
+      { "text": "केवल आधुनिक चिकित्सा ही प्रभावी है", "is_correct": false },
+      { "text": "जनजातीय चिकित्सा का कोई महत्व नहीं", "is_correct": false }
+    ],
+    "explanation": "जनजातीय Ethnomedicine: हर्बल plants (Ashwagandha, Arjuna, Neem) का पारंपरिक ज्ञान, bone-setting specialists, traditional birth attendants (Dais)। TKDL ने इस ज्ञान को document किया। PHC नहीं पहुँची areas में यही प्रथम उपचार है।"
+  },
+  {
+    "question": "भारत में 'जनजातीय क्षेत्रों' में 'बाल विवाह' की दर के बारे में क्या सही है?",
+    "options": [
+      { "text": "कुछ जनजातियों में बाल विवाह की दर अधिक है लेकिन कुछ जनजातीय परंपराओं में लड़कियों को पसंद की अधिक स्वतंत्रता है", "is_correct": true },
+      { "text": "सभी जनजातियों में बाल विवाह बहुत अधिक है", "is_correct": false },
+      { "text": "जनजातियों में बाल विवाह नहीं होता", "is_correct": false },
+      { "text": "जनजातीय और गैर-जनजातीय में बाल विवाह समान है", "is_correct": false }
+    ],
+    "explanation": "NFHS-5: Rajasthan, West Bengal में tribal areas में child marriage high, लेकिन Manipur, Nagaland की जनजातियों में relatively low — क्योंकि कुछ communities में girls' choice (Ghotul system) और later marriage tradition है। Context-sensitive approach जरूरी है।"
+  },
+  {
+    "question": "नृशास्त्र में 'Structural Anthropology' के प्रमुख प्रवर्तक कौन हैं?",
+    "options": [
+      { "text": "Claude Lévi-Strauss", "is_correct": true },
+      { "text": "Bronisław Malinowski", "is_correct": false },
+      { "text": "A.R. Radcliffe-Brown", "is_correct": false },
+      { "text": "Franz Boas", "is_correct": false }
+    ],
+    "explanation": "Claude Lévi-Strauss (1908-2009) Structural Anthropology के प्रवर्तक हैं। उन्होंने Kinship, Myths और Totemism में Binary Oppositions (nature/culture, raw/cooked) के underlying structures को खोजा।"
+  },
+  {
+    "question": "भारत में 'जनजातीय महोत्सव' (Tribal Festivals) का नृशास्त्रीय महत्व क्या है?",
+    "options": [
+      { "text": "ये सामूहिक एकता, कृषि चक्र, आत्मा पूजा और सामाजिक मूल्यों का उत्सव हैं जो सांस्कृतिक पहचान को पुनर्जीवित करते हैं", "is_correct": true },
+      { "text": "केवल मनोरंजन", "is_correct": false },
+      { "text": "पर्यटन आकर्षण मात्र", "is_correct": false },
+      { "text": "केवल धार्मिक कार्य", "is_correct": false }
+    ],
+    "explanation": "जनजातीय महोत्सव जैसे मुरिया का Karsa, संथाल का Sohrai, गोंड का Bhagoria — ये कृषि चक्र, प्रकृति पूजा, यौवन संस्कार और सामाजिक नियमों (विवाह के अवसर) का एकीकृत celebration हैं। दुर्खीम की 'Collective Effervescence' का प्रत्यक्ष उदाहरण।"
+  },
+  {
+    "question": "भारत में 'अनुसूचित जनजाति' को संविधान में किस अनुच्छेद के तहत आरक्षण मिलता है?",
+    "options": [
+      { "text": "अनुच्छेद 335 (नौकरी) और अनुच्छेद 330/332 (विधायिका)", "is_correct": true },
+      { "text": "केवल अनुच्छेद 15", "is_correct": false },
+      { "text": "केवल अनुच्छेद 46", "is_correct": false },
+      { "text": "अनुच्छेद 19", "is_correct": false }
+    ],
+    "explanation": "Art. 330: Lok Sabha में ST seats, Art. 332: State Assemblies में ST seats, Art. 335: Services में ST के claims पर consideration। Art. 342 President को ST notify करने का अधिकार देता है। Art. 46 (DPSP): ST के शैक्षिक और आर्थिक हितों की रक्षा।"
+  },
+  {
+    "question": "भारत में 'एकलव्य मॉडल आवासीय विद्यालय' (EMRS) किसके लिए है?",
+    "options": [
+      { "text": "अनुसूचित जनजाति के बच्चों को गुणवत्तापूर्ण शिक्षा प्रदान करने के लिए", "is_correct": true },
+      { "text": "केवल अनुसूचित जाति के लिए", "is_correct": false },
+      { "text": "आर्थिक रूप से कमजोर वर्ग के लिए", "is_correct": false },
+      { "text": "सभी ग्रामीण बच्चों के लिए", "is_correct": false }
+    ],
+    "explanation": "EMRS (1997 से) जनजातीय क्षेत्रों में ST बच्चों को Navodaya Vidyalaya के समकक्ष आवासीय शिक्षा देते हैं। 2023 तक 700+ EMRS स्वीकृत। ये अनुसूचित जनजाति मंत्रालय के अधीन हैं।"
+  },
+  {
+    "question": "भारत में 'अनुसूचित क्षेत्र' (Scheduled Areas) में विकास परियोजनाओं के लिए FPIC का क्या अर्थ है?",
+    "options": [
+      { "text": "Free, Prior and Informed Consent — जनजातियों की पूर्व, स्वतंत्र और सूचित सहमति", "is_correct": true },
+      { "text": "Forest Protection Intelligence Committee", "is_correct": false },
+      { "text": "Federal Planning and Infrastructure Council", "is_correct": false },
+      { "text": "Financial Planning and Investment Committee", "is_correct": false }
+    ],
+    "explanation": "FPIC (Free, Prior, Informed Consent) — ILO Convention 169 और UNDRIP (UN Declaration on Rights of Indigenous Peoples) का सिद्धांत है। PESA 1996 और FRA 2006 में भारत में Gram Sabha consent को अनिवार्य किया गया है खनन, बांध आदि परियोजनाओं के लिए।"
+  },
+  {
+    "question": "भारत में 'TRIFED' (Tribal Cooperative Marketing Development Federation) का क्या कार्य है?",
+    "options": [
+      { "text": "जनजातीय उत्पादों (MFP, हस्तशिल्प) का विपणन और जनजातीय कारीगरों की आय में वृद्धि", "is_correct": true },
+      { "text": "जनजातीय बच्चों की शिक्षा", "is_correct": false },
+      { "text": "जनजातीय क्षेत्रों में अस्पताल बनाना", "is_correct": false },
+      { "text": "वन संरक्षण", "is_correct": false }
+    ],
+    "explanation": "TRIFED (1987) — जनजातीय उत्पादों (लाख, शहद, महुआ, हस्तशिल्प) का उचित मूल्य पर विपणन करता है। 'Tribal Pride' और 'Sankalp Se Siddhi' TRIFED की प्रमुख पहलें हैं। 'Tribes India' brand भी TRIFED का है।"
+  },
+  {
+    "question": "Claude Lévi-Strauss की 'Savage Mind' (La Pensée sauvage, 1962) में क्या मुख्य तर्क है?",
+    "options": [
+      { "text": "आदिवासी/पारंपरिक समाजों की सोच 'primitive' नहीं बल्कि systematically logical है — केवल different है, inferior नहीं", "is_correct": true },
+      { "text": "आदिवासी सोच वैज्ञानिक सोच से हीन है", "is_correct": false },
+      { "text": "Savage Mind केवल myth में है", "is_correct": false },
+      { "text": "Lévi-Strauss ने Ethnocentrism का समर्थन किया", "is_correct": false }
+    ],
+    "explanation": "Lévi-Strauss ('The Savage Mind', 1962): 'Primitive' peoples का ज्ञान ('Bricolage' — टुकड़ों को जोड़कर बनाना) Western 'Engineering' thought से inferior नहीं — बल्कि एक अलग logical system। यह Cultural Relativism का उच्चतम बौद्धिक प्रकटन है।"
+  },
+  {
+    "question": "भारत में 'जनजातीय क्षेत्र' में PHC की स्थापना का मानक क्या है?",
+    "options": [
+      { "text": "20,000 जनसंख्या पर 1 PHC (पहाड़ी/जनजातीय क्षेत्र में 20,000 बजाय 30,000)", "is_correct": true },
+      { "text": "50,000 जनसंख्या पर 1 PHC", "is_correct": false },
+      { "text": "100,000 जनसंख्या पर 1 PHC", "is_correct": false },
+      { "text": "5,000 जनसंख्या पर 1 PHC", "is_correct": false }
+    ],
+    "explanation": "Indian Public Health Standards (IPHS): सामान्य ग्रामीण में 30,000 जनसंख्या पर 1 PHC, पहाड़ी/जनजातीय क्षेत्र में 20,000 जनसंख्या पर 1 PHC। SHC के लिए: 3,000 सामान्य (1,000 जनजातीय)।"
+  },
+  {
+    "question": "भारत में 'Jhum Cultivation' (Shifting Agriculture) के पारिस्थितिकीय और सामाजिक प्रभाव क्या हैं?",
+    "options": [
+      { "text": "अल्पकाल में भूमि उर्वरकता पुनर्स्थापन लेकिन उच्च जनसंख्या के साथ cycle कम होने से वन क्षरण और खाद्य असुरक्षा बढ़ती है", "is_correct": true },
+      { "text": "Jhum सदैव पर्यावरण के लिए बेहतर है", "is_correct": false },
+      { "text": "Jhum में कोई पारिस्थितिकीय समस्या नहीं", "is_correct": false },
+      { "text": "Jhum केवल उत्तर-पूर्व में है", "is_correct": false }
+    ],
+    "explanation": "Jhum/Swidden Cultivation: पूर्वोत्तर भारत, झारखंड, ओडिशा में। Traditional form: 10-15 year rotation cycle — पुरानी झाड़ी जलाओ, 2-3 साल खेती, फिर छोड़ो। Current problem: Population pressure → cycle 3-4 years → recovery नहीं → soil degradation, food insecurity। Alternative Livelihood programs जरूरी।"
+  },
+  {
+    "question": "भारत में 'जनजातीय महिलाओं' की स्थिति गैर-जनजातीय महिलाओं की तुलना में किन पहलुओं में बेहतर हो सकती है?",
+    "options": [
+      { "text": "भूमि एवं संपत्ति अधिकार (matrilineal societies में), कार्य भागीदारी और पर्दा प्रथा का अभाव", "is_correct": true },
+      { "text": "सभी पहलुओं में बेहतर", "is_correct": false },
+      { "text": "शिक्षा में बेहतर", "is_correct": false },
+      { "text": "स्वास्थ्य सेवाओं में बेहतर पहुँच", "is_correct": false }
+    ],
+    "explanation": "जनजातीय महिलाओं में कुछ सकारात्मक पहलू: (1) Matrilineal societies (Khasi, Nair) में inheritance rights, (2) पर्दा प्रथा का अभाव, (3) बाजार में काम करने की स्वतंत्रता, (4) Bride Price परंपरा (Dowry के विपरीत)। लेकिन Literacy, Healthcare और Social Security में वंचित।"
+  },
+  {
+    "question": "भारत में 'जनजातीय आत्मा विश्वास' (Spirit Beliefs) का स्वास्थ्य व्यवहार पर क्या प्रभाव है?",
+    "options": [
+      { "text": "बीमारी को आत्मा का प्रकोप मानने से पहले Ojha/Guni के पास जाना और आधुनिक चिकित्सा में देरी हो सकती है", "is_correct": true },
+      { "text": "आत्मा विश्वास से हमेशा बेहतर स्वास्थ्य होता है", "is_correct": false },
+      { "text": "जनजातियाँ आत्मा विश्वास नहीं रखतीं", "is_correct": false },
+      { "text": "यह स्वास्थ्य व्यवहार से असंबंधित है", "is_correct": false }
+    ],
+    "explanation": "जनजातीय Health Seeking Pattern: Illness → Ojha/Guni (faith healer) → AYUSH/RMP → PHC। पहले alternative medicine, late referral। PHC में cultural competent care और ASHA bridge role — यह treatment-seeking delay को कम करता है। Explanatory Models must be respected।"
+  },
+  {
+    "question": "'कुकी' (Kuki) जनजाति किस राज्य से संबंधित है?",
+    "options": [
+      { "text": "मणिपुर", "is_correct": true },
+      { "text": "मेघालय", "is_correct": false },
+      { "text": "त्रिपुरा", "is_correct": false },
+      { "text": "असम", "is_correct": false }
+    ],
+    "explanation": "कुकी-ज़ो जनजाति मुख्यतः मणिपुर के पहाड़ी जिलों में निवास करती है। 2023 में मणिपुर में मैतेई और कुकी समुदायों के बीच हिंसक संघर्ष हुआ जो जातीय तनाव और ST status विवाद से जुड़ा था।"
+  },
+  {
+    "question": "भारत में जनजातीय क्षेत्रों में 'Van Dhan Vikas Kendras' (VDVKs) का क्या उद्देश्य है?",
+    "options": [
+      { "text": "जनजातीय समुदायों को वन उत्पादों का मूल्य संवर्धन और उद्यमिता विकास", "is_correct": true },
+      { "text": "वन कटाई का प्रबंधन", "is_correct": false },
+      { "text": "केवल वन संरक्षण", "is_correct": false },
+      { "text": "जनजातीय पर्यटन विकास", "is_correct": false }
+    ],
+    "explanation": "VDVKs (TRIFED-MoTA, 2019): Self Help Groups-based model जहाँ 15-20 जनजातीय SHGs मिलकर MFP (Bamboo, Honey, Medicinal Plants) का processing और value-addition करते हैं। इससे जनजातीय आय में वृद्धि और आर्थिक empowerment।"
+  },
+  {
+    "question": "'Shaman' (ओझा/मांत्रिक) की जनजातीय समाज में क्या भूमिका है?",
+    "options": [
+      { "text": "आत्मा जगत और मानव जगत के बीच मध्यस्थ — रोग उपचार, दैवीय आक्रोश शांत करना और सामूहिक अनुष्ठान", "is_correct": true },
+      { "text": "केवल धर्म का प्रचार", "is_correct": false },
+      { "text": "केवल राजनीतिक नेता", "is_correct": false },
+      { "text": "केवल मनोरंजन", "is_correct": false }
+    ],
+    "explanation": "Shaman/Ojha: Trance state में आत्मा जगत से संवाद करता है, रोगी में घुसी बुरी आत्मा को निकालता है, nature spirits को propitiate करता है। यह जनजातीय समाज का पारंपरिक healer, counselor और social controller है।"
+  },
+  {
+    "question": "भारत में नृशास्त्र में 'Irawati Karve' का क्या योगदान है?",
+    "options": [
+      { "text": "भारतीय नातेदारी व्यवस्था और मानव शास्त्र पर मौलिक शोध — 'Kinship Organisation in India' (1953)", "is_correct": true },
+      { "text": "जनजातीय विद्रोहों का इतिहास", "is_correct": false },
+      { "text": "पुरातत्व खुदाई", "is_correct": false },
+      { "text": "भाषाई नृशास्त्र", "is_correct": false }
+    ],
+    "explanation": "Irawati Karve (1905-1970) भारतीय नृशास्त्र की प्रमुख विदुषी थीं। 'Kinship Organisation in India' (1953) भारत की विभिन्न क्षेत्रीय नातेदारी प्रणालियों का तुलनात्मक अध्ययन है। वे Deccan College, Pune से जुड़ी थीं।"
+  },
+  {
+    "question": "भारत में अंडमान और निकोबार द्वीपसमूह की 'Sentinelese' जनजाति के बारे में क्या सही है?",
+    "options": [
+      { "text": "यह विश्व की सबसे isolated जनजाति है जो आज भी बाहरी संपर्क अस्वीकार करती है", "is_correct": true },
+      { "text": "Sentinelese मुख्यधारा समाज में एकीकृत हो गई है", "is_correct": false },
+      { "text": "Sentinelese खेती करती है", "is_correct": false },
+      { "text": "Sentinelese अंग्रेजी बोलती है", "is_correct": false }
+    ],
+    "explanation": "Sentinelese — North Sentinel Island (Andaman) पर रहती है और किसी भी बाहरी संपर्क को पूरी तरह अस्वीकार करती है। भारत सरकार ने इनके क्षेत्र को Protected Zone घोषित किया है और संपर्क प्रतिबंधित है। 2018 में missionary John Allen Chau को इन्होंने मार दिया था।"
+  },
+  {
+    "question": "भारत में 'आदिम जनजातियों' (PVTGs) में सबसे ज्यादा health concerns क्या हैं?",
+    "options": [
+      { "text": "जनसंख्या में गिरावट, लुप्तप्राय भाषाएं, कुपोषण और संक्रामक रोग", "is_correct": true },
+      { "text": "जनसंख्या अत्यधिक बढ़ रही है", "is_correct": false },
+      { "text": "NCDs सबसे बड़ी समस्या हैं", "is_correct": false },
+      { "text": "इनकी स्वास्थ्य स्थिति बेहतर है", "is_correct": false }
+    ],
+    "explanation": "PVTGs (75 groups, India) जैसे Chenchu (AP), Lodha (WB), Birhore (Jharkhand) में: (1) Declining population, (2) Language extinction risk, (3) Extreme poverty → malnutrition, (4) TB, Malaria, Sickle Cell का उच्च burden, (5) PHC तक न्यूनतम access। Pradhan Mantri PVTG Development Mission (2023) launched।"
+  },
+  {
+    "question": "भारत में 'NITI आयोग के Aspirational Districts Programme' में जनजातीय स्वास्थ्य की क्या प्राथमिकता है?",
+    "options": [
+      { "text": "Nutrition, Health, Education तीनों में एकीकृत convergent intervention — Stunting, Anemia, IMR में कमी प्राथमिकता", "is_correct": true },
+      { "text": "केवल आर्थिक विकास", "is_correct": false },
+      { "text": "केवल शिक्षा", "is_correct": false },
+      { "text": "केवल बुनियादी ढाँचा", "is_correct": false }
+    ],
+    "explanation": "Aspirational Districts Programme (2018): 112 जिलों में जिनमें अधिकांश tribal-dominated हैं। Health Composite Index: Nutrition (Stunting, SAM), Health (Infant Mortality, Full Immunization), Education indicators। 20+ Ministries के Convergent programs का coordination।"
+  }
+]

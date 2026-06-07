@@ -1,0 +1,312 @@
+[
+  {
+    "question": "Amartya Sen के 'क्षमता दृष्टिकोण' (Capability Approach) और पारंपरिक कल्याण अर्थशास्त्र में मूलभूत वैचारिक अंतर क्या है?",
+    "options": [
+      { "text": "Sen उपयोगिता को अधिक महत्व देते हैं", "is_correct": false },
+      { "text": "Sen का तर्क है कि कल्याण उपयोगिता या आय से नहीं बल्कि 'functionings' और 'capabilities' (मूल्यवान जीवन जीने की वास्तविक स्वतंत्रता) से मापा जाना चाहिए", "is_correct": true },
+      { "text": "Sen GDP को सर्वोत्तम माप मानते हैं", "is_correct": false },
+      { "text": "Sen केवल आय असमानता पर ध्यान देते हैं", "is_correct": false }
+    ],
+    "explanation": "Sen (1979, 1999) का Capability Approach पारंपरिक Utilitarian economics को चुनौती देता है। Capabilities = जो व्यक्ति कर सकता है या बन सकता है; Functionings = वास्तविक अवस्थाएं। विकलांग व्यक्ति को समान आय मिले पर capability कम हो सकती है। स्वास्थ्य केंद्रीय capability है। UNDP के HDI और Martha Nussbaum के Central Human Capabilities इससे प्रेरित हैं।"
+  },
+  {
+    "question": "विश्व बैंक के 'SAP' (Structural Adjustment Programmes) की आलोचना करते हुए UNICEF की 'Adjustment with a Human Face' रिपोर्ट (Cornia, Jolly & Stewart, 1987) ने क्या तर्क दिया?",
+    "options": [
+      { "text": "SAP से आर्थिक विकास तेज हुआ", "is_correct": false },
+      { "text": "SAP की तटस्थता मिथक है — इसने बच्चों और महिलाओं पर असंगत बोझ डाला और स्वास्थ्य/शिक्षा में कटौती की", "is_correct": true },
+      { "text": "SAP ने गरीबी घटाई", "is_correct": false },
+      { "text": "SAP का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "'Adjustment with a Human Face' ने दिखाया कि 1980s SAPs के तहत 37 विकासशील देशों में बाल कुपोषण, शिशु मृत्यु दर बढ़ी और स्वास्थ्य व्यय घटा। इस रिपोर्ट ने 'Pro-poor Adjustment' की मांग की और बाद में PRSP (Poverty Reduction Strategy Papers) जैसे वैकल्पिक ढांचों को प्रेरित किया।"
+  },
+  {
+    "question": "स्वास्थ्य सेवाओं में Kenneth Arrow (1963) की 'Uncertainty and the Welfare Economics of Medical Care' के मूल तर्क की UPPSC स्तरीय आलोचनात्मक व्याख्या करें:",
+    "options": [
+      { "text": "Arrow ने कहा स्वास्थ्य बाजार पूर्ण प्रतिस्पर्धी है", "is_correct": false },
+      { "text": "Arrow ने दिखाया कि स्वास्थ्य बाजार में अनिश्चितता, Information Asymmetry, Externalities और Non-profit norms से बाजार विफलता होती है जो सरकारी हस्तक्षेप को न्यायसंगत ठहराती है", "is_correct": true },
+      { "text": "Arrow ने निजी स्वास्थ्य सेवाओं का समर्थन किया", "is_correct": false },
+      { "text": "Arrow ने बीमा को अनावश्यक बताया", "is_correct": false }
+    ],
+    "explanation": "Arrow की 1963 की क्लासिक पेपर ने स्वास्थ्य बाजार की छह विशेषताएं बताईं: (1) बीमारी की अनिश्चितता, (2) Supplier-induced Demand, (3) Barriers to entry (licensure), (4) Pricing norms (fee-for-service vs salary), (5) Externalities (herd immunity), (6) Non-profit hospitals। ये सभी मिलकर 'Market Failure' उत्पन्न करते हैं जो सरकारी नियमन/वित्तपोषण को आवश्यक बनाते हैं।"
+  },
+  {
+    "question": "भारत में स्वास्थ्य वित्तपोषण के 'Fiscal Space' विस्तार के लिए किन तीन प्रमुख रणनीतियों का IMF/WHO सुझाव है?",
+    "options": [
+      { "text": "विदेशी ऋण, निजीकरण, बजट कटौती", "is_correct": false },
+      { "text": "Tax capacity expansion, Expenditure reprioritization, और Efficiency gains — बिना OOP बढ़ाए", "is_correct": true },
+      { "text": "User fees बढ़ाना, विदेशी सहायता और निजी बीमा", "is_correct": false },
+      { "text": "मुद्रा छापना, विदेशी ऋण, विनिवेश", "is_correct": false }
+    ],
+    "explanation": "WHO/IMF (2016) Fiscal Space framework: (1) Tax effort बढ़ाना (Tobacco, alcohol sin taxes, GST compliance), (2) Health को बजट में पुनर्प्राथमिकता, (3) Technical efficiency gains (wastage घटाना), (4) Official Development Assistance (ODA), (5) Health-specific levies। UHC के लिए OOP घटाकर pre-payment mechanisms बढ़ाना अनिवार्य है।"
+  },
+  {
+    "question": "Thomas Piketty के 'Capital in the Twenty-First Century' (2014) का भारत के स्वास्थ्य असमानता विश्लेषण के लिए क्या निहितार्थ है?",
+    "options": [
+      { "text": "Piketty ने भारत का अध्ययन किया", "is_correct": false },
+      { "text": "r > g (पूंजी पर प्रतिफल > आर्थिक वृद्धि) से आय और स्वास्थ्य असमानता दीर्घकाल में बढ़ती है — Progressive Wealth Tax और सार्वजनिक स्वास्थ्य निवेश समाधान", "is_correct": true },
+      { "text": "Piketty ने असमानता को अनावश्यक बताया", "is_correct": false },
+      { "text": "Piketty के अनुसार स्वास्थ्य असमानता बाजार से ठीक होगी", "is_correct": false }
+    ],
+    "explanation": "Piketty का केंद्रीय तर्क: जब r (पूंजी प्रतिफल दर) > g (विकास दर) — ऐतिहासिक रूप से ~4-5% > 1-2% — तो धन संकेंद्रण (Wealth Concentration) अपरिहार्य है। भारत में शीर्ष 10% की आय में वृद्धि, स्वास्थ्य पर OOP का असंगत भार, और Private Healthcare विस्तार इसी गतिशीलता को प्रतिबिंबित करते हैं। Progressive Health Finance और Public expenditure counter-mechanism हैं।"
+  },
+  {
+    "question": "भारत में 'औषधि मूल्य नियंत्रण' (Drug Price Control) की राजनीतिक अर्थव्यवस्था में DPCO 2013 की सीमाएं क्या हैं?",
+    "options": [
+      { "text": "DPCO 2013 सभी दवाओं की कीमत नियंत्रित करती है", "is_correct": false },
+      { "text": "DPCO केवल National List of Essential Medicines की 384 दवाएं कवर करती है; फार्मा लॉबी की शक्ति, formulation changes और brand differentiation से नियंत्रण कमजोर होता है", "is_correct": true },
+      { "text": "DPCO ने दवाओं की कीमतें दोगुनी कर दीं", "is_correct": false },
+      { "text": "DPCO केवल सरकारी अस्पतालों पर लागू होती है", "is_correct": false }
+    ],
+    "explanation": "DPCO 2013 Market Based Pricing mechanism लागू करती है (weighted average of market price) जो Hathi Committee 1975 और पुरानी DPCO 1995 से कमजोर है। सीमाएं: (1) Non-essential dawa price control नहीं, (2) Combination drugs loop-holes, (3) Pharmaceutical industry का नीति निर्माण पर प्रभाव (Regulatory Capture), (4) Trade margins पर नियंत्रण की कमी।"
+  },
+  {
+    "question": "QALY (Quality Adjusted Life Year) और DALY में वैचारिक और पद्धतिगत अंतर क्या है और इसका नीति निर्माण पर क्या प्रभाव पड़ता है?",
+    "options": [
+      { "text": "दोनों बिल्कुल समान हैं", "is_correct": false },
+      { "text": "QALY लाभ को मापता है (HTA में उपयोग) जबकि DALY बोझ को; दोनों के disability weight अलग-अलग हैं और विकलांगता मूल्यांकन में पूर्वाग्रह की आलोचना है", "is_correct": true },
+      { "text": "QALY केवल मृत्यु मापता है", "is_correct": false },
+      { "text": "DALY का उपयोग केवल विकसित देशों में होता है", "is_correct": false }
+    ],
+    "explanation": "QALY (0=death, 1=perfect health): किसी हस्तक्षेप से प्राप्त जीवन वर्षों की गुणवत्ता मापता है — HTA (Health Technology Assessment) में £20-30k/QALY threshold। DALY (YLL+YLD): रोग का बोझ मापता है — कम होना बेहतर। आलोचना: Disability weights subjective हैं, विकलांग व्यक्तियों के प्रति पूर्वाग्रही हो सकते हैं (Disability Rights perspective), और जीवन गुणवत्ता का मापन सांस्कृतिक रूप से सापेक्ष है।"
+  },
+  {
+    "question": "भारत में 'Catastrophic Health Expenditure' को घटाने के लिए UHC financing में कौन सा मॉडल सर्वाधिक प्रभावी है और क्यों?",
+    "options": [
+      { "text": "केवल निजी बीमा", "is_correct": false },
+      { "text": "Progressive Tax-funded General Revenue (Beveridge-type) सबसे प्रभावी है क्योंकि यह सार्वभौमिक Risk Pooling करता है और regressive OOP को प्रतिस्थापित करता है", "is_correct": true },
+      { "text": "User fees आधारित मॉडल", "is_correct": false },
+      { "text": "केवल Community-based Health Insurance", "is_correct": false }
+    ],
+    "explanation": "WHO/Wagstaff et al. के अनुभवजन्य साक्ष्य: Sri Lanka, Thailand, Rwanda ने Tax-funded UHC से CHE घटाई। India में PM-JAY voluntary insurance मॉडल है जो adverse selection और coverage gaps से पीड़ित है। सर्वोत्तम: Mandatory pre-payment (Tax या Payroll-based) + Progressive financing + Comprehensive benefit package। NGO/CBHI fragmented हैं और risk pooling अपर्याप्त।"
+  },
+  {
+    "question": "Juan-Luis Londono और Julio Frenk (1997) के 'Structured Pluralism' स्वास्थ्य प्रणाली मॉडल का भारत के संदर्भ में क्या महत्व है?",
+    "options": [
+      { "text": "यह पूर्णतः निजी मॉडल है", "is_correct": false },
+      { "text": "यह सरकार को नियामक (Stewardship) और वित्तपोषक की भूमिका में रखता है जबकि सेवा वितरण बहुलवादी (सरकारी + निजी + NGO) रहता है", "is_correct": true },
+      { "text": "यह केवल विकसित देशों के लिए है", "is_correct": false },
+      { "text": "यह पूर्णतः राज्य-नियंत्रित मॉडल है", "is_correct": false }
+    ],
+    "explanation": "Structured Pluralism लैटिन अमेरिका के लिए प्रस्तावित था लेकिन भारत के लिए प्रासंगिक: State = Regulator + Financier; Delivery = सार्वजनिक + निजी + सामुदायिक (Pluralistic)। WHO 2000 World Health Report का 'Stewardship' concept इससे प्रेरित। भारत में PM-JAY + HWCs + Private hospitals का मिश्रण इसी दिशा में है।"
+  },
+  {
+    "question": "भारत में 'Ayushman Bharat PM-JAY' की राजनीतिक अर्थव्यवस्था में इसकी एक प्रमुख सीमा क्या है जो UHC के आर्थिक लक्ष्य को कमजोर करती है?",
+    "options": [
+      { "text": "यह बहुत कम लोगों को कवर करती है", "is_correct": false },
+      { "text": "Secondary/Tertiary care पर जोर लेकिन Primary Healthcare (OPD, दवाएं, निवारक देखभाल) बाहर, जबकि 80% OOP PHC स्तर पर होता है", "is_correct": true },
+      { "text": "यह केवल सरकारी अस्पतालों में लागू है", "is_correct": false },
+      { "text": "यह बहुत महंगी है", "is_correct": false }
+    ],
+    "explanation": "PM-JAY की मूल सीमा: यह Hospitalization Insurance है — OPD visits, outpatient drugs, और chronic disease management cover नहीं करती। Lancet Citizens' Commission (2021) ने बताया कि भारत का ~80% OOP PHC और outpatient drugs पर होता है। इसलिए PM-JAY CHE घटाने में सीमित है। HWCs को strengthening करना और Essential Medicines का free provision PM-JAY से अधिक प्रभावी OOP reduction mechanism है।"
+  },
+  {
+    "question": "भारत में दवा उद्योग में 'Evergreening' (Patent Evergreening) क्या है और इसे रोकने में भारतीय पेटेंट अधिनियम की धारा 3(d) की क्या भूमिका है?",
+    "options": [
+      { "text": "Evergreening = पर्यावरण संरक्षण नीति", "is_correct": false },
+      { "text": "Evergreening = मामूली बदलावों से पेटेंट नवीनीकरण कर जेनेरिक प्रतिस्पर्धा रोकना; S. 3(d) इसे रोकता है — नई form को 'Significantly enhanced efficacy' सिद्ध करनी होगी", "is_correct": true },
+      { "text": "Evergreening = दवाओं की शेल्फ लाइफ बढ़ाना", "is_correct": false },
+      { "text": "Evergreening = पर्यावरण अनुकूल दवाएं बनाना", "is_correct": false }
+    ],
+    "explanation": "Patent Evergreening: फार्मा कंपनियां पुरानी दवा में मामूली बदलाव (नया salt, formulation, isomer) कर नया patent लेती हैं और 20 वर्ष का एकाधिकार बढ़ाती हैं। भारत का Patents Act 1970 (2005 amendment) Section 3(d): नई form तभी patentable होगी जब वह 'significantly enhanced efficacy' दिखाए। Novartis v. India (2013) SC case में इसे बरकरार रखा — वैश्विक health advocates के लिए landmark।"
+  },
+  {
+    "question": "Mancur Olson के 'Collective Action Problem' और 'Logic of Collective Action' (1965) का भारत में सार्वजनिक स्वास्थ्य प्रणाली से क्या संबंध है?",
+    "options": [
+      { "text": "Olson ने स्वास्थ्य प्रणाली का अध्ययन किया", "is_correct": false },
+      { "text": "Free Rider Problem के कारण Collective Public Health Goods (टीकाकरण, स्वच्छता) का स्वतः इष्टतम उत्पादन नहीं होगा — सरकारी हस्तक्षेप आवश्यक है", "is_correct": true },
+      { "text": "Olson ने निजी स्वास्थ्य का समर्थन किया", "is_correct": false },
+      { "text": "Olson का सिद्धांत केवल व्यापार संघों पर लागू है", "is_correct": false }
+    ],
+    "explanation": "Olson's Collective Action Problem: व्यक्ति 'Free Rider' बनने की प्रवृत्ति रखते हैं — दूसरों के टीकाकरण पर Herd Immunity का लाभ उठाते हैं बिना स्वयं टीका लगवाए। Public Goods (स्वच्छता, vector control, surveillance) बाजार में अपर्याप्त उत्पन्न होंगे। इसीलिए State Mandate, Incentives (JSY, ASHA) और Compulsory Vaccination आवश्यक हैं।"
+  },
+  {
+    "question": "Elinor Ostrom (नोबेल 2009) के 'Common Pool Resources' सिद्धांत का भारतीय स्वास्थ्य प्रणाली में क्या अनुप्रयोग है?",
+    "options": [
+      { "text": "Ostrom ने स्वास्थ्य को Tragedy of Commons कहा", "is_correct": false },
+      { "text": "समुदाय-आधारित स्वास्थ्य बीमा (CBHI) और सामुदायिक स्वास्थ्य संसाधन प्रबंधन Ostrom के 'Polycentric Governance' की अभिव्यक्ति है", "is_correct": true },
+      { "text": "Ostrom ने निजीकरण का समर्थन किया", "is_correct": false },
+      { "text": "Ostrom केवल पर्यावरण अर्थशास्त्री थीं", "is_correct": false }
+    ],
+    "explanation": "Ostrom ने दिखाया कि Common Pool Resources को न State न Market बल्कि Community Governance भी प्रभावी ढंग से प्रबंधित कर सकती है। भारत में: (1) CBHI (Self Help Groups + Health funds), (2) Village Health Sanitation Committees (VHSC), (3) Sonagachi HIV model (Community governance of health resources) Ostrom के 8 Design Principles को मूर्त रूप देते हैं।"
+  },
+  {
+    "question": "William Baumol के 'Cost Disease' (Baumol's Cost Disease, 1966) का स्वास्थ्य सेवा क्षेत्र में क्या अनुप्रयोग है?",
+    "options": [
+      { "text": "स्वास्थ्य सेवाएं सस्ती होती जा रही हैं", "is_correct": false },
+      { "text": "श्रम-गहन स्वास्थ्य सेवाओं में उत्पादकता वृद्धि सीमित है लेकिन वेतन बढ़ता है, इसलिए स्वास्थ्य लागत अन्य क्षेत्रों से तेज बढ़ती है", "is_correct": true },
+      { "text": "तकनीक से स्वास्थ्य लागत घटती है", "is_correct": false },
+      { "text": "Baumol का सिद्धांत कला-संगीत तक सीमित है", "is_correct": false }
+    ],
+    "explanation": "Baumol's Cost Disease: मैन्युफैक्चरिंग में तकनीक से प्रति कर्मचारी उत्पादकता बढ़ती है। स्वास्थ्य (doctor-patient ratio fixed) में यह संभव नहीं — फिर भी वेतन अन्य क्षेत्रों के साथ बढ़ता है। इसीलिए Global Healthcare costs GDP से तेज बढ़ती हैं। Task-shifting (ASHA, nurse practitioners), telemedicine, और AI diagnostics इसका आंशिक समाधान हैं।"
+  },
+  {
+    "question": "भारत में 'आर्थिक सर्वेक्षण 2019' की 'Barefoot Economists' अवधारणा और 'VHND' (Village Health and Nutrition Day) के बीच क्या सैद्धांतिक संबंध है?",
+    "options": [
+      { "text": "कोई संबंध नहीं", "is_correct": false },
+      { "text": "दोनों Community Health Workers (ASHAs) को Economic Agents के रूप में स्थापित करते हैं जो Information Asymmetry और Last-Mile Delivery की समस्या हल करते हैं", "is_correct": true },
+      { "text": "VHND केवल टीकाकरण कार्यक्रम है", "is_correct": false },
+      { "text": "Barefoot Economists केवल वित्तीय सेवाओं के लिए हैं", "is_correct": false }
+    ],
+    "explanation": "Economic Survey 2019 (CEA Subramanian) ने 'Barefoot Health Workers' (ASHAs) को ग्रामीण Information Asymmetry हल करने वाले economic agents कहा। VHND (NRHM के तहत) आवधिक स्वास्थ्य शिविर हैं जहाँ ASHAs, ANMs demand-side और supply-side को जोड़ती हैं। Arrow's Information Asymmetry को Community Health Workers से कम किया जा सकता है।"
+  },
+  {
+    "question": "भारत में 'UHC Index' (Sustainable Development Goal 3.8) को मापने में कौन सी पद्धतिगत सीमाएं हैं?",
+    "options": [
+      { "text": "UHC Index बिल्कुल सटीक है", "is_correct": false },
+      { "text": "यह केवल Service Coverage मापता है, Financial Protection नहीं; Data quality, Sub-national heterogeneity और Quality of care को पर्याप्त रूप से नहीं पकड़ता", "is_correct": true },
+      { "text": "यह केवल मृत्यु दर मापता है", "is_correct": false },
+      { "text": "UHC Index राष्ट्रीय स्तर पर ही उपलब्ध है", "is_correct": false }
+    ],
+    "explanation": "WHO UHC Service Coverage Index (0-100) 16 tracer indicators से बना है लेकिन: (1) Financial Protection (CHE, impoverishment) अलग track होती है, (2) Quality dimension absent — दवाएं उपलब्ध लेकिन ineffective, (3) NFHS data की sampling limitations, (4) अंतरराज्यीय और जिला-स्तरीय भिन्नता छिप जाती है। India's score ~57-58/100 (2021) है।"
+  },
+  {
+    "question": "David Weil (2007) के 'Accounting for the Effect of Health on Economic Growth' शोध का भारत के लिए क्या निहितार्थ है?",
+    "options": [
+      { "text": "स्वास्थ्य आर्थिक विकास को प्रभावित नहीं करता", "is_correct": false },
+      { "text": "स्वास्थ्य पूंजी (Adult Survival Rate) में सुधार GDP per capita में 10-15% वृद्धि कर सकता है — भारत में TB, Anaemia, Malaria से श्रम उत्पादकता हानि अनुमानित GDP के 2-3%", "is_correct": true },
+      { "text": "केवल शिक्षा विकास को प्रभावित करती है", "is_correct": false },
+      { "text": "Weil ने भारत में स्वास्थ्य को नगण्य बताया", "is_correct": false }
+    ],
+    "explanation": "Weil (2007) ने Cross-country data से दिखाया कि Health Capital (micronutrient status, adult height as proxy) GDP per capita के 10-15% भिन्नता की व्याख्या करती है। भारत में: Anaemia (50%+ महिलाएं) से cognitive और physical productivity loss, TB से earning loss, Malaria से agricultural productivity loss। WHO Commission on Macroeconomics (2001) ने $1 स्वास्थ्य निवेश से $3-4 आर्थिक प्रतिफल का अनुमान लगाया।"
+  },
+  {
+    "question": "भारत में 'Tobacco Taxation' की स्वास्थ्य अर्थशास्त्र में 'Double Dividend' क्या है?",
+    "options": [
+      { "text": "दो कर लगाना", "is_correct": false },
+      { "text": "तम्बाकू कर से एक साथ दो लाभ: (1) उपभोग में कमी (स्वास्थ्य सुधार) और (2) राजकोषीय राजस्व (स्वास्थ्य वित्तपोषण के लिए)", "is_correct": true },
+      { "text": "निर्यात से दोहरा लाभ", "is_correct": false },
+      { "text": "उत्पादकों और उपभोक्ताओं दोनों को लाभ", "is_correct": false }
+    ],
+    "explanation": "Tobacco 'Double Dividend': (1) Price elasticity of demand for tobacco ~-0.4 (विकासशील देशों में -0.8) — कीमत 10% बढ़ने पर उपभोग 4-8% घटता है, (2) कर राजस्व स्वास्थ्य में पुनर्निवेश। WHO FCTC Article 6 और Bloomberg Foundation अनुशंसा करते हैं कि तम्बाकू कर उत्पाद की खुदरा कीमत का 75%+ होना चाहिए। भारत में अभी 52% है जो FCTC से कम।"
+  },
+  {
+    "question": "भारत में 'Technology Adoption' के संदर्भ में 'Leapfrogging' का स्वास्थ्य प्रणाली से क्या तात्पर्य है?",
+    "options": [
+      { "text": "पुरानी तकनीक से नई तकनीक में सीधे जाना", "is_correct": false },
+      { "text": "परंपरागत infrastructure-heavy models को छोड़कर mHealth, telemedicine, AI diagnostics से सीधे PHC delivery करना", "is_correct": true },
+      { "text": "विदेशी तकनीक आयात करना", "is_correct": false },
+      { "text": "तकनीक को अस्वीकार करना", "is_correct": false }
+    ],
+    "explanation": "Digital Leapfrogging: जैसे अफ्रीका ने landline phone छोड़कर mobile banking अपनाया, वैसे भारत ASHA-linked smartphone diagnostics, eSanjeevani telemedicine, AI-based TB/Cancer screening, CoWIN vaccination tracking से infrastructure gaps को bypass कर सकता है। यह Baumol's Cost Disease का डिजिटल समाधान भी है — technology से healthcare productivity बढ़ती है।"
+  },
+  {
+    "question": "भारत में 'Intergovernmental Fiscal Transfer' के संदर्भ में 'tied grants' और 'untied grants' में स्वास्थ्य की दृष्टि से क्या मूल तनाव है?",
+    "options": [
+      { "text": "कोई तनाव नहीं है", "is_correct": false },
+      { "text": "Tied grants (Centrally Sponsored Schemes) केंद्र की प्राथमिकताएं थोपते हैं जबकि Untied grants राज्यों को स्थानीय स्वास्थ्य जरूरतों पर व्यय की स्वायत्तता देते हैं", "is_correct": true },
+      { "text": "Untied grants सदैव बर्बाद होते हैं", "is_correct": false },
+      { "text": "Tied grants राज्यों की स्वायत्तता बढ़ाते हैं", "is_correct": false }
+    ],
+    "explanation": "Tension: NHM/NRHM (Tied) केंद्र-निर्धारित norms थोपते हैं जो Bihar और Kerala की अलग-अलग स्वास्थ्य जरूरतों के लिए अनुपयुक्त हो सकते हैं। 15वें Finance Commission ने Sector-specific grants दिए — partially tied। Untied (VHSC funds) से स्थानीय अनुकूलन बेहतर। Optimal: Performance-based conditional grants जो outcomes पर आधारित हों, inputs पर नहीं।"
+  },
+  {
+    "question": "भारत में 'Pharmaceutical Innovation Ecosystem' की राजनीतिक अर्थव्यवस्था में 'Access vs Innovation' द्वंद्व को किस ढांचे से समझाया जाता है?",
+    "options": [
+      { "text": "केवल WTO नियमों से", "is_correct": false },
+      { "text": "TRIPS Flexibilities (Compulsory Licensing, parallel imports, Bolar provision) बनाम Pharmaceutical FDI — यह Access-Innovation trade-off है जहाँ India की negotiating position 'developing country flexibilities' पर आधारित है", "is_correct": true },
+      { "text": "यह केवल तकनीकी मुद्दा है", "is_correct": false },
+      { "text": "India नवाचार को प्राथमिकता देती है", "is_correct": false }
+    ],
+    "explanation": "TRIPS Flexibilities: (1) Compulsory Licensing (Section 84-92 Patents Act) — भारत ने 2012 में Nexavar (cancer drug) का CL दिया, (2) Bolar provision (Section 107A) — patent expiry से पहले generic testing, (3) Parallel imports, (4) Section 3(d) anti-evergreening। TRIPS-Plus provisions (FTAs में) इन्हें कमजोर करते हैं। Access vs Innovation tension = Developing vs Developed world divide।"
+  },
+  {
+    "question": "भारत में 'National Health Accounts' (NHA) 2019-20 के अनुसार Total Health Expenditure (THE) का सर्वाधिक हिस्सा किसका है?",
+    "options": [
+      { "text": "केंद्र सरकार का", "is_correct": false },
+      { "text": "परिवारों का OOP (Out-of-Pocket) व्यय जो THE का ~48%", "is_correct": true },
+      { "text": "निजी बीमा", "is_correct": false },
+      { "text": "विदेशी सहायता", "is_correct": false }
+    ],
+    "explanation": "NHA 2019-20: India का THE ~₹7.2 लाख करोड़। Composition: (1) OOP ~47-48%, (2) Government (Centre+State) ~40%, (3) Private Insurance ~5%, (4) Employer schemes ~5%, (5) External aid <1%। OOP का इतना ऊंचा अनुपात (~5.9% of GDP) वित्तीय hardship का प्रमुख कारण है। UHC लक्ष्य: OOP को THE के 30% से नीचे लाना।"
+  },
+  {
+    "question": "Adam Wagstaff और Eddy van Doorslaer के 'Horizontal Equity' सिद्धांत का भारतीय स्वास्थ्य प्रणाली से क्या संबंध है?",
+    "options": [
+      { "text": "यह केवल यूरोपीय देशों के लिए है", "is_correct": false },
+      { "text": "Horizontal Equity (समान आवश्यकता वालों को समान उपचार) भारत में जाति, लिंग और आय-आधारित भेदभाव से कमजोर होती है", "is_correct": true },
+      { "text": "भारत में Horizontal Equity पूर्ण है", "is_correct": false },
+      { "text": "यह केवल वित्तीय सिद्धांत है", "is_correct": false }
+    ],
+    "explanation": "Wagstaff & van Doorslaer (1992) ने स्वास्थ्य इक्विटी के दो मानक बताए: Horizontal Equity (equal need = equal treatment) और Vertical Equity (unequal need = proportionally unequal treatment)। भारत में NFHS-5 दिखाता है: ST/SC, ग्रामीण, महिला, निम्न-आय वर्ग में ANC, Institutional delivery, Vaccination में systematic gaps हैं — Horizontal Equity का उल्लंघन।"
+  },
+  {
+    "question": "Arthur Daemmrich के 'Pharmacopolitics' ढांचे का भारत के दवा नियामक तंत्र (CDSCO) पर क्या अनुप्रयोग है?",
+    "options": [
+      { "text": "CDSCO पूर्णतः स्वतंत्र है", "is_correct": false },
+      { "text": "Regulatory Capture की प्रवृत्ति — CDSCO पर फार्मा उद्योग का प्रभाव, drug approvals में लचीलापन, और Parliamentary Standing Committee (2012) की आलोचनाएं", "is_correct": true },
+      { "text": "CDSCO केवल पारंपरिक दवाएं नियंत्रित करती है", "is_correct": false },
+      { "text": "भारत में कोई दवा नियामक नहीं है", "is_correct": false }
+    ],
+    "explanation": "Pharmacopolitics: दवा नीति में विज्ञान, राजनीति और उद्योग का अंतर्संबंध। CDSCO की आलोचनाएं: (1) Parliamentary Standing Committee 2012: 'Combination drugs approved without adequate safety data', (2) Clinical Trial controversies, (3) Industry-Regulator Revolving Door, (4) अपर्याप्त post-marketing surveillance। Drugs and Cosmetics Act 1940 पुराना — Drugs, Medical Devices and Cosmetics Bill reform लंबित।"
+  },
+  {
+    "question": "भारत में 'Fiscal Multiplier' का स्वास्थ्य व्यय में विशेष महत्व क्यों है और यह किन परिस्थितियों में अधिक प्रभावी होता है?",
+    "options": [
+      { "text": "स्वास्थ्य व्यय का Multiplier सदैव 1 होता है", "is_correct": false },
+      { "text": "स्वास्थ्य व्यय का Multiplier 1.5-2.5 अनुमानित है — recession में, ग्रामीण क्षेत्र में, और ASHA/ANM जैसे labor-intensive programmes में अधिक प्रभावी", "is_correct": true },
+      { "text": "Multiplier केवल infrastructure व्यय में होता है", "is_correct": false },
+      { "text": "स्वास्थ्य व्यय Multiplier नहीं होता", "is_correct": false }
+    ],
+    "explanation": "Fiscal Multiplier: ₹1 सरकारी व्यय से GDP में कितनी वृद्धि। IMF (2013) Blanchard & Leigh: Recession में multiplier >1.5। स्वास्थ्य पर: (1) Labor-intensive (ASHAs, nurses) → high local spending, (2) Rural health spending → कम leakage, उच्च marginal propensity to consume, (3) Long-term productivity gains। COVID stimulus में स्वास्थ्य व्यय > tax cuts more effective था।"
+  },
+  {
+    "question": "Anne Case और Angus Deaton की 'Deaths of Despair' (2015) अवधारणा का भारत के संदर्भ में कौन सा समानांतर स्थिति है?",
+    "options": [
+      { "text": "भारत में कोई समानांतर नहीं है", "is_correct": false },
+      { "text": "किसान आत्महत्याएं (Farmer Suicides) — agrarian distress, debt, और declining dignity से — 'Deaths of Despair' का भारतीय संस्करण", "is_correct": true },
+      { "text": "शहरी NCD महामारी", "is_correct": false },
+      { "text": "Medical Tourism का विस्तार", "is_correct": false }
+    ],
+    "explanation": "Case & Deaton ने US में Mid-life White Working Class की alcohol, opioids और suicide से बढ़ती मृत्यु को 'Deaths of Despair' कहा — economic dislocation और social meaning के नुकसान से। भारत में NCRB: प्रति वर्ष ~10,000-11,000 किसान आत्महत्याएं — debt, crop failure, declining agricultural incomes। यह 'Agrarian Distress as Deaths of Despair' है जो structural economic failures को प्रतिबिंबित करता है।"
+  },
+  {
+    "question": "भारत में 'National Medical Commission Act 2020' की राजनीतिक अर्थव्यवस्था में MCI (Medical Council of India) के विघटन का क्या आर्थिक तर्क था?",
+    "options": [
+      { "text": "MCI बहुत प्रभावी था", "is_correct": false },
+      { "text": "MCI में Regulatory Capture, भ्रष्टाचार और Medical Cartel behavior था जो medical colleges और doctors की supply artificially restrict करता था", "is_correct": true },
+      { "text": "NMC Act ने निजी मेडिकल कॉलेज बंद किए", "is_correct": false },
+      { "text": "MCI का विघटन WHO की मांग पर हुआ", "is_correct": false }
+    ],
+    "explanation": "MCI (1934-2020) पर आरोप: (1) Regulatory Capture — सदस्य वही डॉक्टर जिन्हें नियंत्रित करना था, (2) Medical college approvals में corruption, (3) Artificially restricted supply बनाए रखना (incumbent protection), (4) Transparency का अभाव। NMC Act 2020: NMC, National Exit Test (NEXT), National Medical Register — अधिक professional और transparent regulatory framework।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य में निवेश' को लेकर 'उपभोग दृष्टिकोण' (Consumption View) और 'निवेश दृष्टिकोण' (Investment View) में Martin Grossman (1972) के 'Demand for Health' मॉडल का क्या योगदान है?",
+    "options": [
+      { "text": "Grossman ने कहा स्वास्थ्य केवल उपभोग है", "is_correct": false },
+      { "text": "Grossman का मॉडल स्वास्थ्य को durable capital stock मानता है जिसमें निवेश से healthy time मिलता है (उत्पादक और उपभोग दोनों) — यह Human Capital Theory को स्वास्थ्य में लागू करता है", "is_correct": true },
+      { "text": "Grossman ने निजी बीमा का समर्थन किया", "is_correct": false },
+      { "text": "Grossman का मॉडल केवल अमीर देशों पर लागू है", "is_correct": false }
+    ],
+    "explanation": "Grossman (1972): स्वास्थ्य एक durable capital stock है जो depreciate होता है (aging, disease) और investment से बढ़ाया जा सकता है (medical care, education, exercise)। Healthy time = direct utility (consumption) + work time (investment/production)। Higher education → higher efficiency in health production। यह model बताता है क्यों शिक्षित लोग स्वास्थ्यकर व्यवहार अपनाते हैं।"
+  },
+  {
+    "question": "भारत में Pradhan Mantri Ayushman Bharat Digital Mission (ABDM) की अर्थव्यवस्था में 'Platform Economy' की दृष्टि से क्या महत्व और जोखिम हैं?",
+    "options": [
+      { "text": "ABDM केवल बीमा प्रबंधन है", "is_correct": false },
+      { "text": "ABDM Health ID, PHR, HFRIS और HDAF से Digital Health Ecosystem बनाता है — Interoperability और Network Effects लाभ, लेकिन data privacy, digital divide और commercial platform capture के जोखिम", "is_correct": true },
+      { "text": "ABDM से OOP बढ़ेगा", "is_correct": false },
+      { "text": "ABDM केवल सरकारी अस्पतालों के लिए है", "is_correct": false }
+    ],
+    "explanation": "ABDM (2021): Ayushman Bharat Health Account (ABHA ID), Health Facility Registry, Healthcare Professional Registry, Personal Health Records। Platform Economy benefits: Network effects (अधिक users = अधिक value), interoperability, efficiency। Risks: (1) Data privacy (PDPB 2023 framework), (2) Commercial data monetization, (3) Digital divide (60% rural no smartphone), (4) Big Tech (Google, Amazon) का healthcare data में प्रवेश।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य क्षेत्र में FDI' की राजनीतिक अर्थव्यवस्था में 'Commercialization vs Equity' तनाव को किस अनुभवजन्य साक्ष्य से समझाया जा सकता है?",
+    "options": [
+      { "text": "FDI से स्वास्थ्य हमेशा बेहतर होता है", "is_correct": false },
+      { "text": "Corporate hospitals में FDI से Tier-1 शहरों में premium services बढ़ी लेकिन OOP बढ़ा, ग्रामीण क्षेत्रों में पहुँच नहीं बढ़ी — Market Segmentation और Cherry Picking की प्रवृत्ति", "is_correct": true },
+      { "text": "FDI से ग्रामीण स्वास्थ्य बेहतर हुआ", "is_correct": false },
+      { "text": "FDI का स्वास्थ्य पर कोई प्रभाव नहीं", "is_correct": false }
+    ],
+    "explanation": "Evidence: Berman & Ahuja (2008) और WHO studies: Private hospital FDI (Apollo, Fortis, Max) ने Metro healthcare quality बढ़ाई लेकिन: (1) Urban-rural divide और बढ़ी, (2) 'Cream skimming' — लाभदायक insured patients सेवा, (3) Medical inflation, (4) Regulatory arbitrage। PM-JAY में empaneled private hospitals का 80% Tier-1/2 cities में। Solution: Conditional FDI (rural 30% beds), regulation of prices और Cross-subsidy mandates।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य अर्थशास्त्र' के संदर्भ में 'Kerala Paradox' का अर्थशास्त्रीय विश्लेषण क्या है?",
+    "options": [
+      { "text": "केरल में GDP अधिक है इसलिए स्वास्थ्य अच्छा है", "is_correct": false },
+      { "text": "केरल ने कम GDP पर उच्च स्वास्थ्य परिणाम प्राप्त किए — यह दिखाता है कि स्वास्थ्य आयते Income के अलावा Public Spending, Social Capital, Gender Equity और Political Mobilization से भी निर्धारित होती हैं", "is_correct": true },
+      { "text": "केरल में स्वास्थ्य बुरा है", "is_correct": false },
+      { "text": "Kerala Paradox एक मिथक है", "is_correct": false }
+    ],
+    "explanation": "Kerala Paradox (Richard Franke & Barbara Chasin): 1980s में केरल की प्रति व्यक्ति आय राष्ट्रीय औसत से कम थी लेकिन IMR, Life expectancy, Literacy सर्वोत्तम थे। Explanatory factors: (1) 1970s land reform → economic equity, (2) Strong public health and education investment, (3) Women's empowerment (90%+ female literacy), (4) Left political mobilization, (5) NRI remittances। Amartya Sen ने इसे 'social opportunity' model कहा।"
+  }
+]

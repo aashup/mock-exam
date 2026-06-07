@@ -1,0 +1,662 @@
+[
+  {
+    "question": "पियरे बोर्डियू (Pierre Bourdieu) की 'हैबिटस' (Habitus) अवधारणा स्वास्थ्य व्यवहार को कैसे समझाती है?",
+    "options": [
+      { "text": "वर्ग-विशिष्ट स्वास्थ्य प्रथाएं और प्रवृत्तियाँ समाजीकरण द्वारा आंतरिकृत होकर 'दूसरी प्रकृति' बन जाती हैं", "is_correct": true },
+      { "text": "स्वास्थ्य केवल आनुवंशिकी से निर्धारित होता है", "is_correct": false },
+      { "text": "स्वास्थ्य व्यवहार पूरी तरह व्यक्तिगत चुनाव है", "is_correct": false },
+      { "text": "हैबिटस केवल खेल-कूद से संबंधित है", "is_correct": false }
+    ],
+    "explanation": "Bourdieu की Habitus: दीर्घकालिक समाजीकरण से व्यक्ति में जो स्वचालित प्रवृत्तियाँ, रुचियाँ और मानसिक ढाँचे बनते हैं। निम्न-वर्ग में 'Masculine', fatalistic स्वास्थ्य habitus (व्यायाम कम, धूम्रपान अधिक) और उच्च-वर्ग में 'health-conscious' habitus होती है।"
+  },
+  {
+    "question": "भारत में 'सामाजिक पूंजी' (Social Capital) और स्वास्थ्य के बीच Putnam के ढाँचे में क्या संबंध है?",
+    "options": [
+      { "text": "उच्च सामाजिक पूंजी (नेटवर्क, विश्वास, पारस्परिकता) वाले समुदायों में बेहतर स्वास्थ्य परिणाम होते हैं", "is_correct": true },
+      { "text": "सामाजिक पूंजी केवल आर्थिक विकास से जुड़ी है", "is_correct": false },
+      { "text": "अधिक सामाजिक पूंजी से बीमारी बढ़ती है", "is_correct": false },
+      { "text": "सामाजिक पूंजी और स्वास्थ्य असंबंधित हैं", "is_correct": false }
+    ],
+    "explanation": "Robert Putnam (2000) ने दिखाया कि Bonding (समूह के भीतर) और Bridging (समूहों के बीच) social capital स्वास्थ्य जानकारी प्रसार, पारस्परिक सहयोग और स्वास्थ्य सेवाओं तक पहुँच में सहायक होती है। Kerala में high social capital और better health outcomes इसका उदाहरण है।"
+  },
+  {
+    "question": "एंटोनी ग्राम्शी (Antonio Gramsci) की 'सांस्कृतिक आधिपत्य' (Cultural Hegemony) की अवधारणा स्वास्थ्य प्रणाली पर कैसे लागू होती है?",
+    "options": [
+      { "text": "प्रभुत्वशाली वर्ग का जैव-चिकित्सा मॉडल (Biomedical Model) को 'सामान्य ज्ञान' के रूप में स्थापित करना और वैकल्पिक उपचार को अवैध बनाना", "is_correct": true },
+      { "text": "ग्राम्शी ने स्वास्थ्य का अध्ययन नहीं किया", "is_correct": false },
+      { "text": "बायोमेडिकल मॉडल हमेशा से सर्वोच्च था", "is_correct": false },
+      { "text": "Hegemony केवल राजनीतिक क्षेत्र में है", "is_correct": false }
+    ],
+    "explanation": "Gramsci की Hegemony: शासक वर्ग की विचारधारा को सहमति से स्वीकार करवाना। स्वास्थ्य में: बायोमेडिकल दृष्टिकोण को 'scientific' और 'universal' घोषित करना जबकि पारंपरिक/लोक चिकित्सा को 'quackery' कहना। AYUSH को मुख्यधारा में लाना इस hegemony को चुनौती है।"
+  },
+  {
+    "question": "Erving Goffman की 'कुल संस्था' (Total Institution) की अवधारणा का उपयोग मानसिक अस्पतालों के विश्लेषण में कैसे होता है?",
+    "options": [
+      { "text": "मानसिक अस्पताल व्यक्ति की पहचान तोड़कर 'रोगी' की नई पहचान थोपते हैं और बाहरी दुनिया से काट देते हैं", "is_correct": true },
+      { "text": "Total Institutions चिकित्सा के लिए आदर्श हैं", "is_correct": false },
+      { "text": "Goffman ने अस्पतालों की प्रशंसा की", "is_correct": false },
+      { "text": "यह अवधारणा केवल जेल पर लागू है", "is_correct": false }
+    ],
+    "explanation": "Goffman ('Asylums', 1961) ने मानसिक अस्पतालों को Total Institution कहा — जहाँ व्यक्ति की पूर्व पहचान ('Mortification of Self') नष्ट होती है, दिनचर्या संस्था नियंत्रित करती है, और रोगी-कर्मचारी का शक्ति असंतुलन होता है। इससे anti-psychiatry आंदोलन को बल मिला।"
+  },
+  {
+    "question": "भारत में 'जाति और स्वास्थ्य' के संबंध में NFHS-5 के क्या निष्कर्ष हैं?",
+    "options": [
+      { "text": "SC/ST बच्चों में स्टंटिंग, एनीमिया और IMR उच्च जातियों की तुलना में काफी अधिक है", "is_correct": true },
+      { "text": "सभी जातियों में समान स्वास्थ्य परिणाम हैं", "is_correct": false },
+      { "text": "SC/ST में बेहतर स्वास्थ्य है", "is_correct": false },
+      { "text": "NFHS जाति डेटा नहीं देता", "is_correct": false }
+    ],
+    "explanation": "NFHS-5 (2019-21): SC/ST बच्चों में Stunting, Wasting और Underweight General वर्ग से काफी अधिक है। दलित महिलाओं में ANC coverage और Institutional delivery कम है। यह 'Caste as Social Determinant of Health' का प्रमाण है।"
+  },
+  {
+    "question": "Marx के 'अलगाव' (Alienation) की अवधारणा का स्वास्थ्य कार्यकर्ताओं पर क्या अनुप्रयोग है?",
+    "options": [
+      { "text": "उत्पादन प्रक्रिया से अलगाव की तरह, स्वास्थ्य कार्यकर्ता रोगी देखभाल से अलग हो जाते हैं — Burnout और Depersonalization", "is_correct": true },
+      { "text": "Marx ने केवल कारखाना मजदूरों का अध्ययन किया", "is_correct": false },
+      { "text": "Alienation स्वास्थ्य में लागू नहीं होता", "is_correct": false },
+      { "text": "स्वास्थ्यकर्मी कभी Alienated नहीं होते", "is_correct": false }
+    ],
+    "explanation": "Marx की Alienation: (1) Product से, (2) Production process से, (3) Species-being से, (4) Fellow workers से। Healthcare में: RMP को assembly-line medicine करने पर रोगी की मानवीय देखभाल से अलगाव होता है — जो Burnout, Compassion Fatigue और Medical Errors में योगदान देता है।"
+  },
+  {
+    "question": "भारत में 'जाति-आधारित स्वास्थ्य असमानता' को समझाने में 'Intersectionality' ढांचे का उपयोग क्यों महत्वपूर्ण है?",
+    "options": [
+      { "text": "यह जाति, वर्ग, लिंग और भूगोल की परस्पर क्रिया से उत्पन्न बहुस्तरीय वंचना को दर्शाता है", "is_correct": true },
+      { "text": "Intersectionality केवल अमेरिका में प्रासंगिक है", "is_correct": false },
+      { "text": "यह केवल लिंग भेद का अध्ययन करता है", "is_correct": false },
+      { "text": "Caste को Intersectionality से नहीं समझा जा सकता", "is_correct": false }
+    ],
+    "explanation": "Kimberlé Crenshaw की Intersectionality: दलित महिला की स्वास्थ्य स्थिति = जाति + वर्ग + लिंग + ग्रामीण भूगोल की परस्पर क्रिया। NFHS-5: दलित ग्रामीण महिला में Anemia दर सर्वाधिक — यह किसी एक axis से नहीं समझाया जा सकता।"
+  },
+  {
+    "question": "भारत में 'ग्रामीण समाज परिवर्तन' (Rural Social Change) में 'Dominant Caste' की भूमिका क्या है?",
+    "options": [
+      { "text": "Dominant Caste ग्रामीण राजनीतिक अर्थव्यवस्था को नियंत्रित करती है और भूमि सुधारों की प्रभावशीलता को सीमित करती है", "is_correct": true },
+      { "text": "Dominant Caste सदैव सामाजिक परिवर्तन में सहायक है", "is_correct": false },
+      { "text": "Dominant Caste का ग्रामीण परिवर्तन से कोई संबंध नहीं", "is_correct": false },
+      { "text": "Dominant Caste केवल उत्तर भारत में है", "is_correct": false }
+    ],
+    "explanation": "M.N. Srinivas: ग्राम में Dominant Caste भूमि, पानी, रोजगार और राजनीति नियंत्रित करती है। Bhoodan आंदोलन और भूमि सुधार इन्हीं Dominant Castes के प्रतिरोध से प्रभावित रहे। स्वास्थ्य सेवाओं तक पहुँच भी caste hierarchy से प्रभावित होती है।"
+  },
+  {
+    "question": "Talcott Parsons के 'रुग्ण भूमिका' (Sick Role) मॉडल की Feminist समाजशास्त्रियों ने क्या आलोचना की?",
+    "options": [
+      { "text": "Sick Role मॉडल पुरुष-केंद्रित है — महिलाओं की chronic illness, देखभाल भूमिका और health-seeking behavior को नजरअंदाज करता है", "is_correct": true },
+      { "text": "Feminist ने Sick Role को उचित माना", "is_correct": false },
+      { "text": "Sick Role का Feminism से कोई संबंध नहीं", "is_correct": false },
+      { "text": "Parsons ने महिला स्वास्थ्य का पूर्ण अध्ययन किया", "is_correct": false }
+    ],
+    "explanation": "Parsons का Sick Role: Exemption + Helplessness + Recovery का दायित्व — यह तीव्र बीमारी (Acute illness) पर लागू होता है। Feminist critique: (1) Chronic illness में complete recovery संभव नहीं, (2) महिलाओं की Caregiver भूमिका Sick Role से कैसे संगत? (3) Women's health conditions (menstruation, menopause) को medicalize किया जाता है।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य और जेंडर' के अंतर्संबंध में 'Missing Women' की अवधारणा किसने दी?",
+    "options": [
+      { "text": "अमर्त्य सेन ने — लिंग-भेद से मृत्यु दर अधिक होने के कारण गायब हुई महिलाएं", "is_correct": true },
+      { "text": "मार्था नसबाम ने", "is_correct": false },
+      { "text": "बेटी फ्रीडन ने", "is_correct": false },
+      { "text": "सिमोन द बोवोआर ने", "is_correct": false }
+    ],
+    "explanation": "Amartya Sen (1990) ने 'Missing Women' की अवधारणा दी — यदि South Asia और China में पुरुषों और महिलाओं की समान जैविक जीवन-प्रत्याशा होती तो लगभग 10 करोड़ 'गायब' महिलाएं होतीं। इनकी मृत्यु का कारण: कन्या भ्रूण हत्या, बाल उपेक्षा, कुपोषण और स्वास्थ्य सेवाओं का असमान वितरण।"
+  },
+  {
+    "question": "फ्रैंकफर्ट स्कूल (Frankfurt School) की 'आलोचनात्मक सिद्धांत' (Critical Theory) का स्वास्थ्य शिक्षा में क्या अनुप्रयोग है?",
+    "options": [
+      { "text": "स्वास्थ्य शिक्षा को मुक्तिदायी (Emancipatory) होना चाहिए — रोगी को 'passive receiver' नहीं बल्कि critical thinker बनाना चाहिए", "is_correct": true },
+      { "text": "Critical Theory स्वास्थ्य शिक्षा से असंबंधित है", "is_correct": false },
+      { "text": "Frankfurt School ने केवल मीडिया का अध्ययन किया", "is_correct": false },
+      { "text": "Critical Theory बायोमेडिकल मॉडल का समर्थन करती है", "is_correct": false }
+    ],
+    "explanation": "Freire की 'Pedagogy of the Oppressed' + Frankfurt Critical Theory: स्वास्थ्य शिक्षा 'Banking Model' (सूचना डालना) नहीं होनी चाहिए। Critical Health Education रोगी को सामाजिक-राजनीतिक संदर्भ समझने और स्वास्थ्य पर Power structures के प्रभाव को पहचानने में सक्षम बनाती है।"
+  },
+  {
+    "question": "भारत में 'भूमि सुधार' (Land Reforms) का स्वास्थ्य असमानता पर क्या प्रभाव पड़ा?",
+    "options": [
+      { "text": "Kerala और West Bengal में भूमि सुधारों के बाद ग्रामीण गरीबी और स्वास्थ्य असमानता में कमी आई", "is_correct": true },
+      { "text": "भूमि सुधार से स्वास्थ्य में कोई फर्क नहीं पड़ा", "is_correct": false },
+      { "text": "भूमि सुधार से स्वास्थ्य असमानता बढ़ी", "is_correct": false },
+      { "text": "भूमि सुधार केवल आर्थिक मुद्दा है", "is_correct": false }
+    ],
+    "explanation": "Kerala Land Reforms Act 1969 और West Bengal Operation Barga (1978) ने छोटे किसानों को भूमि देकर ग्रामीण असमानता घटाई। इससे आय, पोषण और स्वास्थ्य सेवा उपयोग में सुधार हुआ — 'Kerala Model' का एक आयाम।"
+  },
+  {
+    "question": "Michel Foucault की 'चिकित्सीय दृष्टि' (Medical Gaze) की अवधारणा रोगी-चिकित्सक संबंध में क्या दर्शाती है?",
+    "options": [
+      { "text": "चिकित्सक रोगी को एक 'case' या 'body' के रूप में देखता है, न कि पूर्ण व्यक्ति के रूप में — यह शक्ति का अभ्यास है", "is_correct": true },
+      { "text": "Medical Gaze रोगी के लिए लाभदायक है", "is_correct": false },
+      { "text": "Foucault ने चिकित्सा का समर्थन किया", "is_correct": false },
+      { "text": "Medical Gaze केवल ऑपरेशन में होती है", "is_correct": false }
+    ],
+    "explanation": "Foucault ('The Birth of the Clinic', 1963): Clinical gaze ने रोगी को व्यक्ति से 'disease case' में बदल दिया। 18वीं सदी की क्लिनिकल परंपरा ने 'pathological anatomy' को केंद्रीय बनाया। यह Medical Power का वह रूप है जो रोगी की आवाज को हाशिए पर ले जाता है।"
+  },
+  {
+    "question": "भारत में 'अनौपचारिक अर्थव्यवस्था' (Informal Economy) और महिला स्वास्थ्य के बीच क्या संबंध है?",
+    "options": [
+      { "text": "अनौपचारिक क्षेत्र में काम करने वाली महिलाओं के पास सामाजिक सुरक्षा, मातृत्व लाभ और नियमित आय नहीं होती जो स्वास्थ्य को प्रभावित करती है", "is_correct": true },
+      { "text": "अनौपचारिक क्षेत्र महिला स्वास्थ्य के लिए बेहतर है", "is_correct": false },
+      { "text": "अनौपचारिक क्षेत्र और महिला स्वास्थ्य असंबंधित हैं", "is_correct": false },
+      { "text": "सभी अनौपचारिक श्रमिकों को ESIC मिलती है", "is_correct": false }
+    ],
+    "explanation": "भारत में 90%+ महिला श्रम बल अनौपचारिक क्षेत्र में है। इन्हें: ESIC नहीं, Maternity Benefit नहीं (Maternity Benefit Act 2017 केवल 10+ employees की कंपनियों पर), अनिश्चित आय, घरेलू काम की दोहरी भूमिका। यह Occupational Health + Reproductive Health दोनों को प्रभावित करता है।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य सेवाओं का व्यावसायीकरण' (Commercialization of Healthcare) के समाजशास्त्रीय परिणाम क्या हैं?",
+    "options": [
+      { "text": "स्वास्थ्य एक 'commodity' बन जाती है — गरीबों की पहुँच घटती है, OOP बढ़ता है और देखभाल की नैतिकता कमजोर होती है", "is_correct": true },
+      { "text": "Commercialization से सभी को बेहतर सेवा मिलती है", "is_correct": false },
+      { "text": "इससे OOP कम होता है", "is_correct": false },
+      { "text": "Commercialization का कोई सामाजिक प्रभाव नहीं", "is_correct": false }
+    ],
+    "explanation": "Ivan Illich ('Medical Nemesis', 1975): Medicalization और Commercialization से 'Iatrogenic' (चिकित्सा-जनित) बीमारी बढ़ती है और लोगों की खुद देखभाल की क्षमता घटती है। भारत में Private hospital chains ने Tier-1 city में quality बढ़ाई लेकिन affordability और equity घटाई।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य और शिक्षा' के बीच समाजशास्त्रीय संबंध को Grossman Model से कैसे समझाएं?",
+    "options": [
+      { "text": "शिक्षा से स्वास्थ्य उत्पादन की दक्षता (Efficiency) बढ़ती है — शिक्षित व्यक्ति समान संसाधनों से अधिक स्वास्थ्य 'उत्पन्न' करता है", "is_correct": true },
+      { "text": "शिक्षा और स्वास्थ्य पूरी तरह असंबंधित हैं", "is_correct": false },
+      { "text": "शिक्षा से केवल आय बढ़ती है", "is_correct": false },
+      { "text": "Grossman Model केवल आर्थिक है", "is_correct": false }
+    ],
+    "explanation": "Grossman (1972): Education → बेहतर स्वास्थ्य जानकारी + जागरूकता + निवारक व्यवहार + चिकित्सा सेवाओं का कुशल उपयोग। NFHS-5 में: माँ की शिक्षा के साथ बच्चों की Stunting कम और Immunization coverage अधिक होती है।"
+  },
+  {
+    "question": "'Medicalization of Society' (Ivan Illich, 1975) की अवधारणा का भारत के संदर्भ में क्या प्रासंगिकता है?",
+    "options": [
+      { "text": "सामान्य जीवन-अवस्थाओं (गर्भावस्था, बुढ़ापा, दुःख) को चिकित्सीय समस्याओं में बदल देना और 'उपभोक्ता रोगी' बनाना", "is_correct": true },
+      { "text": "Medicalization से सभी को लाभ होता है", "is_correct": false },
+      { "text": "यह केवल विकसित देशों में होता है", "is_correct": false },
+      { "text": "Illich ने चिकित्सा का समर्थन किया", "is_correct": false }
+    ],
+    "explanation": "Medicalization: प्रसव → hospitalization; बुढ़ापा → geriatric disease; दुःख → depression (DSM)। भारत में: C-section rates का बढ़ना (Kerala में 60%+), Normal delivery की जगह medical interventions, और pharmaceutical industry का विस्तार — Medicalization के उदाहरण।"
+  },
+  {
+    "question": "भारत में 'जनजातीय विस्थापन' (Tribal Displacement) और स्वास्थ्य पर सामाजिक-आर्थिक प्रभाव क्या है?",
+    "options": [
+      { "text": "विस्थापन से आजीविका, पहचान, सामाजिक नेटवर्क और पारंपरिक ज्ञान का नाश होता है जो 'विस्थापन-जनित रोग' उत्पन्न करता है", "is_correct": true },
+      { "text": "विस्थापन से जनजातियों को बेहतर अवसर मिलते हैं", "is_correct": false },
+      { "text": "विस्थापन केवल आर्थिक मुद्दा है", "is_correct": false },
+      { "text": "विस्थापन का स्वास्थ्य पर कोई प्रभाव नहीं", "is_correct": false }
+    ],
+    "explanation": "Narmada Dam, Mining, Tiger Reserves से होने वाले जनजातीय विस्थापन के परिणाम: पारंपरिक जड़ी-बूटी ज्ञान खोना, कुपोषण बढ़ना, TB-Malaria का exposure बढ़ना, मानसिक स्वास्थ्य समस्याएं, और सामाजिक विघटन। FRA 2006 इनके वन अधिकार देता है।"
+  },
+  {
+    "question": "भारत में 'नव-उदारवाद' (Neo-liberalism) और सार्वजनिक स्वास्थ्य व्यय के बीच क्या तनाव है?",
+    "options": [
+      { "text": "Neo-liberal नीतियाँ सरकारी व्यय में कटौती, निजीकरण और User fees को प्रोत्साहित करती हैं जो universal health access को कमजोर करती हैं", "is_correct": true },
+      { "text": "Neo-liberalism से स्वास्थ्य सेवाएं बेहतर होती हैं", "is_correct": false },
+      { "text": "Neo-liberalism केवल व्यापार नीति है", "is_correct": false },
+      { "text": "1991 के बाद स्वास्थ्य में सुधार ही हुआ", "is_correct": false }
+    ],
+    "explanation": "1991 के बाद: LPG reforms → GDP growth लेकिन health spending नहीं बढ़ी। SAP की तर्ज पर fiscal consolidation ने state health expenditure को GDP के 0.9-1.2% पर सीमित रखा। NHP 2017 का 2.5% GDP target अभी भी अप्राप्त है।"
+  },
+  {
+    "question": "संरचनात्मक कार्यवाद (Structural Functionalism) की दृष्टि से 'स्वास्थ्य संस्था' (Health Institution) का क्या कार्य है?",
+    "options": [
+      { "text": "समाज के सदस्यों को स्वस्थ और उत्पादक बनाए रखकर सामाजिक व्यवस्था का पुनरुत्पादन करना", "is_correct": true },
+      { "text": "केवल व्यक्तिगत उपचार", "is_correct": false },
+      { "text": "लाभ कमाना", "is_correct": false },
+      { "text": "सामाजिक नियंत्रण लागू करना", "is_correct": false }
+    ],
+    "explanation": "Parsons के Functionalism में स्वास्थ्य संस्था का Manifest Function: रोगियों को ठीक करना। Latent Functions: (1) सामाजिक नियंत्रण (Sick Role), (2) श्रम बल को उत्पादक बनाए रखना, (3) चिकित्सक की सामाजिक प्रतिष्ठा को पुनर्उत्पादित करना।"
+  },
+  {
+    "question": "भारत में 'अनुसूचित जनजाति और वन अधिकार' (Forest Rights Act 2006) का स्वास्थ्य से क्या संबंध है?",
+    "options": [
+      { "text": "वन पर अधिकार मिलने से जनजातीय समुदायों को औषधीय पौधे, पोषण और आजीविका के साथ-साथ स्वास्थ्य निर्धारक मिलते हैं", "is_correct": true },
+      { "text": "FRA केवल भूमि अधिकार का कानून है", "is_correct": false },
+      { "text": "FRA का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false },
+      { "text": "FRA से जनजातियों का विस्थापन बढ़ा", "is_correct": false }
+    ],
+    "explanation": "FRA 2006 जनजातियों को वन भूमि पर निवास, खेती और Minor Forest Produce (MFP — औषधीय पौधे, तेंदू पत्ता) का अधिकार देता है। MFP से आजीविका → पोषण → स्वास्थ्य। Community Forest Rights से भी PHC तक पहुँच में सुधार हुआ।"
+  },
+  {
+    "question": "भारत में 'COVID-19 और सामाजिक असमानता' पर क्या अवलोकन किया गया?",
+    "options": [
+      { "text": "COVID-19 ने मौजूदा जाति, वर्ग, लिंग और प्रवासी श्रमिक असमानताओं को उजागर और बढ़ाया", "is_correct": true },
+      { "text": "COVID-19 से सामाजिक असमानता घटी", "is_correct": false },
+      { "text": "COVID-19 का समान प्रभाव सभी पर था", "is_correct": false },
+      { "text": "COVID-19 केवल अमीरों को हुआ", "is_correct": false }
+    ],
+    "explanation": "COVID-19 ने दिखाया: (1) प्रवासी मजदूरों पर असंगत बोझ — 'Reverse Migration', (2) अनौपचारिक श्रमिकों को आर्थिक नुकसान, (3) SC/ST समुदायों में टीकाकरण देरी, (4) महिलाओं पर Domestic Violence वृद्धि, (5) Online education में Digital Divide।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य सेवा प्रदाताओं का ग्रामीण से शहरी प्रवास' किस सामाजिक-आर्थिक घटना का परिणाम है?",
+    "options": [
+      { "text": "पुश-पुल कारक: ग्रामीण में कम सुविधाएं, कम वेतन, अलगाव vs शहरी में उच्च वेतन, बेहतर जीवन गुणवत्ता", "is_correct": true },
+      { "text": "ग्रामीण डॉक्टरों की प्राथमिकता", "is_correct": false },
+      { "text": "सरकारी आदेश", "is_correct": false },
+      { "text": "ग्रामीण क्षेत्रों में रोगियों की कमी", "is_correct": false }
+    ],
+    "explanation": "Rural-Urban Health Worker Migration: Push factors — ग्रामीण एकांत, limited professional development, low salary, poor infrastructure; Pull factors — Urban high salary, specialty practice, better schools for children। NRHM ने Rural retention incentives, Contractual doctors और DEIC जैसे उपाय किए।"
+  },
+  {
+    "question": "भारत में 'जेंडर और पोषण' के अंतर्संबंध में महिलाओं में एनीमिया का मुख्य सामाजिक कारण क्या है?",
+    "options": [
+      { "text": "पितृसत्तात्मक खाद्य वितरण में महिलाओं को अंतिम खाने का रिवाज और बार-बार गर्भावस्था", "is_correct": true },
+      { "text": "महिलाओं की जैविक कमजोरी", "is_correct": false },
+      { "text": "केवल आयरन की कमी", "is_correct": false },
+      { "text": "महिलाओं का कम शारीरिक श्रम", "is_correct": false }
+    ],
+    "explanation": "भारत में 57% गर्भवती महिलाएं एनीमिक (NFHS-5)। सामाजिक कारण: (1) 'Eating last and least' — पितृसत्तात्मक खाद्य वितरण, (2) मासिक धर्म से खून की कमी + कम Dietary Iron, (3) कम उम्र में विवाह → बार-बार गर्भावस्था, (4) Open defecation से intestinal parasites।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य शिक्षा' और 'स्वास्थ्य साक्षरता' (Health Literacy) में क्या अंतर है?",
+    "options": [
+      { "text": "Health Education जानकारी देती है; Health Literacy व्यक्ति की जानकारी समझने, मूल्यांकन करने और उपयोग करने की क्षमता है", "is_correct": true },
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Health Literacy केवल पढ़ने की क्षमता है", "is_correct": false },
+      { "text": "Health Education अधिक महत्वपूर्ण है", "is_correct": false }
+    ],
+    "explanation": "WHO की Health Literacy definition (Nutbeam, 1998): Functional (basic reading/writing), Communicative/Interactive, और Critical Health Literacy। NFHS-5: कम शिक्षित महिलाओं में ANC और Immunization के बारे में misconceptions अधिक — Health Literacy का सामाजिक महत्व।"
+  },
+  {
+    "question": "भारत में 'LGBTQ+ समुदाय' की स्वास्थ्य विशिष्ट चुनौतियाँ क्या हैं?",
+    "options": [
+      { "text": "सामाजिक कलंक, भेदभाव, hidden identity, healthcare में homophobia और mental health distress", "is_correct": true },
+      { "text": "केवल HIV/AIDS", "is_correct": false },
+      { "text": "LGBTQ+ को कोई विशेष स्वास्थ्य चुनौती नहीं", "is_correct": false },
+      { "text": "केवल शारीरिक स्वास्थ्य समस्याएं", "is_correct": false }
+    ],
+    "explanation": "LGBTQ+ health challenges: (1) Mental health — depression, anxiety (Minority Stress Model), (2) HIV/STI risk, (3) Healthcare provider homophobia से care-avoidance, (4) Identity concealment → delayed diagnosis। Navtej Johar v. UOI (2018) SC ने Section 377 रद्द कर महत्वपूर्ण कदम उठाया।"
+  },
+  {
+    "question": "भारत में 'पारंपरिक चिकित्सा पद्धतियाँ' (AYUSH) की सामाजिक स्वीकृति का क्या कारण है?",
+    "options": [
+      { "text": "सांस्कृतिक परिचय, सुलभता, कम लागत, और बायोमेडिकल दवाओं के दुष्प्रभावों से बचाव की इच्छा", "is_correct": true },
+      { "text": "AYUSH अधिक वैज्ञानिक है", "is_correct": false },
+      { "text": "AYUSH केवल Gold Standard treatment है", "is_correct": false },
+      { "text": "सरकारी जबरन थोपना", "is_correct": false }
+    ],
+    "explanation": "AYUSH (Ayurveda, Yoga, Unani, Siddha, Homeopathy) की सामाजिक स्वीकृति: (1) Cultural legitimacy, (2) Geographic access — AYUSH practitioners ग्रामीण क्षेत्रों में अधिक, (3) Lower cost, (4) Medical pluralism — लोग both systems use करते हैं (Complementary not alternative)।"
+  },
+  {
+    "question": "भारत में 'वृद्ध देखभाल' (Elder Care) की सामाजिक-जनसांख्यिकीय चुनौती क्या है?",
+    "options": [
+      { "text": "एकल परिवार वृद्धि, प्रवासन से युवाओं का अनुपस्थित होना, और Demographic Ageing से 60+ जनसंख्या का बढ़ना", "is_correct": true },
+      { "text": "वृद्ध जनसंख्या घट रही है", "is_correct": false },
+      { "text": "संयुक्त परिवार मजबूत हो रहा है", "is_correct": false },
+      { "text": "वृद्ध देखभाल के लिए पर्याप्त संस्थाएं हैं", "is_correct": false }
+    ],
+    "explanation": "India में 60+ जनसंख्या 2011 में 10.4 करोड़ थी, 2050 तक 32 करोड़ होगी। Nuclear family, Youth migration, Pension system का अभाव, Geriatric healthcare का अभाव — Elder Care का संकट। Maintenance and Welfare of Parents and Senior Citizens Act 2007 इनके लिए कानूनी सुरक्षा देता है।"
+  },
+  {
+    "question": "भारत में 'मानसिक स्वास्थ्य' और 'सामाजिक वर्ग' के बीच Hollingshead & Redlich के ढाँचे में क्या संबंध है?",
+    "options": [
+      { "text": "निम्न सामाजिक-आर्थिक वर्गों में गंभीर मानसिक विकारों की दर अधिक और उपचार की संभावना कम होती है", "is_correct": true },
+      { "text": "मानसिक बीमारी का वर्ग से कोई संबंध नहीं", "is_correct": false },
+      { "text": "उच्च वर्ग में मानसिक बीमारी अधिक होती है", "is_correct": false },
+      { "text": "सभी वर्गों में समान मानसिक स्वास्थ्य है", "is_correct": false }
+    ],
+    "explanation": "Hollingshead & Redlich (1958): Lower class में Schizophrenia अधिक, Upper class में Neurosis अधिक। इसकी दो व्याख्याएं: (1) Social Causation — निम्न वर्ग का stress अधिक, (2) Social Selection/Drift — मानसिक बीमारी से निम्न वर्ग में सरकना। भारत में Mental Healthcare Act 2017 ने समान access का प्रयास किया।"
+  },
+  {
+    "question": "'स्वास्थ्य और धर्म' के समाजशास्त्रीय अंतर्संबंध में Religious Coping का क्या महत्व है?",
+    "options": [
+      { "text": "धार्मिक विश्वास और प्रथाएं मनोवैज्ञानिक सहारा, सामाजिक समर्थन और अर्थ-निर्माण द्वारा स्वास्थ्य में सुधार कर सकती हैं", "is_correct": true },
+      { "text": "धर्म सदैव स्वास्थ्य के लिए हानिकारक है", "is_correct": false },
+      { "text": "धर्म और स्वास्थ्य असंबंधित हैं", "is_correct": false },
+      { "text": "केवल बायोमेडिकल उपचार से ही स्वास्थ्य होता है", "is_correct": false }
+    ],
+    "explanation": "Koenig et al. के अनुसार Religious/Spiritual Coping: (1) Social support network (congregation), (2) Meaning-making in suffering, (3) Hope and positive affect, (4) Healthy lifestyle norms (कुछ धर्मों में धूम्रपान-मद्यपान निषेध)। लेकिन Negative Religious Coping (ईश्वरीय दंड की भावना) anxiety बढ़ाती है।"
+  },
+  {
+    "question": "भारत में 'गरीबी और कुपोषण के चक्र' (Poverty-Malnutrition Cycle) को तोड़ने में सामाजिक नीतियों की क्या भूमिका है?",
+    "options": [
+      { "text": "PDS, ICDS, MDM और MGNREGA जैसी योजनाएं खाद्य सुरक्षा + आय + पोषण का संयोजन कर चक्र तोड़ती हैं", "is_correct": true },
+      { "text": "केवल आर्थिक विकास से चक्र टूटता है", "is_correct": false },
+      { "text": "केवल पोषण पूरक देने से समाधान होता है", "is_correct": false },
+      { "text": "गरीबी-कुपोषण का कोई चक्र नहीं है", "is_correct": false }
+    ],
+    "explanation": "Poverty-Malnutrition Cycle: गरीबी → कम खाना → कुपोषण → कम उत्पादकता/IQ → गरीबी। तोड़ने के लिए बहुक्षेत्रीय हस्तक्षेप: ICDS (0-6 पोषण), MDM (school nutrition + attendance), PDS (खाद्य सुरक्षा), MGNREGA (आय), POSHAN Abhiyaan (convergence)।"
+  },
+  {
+    "question": "भारत में 'सामाजिक आंदोलन और स्वास्थ्य' के संबंध में Alma Ata Declaration (1978) का क्या महत्व है?",
+    "options": [
+      { "text": "'Health for All by 2000' और Primary Health Care की राजनीतिक प्रतिबद्धता — स्वास्थ्य एक मानवाधिकार है", "is_correct": true },
+      { "text": "Alma Ata केवल बीमारी नियंत्रण का दस्तावेज था", "is_correct": false },
+      { "text": "Alma Ata केवल विकसित देशों के लिए था", "is_correct": false },
+      { "text": "Alma Ata का कोई प्रभाव नहीं पड़ा", "is_correct": false }
+    ],
+    "explanation": "Alma Ata (1978): PHC को स्वास्थ्य प्रणाली का केंद्र बनाना, Community participation, Intersectoral coordination, और 'Appropriate Technology'। यह एक सामाजिक और राजनीतिक आंदोलन था जिसने NRHM जैसी नीतियों को प्रभावित किया।"
+  },
+  {
+    "question": "भारत में 'प्रजनन स्वास्थ्य' (Reproductive Health) में महिलाओं की स्वायत्तता का सामाजिक महत्व क्या है?",
+    "options": [
+      { "text": "जब महिलाएं गर्भनिरोधक निर्णय खुद लेती हैं तो TFR, MMR और IMR कम होती है और उनकी शिक्षा-रोजगार संभावना बढ़ती है", "is_correct": true },
+      { "text": "महिला स्वायत्तता से TFR बढ़ती है", "is_correct": false },
+      { "text": "प्रजनन निर्णय परिवार को लेने चाहिए", "is_correct": false },
+      { "text": "यह केवल व्यक्तिगत मामला है", "is_correct": false }
+    ],
+    "explanation": "Female Reproductive Autonomy — NFHS-5: जिन महिलाओं का परिवार नियोजन पर निर्णय में स्वयं का नियंत्रण है वहाँ Unmet Need कम है। Kerala, Tamil Nadu में महिला education + autonomy → low TFR + better MMR/IMR। ICPD Cairo (1994) ने Reproductive Rights को मानवाधिकार घोषित किया।"
+  },
+  {
+    "question": "भारत में 'सामाजिक न्याय और स्वास्थ्य' के ढाँचे में RAWLS का 'Veil of Ignorance' का क्या उपयोग है?",
+    "options": [
+      { "text": "यदि हम नहीं जानते कि हम किस जाति/वर्ग/लिंग में होंगे तो हम सबसे वंचित को लाभ देने वाली स्वास्थ्य प्रणाली चुनेंगे", "is_correct": true },
+      { "text": "Rawls ने स्वास्थ्य का अध्ययन नहीं किया", "is_correct": false },
+      { "text": "Veil of Ignorance से असमानता न्यायसंगत है", "is_correct": false },
+      { "text": "यह केवल दार्शनिक अवधारणा है", "is_correct": false }
+    ],
+    "explanation": "Rawls का Difference Principle + Veil of Ignorance: UHC के पक्ष में तर्क — एक 'just' health system वह है जो सबसे कमजोर (दलित, आदिवासी, BPL) को सबसे अधिक लाभ दे। PM-JAY का 40% BPL targeting, Free drug policy, और PHC strengthening इसी न्याय-सिद्धांत पर आधारित है।"
+  },
+  {
+    "question": "भारत में 'शहरीकरण और NCDs' (Non-Communicable Diseases) के उभार में सामाजिक संरचनात्मक कारक क्या हैं?",
+    "options": [
+      { "text": "Sedentary lifestyle, processed food environment, work stress, और urban built environment जो physical activity को हतोत्साहित करता है", "is_correct": true },
+      { "text": "केवल व्यक्तिगत बुरी आदतें", "is_correct": false },
+      { "text": "शहरी क्षेत्र में बेहतर healthcare से NCDs बढ़ती हैं", "is_correct": false },
+      { "text": "NCDs का शहरीकरण से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "NCD Socio-structural determinants: (1) Urban food environment — Junk food accessibility बढ़ी, (2) Physical inactivity — walking/cycling infrastructure नहीं, (3) Work stress, (4) Social isolation, (5) Air pollution। India में Double Burden — Communicable + NCDs एक साथ। NCD Action Plan 2023-30 इसे address करता है।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य सेवाओं की गुणवत्ता' और 'सामाजिक विश्वास' (Social Trust) के बीच क्या संबंध है?",
+    "options": [
+      { "text": "जब सार्वजनिक स्वास्थ्य सेवाओं पर विश्वास कम होता है तो लोग महंगी निजी सेवाएं लेते हैं जिससे OOP बढ़ता है", "is_correct": true },
+      { "text": "Social Trust और healthcare utilization असंबंधित हैं", "is_correct": false },
+      { "text": "सरकारी अस्पतालों पर सभी को विश्वास है", "is_correct": false },
+      { "text": "Private hospitals पर कम trust है", "is_correct": false }
+    ],
+    "explanation": "NSSO और NFHS data: ग्रामीण गरीब भी Private doctors को prefer करते हैं क्योंकि PHC में Absenteeism, Drug unavailability, और Poor quality का अनुभव रहा है। यह 'Social Trust Deficit' in Public Healthcare है जो Healthcare-seeking behavior को प्रभावित करता है।"
+  },
+  {
+    "question": "Emile Durkheim के 'Collective Conscience' (सामूहिक चेतना) का स्वास्थ्य समाजशास्त्र में क्या अनुप्रयोग है?",
+    "options": [
+      { "text": "सामूहिक मानदंड और मूल्य स्वास्थ्य व्यवहार को आकार देते हैं — जैसे टीकाकरण हिचकिचाहट, Vaccine hesitancy", "is_correct": true },
+      { "text": "Collective Conscience केवल धर्म में है", "is_correct": false },
+      { "text": "स्वास्थ्य व्यवहार पूरी तरह व्यक्तिगत है", "is_correct": false },
+      { "text": "Durkheim ने स्वास्थ्य का अध्ययन नहीं किया", "is_correct": false }
+    ],
+    "explanation": "Durkheim की Collective Conscience: समुदाय के साझा विश्वास और मूल्य जो व्यवहार को regulate करते हैं। Vaccine hesitancy — जब community में anti-vaccine beliefs प्रबल हों तो व्यक्तिगत स्तर पर rational information कम प्रभावी होती है। Social Norms Approach से community-level change अधिक प्रभावी है।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य और शहरी गरीबी' के अंतर्संबंध में 'Slum Health' की प्रमुख चुनौतियाँ क्या हैं?",
+    "options": [
+      { "text": "अत्यधिक भीड़, स्वच्छ जल/शौचालय का अभाव, Indoor Air Pollution और Social Exclusion", "is_correct": true },
+      { "text": "Slum में बेहतर healthcare है", "is_correct": false },
+      { "text": "Slum निवासियों को सभी सेवाएं मिलती हैं", "is_correct": false },
+      { "text": "Slum केवल आवास की समस्या है", "is_correct": false }
+    ],
+    "explanation": "Slum Health Challenges: (1) Overcrowding → TB, COVID transmission, (2) Indoor Air Pollution (biomass fuel), (3) Contaminated water → Diarrhea, Typhoid, (4) No address → AADHAAR/Voter ID नहीं → services नहीं, (5) Child malnutrition। JNNURM और PMAY urban slums को address करते हैं।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य असमानता' के मापन के लिए कौन से Composite Indices उपयोग होते हैं?",
+    "options": [
+      { "text": "Concentration Index, Slope Index of Inequality (SII) और Population Attributable Risk", "is_correct": true },
+      { "text": "केवल IMR और MMR", "is_correct": false },
+      { "text": "केवल GDP per capita", "is_correct": false },
+      { "text": "केवल Gini Coefficient", "is_correct": false }
+    ],
+    "explanation": "Health Inequality measurement: (1) Concentration Index — income gradient across health outcomes, (2) SII — absolute gap between highest and lowest income groups, (3) Relative Index of Inequality (RII), (4) Population Attributable Fraction। ये Standard Mortality Rate से अलग हैं क्योंकि Distribution को measure करते हैं।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य और राजनीतिक इच्छाशक्ति' के अंतर्संबंध में Kerala Model का क्या सबक है?",
+    "options": [
+      { "text": "Left political mobilization, women's education, land reform और strong public health investment — GDP नहीं बल्कि Political Will ने Kerala को बेहतर बनाया", "is_correct": true },
+      { "text": "Kerala में अधिक GDP था", "is_correct": false },
+      { "text": "Kerala को विदेशी सहायता अधिक मिली", "is_correct": false },
+      { "text": "Kerala Model दोहराया नहीं जा सकता", "is_correct": false }
+    ],
+    "explanation": "Kerala Paradox (Amartya Sen, Dreze): 1980s में per capita income राष्ट्रीय औसत से कम, लेकिन Literacy, Female Literacy, Life Expectancy, IMR — सर्वोत्तम। कारण: (1) Left political movements, (2) Jenmi Land Reforms, (3) Public Investment in Education-Health, (4) NRI Remittances, (5) Women's Empowerment।"
+  },
+  {
+    "question": "भारत में 'समुदाय-आधारित स्वास्थ्य कार्यक्रम' (CBHP) की सफलता में कौन से सामाजिक कारक महत्वपूर्ण हैं?",
+    "options": [
+      { "text": "सामुदायिक स्वामित्व, विश्वास, सांस्कृतिक संवेदनशीलता और स्थानीय नेतृत्व", "is_correct": true },
+      { "text": "केवल तकनीकी दक्षता", "is_correct": false },
+      { "text": "केवल सरकारी धन", "is_correct": false },
+      { "text": "बाहरी NGO का नेतृत्व", "is_correct": false }
+    ],
+    "explanation": "CBHP success factors (जैसे Sonagachi, Mitanin program CG, SEWA health): (1) Community ownership — community members themselves design programs, (2) Cultural fit — local beliefs respect, (3) Indigenous leadership, (4) Trust — long-term presence, (5) Participation across gender and caste lines।"
+  },
+  {
+    "question": "भारत में 'बाल विवाह और शिक्षा' के संबंध में समाजशास्त्रीय अनुसंधान क्या कहता है?",
+    "options": [
+      { "text": "लड़कियों की माध्यमिक शिक्षा बाल विवाह की सबसे प्रभावी रोकथाम है — प्रत्येक अतिरिक्त वर्ष की शिक्षा विवाह की आयु बढ़ाती है", "is_correct": true },
+      { "text": "शिक्षा से बाल विवाह बढ़ता है", "is_correct": false },
+      { "text": "बाल विवाह केवल कानून से रुकेगा", "is_correct": false },
+      { "text": "शिक्षा और बाल विवाह असंबंधित हैं", "is_correct": false }
+    ],
+    "explanation": "Research evidence: Secondary education की प्रत्येक अतिरिक्त वर्ष → विवाह की आयु में 0.5-1 वर्ष की वृद्धि। Kasturba Gandhi Balika Vidyalaya, Kanya Sumangala Yojana, और BBBP — इसी सोच पर आधारित। Child Marriage Act 2006 के साथ social intervention की भी जरूरत।"
+  },
+  {
+    "question": "भारत में 'विकलांगता और स्वास्थ्य' पर 'Medical Model' और 'Social Model' में क्या मूलभूत अंतर है?",
+    "options": [
+      { "text": "Medical Model: विकलांगता व्यक्ति की समस्या है जिसे 'ठीक' करना है; Social Model: विकलांगता सामाजिक बाधाओं से उत्पन्न होती है जिन्हें हटाना है", "is_correct": true },
+      { "text": "दोनों एक ही बात कहते हैं", "is_correct": false },
+      { "text": "Social Model विकलांगता को नकारता है", "is_correct": false },
+      { "text": "Medical Model अधिक प्रगतिशील है", "is_correct": false }
+    ],
+    "explanation": "Medical Model: Disability = Individual deficit. Social Model (UPIAS, 1975): Disability = Social barriers (inaccessible buildings, discriminatory attitudes)। Rights of Persons with Disabilities Act 2016 Social Model पर आधारित है — 'Reasonable Accommodation' और 'Accessibility' का अधिकार।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य और जाति' के अंतर्संबंध में 'Caste-based discrimination in Healthcare' के उदाहरण क्या हैं?",
+    "options": [
+      { "text": "दलित मरीजों को PHC में अलग बैठाना, उनसे कम सम्मान से व्यवहार, और Home Birth को प्रोत्साहित करना", "is_correct": true },
+      { "text": "सभी मरीजों के साथ समान व्यवहार होता है", "is_correct": false },
+      { "text": "Discrimination केवल शहरी अस्पतालों में है", "is_correct": false },
+      { "text": "भारत में Healthcare discrimination नहीं है", "is_correct": false }
+    ],
+    "explanation": "Oxfam (2019), NCHRE surveys: दलित महिलाओं को PHC में 'छूत' की आशंका से अलग बैठाना, स्वास्थ्यकर्मियों का भेदभावपूर्ण व्यवहार, और उन्हें घर पर प्रसव के लिए छोड़ना — Institutional delivery rate कम। यह caste-based exclusion का concrete manifestation है।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य और पर्यावरणीय न्याय' (Environmental Justice) के संदर्भ में 'Sacrifice Zones' क्या हैं?",
+    "options": [
+      { "text": "वे क्षेत्र जहाँ गरीब/आदिवासी/दलित समुदाय औद्योगिक प्रदूषण, खनन और पर्यावरण क्षरण का असंगत बोझ झेलते हैं", "is_correct": true },
+      { "text": "धार्मिक स्थल", "is_correct": false },
+      { "text": "सरकारी अस्पताल", "is_correct": false },
+      { "text": "विशेष आर्थिक क्षेत्र", "is_correct": false }
+    ],
+    "explanation": "Environmental Justice: Jharkhand-Chhattisgarh-Odisha Mining Belt में आदिवासी समुदाय Coal dust → Silicosis, Arsenic → Cancer, और Water contamination झेलते हैं जबकि लाभ upper-class और corporations को। यह 'Toxic Burden on the Poor' का सामाजिक न्याय का प्रश्न है।"
+  },
+  {
+    "question": "भारत में 'सामाजिक आंदोलन और स्वास्थ्य नीति' के अंतर्संबंध में Jan Swasthya Abhiyan (JSA) का क्या महत्व है?",
+    "options": [
+      { "text": "JSA ने Right to Health के लिए नागरिक समाज की आवाज को मजबूत किया और NHP 2002 व NHM की नीति-निर्माण प्रक्रिया को प्रभावित किया", "is_correct": true },
+      { "text": "JSA केवल एक NGO है", "is_correct": false },
+      { "text": "JSA का नीति पर कोई प्रभाव नहीं", "is_correct": false },
+      { "text": "JSA सरकारी संस्था है", "is_correct": false }
+    ],
+    "explanation": "Jan Swasthya Abhiyan (India's People's Health Movement) ने: (1) 'Health as a Right' की advocacy, (2) Community Health Worker की मान्यता (ASHA concept), (3) Drug Price Control demand, (4) NHM में Community Action component। यह Civil Society द्वारा Health Policy Influence का उदाहरण है।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य नीति और राजनीतिक अर्थव्यवस्था' में 'Regulatory Capture' की समस्या क्या है?",
+    "options": [
+      { "text": "जब नियामक संस्थाएं (CDSCO, MCI) उन उद्योगों के हितों की रक्षा करने लगती हैं जिनका नियमन उनका काम है", "is_correct": true },
+      { "text": "सरकार का अत्यधिक नियंत्रण", "is_correct": false },
+      { "text": "नागरिकों का नियामकों पर नियंत्रण", "is_correct": false },
+      { "text": "विदेशी कंपनियों का नियमन", "is_correct": false }
+    ],
+    "explanation": "Regulatory Capture (George Stigler): CDSCO पर Parliamentary Standing Committee 2012 की आलोचना कि pharmaceutical industry के प्रभाव से अपर्याप्त safety review हो रही है। MCI corruption और NMC Act से reform। यह Public Health Governance की core problem है।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य शिक्षा अधिकारी' के कार्य में 'समुदाय निदान' (Community Diagnosis) का क्या अर्थ है?",
+    "options": [
+      { "text": "किसी समुदाय के स्वास्थ्य संबंधी डेटा (morbidity, mortality, risk factors) का व्यवस्थित संग्रह और विश्लेषण ताकि प्राथमिकता-आधारित हस्तक्षेप हो सके", "is_correct": true },
+      { "text": "एक रोगी का निदान", "is_correct": false },
+      { "text": "केवल महामारी विज्ञान डेटा", "is_correct": false },
+      { "text": "चिकित्सीय परीक्षण", "is_correct": false }
+    ],
+    "explanation": "Community Diagnosis (Park's Textbook): Community Survey, Vital Statistics Analysis, Disease Surveillance Data, और Community Health Profile बनाना। इससे High-risk groups identify होते हैं और Health Education priorities तय होती हैं। UPHC के Urban Health Index इसी पर आधारित है।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य सेवाओं तक पहुँच' में 'Distance Decay' और 'Geographic Barrier' को दूर करने में कौन से नीतिगत उपाय हैं?",
+    "options": [
+      { "text": "Mobile Health Units, Telemedicine (eSanjeevani), PHC-SHC मानक, और ASHA/VHN नेटवर्क", "is_correct": true },
+      { "text": "केवल अस्पताल निर्माण", "is_correct": false },
+      { "text": "केवल शहरी healthcare", "is_correct": false },
+      { "text": "Private clinics की स्थापना", "is_correct": false }
+    ],
+    "explanation": "Geographic Barrier Solutions: (1) PHC मानक — 30,000 rural / 20,000 tribal population पर 1 PHC, (2) eSanjeevani telemedicine — 9 करोड़+ consultations, (3) Mobile Medical Units (NHM), (4) ASHA — demand-side bridge। Distance Decay Effect को reduce करना UHC का geographic component है।"
+  },
+  {
+    "question": "भारत में 'सामाजिक अनुसंधान नैतिकता' (Research Ethics) में 'Informed Consent' के सामाजिक-सांस्कृतिक बाधाएं क्या हैं?",
+    "options": [
+      { "text": "निरक्षरता, भाषा बाधा, शक्ति असंतुलन, और सामुदायिक/पारिवारिक निर्णय लेने की परंपरा", "is_correct": true },
+      { "text": "Informed Consent हमेशा सरल है", "is_correct": false },
+      { "text": "केवल कागज पर हस्ताक्षर लेना पर्याप्त है", "is_correct": false },
+      { "text": "भारत में Informed Consent की जरूरत नहीं", "is_correct": false }
+    ],
+    "explanation": "ICMR Guidelines (2017): Informed Consent में: (1) Literacy — Audio-visual consent forms, (2) Language — regional language में, (3) Power differential — investigator शक्तिशाली होने से reluctance, (4) Community consent vs. individual (tribal communities में)। SARS-CoV-2 Clinical Trials में community-level consent important था।"
+  },
+  {
+    "question": "भारत में 'सामाजिक प्रतिरोध' (Social Resistance) और 'टीकाकरण हिचकिचाहट' (Vaccine Hesitancy) के कारण क्या हैं?",
+    "options": [
+      { "text": "धार्मिक/सांस्कृतिक मान्यताएं, अफवाहें, सरकारी अविश्वास और हिंदी पट्टी में ANM-community gap", "is_correct": true },
+      { "text": "Vaccine का दुष्प्रभाव मुख्य कारण है", "is_correct": false },
+      { "text": "दूरी मात्र", "is_correct": false },
+      { "text": "Vaccine की अनुपलब्धता", "is_correct": false }
+    ],
+    "explanation": "WHO Strategic Advisory Group: Vaccine Hesitancy के 3Cs — Complacency (risk कम लगना), Confidence (vaccine safety में कम विश्वास), Convenience (access)। भारत में Polio Vaccine की शुरुआती हिचकिचाहट — धार्मिक rumors (बंध्याकरण की अफवाह)। Community influencers और ASHA नेटवर्क से overcome किया।"
+  },
+  {
+    "question": "भारत में 'विकलांगता और लिंग' (Disability and Gender) के अंतर्संबंध में दोहरी वंचना क्या है?",
+    "options": [
+      { "text": "विकलांग महिलाएं विकलांगता और लिंग-भेद दोनों का सामना करती हैं — यौन हिंसा की अधिक संभावना, शिक्षा-रोजगार से बाहर", "is_correct": true },
+      { "text": "विकलांग महिलाओं को अधिक सहायता मिलती है", "is_correct": false },
+      { "text": "Disability और Gender असंबंधित हैं", "is_correct": false },
+      { "text": "विकलांग महिलाओं की स्थिति बेहतर है", "is_correct": false }
+    ],
+    "explanation": "Intersectionality: विकलांग महिला = Gender discrimination + Disability discrimination। WHO (2011): विकलांग महिलाओं में gender-based violence का जोखिम 2-10x अधिक। RPWD Act 2016 में Gender-sensitive provisions हैं लेकिन implementation weak है।"
+  },
+  {
+    "question": "भारत में 'NFHS-5 (2019-21)' के किशोर स्वास्थ्य संकेतकों का सामाजिक विश्लेषण क्या है?",
+    "options": [
+      { "text": "15-19 आयु में लड़कियों में Anemia 59%, OBC-SC में अधिक, और बाल विवाह दर उत्तर प्रदेश-बिहार-राजस्थान में सर्वाधिक", "is_correct": true },
+      { "text": "किशोर स्वास्थ्य में सुधार हो रहा है", "is_correct": false },
+      { "text": "NFHS-5 में किशोर डेटा नहीं है", "is_correct": false },
+      { "text": "सभी राज्यों में समान किशोर स्वास्थ्य", "is_correct": false }
+    ],
+    "explanation": "NFHS-5 Adolescent findings: (1) 15-19 लड़कियों में Anemia 59.1%, (2) 20-24 आयु में 26.8% का 18 से पहले विवाह, (3) Adolescent Birth Rate (15-19): Bihar 12%, UP 9% — national average 6.8%। RKSK (Rashtriya Kishor Swasthya Karyakram) इनके लिए है।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य और सांस्कृतिक विश्वास' के अंतर्संबंध में 'Health Seeking Behaviour' को कौन सा सैद्धांतिक ढाँचा सर्वोत्तम समझाता है?",
+    "options": [
+      { "text": "Kleinman का 'Explanatory Model' — मरीज और चिकित्सक की रोग की अलग-अलग सांस्कृतिक व्याख्याएं होती हैं", "is_correct": true },
+      { "text": "Biomedical Model मात्र", "is_correct": false },
+      { "text": "केवल आर्थिक मॉडल", "is_correct": false },
+      { "text": "Sick Role मॉडल", "is_correct": false }
+    ],
+    "explanation": "Arthur Kleinman का Explanatory Model: रोगी की 8 प्रश्नों पर सांस्कृतिक व्याख्या (क्या हुआ, क्यों, कितना गंभीर, किसे दोष?) होती है। जब Doctor-Patient explanatory models में मेल नहीं होता तो treatment adherence कम होती है। Cultural Competence training इस gap को पाटती है।"
+  },
+  {
+    "question": "भारत में 'प्रजनन अधिकार' (Reproductive Rights) के संदर्भ में 'Coercive Family Planning' का ऐतिहासिक उदाहरण क्या है?",
+    "options": [
+      { "text": "1975-77 आपातकाल में जबरन नसबंदी अभियान — मुख्यतः दलित और मुस्लिम पुरुषों पर", "is_correct": true },
+      { "text": "1947 में जनसंख्या नीति", "is_correct": false },
+      { "text": "1983 NHP का कार्यान्वयन", "is_correct": false },
+      { "text": "2000 की राष्ट्रीय जनसंख्या नीति", "is_correct": false }
+    ],
+    "explanation": "Emergency (1975-77) में Sanjay Gandhi के नेतृत्व में Forced Sterilization Campaign — लक्ष्य-आधारित नसबंदी जिसमें दलित, मुस्लिम और गरीब पुरुषों को जबरन या दबाव में नसबंदी की गई। इससे Family Planning कार्यक्रमों के प्रति जनता का अविश्वास बढ़ा।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य सेवाओं में भ्रष्टाचार' (Corruption in Healthcare) के समाजशास्त्रीय कारण क्या हैं?",
+    "options": [
+      { "text": "जवाबदेही तंत्र का अभाव, Information Asymmetry, कम वेतन और Patron-Client relationships", "is_correct": true },
+      { "text": "केवल व्यक्तिगत नैतिक कमी", "is_correct": false },
+      { "text": "Corruption केवल निजी क्षेत्र में है", "is_correct": false },
+      { "text": "भारत में Healthcare corruption नहीं है", "is_correct": false }
+    ],
+    "explanation": "Healthcare Corruption: Informal payments for government services (Janani Suraksha), Drug supply leakage, Fake billing under RSBY/PMJAY, Ghost employees। Structural causes: (1) Accountability mechanisms weak, (2) Information asymmetry — patient knows nothing, (3) Under-staffing → overworked staff → informal income, (4) Social Capital — 'recommendation culture'।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य नियोजन' (Health Planning) में 'Participatory Rural Appraisal' (PRA) की भूमिका क्या है?",
+    "options": [
+      { "text": "समुदाय को अपनी स्वास्थ्य समस्याएं और समाधान स्वयं पहचानने में सक्षम बनाने की सहभागी प्रक्रिया", "is_correct": true },
+      { "text": "बाहरी विशेषज्ञों द्वारा निदान", "is_correct": false },
+      { "text": "केवल डेटा संग्रह", "is_correct": false },
+      { "text": "सरकारी आदेश का पालन", "is_correct": false }
+    ],
+    "explanation": "PRA (Robert Chambers, 1994) उपकरण: Social Mapping, Seasonal Diagram, Problem Ranking। NHM के VHSNC (Village Health, Sanitation and Nutrition Committee) PRA का उपयोग ग्रामीण Health Planning में करते हैं। यह Bottom-up planning का उदाहरण है।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य और असमानता' के मापन में 'Concentration Curve' क्या दर्शाती है?",
+    "options": [
+      { "text": "यदि curve 45° diagonal के नीचे है तो health outcomes rich-biased हैं; ऊपर है तो poor-biased", "is_correct": true },
+      { "text": "Concentration Curve केवल आय दिखाती है", "is_correct": false },
+      { "text": "Diagonal line का अर्थ सर्वाधिक असमानता है", "is_correct": false },
+      { "text": "Concentration Curve income inequality का माप है", "is_correct": false }
+    ],
+    "explanation": "Concentration Curve (Wagstaff, 1989): X-axis पर population (poorest to richest), Y-axis पर cumulative health outcome/expenditure। 45° diagonal = perfect equality। Curve below diagonal = pro-rich concentration। India में Institutional Delivery और Child Vaccination में pro-rich concentration curve देखी जाती है।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य और डिजिटल विभाजन' (Digital Divide) की सामाजिक समस्या क्या है?",
+    "options": [
+      { "text": "Telemedicine, CoWIN, ABDM जैसी डिजिटल स्वास्थ्य सेवाएं उन्हें बाहर करती हैं जिनके पास smartphone या internet नहीं", "is_correct": true },
+      { "text": "Digital Health से सभी को समान लाभ", "is_correct": false },
+      { "text": "Digital Divide केवल शिक्षा में है", "is_correct": false },
+      { "text": "भारत में internet सभी को उपलब्ध है", "is_correct": false }
+    ],
+    "explanation": "Digital Divide and Health: (1) CoWIN — आदिवासी/दलित/वृद्ध जिन्हें smartphone नहीं उन्हें walk-in registration कठिन, (2) Telemedicine — rural internet penetration 30% से कम, (3) ABDM Health ID — digital literacy आवश्यक। यह 'Second-order Exclusion' है — digital access असमानता स्वास्थ्य असमानता बढ़ाती है।"
+  },
+  {
+    "question": "भारत में 'पलायन और स्वास्थ्य' के अंतर्संबंध में 'Healthy Migrant Effect' क्या है?",
+    "options": [
+      { "text": "प्रारंभ में प्रवासी मेजबान स्थान की जनसंख्या से स्वस्थ होते हैं क्योंकि स्वस्थ लोग ही प्रवास करते हैं — लेकिन समय के साथ यह advantage खो जाता है", "is_correct": true },
+      { "text": "प्रवासी हमेशा अधिक बीमार होते हैं", "is_correct": false },
+      { "text": "Healthy Migrant Effect सदैव बना रहता है", "is_correct": false },
+      { "text": "Migration से स्वास्थ्य पर कोई प्रभाव नहीं", "is_correct": false }
+    ],
+    "explanation": "Healthy Migrant Effect: Selection bias — केवल स्वस्थ, युवा, energetic लोग ही migrate करते हैं। लेकिन 'Salmon Bias' — बीमार होने पर घर वापस जाते हैं। समय के साथ New country की unhealthy food, stress, discrimination से health deteriorate होती है।"
+  },
+  {
+    "question": "भारत में 'सामाजिक-आर्थिक विकास और जनसांख्यिकीय संक्रमण' (Demographic Transition) में स्वास्थ्य की क्या भूमिका है?",
+    "options": [
+      { "text": "जब Mortality Rate घटती है (स्वास्थ्य सुधार से) तो Fertility Rate में देरी से कमी आती है — जनसंख्या विस्फोट का चरण", "is_correct": true },
+      { "text": "जनसांख्यिकीय संक्रमण और स्वास्थ्य असंबंधित हैं", "is_correct": false },
+      { "text": "विकास से तुरंत TFR घटती है", "is_correct": false },
+      { "text": "Mortality और Fertility एक साथ घटती हैं", "is_correct": false }
+    ],
+    "explanation": "Demographic Transition Theory (Frank Notestein, 1945): Stage 2 में Public Health improvements → Mortality ↓ लेकिन Birth Rate अभी अधिक → Population Boom। India 1950s-1980s में Stage 2 था। Stage 3 में Education, Women's Empowerment → Fertility ↓। Kerala और Tamil Nadu Stage 4 पर हैं।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य सेवाओं में मानवाधिकार दृष्टिकोण' (Human Rights Approach) का क्या अर्थ है?",
+    "options": [
+      { "text": "स्वास्थ्य सेवाएं AAAQ मानक (Availability, Accessibility, Acceptability, Quality) पर आधारित होनी चाहिए और यह कर्तव्य है, दया नहीं", "is_correct": true },
+      { "text": "स्वास्थ्य केवल सरकार की दया है", "is_correct": false },
+      { "text": "मानवाधिकार केवल राजनीतिक अधिकार हैं", "is_correct": false },
+      { "text": "AAAQ केवल शिक्षा के लिए है", "is_correct": false }
+    ],
+    "explanation": "CESCR General Comment 14 (2000): Right to Health = AAAQ: (1) Availability — sufficient PHC facilities, (2) Accessibility — non-discriminatory + geographic + economic, (3) Acceptability — culturally appropriate, (4) Quality — scientifically and medically appropriate। Government is Duty Bearer, Citizens are Rights Holders।"
+  },
+  {
+    "question": "भारत में 'Disability and Poverty' के दुष्चक्र को तोड़ने में कौन सी योजनाएं सहायक हैं?",
+    "options": [
+      { "text": "Assistance to Disabled Persons (ADIP), National Trust schemes, RPWD Act 2016 के तहत 5% EWS आरक्षण और UDDESHYA portal", "is_correct": true },
+      { "text": "केवल चिकित्सा देखभाल", "is_correct": false },
+      { "text": "केवल BPL कार्ड देना", "is_correct": false },
+      { "text": "विकलांगों के लिए कोई सरकारी योजना नहीं", "is_correct": false }
+    ],
+    "explanation": "Disability-Poverty cycle: Disability → reduced employment → poverty → reduced healthcare → worsening disability। Interventions: RPWD 2016 (4% reservation, reasonable accommodation), ADIP (assistive devices), National Trust (intellectual disability), Scheme for Mentally Ill (homeless), Accessible India Campaign (infrastructure)।"
+  },
+  {
+    "question": "भारत में 'Disaster Sociology' (आपदा समाजशास्त्र) के अनुसार प्राकृतिक आपदाओं में कौन सा वर्ग सर्वाधिक प्रभावित होता है?",
+    "options": [
+      { "text": "सामाजिक-आर्थिक रूप से हाशिए पर रहे समुदाय — गरीब, महिलाएं, वृद्ध, विकलांग और आदिवासी", "is_correct": true },
+      { "text": "केवल बाढ़ क्षेत्रों में रहने वाले", "is_correct": false },
+      { "text": "सभी समुदाय समान रूप से प्रभावित होते हैं", "is_correct": false },
+      { "text": "अमीर वर्ग अधिक प्रभावित होता है", "is_correct": false }
+    ],
+    "explanation": "Disaster as Social Event: '1999 Odisha Cyclone, 2004 Tsunami, 2013 Uttarakhand Floods' — प्रत्येक में गरीब, महिलाएं, दलित, आदिवासी असंगत रूप से मरे/प्रभावित हुए। कारण: खराब housing, inadequate early warning access, limited evacuation resources। NDMA में Vulnerability Mapping का प्रावधान है।"
+  },
+  {
+    "question": "भारत में 'Global-Local Nexus' और स्वास्थ्य नीति में 'Policy Transfer' के उदाहरण क्या हैं?",
+    "options": [
+      { "text": "WHO और World Bank की नीतियों का भारतीय Health Policy में प्रसार — User Fees का विरोध, TRIPS Flexibilities, और Essential Medicines List का अनुकरण", "is_correct": true },
+      { "text": "भारत स्वतंत्र रूप से सभी नीतियाँ बनाता है", "is_correct": false },
+      { "text": "Policy Transfer केवल तकनीक में होता है", "is_correct": false },
+      { "text": "Global institutions का कोई प्रभाव नहीं", "is_correct": false }
+    ],
+    "explanation": "Policy Transfer examples: (1) Alma Ata PHC → NRHM, (2) WHO-EML → India NLEM, (3) TRIPS flexibilities → Section 3(d) Patents Act, (4) SDG 3.8 UHC → PM-JAY, (5) INCLEN → India Epidemiology training। यह 'Global Health Governance' और Sovereignty का tension है।"
+  },
+  {
+    "question": "भारत में 'स्वास्थ्य सूचना प्रणाली' (Health Information System) के समाजशास्त्रीय मुद्दे क्या हैं?",
+    "options": [
+      { "text": "ग्रामीण क्षेत्रों में Data under-reporting, आदिवासी मृत्यु का HMIS में दर्ज न होना, और caste-disaggregated health data का अभाव", "is_correct": true },
+      { "text": "HMIS से सभी डेटा सटीक आता है", "is_correct": false },
+      { "text": "भारत में HIS नहीं है", "is_correct": false },
+      { "text": "Digital HIS सभी समस्याएं हल करता है", "is_correct": false }
+    ],
+    "explanation": "HIS Sociological Issues: (1) SRS, CRS — Civil Registration System में birth/death की under-reporting (tribal, rural areas में), (2) Caste/religion-disaggregated data का अभाव (जो inequity analysis के लिए जरूरी), (3) HMIS में facility-based data — community deaths miss होती हैं। CRVS Improvement की जरूरत।"
+  }
+]

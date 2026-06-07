@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "जनसांख्यिकीय संक्रमण सिद्धांत के चरण-3 में भारत के किन राज्यों में प्रजनन दर प्रतिस्थापन स्तर (2.1) से नीचे आ चुकी है, और इसके स्वास्थ्य-भौगोलिक निहितार्थ क्या हैं?",
+    "options": [
+      { "text": "केवल केरल और तमिलनाडु — वृद्ध जनसंख्या से NCD बोझ बढ़ेगा", "is_correct": false },
+      { "text": "केरल, तमिलनाडु, आंध्र, तेलंगाना, कर्नाटक, पंजाब, हिमाचल, दिल्ली, गोवा — दक्षिण-उत्तर स्वास्थ्य विभाजन गहरा होगा तथा दक्षिणी राज्यों में जराचिकित्सा सेवाओं की मांग तीव्र होगी", "is_correct": true },
+      { "text": "केवल पूर्वोत्तर राज्य — प्रवास के कारण युवा शक्ति की कमी होगी", "is_correct": false },
+      { "text": "सभी राज्य 2024 तक चरण-3 में आ गए हैं — एकसमान स्वास्थ्य बोझ देश भर में होगा", "is_correct": false }
+    ],
+    "explanation": "NFHS-5 (2019-21) के अनुसार केरल (1.8), तमिलनाडु (1.8), आंध्र (1.7), तेलंगाना (1.8), कर्नाटक (1.7), पंजाब (1.6), हिमाचल (1.7), दिल्ली (1.6) और गोवा (1.3) की TFR प्रतिस्थापन स्तर से नीचे है। इसका स्वास्थ्य-भौगोलिक अर्थ है कि इन राज्यों में 60+ आयु वर्ग तेजी से बढ़ेगा, जिससे मधुमेह, हृदय रोग, डिमेंशिया जैसी NCDs तथा दीर्घकालिक देखभाल सेवाओं की मांग बढ़ेगी। उत्तर-दक्षिण विभाजन में उत्तर प्रदेश (2.4), बिहार (3.0) जैसे राज्य अभी चरण-2 में हैं, जिससे स्वास्थ्य संसाधन आवंटन में असंतुलन रहेगा।"
+  },
+  {
+    "question": "चिकित्सा भूगोल में L. Dudley Stamp और Jacques May के 'रोग पारिस्थितिकी' (Disease Ecology) मॉडल को भारत में मलेरिया वितरण पर लागू करें — कौन-सा कथन सर्वाधिक सटीक है?",
+    "options": [
+      { "text": "May का त्रिकोण मॉडल (रोगज, पर्यावरण, मेजबान) केवल उष्णकटिबंधीय देशों में लागू होता है और भारत में अप्रासंगिक है", "is_correct": false },
+      { "text": "Stamp का 'रोग-परिदृश्य' (Pathological Landscape) अवधारणा के अनुसार ओडिशा के जनजातीय जिलों में Anopheles fluviatilis की पहाड़ी धाराओं से निकटता, वन आवरण और जनजातीय आबादी की प्रतिरोधक क्षमता की कमी मिलकर उच्च-जोखिम मेसो-स्थानिक क्षेत्र बनाते हैं", "is_correct": true },
+      { "text": "रोग पारिस्थितिकी मॉडल केवल वेक्टर-जनित रोगों पर लागू होता है; जल-जनित रोगों पर नहीं", "is_correct": false },
+      { "text": "भारत में मलेरिया वितरण पूरी तरह सामाजिक-आर्थिक कारकों से निर्धारित होता है, भौगोलिक कारक नहीं", "is_correct": false }
+    ],
+    "explanation": "L. Dudley Stamp ने 'Pathological Landscape' अवधारणा दी जिसमें भौगोलिक परिस्थितियाँ रोग वितरण निर्धारित करती हैं। Jacques May के त्रिकोण मॉडल में रोगज (Plasmodium falciparum), पर्यावरण (वन, नमी, तापमान 16-33°C) और मेजबान (प्रतिरोधक क्षमता, पोषण) की अंतःक्रिया होती है। ओडिशा के मलकानगिरि, कोरापुट जैसे जिलों में Anopheles fluviatilis पहाड़ी धाराओं में प्रजनन करता है; जनजातीय आबादी में sickle cell trait की उपस्थिति आंशिक सुरक्षा देती है लेकिन P. falciparum से नहीं। NVBDCP के अनुसार ओडिशा में देश के 40% से अधिक फाल्सीपेरम मलेरिया केस आते हैं।"
+  },
+  {
+    "question": "शहरी ऊष्मा द्वीप (Urban Heat Island) प्रभाव और स्वास्थ्य परिणामों के संदर्भ में — दिल्ली के किस क्षेत्र में UHI तीव्रता सर्वाधिक होती है और किस तंत्र से ताप-मृत्युदर बढ़ती है?",
+    "options": [
+      { "text": "लुटियंस दिल्ली में UHI सर्वाधिक है क्योंकि वहाँ सरकारी भवनों की सघनता है", "is_correct": false },
+      { "text": "पूर्वी दिल्ली (शाहदरा, मयूर विहार) और दक्षिण-पश्चिम दिल्ली (द्वारका) के घनी आबादी, कम हरित आवरण और कम वेंटिलेशन वाले क्षेत्रों में UHI 4-6°C अधिक होता है; वृद्ध, बाहरी श्रमिक और मधुमेह-हृदय रोगी सर्वाधिक संवेदनशील हैं", "is_correct": true },
+      { "text": "दक्षिण दिल्ली में UHI न्यूनतम है क्योंकि वहाँ अरावली वन क्षेत्र है और UHI से स्वास्थ्य पर कोई प्रमाणित प्रभाव नहीं है", "is_correct": false },
+      { "text": "UHI केवल रात्रि में प्रभावी होता है और दिन में ग्रामीण-शहरी तापमान अंतर नगण्य होता है", "is_correct": false }
+    ],
+    "explanation": "UHI तीव्रता कम हरित आवरण, सघन निर्माण, डामर सड़कें और waste heat उत्सर्जन से बनती है। दिल्ली में IITM पुणे के अध्ययन के अनुसार घने उप-नगरीय क्षेत्रों में 4-6°C तापमान वृद्धि होती है। स्वास्थ्य प्रभाव तंत्र: (1) Heat Stress — शरीर का थर्मोरेगुलेशन विफल होता है (hyperthermia), (2) रात्रि तापमान न गिरना — शरीर को रिकवरी नहीं मिलती, (3) O3 और PM निर्माण में वृद्धि — श्वास रोग बढ़ता है, (4) जल वाष्पीकरण से डिहाइड्रेशन। वृद्ध (75+), शिशु, बाहरी मजदूर, मधुमेही और CVD रोगी सर्वाधिक संवेदनशील समूह हैं।"
+  },
+  {
+    "question": "प्रवासी श्रमिक स्वास्थ्य भूगोल के संदर्भ में — कोविड-19 के दौरान 'रिवर्स माइग्रेशन' ने किस स्वास्थ्य-भौगोलिक विरोधाभास को उजागर किया?",
+    "options": [
+      { "text": "शहरी क्षेत्रों में स्वास्थ्य सेवाएँ बेहतर हैं, इसलिए प्रवासियों का शहर लौटना स्वास्थ्यप्रद था", "is_correct": false },
+      { "text": "प्रवासी श्रमिक शहरों में 'स्वस्थ प्रवासी प्रभाव' (Healthy Migrant Effect) दर्शाते हैं, लेकिन COVID के दौरान रिवर्स माइग्रेशन ने बिहार-UP जैसे उत्पत्ति राज्यों में COVID प्रसार, स्वास्थ्य प्रणाली पर अतिभार और कमजोर सार्वजनिक स्वास्थ्य बुनियादी ढाँचे की दोहरी चुनौती उत्पन्न की", "is_correct": true },
+      { "text": "रिवर्स माइग्रेशन से ग्रामीण क्षेत्रों में स्वास्थ्य सेवाओं में सुधार हुआ क्योंकि शहरी स्वास्थ्य जागरूकता वापस आई", "is_correct": false },
+      { "text": "COVID के दौरान कोई स्वास्थ्य-भौगोलिक विरोधाभास नहीं था — प्रभाव एकसमान था", "is_correct": false }
+    ],
+    "explanation": "'Healthy Migrant Effect' सिद्धांत के अनुसार प्रवास करने वाले लोग सामान्यतः स्वस्थ और कार्यक्षम होते हैं (चयन पूर्वाग्रह)। लेकिन COVID के दौरान रिवर्स माइग्रेशन में विरोधाभास यह था: (1) लाखों श्रमिक बिहार, UP, MP, राजस्थान लौटे; (2) इन राज्यों में PHC/CHC नेटवर्क कमजोर था; (3) COVID परीक्षण और isolation क्षमता नगण्य थी; (4) पारगमन के दौरान वायरस का inter-district प्रसार हुआ। NCBS और IHME डेटा दर्शाते हैं कि बिहार-UP में excess mortality पारगमन के 3-4 सप्ताह बाद तेजी से बढ़ी। यह 'स्वस्थ प्रवासी वापसी' के बजाय 'रोगग्रस्त वापसी' बनी।"
+  },
+  {
+    "question": "काला-अजार (Visceral Leishmaniasis) उन्मूलन कार्यक्रम की भौगोलिक रणनीति में — 2030 तक <1/10,000 आबादी के लक्ष्य हेतु किस spatial targeting पद्धति का उपयोग किया जा रहा है?",
+    "options": [
+      { "text": "संपूर्ण भारत में एकसमान DDT छिड़काव — क्योंकि VL पूरे देश में फैला है", "is_correct": false },
+      { "text": "बिहार, झारखंड, पश्चिम बंगाल और UP के उच्च-स्थानिक Block-स्तरीय micro-stratification जिसमें Phlebotomus argentipes (sandfly) के प्रजनन स्थल, मानव-पशु आवास साझेदारी और IRS (Indoor Residual Spraying) कवरेज को GIS से मैप कर प्राथमिकता दी जाती है", "is_correct": true },
+      { "text": "केवल शहरी क्षेत्रों में vector control — ग्रामीण क्षेत्र स्वयं ठीक हो जाते हैं", "is_correct": false },
+      { "text": "VL उन्मूलन के लिए भौगोलिक लक्ष्यीकरण अप्रासंगिक है; केवल दवा वितरण महत्वपूर्ण है", "is_correct": false }
+    ],
+    "explanation": "भारत में VL का 90% से अधिक बोझ बिहार (विशेषकर मुजफ्फरपुर, सीतामढ़ी, दरभंगा, वैशाली), झारखंड और पश्चिम बंगाल में है। WHO SEARO और NVBDCP की संयुक्त रणनीति में Block-level micro-stratification प्रयोग होती है जिसमें: (1) Phlebotomus argentipes की geo-referenced density mapping, (2) cattle-human household proximity (sandfly 300m से अधिक नहीं उड़ता), (3) IRS कवरेज gaps और (4) active case detection coverage का विश्लेषण। मिलाज़न का मानचित्रण GIS आधारित है। उपचार: Liposomal Amphotericin B (single dose) और Miltefosine का संयोजन। 2022 में बिहार में VL incidence 0.5/10,000 से नीचे आई लेकिन झारखंड में अभी लक्ष्य दूर है।"
+  },
+  {
+    "question": "राष्ट्रीय कैंसर रजिस्ट्री कार्यक्रम (NCRP) के आँकड़ों के आधार पर — भारत में कैंसर का कौन-सा भौगोलिक समूहन (Spatial Clustering) पैटर्न सर्वाधिक महत्वपूर्ण है?",
+    "options": [
+      { "text": "कैंसर का वितरण पूरे भारत में एकसमान है — कोई spatial clustering नहीं है", "is_correct": false },
+      { "text": "पूर्वोत्तर (असम, मेघालय, मिजोरम) में तंबाकू-जनित कैंसर (मुख, भोजन-नली) की उच्च incidence; मिजोरम में पेट कैंसर (H. pylori + किण्वित खाद्य); पंजाब में कीटनाशक-जनित कैंसर (ब्लड कैंसर); इस cluster pattern का स्वास्थ्य-भूगोलिक महत्व है", "is_correct": true },
+      { "text": "केवल दक्षिण भारत में कैंसर की उच्च दर है क्योंकि वहाँ उद्योग अधिक हैं", "is_correct": false },
+      { "text": "शहरी क्षेत्रों में कैंसर अधिक है इसलिए ग्रामीण क्षेत्रों में कोई रजिस्ट्री आवश्यक नहीं", "is_correct": false }
+    ],
+    "explanation": "NCRP के Population Based Cancer Registries (PBCR) डेटा से स्पष्ट spatial clustering है: (1) पूर्वोत्तर — असम में मुख कैंसर उच्च (तंबाकू-पान-सुपारी), मिजोरम में गैस्ट्रिक कैंसर विश्व में सर्वाधिक दरों में से एक (H. pylori + smoked pork + किण्वित बाँस का खाना), (2) पंजाब का 'कैंसर बेल्ट' — मालवा क्षेत्र (बठिंडा, फरीदकोट, मानसा) में leukemia और अन्य रक्त कैंसर — pesticide contamination और uranium groundwater contamination को जिम्मेदार माना जाता है, (3) गुजरात में gallbladder cancer उच्च। ये cluster patterns targeted screening और public health interventions के लिए महत्वपूर्ण हैं।"
+  },
+  {
+    "question": "WHO SEARO (दक्षिण-पूर्व एशिया क्षेत्रीय कार्यालय) में भारत की स्थिति के संदर्भ में — Global Burden of Disease 2021 के अनुसार भारत किस DALYs श्रेणी में विश्व में सर्वाधिक बोझ वहन करता है?",
+    "options": [
+      { "text": "HIV/AIDS से संबंधित DALYs में भारत विश्व में प्रथम है", "is_correct": false },
+      { "text": "भारत वायु प्रदूषण-जनित DALYs (विशेषकर COPD, IHD, stroke, LRTI) में विश्व में सर्वाधिक absolute burden वहन करता है; साथ ही TB, neonatal disorders और iron-deficiency anemia में भी शीर्ष पर है", "is_correct": true },
+      { "text": "भारत केवल malaria DALYs में विश्व में अग्रणी है", "is_correct": false },
+      { "text": "SEARO में भारत का GBD बोझ अन्य सदस्य देशों से कम है क्योंकि जनसंख्या वृद्धि नियंत्रित हो गई है", "is_correct": false }
+    ],
+    "explanation": "GBD 2021 (Lancet) के अनुसार भारत: (1) वायु प्रदूषण से DALYs में विश्व में सर्वाधिक absolute burden — 2.6 billion DALYs (household air pollution + ambient PM2.5 + O3 संयुक्त); (2) TB DALYs में विश्व में प्रथम (27% global TB burden); (3) Neonatal disorders में विश्व में सर्वाधिक; (4) Iron-deficiency anemia में सर्वाधिक burden। SEARO में 11 सदस्य देश हैं और भारत क्षेत्र की 75%+ जनसंख्या का प्रतिनिधित्व करता है। IHME के अनुसार भारत का disability-adjusted life years burden 2019 में 2.4 billion से अधिक था जो किसी भी एकल देश में सर्वाधिक है।"
+  },
+  {
+    "question": "गंगा एक्शन प्लान (GAP) और जल-जनित रोग भूगोल के संदर्भ में — गंगा के मैदानी भाग में किस स्थान पर जल गुणवत्ता सबसे खराब है और इसके स्वास्थ्य-भौगोलिक कारण क्या हैं?",
+    "options": [
+      { "text": "ऋषिकेश में गंगा सबसे प्रदूषित है क्योंकि वहाँ तीर्थयात्री अधिक हैं", "is_correct": false },
+      { "text": "कानपुर-वाराणसी-पटना खंड में सर्वाधिक प्रदूषण है — चर्म उद्योग (Cr6+ और BOD), अनुपचारित सीवेज (2600 MLD), धार्मिक पर्यटन और सघन कृषि रन-ऑफ के संयुक्त प्रभाव से; यहाँ हैजा, टाइफाइड और हेपेटाइटिस-A का geographic cluster बनता है", "is_correct": true },
+      { "text": "गंगासागर में डेल्टा क्षेत्र सबसे प्रदूषित है क्योंकि समुद्र जल आता है", "is_correct": false },
+      { "text": "गंगा एक्शन प्लान से गंगा पूरी तरह स्वच्छ हो गई है — अब कोई जल-जनित रोग नहीं है", "is_correct": false }
+    ],
+    "explanation": "CPCB के National Water Quality Monitoring Programme के अनुसार कानपुर-वाराणसी-पटना खंड में: (1) कानपुर में 400+ चर्म उद्योगों से Cr6+ (hexavalent chromium) और BOD 600-800 mg/L (मानक 3 mg/L); (2) कुल 2600 MLD अनुपचारित सीवेज; (3) E. coli 10,000 MPN/100ml (मानक 500 MPN); (4) विसर्जित शव, पशु अवशेष। NHRC रिपोर्ट के अनुसार इन जिलों में हैजा, टाइफाइड और हेपेटाइटिस-A की seasonal spikes गर्मी में होती हैं। Namami Gange (2015) के बावजूद STP capacity अपर्याप्त है — 5000 MLD अपशिष्ट के विरुद्ध केवल 2800 MLD treatment capacity है।"
+  },
+  {
+    "question": "सूखे और किसान आत्महत्या के स्वास्थ्य-भूगोलिक विश्लेषण में — 'आत्महत्या बेल्ट' की geographic identification के लिए कौन-सा multi-factor framework सबसे उपयुक्त है?",
+    "options": [
+      { "text": "आत्महत्या केवल मानसिक रोग का परिणाम है — भौगोलिक कारक अप्रासंगिक हैं", "is_correct": false },
+      { "text": "महाराष्ट्र (विदर्भ), आंध्र/तेलंगाना (रायलसीमा), कर्नाटक (उत्तर) और MP (बुंदेलखंड) में Emile Durkheim के 'anomic suicide' + जलवायु-जल तनाव + कृषि ऋण संकट + मानसिक स्वास्थ्य सेवाओं की अनुपस्थिति का spatial coincidence 'आत्महत्या बेल्ट' बनाता है", "is_correct": true },
+      { "text": "किसान आत्महत्या केवल पंजाब और हरियाणा में होती है — अन्य राज्य सुरक्षित हैं", "is_correct": false },
+      { "text": "NCRB डेटा के अनुसार किसान आत्महत्या की दर पिछले दशक में कम हुई है इसलिए यह अब स्वास्थ्य-भौगोलिक समस्या नहीं है", "is_correct": false }
+    ],
+    "explanation": "NCRB 'Accidental Deaths and Suicides in India' के अनुसार महाराष्ट्र सातत्य से शीर्ष पर है (3000-4000 किसान आत्महत्याएँ/वर्ष), विदर्भ में यवतमाल, अमरावती, वर्धा जिले प्रमुख हैं। Durkheim का 'anomic suicide' तब होता है जब सामाजिक नियामक ढाँचा टूट जाता है। यहाँ multi-factor spatial coincidence है: (1) rainfed agriculture + ENSO-आधारित वर्षा अनिश्चितता, (2) Bt cotton की high-cost-low-return खेती, (3) NBFC/साहूकार से ऋण का जाल, (4) NIMHANS के अनुसार इन जिलों में मनोचिकित्सक घनत्व 0.1/100,000 से कम, (5) MSP से नीचे बिक्री। P. Sainath और Vandana Shiva की शोध इस spatial clustering को document करती हैं।"
+  },
+  {
+    "question": "तटीय स्वास्थ्य भूगोल में — 2004 की सुनामी के बाद Andaman-Nicobar द्वीपों में किस 'स्वास्थ्य-भौगोलिक बदलाव' (Health-Geographic Transition) की पहचान की गई?",
+    "options": [
+      { "text": "सुनामी के बाद द्वीपों में सभी स्वास्थ्य सूचकांक तुरंत सुधर गए क्योंकि सहायता आई", "is_correct": false },
+      { "text": "सुनामी के बाद coral reef का विनाश, मैंग्रोव नुकसान और भूजल लवणता से दीर्घकालिक malaria vector habitat shift हुआ; coastal aquifer contamination से F-ion और salinity बढ़ी; मछुआरा समुदाय का PTSD और mental health burden बढ़ा; साथ ही अंडमानी आदिवासी जनजातियों के isolation buffer की geographic breach हुई", "is_correct": true },
+      { "text": "2004 की सुनामी का प्रभाव केवल अल्पकालिक था और 6 माह में पूर्ण रिकवरी हुई", "is_correct": false },
+      { "text": "Andaman-Nicobar में 2004 की सुनामी नहीं आई थी — यह केवल श्रीलंका और थाईलैंड में प्रभावी थी", "is_correct": false }
+    ],
+    "explanation": "2004 की हिंद महासागर सुनामी (26 दिसंबर, Mw 9.1) ने Andaman-Nicobar में 1800+ मौतें कीं। दीर्घकालिक स्वास्थ्य-भौगोलिक परिणाम: (1) Coral reef का 30% नष्ट — मछली आबादी कम हुई, खाद्य सुरक्षा घटी; (2) भूजल लवणता बढ़ी — 20+ द्वीपों में पीने का पानी दूषित; (3) Anopheles mosquito के stagnant water habitats नए क्षेत्रों में बने; (4) अंडमानी जनजाति (Jarwa, Onge) के buffer zones में पुनर्वासित लोगों की आवाजाही बढ़ी जिससे disease exposure का खतरा बढ़ा; (5) मछुआरों में PTSD prevalence 45% (NIMHANS अध्ययन)। यह disaster-induced health geography का महत्वपूर्ण उदाहरण है।"
+  },
+  {
+    "question": "दिल्ली-मुंबई औद्योगिक कॉरिडोर (DMIC) और व्यावसायिक स्वास्थ्य भूगोल के संदर्भ में — किस प्रकार की occupational health vulnerability सबसे बड़ी चुनौती है?",
+    "options": [
+      { "text": "DMIC में केवल सफेदपोश नौकरियाँ हैं — व्यावसायिक स्वास्थ्य जोखिम नगण्य है", "is_correct": false },
+      { "text": "DMIC के निर्माण और परिचालन चरणों में construction migrant workers में silicosis/heat stress, manufacturing zones में chemical exposure (राजस्थान के नीमराना में Japanese investment zones में solvent vapors), और logistics श्रमिकों में musculoskeletal disorders — सभी के लिए spatial occupational health mapping अनुपस्थित है", "is_correct": true },
+      { "text": "DMIC में सभी उद्योग ISO 45001 प्रमाणित हैं इसलिए कोई व्यावसायिक जोखिम नहीं", "is_correct": false },
+      { "text": "DMIC का व्यावसायिक स्वास्थ्य खतरा केवल दिल्ली में है; अन्य राज्यों में कोई जोखिम नहीं है", "is_correct": false }
+    ],
+    "explanation": "DMIC 1483 km दिल्ली-मुंबई के बीच 6 राज्यों (UP, हरियाणा, राजस्थान, MP, गुजरात, महाराष्ट्र) में फैला है। Occupational Health challenges: (1) 3+ करोड़ construction workers — silica dust exposure (silicosis risk), heat stroke (40°C+ Rajasthan), fall hazards; (2) Neemrana (राजस्थान) Japanese Investment Zone में electronic assembly — solvent vapors, lead exposure; (3) Pithampur (MP) — chemical processing; (4) Dholera (गुजरात) — greenfield city में informal labor। ESIC और DGFASLI के अनुसार इन क्षेत्रों में occupational disease reporting अत्यंत कम है — 'invisibility' की समस्या। National Policy on Safety, Health and Environment at Workplace 2009 का implementation weak है।"
+  },
+  {
+    "question": "IDSP (Integrated Disease Surveillance Programme) और IHIP (Integrated Health Information Platform) के GIS उपयोग के संदर्भ में — इन प्लेटफार्मों की सबसे बड़ी methodological सीमा क्या है?",
+    "options": [
+      { "text": "IDSP और IHIP में GIS का कोई उपयोग नहीं है — वे केवल paper-based हैं", "is_correct": false },
+      { "text": "Denominator problem — reporting units (block/district) की जनसंख्या अनिश्चित है; private sector रिपोर्टिंग negligible है; urban slum populations excluded हैं; और GIS mapping real-time नहीं है जिससे outbreak detection में 7-14 दिन की देरी होती है", "is_correct": true },
+      { "text": "IHIP पूरी तरह AI-driven है और इसमें कोई human error नहीं है", "is_correct": false },
+      { "text": "GIS mapping केवल national level पर होती है — district level डेटा उपलब्ध नहीं है", "is_correct": false }
+    ],
+    "explanation": "IDSP (2004) और इसके नए अवतार IHIP में महत्वपूर्ण methodological सीमाएँ हैं: (1) Denominator problem — reporting PHC की actual catchment population अज्ञात है; (2) Private sector compliance — 70%+ healthcare private sector में है लेकिन रिपोर्टिंग 5% से कम; (3) Urban slum exclusion — municipal corporations की अलग reporting, integration gap; (4) Real-time vs. retrospective — data lag 7-14 दिन; (5) Completeness — rural CHC/PHC में internet/power failure से data gaps; (6) Spatial resolution — block level aggregation micro-hotspots छुपाता है। HMIS (Health Management Information System) के साथ integration भी अधूरा है। WHO Joint External Evaluation 2017 ने इन gaps को document किया था।"
+  },
+  {
+    "question": "मृदा संरचना और स्वास्थ्य भूगोल में — भारत के 'फ्लोरोसिस बेल्ट' की spatial extent और इसके स्वास्थ्य प्रभावों का सबसे सटीक विवरण कौन-सा है?",
+    "options": [
+      { "text": "फ्लोरोसिस केवल राजस्थान में है क्योंकि वहाँ शुष्क जलवायु है", "is_correct": false },
+      { "text": "20 राज्यों के 230+ जिलों में भूजल में फ्लोराइड >1.5 mg/L है (WHO मानक) — राजस्थान, गुजरात, तेलंगाना, आंध्र, उत्तर प्रदेश और MP में सर्वाधिक; dental fluorosis (mild), skeletal fluorosis (severe) और crippling fluorosis भूविज्ञान (fluorite minerals) और जल संरचना का स्थान-विशिष्ट परिणाम है", "is_correct": true },
+      { "text": "फ्लोरोसिस एक संक्रामक रोग है जो पानी से नहीं फैलता", "is_correct": false },
+      { "text": "भारत में फ्लोरोसिस केवल ऐतिहासिक समस्या है — अब Jal Jeevan Mission से पूरी तरह समाप्त हो गई है", "is_correct": false }
+    ],
+    "explanation": "CGWB (Central Ground Water Board) के सर्वेक्षण के अनुसार: 20 राज्यों के 230+ जिलों में fluoride >1.5 mg/L। भूविज्ञान: fluorite (CaF2), apatite युक्त granite, granodiorite चट्टानों के weathering से F- groundwater में आता है। राजस्थान के नागौर, बाड़मेर, जोधपुर में 20+ mg/L तक। स्वास्थ्य प्रभाव: (1) dental fluorosis — हल्की (white spots), मध्यम (brown pitting), गंभीर (erosion); (2) skeletal fluorosis — joint pain, rigidity; (3) crippling fluorosis — knock-knee, bow-leg deformity। RAJIV GANDHI NATIONAL DRINKING WATER MISSION के तहत fluorosis surveillance और defluoridation plants की स्थापना की गई है। CCDU (Central Coordination and Defluoridation Unit) तेलंगाना में कार्यरत है।"
+  },
+  {
+    "question": "उच्च-ऊँचाई स्वास्थ्य-भूगोल के संदर्भ में — लद्दाख में तैनात सैनिकों और स्थायी निवासियों में High Altitude Pulmonary Edema (HAPE) के risk factors में क्या भौगोलिक अंतर होता है?",
+    "options": [
+      { "text": "स्थायी निवासियों और सैनिकों में HAPE के risk factors समान होते हैं — कोई अंतर नहीं", "is_correct": false },
+      { "text": "स्थायी निवासी (Ladakhi/Tibetan descent) में EPAS1 gene variant के कारण high-altitude acclimatization बेहतर है; low hypoxic ventilatory response; जबकि मैदानी सैनिकों में rapid ascent (16,000+ ft), cold stress और dehydration का combination HAPE triggering करता है — यह genetic-geographic-behavioral interaction है", "is_correct": true },
+      { "text": "HAPE केवल पर्वतारोहियों में होता है — सैनिकों और निवासियों को नहीं होता", "is_correct": false },
+      { "text": "लद्दाख में ऊँचाई कम है इसलिए HAPE का कोई खतरा नहीं है", "is_correct": false }
+    ],
+    "explanation": "लद्दाख (3,500-5,000+ m) में तीव्र ऑक्सीजन कमी (pO2 40-50% sea level) के कारण: स्थायी निवासी (Ladakhi, Brokpa): EPAS1 (HIF-2α regulation) और EGLN1 gene variants से adapted हैं — higher hemoglobin saturation, larger chest circumference, lower pulmonary arterial pressure। मैदानी सैनिक: rapid ascent (helicopter/vehicle, <24h), sustained exertion, cold-induced pulmonary vasoconstriction, dehydration, अपर्याप्त acclimatization। HAPE mechanism: alveolar capillary leak from hypoxic pulmonary vasoconstriction। Defence Institute of High Altitude Research (DIHAR), Leh के अनुसार सालाना 300-400 HAPE cases army में। Treatment: descent, O2, Nifedipine। भौगोलिक अनुकूलन एक evolutionary process है जो 10,000+ वर्षों में विकसित हुआ।"
+  },
+  {
+    "question": "वन आवरण और स्वास्थ्य — ecosystem services, औषधीय पादप और Lyme disease के भौगोलिक संदर्भ में कौन-सा कथन सर्वाधिक समग्र और सटीक है?",
+    "options": [
+      { "text": "वन आवरण और स्वास्थ्य का केवल सकारात्मक संबंध है — वन वृद्धि से सभी रोग कम होते हैं", "is_correct": false },
+      { "text": "वन आवरण द्विदिशीय स्वास्थ्य प्रभाव रखता है: (1) air purification, water regulation, microclimate, phytoncides — सकारात्मक; (2) dense forest में tick density बढ़ती है (Scrub Typhus/Tsutsugamushi risk), wildlife-human interface पर zoonotic spill-over; India में forest fringe में Scrub Typhus hotspot है — Uttarakhand, HP, NE India", "is_correct": true },
+      { "text": "भारत में वनों का कोई स्वास्थ्य महत्व नहीं है क्योंकि Lyme Disease यहाँ नहीं है", "is_correct": false },
+      { "text": "वन आवरण केवल औषधीय पादपों के स्रोत के रूप में महत्वपूर्ण है, अन्य कोई स्वास्थ्य संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "वन और स्वास्थ्य का जटिल द्विदिशीय संबंध है। सकारात्मक: (1) Phytoncides (terpenes) से immune function improvement; (2) PM और O3 absorption; (3) Water table regulation; (4) 70%+ Indian traditional medicine plants वन-आधारित (AYUSH); (5) mental health — 'Forest Bathing' (Shinrin-yoku)। नकारात्मक: (1) Scrub Typhus (Orientia tsutsugamushi) — Leptotrombidium mites, dense vegetation, Uttarakhand, HP, Manipur में epidemic; (2) Kyasanur Forest Disease (KFD) — Karnataka tick-borne haemorrhagic fever; (3) Malaria vector habitats; (4) Human-wildlife conflict में rabies exposure। ICMR की रिपोर्ट के अनुसार Scrub Typhus उत्तराखंड में मलेरिया से अधिक deaths का कारण बन रहा है। Lyme Disease (Borrelia burgdorferi) भारत में documented नहीं है।"
+  },
+  {
+    "question": "शहरी झुग्गी स्वास्थ्य भूगोल में — धारावी (मुंबई) के स्वास्थ्य बोझ का कौन-सा spatial determinant सर्वाधिक जटिल है?",
+    "options": [
+      { "text": "धारावी में स्वास्थ्य समस्याएँ केवल गरीबी से उत्पन्न होती हैं — अन्य कारक नहीं", "is_correct": false },
+      { "text": "धारावी में 800,000+ लोग 2.1 km² में (3.8 लाख/km² density); open defecation-free claims के बावजूद shared toilet ratio 1:1440 है; Mithi river की proximity से flooding; informal recycling industries से lead/solvent exposure; migration-heterogeneity से TB transmission; और COVID में second wave का epicenter — यह multi-layered spatial determinism है", "is_correct": true },
+      { "text": "धारावी में COVID-19 नहीं फैला क्योंकि वहाँ की जनसंख्या में natural immunity थी", "is_correct": false },
+      { "text": "धारावी की स्वास्थ्य समस्याएँ पूरी तरह हल हो गई हैं क्योंकि MCGM ने पुनर्वास किया है", "is_correct": false }
+    ],
+    "explanation": "धारावी विश्व के सबसे घने बस्तियों में से एक है (3.8 लाख/km² बनाम मुंबई average 30,000/km²)। Spatial health determinants: (1) Toilet-to-person ratio — WHO मानक 1:50 के विरुद्ध 1:1440 — open defecation प्रभावी रूप से जारी; (2) Mithi river flooding — monsoon में water contamination; (3) Leather, textile, recycling industries — hexavalent chromium, solvent vapors, lead; (4) TB incidence — सघनता, कुपोषण, ventilation कमी; (5) COVID first wave में 5 months में 2,800+ cases लेकिन MCGM की track-test-treat strategy ने second wave को नियंत्रित किया — 'Dharavi Model' वैश्विक स्तर पर प्रशंसित। Housing density और disease ecology का यह उदाहरण medical geography में canonical है।"
+  },
+  {
+    "question": "CPCB की 'गंभीर रूप से प्रदूषित' (Critically Polluted Areas) सूची में स्थान पाने वाले क्षेत्रों का स्वास्थ्य-भौगोलिक विश्लेषण करें — किस industrial cluster में health impact सर्वाधिक documented है?",
+    "options": [
+      { "text": "CPCB की critically polluted areas list में केवल शहरी क्षेत्र हैं", "is_correct": false },
+      { "text": "तारापुर (महाराष्ट्र) — Asia का पहला nuclear power plant और MIDC cluster; वापी (गुजरात) — GIDC में 50+ hazardous industries; अंकलेश्वर (गुजरात) — chemical hub; तीनों में groundwater contamination, cancer incidence और chronic respiratory disease की documented health impact है", "is_correct": true },
+      { "text": "CPCB की list में केवल coal mining areas हैं — chemical industries शामिल नहीं", "is_correct": false },
+      { "text": "Critically polluted areas में रहने वालों पर कोई documented स्वास्थ्य प्रभाव नहीं है", "is_correct": false }
+    ],
+    "explanation": "CPCB ने 2009 में 43 Critically Polluted Areas (CPA) identify किए जहाँ Comprehensive Environmental Pollution Index (CEPI) >70 था। महत्वपूर्ण clusters: (1) वापी (गुजरात) — highest CEPI; Vapi Industrial Area में 300+ units; groundwater में Hg, Pb, Cr; cancer cases; (2) अंकलेश्वर (गुजरात) — textile dye, pharma; (3) तारापुर — MIDC में pharmaceuticals, dyestuffs; (4) Gajroula, Mandi Gobindgarh (Punjab-HP) — brick kilns और foundries; (5) Singrauli (MP) — coal power plants, NTPC. NIEPA और NEERI अध्ययनों में वापी के स्कूली बच्चों में blood lead levels 5x WHO limit और cancer mortality 3x state average documented है।"
+  },
+  {
+    "question": "आपातकालीन प्रसूति देखभाल (EmOC) की भौगोलिक पहुँच में — 'तीन देरी मॉडल' (Three Delays Model) और spatial accessibility का संबंध समझाएँ।",
+    "options": [
+      { "text": "तीन देरी मॉडल केवल विकासशील देशों में लागू होता है और भारत में MMR का मुख्य कारण दवाओं की कमी है", "is_correct": false },
+      { "text": "Thaddeus और Maine का तीन देरी मॉडल — (1) देरी-1: निर्णय लेना (सामाजिक-सांस्कृतिक, gender), (2) देरी-2: पहुँचना (geographic distance, road quality, transport), (3) देरी-3: पर्याप्त देखभाल प्राप्त करना — में देरी-2 का spatial dimension सर्वाधिक महत्वपूर्ण है; Assam, MP, Rajasthan में EmOC facility से 50+ km distance MMR का सबसे बड़ा predictor है", "is_correct": true },
+      { "text": "तीन देरी मॉडल केवल देरी-3 (facility quality) पर केंद्रित है — distance का कोई महत्व नहीं", "is_correct": false },
+      { "text": "भारत में EmOC सेवाएँ सभी जिलों में उपलब्ध हैं इसलिए geographic access अब बाधा नहीं है", "is_correct": false }
+    ],
+    "explanation": "Thaddeus और Maine (1994) का 'Three Delays Model' maternal mortality के कारणों को तीन स्थानिक-सामाजिक चरणों में विभाजित करता है। भारत में Delay-2 (reaching care) विशेष रूप से महत्वपूर्ण है: SRS 2018-20 के अनुसार Assam MMR 195, MP MMR 173, Rajasthan MMR 141 (राष्ट्रीय 97 बनाम)। DLHS और NFHS-5 के अनुसार असम के पहाड़ी जिलों (Dima Hasao, Karbi Anglong) में महिलाएँ nearest CEmOC (Comprehensive EmOC) से 100+ km दूर हैं। IPHS नियम: CHC में BEmOC और district hospital में CEmOC होनी चाहिए। पर reality में 30% जिला अस्पतालों में 24/7 OT उपलब्ध नहीं है। Janani Suraksha Yojana (JSY) ने institutional delivery बढ़ाई लेकिन facility quality (Delay-3) की समस्या बनी।"
+  },
+  {
+    "question": "PMGSY (प्रधानमंत्री ग्राम सड़क योजना) का मातृ-मृत्यु दर (MMR) पर प्रभाव — साक्ष्य और spatial mechanism क्या है?",
+    "options": [
+      { "text": "सड़क संपर्क का MMR पर कोई सिद्ध प्रभाव नहीं है — MMR केवल physician density से निर्धारित होती है", "is_correct": false },
+      { "text": "Mitra et al. और IFPRI अध्ययनों के अनुसार PMGSY सड़क निर्माण के बाद उन गाँवों में institutional delivery 8-12 percentage points बढ़ी जहाँ पहले पक्की सड़क नहीं थी; यह 'last-mile connectivity' का geographic-health linkage है जो Delay-2 को कम करता है", "is_correct": true },
+      { "text": "PMGSY से केवल कृषि उत्पादन में सुधार हुआ — स्वास्थ्य पर कोई प्रभाव documented नहीं है", "is_correct": false },
+      { "text": "PMGSY सड़कें केवल शहरों को जोड़ती हैं — गाँवों में इसका कोई प्रभाव नहीं है", "is_correct": false }
+    ],
+    "explanation": "PMGSY (2000) का लक्ष्य सभी habitations (500+ जनसंख्या) को all-weather road से जोड़ना था। स्वास्थ्य प्रभाव के evidence: (1) Aggarwal (2018, Journal of Development Economics) — PMGSY से mortality 10% कम हुई, particularly childhood और maternal mortality; (2) IFPRI study — road connectivity से health facility utilization 15-20% बढ़ी; (3) NITI Aayog analysis — saddak-connected villages में ANC visits 25% अधिक। Spatial mechanism: All-weather road → reduced travel time → timely referral → reduced Delay-2 → institutional delivery/EmOC access. MP, Rajasthan, UP, Bihar में impact सर्वाधिक documented। Challenge: PMGSY Phase I में 1,84,000 habitations covered; Phase II और III ongoing; COVID के बाद budget pressure।"
+  },
+  {
+    "question": "ताप लहर (Heat Wave) और उत्तरी मैदानी क्षेत्र की संवेदनशीलता के संदर्भ में — 2015 की आंध्र प्रदेश-तेलंगाना ताप लहर (2500+ मौतें) और 2022 की उत्तर-मध्य भारत ताप लहर में spatial pattern में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों ताप लहरों का spatial pattern और health impact समान था", "is_correct": false },
+      { "text": "2015 की AP-Telangana heat wave में urban heat island + dehydration + outdoor labor ने अधिकतम casualties दिए (Guntur, Nalgonda, Khammam); 2022 में early-onset (मार्च-अप्रैल), wheat belt के कृषि श्रमिक (UP, MP, Rajasthan), Wet Bulb Temperature 31-32°C — human physiological limit के निकट — और अनुकूलन क्षमता की कमी ने उत्तरी मैदानों को affected किया", "is_correct": true },
+      { "text": "Heat wave से स्वास्थ्य प्रभाव केवल दक्षिण भारत में होता है — उत्तर में जलवायु अनुकूल है", "is_correct": false },
+      { "text": "IMD के अनुसार भारत में ताप लहर की परिभाषा नहीं है इसलिए data comparison संभव नहीं है", "is_correct": false }
+    ],
+    "explanation": "IMD की परिभाषा: heat wave जब temperature ≥40°C (मैदान) / ≥30°C (तट) और सामान्य से 4.5°C अधिक। 2015 AP-Telangana heat wave: 2541 documented deaths (WHO); Guntur, Nalgonda में outdoors construction/agriculture workers; urban heat island ने रात्रि recovery नहीं दी। 2022 early-season heat wave: March में temperature records; wheat crops को noodle loss हुई (wheat yield 3% कम); WBT 31-32°C पर human thermoregulation (sweating) अप्रभावी — particularly humid areas में। UP के Prayagraj में 44°C; Rajasthan के Churu में 50°C approach। NDMA Heat Wave Action Plans और India Meteorological Department की early warning system के बावजूद कमजोर community-level response। CEEW study: 2030 तक extreme heat events 3x बढ़ने का अनुमान।"
+  },
+  {
+    "question": "जनजातीय स्वास्थ्य भूगोल और वन अधिकार — Particularly Vulnerable Tribal Groups (PVTGs) के स्वास्थ्य सूचकांकों में extreme deprivation का कारण क्या है?",
+    "options": [
+      { "text": "PVTGs में खराब स्वास्थ्य केवल उनकी 'जंगली जीवनशैली' के कारण है", "is_correct": false },
+      { "text": "75 PVTGs (Birhor, Baiga, Chenchu, Sentinelese आदि) में IMR 100-150/1000 (राष्ट्रीय 35) है — Van Adhikar Adhiniyam 2006 के अपर्याप्त implementation से वन उपज तक पहुँच बाधित; PVTG Development Programme की geographic exclusion; भाषाई-सांस्कृतिक बाधा; और 'last mile' health service delivery की विफलता combined हैं", "is_correct": true },
+      { "text": "PVTGs को सरकार की ओर से पर्याप्त स्वास्थ्य सेवाएँ मिल रही हैं — कोई समस्या नहीं", "is_correct": false },
+      { "text": "PVTGs केवल अंडमान द्वीपों में हैं — मुख्यभूमि पर नहीं", "is_correct": false }
+    ],
+    "explanation": "भारत में 75 Particularly Vulnerable Tribal Groups (PVTGs) की कुल जनसंख्या 27 लाख (2011 census)। स्वास्थ्य की extreme deprivation के कारण: (1) Geographic isolation — Jharkhand के Birhor, MP के Baiga, Odisha के Mankidia गहन वन क्षेत्रों में; PHC से 50+ km दूर; (2) Van Adhikar Adhiniyam 2006 (Forest Rights Act) का poor implementation — वन उपज और medicinal plants की पहुँच सीमित; (3) PVTG Development Programme (केन्द्रीय 9 घटक) का fund utilization 60% से कम; (4) ASHA कार्यकर्ता linguistic barrier से communicate नहीं कर पातीं; (5) Sickle Cell Disease prevalence 30-40% (tribal populations में); (6) Malnutrition: severe acute malnutrition (SAM) 15-20%. 2023-28 PVTG Mission (₹15,000 crore) launched है।"
+  },
+  {
+    "question": "रोहिंग्या शरणार्थी और स्वास्थ्य भूगोल — भारत-बांग्लादेश सीमा क्षेत्र में किस 'cross-border disease transmission' की सबसे बड़ी चुनौती है?",
+    "options": [
+      { "text": "रोहिंग्या शरणार्थियों से भारत में कोई cross-border disease transmission नहीं होती", "is_correct": false },
+      { "text": "Cox's Bazar (बांग्लादेश) में 9.5 लाख रोहिंग्या — MDR-TB transmission, विशेषकर camp crowding में; choleraic outbreaks; hepatitis E; तथा भारत के त्रिपुरा, असम, मणिपुर में अनधिकृत entry से TB और malaria की cross-border transmission documented है", "is_correct": true },
+      { "text": "Cross-border disease transmission केवल HIV/AIDS तक सीमित है", "is_correct": false },
+      { "text": "बांग्लादेश में रोहिंग्या camps में कोई infectious disease नहीं है क्योंकि UNHCR ने पूरी तरह नियंत्रित किया है", "is_correct": false }
+    ],
+    "explanation": "Cox's Bazar में Kutupalong camp विश्व का सबसे बड़ा शरणार्थी camp है (9.5 लाख+)। Disease burden: (1) MDR-TB — overcrowding, undernutrition, treatment interruption; Lancet study में camp TB rate 700/100,000 (Bangladesh national 221); (2) Cholera outbreaks — WASH facilities अपर्याप्त; (3) Hepatitis E — fecal contamination; (4) Vaccine-preventable diseases — measles, diphtheria outbreaks (2017-18)। India-Bangladesh nexus: 4,156 km border (fenced और unfenced); त्रिपुरा, मेघालय, असम में अनधिकृत crossings। NVBDCP के अनुसार त्रिपुरा में Plasmodium vivax malaria में वृद्धि cross-border movement से linked। WHO SEARO और Ministry of External Affairs की joint surveillance weak है।"
+  },
+  {
+    "question": "पशु घनत्व और Zoonotic risk geography — भारत में किस पशु-जनित संक्रमण का 'spillover geography' सबसे जटिल है?",
+    "options": [
+      { "text": "Nipah virus — केवल फल खाने वाले चमगादड़ों से, केवल केरल में", "is_correct": false },
+      { "text": "Nipah (Pteropus bat → human/pig; Kerala 2018, 2023 hotspot), Kyasanur Forest Disease (Haemaphysalis tick → monkey → human; Karnataka), Crimean-Congo Haemorrhagic Fever (livestock tick; Gujarat, Rajasthan) और H5N1/H9N2 Avian Influenza (poultry dense zones; West Bengal, Maharashtra) — सभी में भिन्न livestock/wildlife density geography और spillover pathways हैं", "is_correct": true },
+      { "text": "भारत में Zoonotic disease spillover केवल rabies तक सीमित है", "is_correct": false },
+      { "text": "Zoonotic risk geography में पशु घनत्व का कोई महत्व नहीं — यह केवल व्यक्तिगत behavior पर निर्भर है", "is_correct": false }
+    ],
+    "explanation": "भारत में Zoonotic spillover geography अत्यंत विविध है: (1) Nipah — Pteropus medius (Indian Flying Fox) में endemic; Kerala 2018 (Kozhikode, 17 deaths), 2023 (Kozhikode, 2 deaths); pig amplification (Bangladesh model) vs. direct bat-to-human (Kerala); (2) KFD — Karnataka के Shivamogga, Uttara Kannada, Udupi; Haemaphysalis spinigera tick, monkey die-off sentinel; (3) CCHF — Gujarat 2011 (Gandhinagar hospital outbreak), Rajasthan; Hyalomma tick, livestock (cattle/sheep) reservoir; (4) H5N1 — West Bengal, Tripura, Maharashtra; poultry markets; live bird markets vector। NCDC Zoonoses Division और NIHSAD की joint surveillance होती है। One Health framework में livestock density mapping, wildlife-human interface monitoring, और laboratory network — सब spatial elements हैं।"
+  },
+  {
+    "question": "भूमिगत जल गुणवत्ता भूगोल — बिहार और पश्चिम बंगाल में आर्सेनिक प्रदूषण के भूवैज्ञानिक-स्वास्थ्य कारण क्या हैं और WHO मानक (10 μg/L) से कितना अधिक पाया गया है?",
+    "options": [
+      { "text": "आर्सेनिक प्रदूषण केवल औद्योगिक कारणों से होता है — भूवैज्ञानिक स्रोत नहीं हैं", "is_correct": false },
+      { "text": "गंगा-ब्रह्मपुत्र-मेघना डेल्टा के Holocene alluvial sediments में As-bearing minerals (arsenopyrite, scorodite) के reductive dissolution से 50-1000+ μg/L आर्सेनिक निकलता है; बिहार के भोजपुर, बक्सर, वैशाली और WB के मुर्शिदाबाद, नदिया, मालदा में arsenicosis (keratosis, melanosis, Bowen's disease, bladder cancer) की spatial cluster है", "is_correct": true },
+      { "text": "आर्सेनिक प्रदूषण केवल बांग्लादेश में है — भारत में कोई समस्या नहीं है", "is_correct": false },
+      { "text": "आर्सेनिक केवल पीने के पानी से नहीं, भोजन से आता है — water testing अनावश्यक है", "is_correct": false }
+    ],
+    "explanation": "गंगा-मेघना-ब्रह्मपुत्र डेल्टा में arsenic contamination का source: Holocene alluvial sediments में iron oxyhydroxides (goethite, ferrihydrite) पर adsorbed arsenic का reductive dissolution। Mechanism: organic matter → microbial Fe(III) reduction → Fe-oxyhydroxide dissolution → As release। बिहार: भोजपुर (Ara), बक्सर, वैशाली — 100-1000 μg/L (WHO limit 10 μg/L का 10-100x); WB: मुर्शिदाबाद, नदिया, North 24 Parganas — 200-3000 μg/L। Health effects: (1) arsenicosis — melanosis, keratosis (palms/soles); (2) Bowen's disease; (3) bladder cancer, lung cancer; (4) peripheral neuropathy। CGWB estimate: 5 crore लोग exposed। Jal Jeevan Mission में As-affected areas को priority; piped surface water supply alternative strategy।"
+  },
+  {
+    "question": "कोल्ड चेन लॉजिस्टिक्स और टीका वितरण भूगोल — पहाड़ी और द्वीपीय क्षेत्रों में 'लास्ट माइल' कोल्ड चेन की सबसे बड़ी operational चुनौती क्या है?",
+    "options": [
+      { "text": "कोल्ड चेन केवल शहरी क्षेत्रों में आवश्यक है — ग्रामीण क्षेत्रों में टीके गर्म रह सकते हैं", "is_correct": false },
+      { "text": "हिमाचल, उत्तराखंड और Andaman-Nicobar में power outages (load shedding), terrain-based non-motorable routes, और '+2°C to +8°C' cold chain maintenance की विफलता — ILR (Ice Lined Refrigerators) और VVM (Vaccine Vial Monitors) के बावजूद — Vaccine Preventable Disease (VPD) outbreaks का spatial predictor है", "is_correct": true },
+      { "text": "India में Universal Immunization Programme की cold chain पूरी तरह solar-powered है इसलिए कोई समस्या नहीं है", "is_correct": false },
+      { "text": "द्वीपीय क्षेत्रों में कोल्ड चेन की आवश्यकता नहीं है क्योंकि वहाँ की जनसंख्या कम है", "is_correct": false }
+    ],
+    "explanation": "Universal Immunization Programme (UIP) में cold chain +2°C to +8°C (अधिकांश vaccines) या -15°C to -25°C (OPV) बनाए रखनी होती है। Geographic challenges: (1) HP, Uttarakhand — winter snowfall से road connectivity बाधित; sub-zero temperatures में ILR freeze; battery backup अपर्याप्त; (2) Andaman-Nicobar — island hopping logistics; ship/helicopter-based supply chain; 6-12 घंटे transit; (3) NE India — Nagaland, Arunachal में village accessibility; (4) Rajasthan — गर्मी में +45°C ambient; reverse cold chain failure। eVIN (Electronic Vaccine Intelligence Network) — 2015 में launched; real-time temperature और stock monitoring। WHO-UNICEF JRF data: India में cold chain failure से vaccine wastage 25-35% (glass ampoules); VVM indicators महत्वपूर्ण हैं। Mission Indradhanush में cold chain strengthening प्राथमिकता।"
+  },
+  {
+    "question": "NCAP (National Clean Air Programme) और 132 'non-attainment cities' के वायु गुणवत्ता-स्वास्थ्य भूगोल में — किस शहर श्रेणी में health burden सर्वाधिक है और क्यों?",
+    "options": [
+      { "text": "Non-attainment cities केवल दिल्ली-NCR में हैं — अन्य शहर सुरक्षित हैं", "is_correct": false },
+      { "text": "IGP (Indo-Gangetic Plain) के non-attainment cities — Agra, Lucknow, Kanpur, Varanasi, Patna — में PM2.5 WHO annual guideline (5 μg/m³) से 15-20x अधिक; meteorological trapping (temperature inversion + calm winds) + industrial + vehicular + biomass — quadruple source; HEALS study में इन cities में childhood asthma और COPD सर्वाधिक", "is_correct": true },
+      { "text": "NCAP का लक्ष्य 2024 तक सभी 132 cities को attainment में लाना था और यह पूरी तरह सफल हो गया है", "is_correct": false },
+      { "text": "Non-attainment cities में health burden केवल respiratory diseases तक सीमित है — cardiovascular कोई समस्या नहीं", "is_correct": false }
+    ],
+    "explanation": "NCAP (2019) का लक्ष्य 2024 तक PM2.5 और PM10 में 20-30% कमी (2017 baseline से)। 132 non-attainment cities वे हैं जहाँ 2011-15 में NAAQS (National Ambient Air Quality Standards) का उल्लंघन हुआ। IGP cities विशेष: (1) Meteorological trapping — winter में calm winds + temperature inversion + low mixing height = pollutant accumulation; (2) Multiple sources — thermal power plants (NTPC Singrauli, TATA Mundra), brick kilns, vehicles, parali burning (पराली); (3) PM2.5 levels — Delhi 89 μg/m³ (annual average 2022), Patna 83, Lucknow 79 vs. WHO guideline 5 μg/m³; (4) HEALS (Health Effects of Air quality in Low-and middle-income countries Study) — IGP में COPD, IHD, stroke burden elevated। NCAP under MoEFCC ने city-specific Action Plans mandate किए; progress mixed।"
+  },
+  {
+    "question": "TB का spatial pattern — India में MDR-TB hotspots की geographic identification और 'बेटी बचाओ-TB हटाओ' (End TB) 2025 target की spatial feasibility क्या है?",
+    "options": [
+      { "text": "India में TB incidence पूरे देश में एकसमान है — कोई hotspot नहीं", "is_correct": false },
+      { "text": "Maharashtra (Mumbai — Dharavi DOTS challenge), Gujarat (Surat migrant workers), UP (Varanasi), Delhi (JJ clusters) और Northeast (Nagaland, Manipur — HIV co-infection) में MDR-TB concentration है; 2025 End TB target में India को incidence 65% और mortality 75% घटानी है — वर्तमान trend में यह 2035 के बाद ही संभव है", "is_correct": true },
+      { "text": "MDR-TB केवल UP और Bihar में है — अन्य राज्य TB-free हैं", "is_correct": false },
+      { "text": "WHO Global TB Report 2023 के अनुसार India ने End TB 2025 target पहले ही पूरा कर लिया है", "is_correct": false }
+    ],
+    "explanation": "WHO Global TB Report 2023: India में 2.8 million estimated TB cases (27% global burden); TB incidence 212/100,000; MDR-TB 131,000 cases। Spatial hotspots: (1) Mumbai — Dharavi, Kurla; healthcare-seeking delay; (2) Surat — migrant textile workers; (3) Delhi — JJ colonies, Seemapuri; (4) Nagaland, Manipur — HIV-TB co-infection rate 15-20%; (5) Mining districts — Dhanbad, Hazaribagh (Jharkhand) — silicosis+TB synergy। End TB 2025 target (vs. 2015 baseline): incidence 50% reduction, mortality 75% reduction। India current progress: incidence 2015-2022 में केवल 10-15% reduction। NTEP (National TB Elimination Programme) में Ni-kshay Mitra, TB Harega Desh Jitega campaign। Spatial modelling से पता चलता है कि urban slums और migrant corridors में targeted intervention के बिना 2025 target संभव नहीं।"
+  },
+  {
+    "question": "समुद्र-स्तर वृद्धि और सुंदरबन — coastal communities के स्वास्थ्य-भौगोलिक प्रभावों का सबसे समग्र विश्लेषण कौन-सा है?",
+    "options": [
+      { "text": "सुंदरबन में समुद्र-स्तर वृद्धि का स्वास्थ्य पर कोई प्रभाव नहीं पड़ता — लोग अनुकूलित हो जाते हैं", "is_correct": false },
+      { "text": "सुंदरबन में 4.1 mm/year sea-level rise (global average 3.3 से अधिक), भूमि subsidence, cyclone intensity वृद्धि — brackish water intrusion से soil salinity → crop failure → malnutrition; groundwater salinity → hypertension/renal issues; forced displacement → mental health; और mangrove loss से natural buffer reduction — सब संयुक्त health threats बनाते हैं", "is_correct": true },
+      { "text": "सुंदरबन में केवल बाघ के हमले से मृत्यु होती है — अन्य स्वास्थ्य खतरे नहीं हैं", "is_correct": false },
+      { "text": "समुद्र-स्तर वृद्धि केवल तटीय erosion का कारण है — स्वास्थ्य से इसका कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "सुंदरबन (WB + Bangladesh) में 4 million+ लोग निवास करते हैं। Sea-level rise health impact chain: (1) Brackish water intrusion → soil salinity increase → rice yield 30-50% कम (IRRI study) → food insecurity → stunting और anemia; (2) Groundwater salinity — drinking water Na+ बढ़ना → hypertension, preeclampsia in pregnancy; (3) Cyclone Aila (2009), Amphan (2020), Yaas (2021) — injuries, water contamination; PTSD; (4) Forced displacement — Ghoramara Island 50% डूबी; migrants को mainland में health services access नहीं; (5) Mangrove loss — natural storm protection कम; (6) Leishmaniasis, malaria vector changes। School of Tropical Medicine Kolkata और TERI के studies में इन multi-pathway impacts documented हैं। 'Climate refugees' का concept international law में अभी recognized नहीं।"
+  },
+  {
+    "question": "मातृ स्वास्थ्य भूगोल — जिला-स्तरीय MMR variation में सबसे बड़ा spatial predictor कौन-सा है और इसकी policy relevance क्या है?",
+    "options": [
+      { "text": "जिला-स्तरीय MMR केवल physician density से निर्धारित होती है", "is_correct": false },
+      { "text": "Multi-variable spatial analysis के अनुसार जिला-स्तरीय MMR में सबसे बड़े predictors हैं: (1) institutional delivery rate, (2) Skilled Birth Attendance (SBA), (3) CEmOC facility से distance, (4) female literacy — और इनके spatial coincidence से Assam, MP, Rajasthan में 'high MMR districts' का cluster बनता है जो targeted intervention का आधार है", "is_correct": true },
+      { "text": "MMR variation केवल जाति-आधारित है — geographic factors अप्रासंगिक हैं", "is_correct": false },
+      { "text": "SRS के अनुसार सभी जिलों में MMR एकसमान है — कोई district-level variation नहीं", "is_correct": false }
+    ],
+    "explanation": "SRS (Sample Registration System) जिला-स्तर पर MMR नहीं देता — राज्य-स्तरीय estimates होती हैं। लेकिन DLHS-4, NFHS-5 और district-level health surveys से spatial analysis: (1) Assam में high MMR (195/100,000) — Dima Hasao, Karbi Anglong में institutional delivery <40%; (2) MP — Madhya Bharat के जिले (Sheopur, Shivpuri) में CEmOC से distance >50 km; (3) Rajasthan — Barmer, Jaisalmer, Sirohi में female literacy <40% और SBA rate <50%; (4) Multi-variable regression: institutional delivery + SBA + CEmOC access explain 65-70% MMR variation (IIPS study)। Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA) monthly ANC clinics और JSY-JSSK का spatial targeting इसी pattern पर आधारित। 'High Burden Districts' 25+25 strategy में 50 districts targeted।"
+  },
+  {
+    "question": "मानसिक स्वास्थ्य भूगोल — भारत में आत्महत्या दरों का राज्य/जिला-स्तरीय spatial pattern क्या है और इसके multi-causal geographic determinants कौन-से हैं?",
+    "options": [
+      { "text": "आत्महत्या दर सभी राज्यों में समान है और इसका भूगोल से कोई संबंध नहीं है", "is_correct": false },
+      { "text": "NCRB 2022 के अनुसार सर्वाधिक आत्महत्या दर: Puducherry (39.7/100,000), Sikkim (33.0), Chhattisgarh (26.4), Andhra (26.2) — Kerala भी उच्च (24.5); इनमें 'paradox of development' (Kerala), tribal displacement (Chhattisgarh), agrarian distress (Andhra), और social isolation patterns geographic cluster बनाते हैं", "is_correct": true },
+      { "text": "आत्महत्या केवल उत्तर भारत में होती है — दक्षिण भारत में यह समस्या नहीं है", "is_correct": false },
+      { "text": "भारत में आत्महत्या दर विश्व में सबसे कम है — कोई spatial concern नहीं है", "is_correct": false }
+    ],
+    "explanation": "NCRB 'Accidental Deaths and Suicides in India 2022': Total 1,70,924 suicides। Spatial pattern: (1) Puducherry (39.7) — urban stress, alcohol, social fragmentation; (2) Sikkim (33.0) — alcohol misuse, geographic isolation, unemployment; (3) Chhattisgarh (26.4) — tribal displacement, conflict (Naxal), mental health services zero; (4) Andhra/Telangana — farmer suicides, agrarian distress; (5) Kerala 'development paradox' — high education + awareness = higher reporting + diagnosis; (6) UP, Bihar — low rates but likely under-reporting। Gender: men 2.5x more than women (but women's attempts higher). NMHS 2015-16: mental health treatment gap 70-90%. District Mental Health Programme (DMHP) coverage insufficient। Geospatial analysis shows: districts with low DMHP coverage + agrarian distress + tribal population have highest cluster risk।"
+  },
+  {
+    "question": "शोर प्रदूषण और स्वास्थ्य भूगोल — हवाई अड्डे के आसपास के क्षेत्रों में 'noise annoyance dose-response' का spatial evidence क्या है?",
+    "options": [
+      { "text": "हवाई अड्डे का शोर केवल दिन में होता है और रात्रि में कोई प्रभाव नहीं होता", "is_correct": false },
+      { "text": "IGI Airport (Delhi), CSIA (Mumbai), BIAL (Bengaluru) के आसपास 1-5 km zone में night-time noise >55 dB(A) से sleep disturbance, cortisol spike, hypertension (HYENA study evidence), और cognitive impairment in children (MRC-IHE UK study equivalent) documented है; DGCA Noise Rules 2009 कम enforce हैं", "is_correct": true },
+      { "text": "Airport noise से केवल tinnitus होता है — cardiovascular कोई प्रभाव नहीं है", "is_correct": false },
+      { "text": "भारत में airport noise standards WHO से अधिक stringent हैं इसलिए कोई health impact नहीं है", "is_correct": false }
+    ],
+    "explanation": "Airport noise health geography में European HYENA Study (Hypertension and Exposure to Noise near Airports) ने दिखाया कि night Lnight >55 dB(A) से hypertension OR 1.14, MI risk बढ़ता है। भारत में: (1) IGI Delhi — Dwarka, Mahipalpur, Vasant Kunj; (2) CSIA Mumbai — Santacruz, Andheri; (3) BIAL Bengaluru — Devanahalli। WHO Environmental Noise Guidelines (2018): Lnight <40 dB(A) (वर्तमान guideline, aviation)। CPCB noise standards: residential 45 dB(A) night — but airport zones exempt। Mechanisms: (1) Sleep fragmentation → cortisol chronodisruption → metabolic syndrome; (2) Cognitive development in children — school performance decline; (3) Annoyance → chronic stress → immune dysfunction। DGCA ने Night Curfew policy implement की है दिल्ली में 23:00-06:00 लेकिन enforcement gaps हैं।"
+  },
+  {
+    "question": "जैव-विविधता हॉटस्पॉट और संक्रामक रोग उद्भव — Western Ghats biodiversity hotspot में disease emergence की geographic mechanism क्या है?",
+    "options": [
+      { "text": "जैव-विविधता हॉटस्पॉट में रोग उद्भव का कोई खतरा नहीं — biodiversity protective है", "is_correct": false },
+      { "text": "Western Ghats में deforestation → wildlife-human interface expansion → Kyasanur Forest Disease (KFD/monkey fever) के tick habitats में change; Nipah spillover risk (Pteropus bats fruit orchards); और 'dilution effect' का breakdown जहाँ biodiversity loss से disease reservoir species dominate करती हैं — KFD hotspot केरल-कर्नाटक-गोवा tri-junction पर है", "is_correct": true },
+      { "text": "Western Ghats में केवल plant biodiversity है — animal-transmitted diseases नहीं होतीं", "is_correct": false },
+      { "text": "Biodiversity hotspot में रोग उद्भव होना असंभव है क्योंकि ecosystem balanced रहता है", "is_correct": false }
+    ],
+    "explanation": "'Dilution Effect' hypothesis: higher biodiversity → pathogen dilution → lower transmission। लेकिन fragmented landscapes में: (1) KFD (Kyasanur Forest Disease): Karnataka के Shivamogga, Udupi, Uttara Kannada; Haemaphysalis spinigera tick → monkey (Bonnet macaque) amp → human; 1957 से known; deforestation से tick habitat में change; annual cases 400-500; (2) Nipah — Western Ghats में Pteropus medius fruit bats orchards में आते हैं; Kerala case (Kozhikode 2018) में bat-human proximity; (3) Malabar area में scrub typhus (Orientia). 'Zoonotic Edge' — यह forest edge जहाँ human settlements और wildlife habitat overlap होती है, सर्वाधिक risky। Western Ghats UNESCO World Heritage Site (2012) में fragmentation reduction priority।"
+  },
+  {
+    "question": "स्वच्छता भूगोल और दस्त रोग — ODF (Open Defecation Free) जिलों और non-ODF जिलों में diarrheal disease burden का spatial comparison क्या है?",
+    "options": [
+      { "text": "ODF घोषणा से तुरंत दस्त रोग समाप्त हो जाता है — यह linear relationship है", "is_correct": false },
+      { "text": "Spears et al. और IHME के अनुसार ODF verification में 'toilet usage vs. construction' की gap है; UP, Bihar में ODF declared districts में 50-60% लोग अभी भी open defecation करते हैं; वास्तविक स्वास्थ्य लाभ (diarrheal disease reduction) ODF घोषणा के 2-3 वर्ष बाद तब होता है जब toilet usage sustained हो", "is_correct": true },
+      { "text": "ODF से only waterborne diseases कम होती हैं — diarrhea पर कोई प्रभाव नहीं", "is_correct": false },
+      { "text": "Swachh Bharat Mission ने 2019 तक सभी districts को effectively ODF बना दिया है", "is_correct": false }
+    ],
+    "explanation": "Swachh Bharat Mission (Gramin) — October 2014 में launch; October 2019 में 'ODF India' घोषित। लेकिन ground reality: (1) SQUAT Survey (Research Institute for Compassionate Economics): UP, Bihar में ODF घोषणा के बाद भी 50-70% households open defecation करते रहे; (2) Construction vs. use gap — सरकारी subsidized toilets में storage, water supply, privacy issues; (3) Dean Spears (2020) research — child stunting में improvement ODF के 3+ वर्ष बाद; (4) NFHS-5: SBM के बाद improved sanitation access 71% (vs. 39% in 2015-16); (5) JE, cholera, typhoid में reduction in ODF-confirmed districts। Real ODF (behaviour change) vs. paper ODF distinction महत्वपूर्ण। Phase 2 (ODF+, ODF++) में solid waste management और greywater management added।"
+  },
+  {
+    "question": "खनन जिलों में व्यावसायिक खतरे — झारखंड के कोयला खनन क्षेत्रों में सिलिकोसिस और pneumoconiosis का spatial epidemiology क्या है?",
+    "options": [
+      { "text": "सिलिकोसिस केवल marble खनन में होती है — coal mines में कोई जोखिम नहीं", "is_correct": false },
+      { "text": "धनबाद, बोकारो, रामगढ़, हजारीबाग जिलों में coal mine workers में coal workers' pneumoconiosis (CWP) और mixed dust silicosis का dual burden है; Contract workers, आदिवासी श्रमिक और open-cast mine श्रमिकों में ESIC coverage नगण्य है; NIOH Ahmedabad के अनुसार Jharkhand में 1 लाख+ उजागर श्रमिक हैं जिनमें से केवल 5% documented हैं", "is_correct": true },
+      { "text": "Coal Workers' Pneumoconiosis भारत में पूरी तरह समाप्त हो गई है — आधुनिक mines में यह नहीं होती", "is_correct": false },
+      { "text": "सिलिकोसिस केवल western countries में होती है — भारत में इसका कोई documentation नहीं है", "is_correct": false }
+    ],
+    "explanation": "Jharkhand में coal reserves देश के 25%+ हैं। Occupational Health Geography: (1) CWP (Coal Workers' Pneumoconiosis): coal dust inhalation → progressive massive fibrosis; (2) Mixed silicosis: coal + silica (quartz) exposure in coal seams; (3) Open-cast mines: blast dust में crystalline silica; underground mines: confined space + less ventilation। Contract/casual workers most vulnerable — ESIC में enrolled नहीं। DGMS (Directorate General of Mines Safety) के अनुसार medical examination compliance 30-40%. NIOH Ahmedabad study: Asansol-Dhanbad belt में chest radiograph abnormalities 40-60% in long-tenure miners। Silicosis — irreversible, no cure; TB co-infection (silicotuberculosis) mortality accelerator। Jharkhand Silicosis Compensation Scheme 2018 — implementation poor। National Policy on Safety, Health and Environment at Workplace 2009 — weak enforcement।"
+  },
+  {
+    "question": "भोपाल गैस त्रासदी की स्वास्थ्य-भौगोलिक विरासत — 1984 के बाद 40 वर्षों में 'geographic health legacy' क्या है?",
+    "options": [
+      { "text": "भोपाल गैस त्रासदी का प्रभाव केवल रात्रि (2-3 दिसंबर 1984) तक सीमित था — उसके बाद कोई स्वास्थ्य प्रभाव नहीं", "is_correct": false },
+      { "text": "MIC (methyl isocyanate) gas exposure zone के 40 km² में — respiratory fibrosis, cataract, neurological damage, immunological dysfunction की trans-generational health legacy; soil और groundwater में mercury, HCH, trichlorobenzene contamination; ICMR के दीर्घकालिक अध्ययन में affected ward में cancer, birth defects, fertility issues की higher rates; 'second disaster' = contaminated site cleanup की विफलता", "is_correct": true },
+      { "text": "भोपाल site को पूरी तरह remediate किया जा चुका है — अब कोई health risk नहीं है", "is_correct": false },
+      { "text": "MIC gas का प्रभाव केवल lungs तक सीमित था — अन्य अंगों पर कोई प्रभाव नहीं पड़ा", "is_correct": false }
+    ],
+    "explanation": "भोपाल Gas Tragedy (2-3 दिसंबर 1984): 40+ MT MIC leak। Immediate: 2000-3000+ (official) / 8000-25000 (advocacy) मौतें। Long-term health geography: (1) Respiratory — chronic obstructive lung disease, restrictive lung disease; (2) Ocular — cataract, corneal opacity; (3) Neurological — peripheral neuropathy, memory impairment; (4) Immunological — autoimmune disorders; (5) Trans-generational — ICMR study में affected mothers के बच्चों में cerebral palsy, musculoskeletal deformities; (6) Contaminated site — Union Carbide plant में 400+ tonnes toxic waste; 20 years तक groundwater contamination; affected wards में trichlorobenzene, HCH, mercury in wells। BMHRC (Bhopal Memorial Hospital and Research Centre) 1998 में स्थापित। MP HC और SC में ongoing litigation। 'Second Disaster' = cleanup failure, rehabilitation inadequacy। ICMR Phase I-IV studies क्षेत्र में आज भी जारी हैं।"
+  },
+  {
+    "question": "एंटीबायोटिक प्रतिरोध का भौगोलिक वितरण — AMRSN (Antimicrobial Resistance Surveillance Network) के आँकड़ों में किस spatial pattern की पहचान की गई है?",
+    "options": [
+      { "text": "AMR केवल tertiary hospitals में होती है — community level में कोई resistance नहीं है", "is_correct": false },
+      { "text": "AMRSN network (ICMR) के अनुसार tertiary hospitals में carbapenem-resistant K. pneumoniae (CRKP) और MRSA उच्च हैं; लेकिन community में Ganga basin के जल में AMR genes (NDM-1 bearing bacteria) detection ने 'environmental AMR geography' की नई dimension जोड़ी; poultry-dense Haryana, Punjab में animal-origin AMR highest है", "is_correct": true },
+      { "text": "भारत में AMR की कोई monitoring नहीं होती — AMRSN डेटा उपलब्ध नहीं है", "is_correct": false },
+      { "text": "AMR केवल antibiotic overuse से होती है — geographic factors इसमें कोई भूमिका नहीं निभाते", "is_correct": false }
+    ],
+    "explanation": "AMRSN (ICMR, 2013): 30 sentinel sites, 18+ states। Key findings: (1) CRKP — ICU में 60-80% Klebsiella carbapenem resistant; (2) MRSA — 25-40% in hospitals; (3) E. coli ESBL production — 70-80% clinical isolates; (4) NDM-1 (New Delhi Metallo-beta-lactamase) — discovered 2010; Ganga river water से isolated (Timothy Walsh study); WHO 'global spread' vector। Environmental AMR geography: (1) Ganga basin में pharmaceutical effluents (Hyderabad pharma hub) → AMR gene pool; (2) Poultry clusters — Haryana, Punjab में colistin use → MCR-1 genes; (3) Shrimp aquaculture — Andhra coastal में AMR; (4) Urban sewage — Mumbai, Delhi में multi-drug resistant organisms। Global AMR Action Plan (2016) के under India's National Action Plan on AMR (2017-21) — hospital infection control, antibiotic stewardship programs। OneHealth framework में human-animal-environment AMR surveillance critical।"
+  },
+  {
+    "question": "पेरी-अर्बन स्वास्थ्य भूगोल — शहरी-ग्रामीण इंटरफेस पर कौन-सी विशिष्ट स्वास्थ्य चुनौतियाँ उत्पन्न होती हैं?",
+    "options": [
+      { "text": "पेरी-अर्बन क्षेत्र शहर और गाँव दोनों के स्वास्थ्य लाभ प्राप्त करते हैं — कोई विशेष चुनौती नहीं", "is_correct": false },
+      { "text": "पेरी-अर्बन areas में 'double disadvantage': ग्रामीण PHC नेटवर्क का jurisdiction छोड़ता है लेकिन शहरी UHC/UPHC अभी नहीं पहुँचा; informal housing + inadequate sanitation + industrial pollution proximity + food insecurity — Faridabad, Ghaziabad, Palghar जैसे पेरी-अर्बन जिलों में worst health outcomes दोनों से भी बुरे हो सकते हैं", "is_correct": true },
+      { "text": "पेरी-अर्बन क्षेत्र केवल industrial zones हैं — residential populations नहीं होती", "is_correct": false },
+      { "text": "पेरी-अर्बन क्षेत्रों में NHM का पूरा coverage होता है — कोई gap नहीं है", "is_correct": false }
+    ],
+    "explanation": "Peri-urban interface — शहरी नगरपालिका सीमा और rural panchayat के बीच का क्षेत्र। 'Administrative orphan' problem: (1) Rural PHC jurisdiction में technically आता है लेकिन population density urban है; (2) UPHC (Urban PHC) — 50,000 population के लिए एक UPHC (NHM norms) — peri-urban areas में count नहीं; (3) ASHA workers rural cadre — peri-urban में नियुक्ति gap; (4) Building bylaws और sanitation नियम unclear — informal/unauthorized construction; (5) Industrial proximity — chemical, brick kiln, textile effluents। NFHS-5 में देखा गया कि कुछ peri-urban districts में urban और rural दोनों से worse outcomes हैं। Census Town concept — urbanization के बिना formal governance। Smart Cities Mission केवल 100 cities cover करता है — peri-urban नहीं।"
+  },
+  {
+    "question": "सार्वजनिक बनाम निजी स्वास्थ्य सुविधाओं का spatial distribution — DLHS और NFHS-5 डेटा से कौन-सी 'geographical health market failure' उजागर होती है?",
+    "options": [
+      { "text": "भारत में निजी और सार्वजनिक स्वास्थ्य सुविधाओं का spatial distribution समान है", "is_correct": false },
+      { "text": "Private facilities urban में concentrate हैं (90%+ private hospitals शहरों में); rural-urban private doctor ratio 1:10 है; लेकिन rural areas में quacks और unqualified practitioners का 70%+ market share है — यह 'inverted geography of quality care' है जहाँ worst quality highest need areas में है", "is_correct": true },
+      { "text": "ग्रामीण क्षेत्रों में निजी सेवाएँ बेहतर हैं क्योंकि वहाँ प्रतिस्पर्धा कम है", "is_correct": false },
+      { "text": "NHM के बाद सार्वजनिक स्वास्थ्य सेवाएँ इतनी बेहतर हो गई हैं कि निजी क्षेत्र अप्रासंगिक हो गया है", "is_correct": false }
+    ],
+    "explanation": "DLHS-4 और NFHS-5 spatial analysis: (1) Private hospitals: 70%+ in Class I cities (>1 lakh population); Maharashtra, Karnataka, Tamil Nadu, Gujarat में concentrated; (2) Rural private market: unqualified practitioners (RMPs — Rural Medical Practitioners) — MBBS degree नहीं; Bhore Committee 1946 से यह problem documented; (3) Lancet study: Bihar में healthcare providers का 50%+ unqualified; (4) NSSO 75th Round — rural household outpatient care में 70% private sector; (5) OOPE (Out-of-Pocket Expenditure): rural में 65-70% (vs. urban 55%). 'Market failure' elements: information asymmetry (patient नहीं जानता quality); public goods (preventive care) undersupply; externalities। AYUSHMAN BHARAT — HWCs (Health and Wellness Centres) ने rural public sector strengthen किया लेकिन human resource gap (doctors) बना है।"
+  },
+  {
+    "question": "पराली दहन और वायु प्रदूषण भूगोल — पंजाब-हरियाणा में crop residue burning का trans-boundary health impact कितनी दूर तक जाता है?",
+    "options": [
+      { "text": "पराली दहन का प्रभाव केवल पंजाब-हरियाणा तक सीमित है — दिल्ली तक नहीं पहुँचता", "is_correct": false },
+      { "text": "SAFAR (System of Air Quality and Weather Forecasting And Research) के अनुसार पराली smoke की contribution Oct-Nov में Delhi PM2.5 में 40-60% तक; trajectory analysis में Uttarakhand, UP, Bihar तक prticle transport; HYSPLIT model से 500-700 km downwind impact — 50 million लोग exposed", "is_correct": true },
+      { "text": "पराली दहन केवल nitrogen oxide emit करती है — PM2.5 का कोई contribution नहीं है", "is_correct": false },
+      { "text": "SAFAR के अनुसार पराली का दिल्ली में कभी 5% से अधिक contribution नहीं रहा", "is_correct": false }
+    ],
+    "explanation": "Paddy stubble burning geography: पंजाब में 20 million tonnes और हरियाणा में 8 million tonnes पराली annually। ISRO satellite data (NASA FIRMS): Oct-Nov में 50,000-75,000 fire counts/season। Transport mechanism: (1) North-westerly winds at 850 hPa level → downward towards Delhi-NCR; (2) SAFAR contribution analysis: 2022 में 26 October को 42% contribution, peak days 58%; (3) HYSPLIT back-trajectory: Sirsa, Amritsar से emit → Delhi में 24-48 hr में आता है; (4) Ganga fog: smoke + fog = smog layer; (5) Odour and respiratory exposure in Bihar, UP. Chemical composition: levoglucosan (biomass burning tracer), K+, OC, EC। Health impact: ARI increase 20-30% in Oct-Nov (Delhi hospitals); asthma emergency visits; preterm births linked. Commission for Air Quality Management (CAQM) 2021 में established। CRi (Crop Residue Management) scheme — ex-situ और in-situ management।"
+  },
+  {
+    "question": "बौनापन (Stunting) और दुर्बलता (Wasting) का जिला-स्तरीय spatial pattern — NFHS-5 से क्या 'convergence-divergence' पैटर्न उजागर होता है?",
+    "options": [
+      { "text": "NFHS-5 में सभी जिलों में stunting और wasting एकसमान रूप से कम हुई है", "is_correct": false },
+      { "text": "NFHS-5 में overall stunting 35.5% (से 38.4% NFHS-4) — improvement; लेकिन wasting 19.3% (से 21% NFHS-4) — improvement limited; district divergence: Kerala/Goa <10% stunting vs. Uttar Pradesh/ Bihar जिले 50-60%; 'hot-spot persistence' — Uttar Pradesh के 75 में से 30+ जिले stunting >40% — convergence नहीं हो रहा", "is_correct": true },
+      { "text": "NFHS-5 में India की stunting दर विश्व में सबसे कम है", "is_correct": false },
+      { "text": "Stunting और wasting में कोई geographic pattern नहीं है — यह केवल random variation है", "is_correct": false }
+    ],
+    "explanation": "NFHS-5 (2019-21) district-level data: 707 districts covered। Spatial analysis: (1) Convergence: राज्य-स्तर पर UP में stunting NFHS-4 से NFHS-5 में 46.4%→49.3% — बढ़ी! (regression); (2) Persistent hotspots: UP के Bahraich, Shravasti, Balrampur में stunting 55-65%; Bihar के Sheohar, Sitamarhi में 60%+; (3) Improvement zones: Telangana, Karnataka, Maharashtra में 10-15% point decline; (4) Wasting paradox: India में global acute malnutrition (GAM) rate — 19.3% — MUAC <12.5 cm based, but UNICEF disputed NFHS methodology (weight-for-height vs. MUAC); (5) Double burden districts: some urban districts simultaneously high overweight AND stunting. POSHAN Abhiyan (National Nutrition Mission) targets — 2% stunting reduction/year — achieved in some states but not UP/Bihar। District Convergence Plans (DCPs) needed।"
+  },
+  {
+    "question": "द्वीपीय स्वास्थ्य भूगोल — लक्षद्वीप में 'micro-island health system' की विशिष्ट चुनौतियाँ क्या हैं?",
+    "options": [
+      { "text": "लक्षद्वीप में स्वास्थ्य सेवाएँ mainland से बेहतर हैं क्योंकि वहाँ UT government है", "is_correct": false },
+      { "text": "36 द्वीपों में से 11 inhabited हैं; sea transport 12-18 घंटे (Agatti से Kavaratti तक); air connectivity केवल Agatti island में; specialist referral lag 24-48 घंटे; coral atoll की freshwater scarcity; और dengue vector Aedes aegypti की island-specific transmission — Lakshadweep की 'island health trap' complex है", "is_correct": true },
+      { "text": "लक्षद्वीप में कोई communicable disease नहीं है क्योंकि वहाँ प्रदूषण नहीं है", "is_correct": false },
+      { "text": "लक्षद्वीप में health indicators mainland से worse हैं — यह documented fact है", "is_correct": false }
+    ],
+    "explanation": "लक्षद्वीप (Union Territory, 64,000 जनसंख्या, 36 islands): (1) Inhabited islands: 11; largest Androth (10,000); (2) Medical Infrastructure: Kavaratti में main hospital (50 beds); 10 secondary hospitals in other islands; referral to mainland (Kochi) via ship (12-20 hr) या helicopter (weather permitting); (3) Freshwater: coral atolls में rainwater harvesting; groundwater saline → kidney stone risk; (4) Disease pattern: dengue endemic (container breeding); diarrheal disease; NCDs rising (diabetes, hypertension in sedentary fisherfolk); (5) Health indicators relatively better (IMR ~20, literate population) due to small, cohesive community and centralized UT management; (6) Climate change: coral bleaching (1998, 2016) → fishery disruption → nutritional change; sea level rise threat to low-lying islands. ICMR-NIE studies on island health systems limited। Telemedicine potential: भारत eSanjeevani आंशिक coverage।"
+  },
+  {
+    "question": "पर्यावरणीय न्याय और स्वास्थ्य भूगोल — भारत में marginalized communities के निकट pollution concentration का evidence क्या है?",
+    "options": [
+      { "text": "भारत में pollution का भार समान रूप से वितरित है — कोई environmental injustice नहीं है", "is_correct": false },
+      { "text": "CSE और CEE अध्ययनों के अनुसार SC/ST बस्तियाँ और lower-income areas खतरनाक उद्योगों (tanneries, chemical plants), waste dumping sites और thermal power plants के निकट अनुपातहीन रूप से स्थित हैं; Toxic Link और Srishti reports में यह documented है — यह USA के 'Environmental Justice' movement का Indian parallel है", "is_correct": true },
+      { "text": "भारत में Environmental Protection Act 1986 से सभी communities को समान protection मिलती है — spatial injustice असंभव है", "is_correct": false },
+      { "text": "Environmental Justice केवल western countries की अवधारणा है — भारत में लागू नहीं होती", "is_correct": false }
+    ],
+    "explanation": "Environmental Justice USA में 1980s में Robert Bullard के 'Dumping in Dixie' (1990) से prominent हुआ — Black communities के निकट waste facilities की concentration। भारत में parallel evidence: (1) CSE study: Delhi के Narela, Bawana industrial areas — अधिकांश आसपास SC/Dalit jhuggi बस्तियाँ; (2) Tanneries: Kanpur, Chennai में SC leather workers AND SC residential areas adjacent; Cr6+ exposure; (3) Coal ash ponds: Jharkhand, Odisha में NTPC plants के ash ponds tribal lands पर; (4) MSW (Municipal Solid Waste) landfills: Ghazipur, Deonar — निकट Ragpicker communities (mostly Dalits/informal workers); (5) Vapi, Ankleshwar GIDC में tribal आदिवासी migrant worker communities। Toxic Link NGO ने इसे systematically documented किया है। National Green Tribunal (NGT) में environmental justice cases increasing।"
+  },
+  {
+    "question": "संघर्ष क्षेत्रों का स्वास्थ्य भूगोल — छत्तीसगढ़ के 'Red Corridor' में स्वास्थ्य सेवाओं की विफलता का spatial mechanism क्या है?",
+    "options": [
+      { "text": "Red Corridor में स्वास्थ्य सेवाएँ सामान्य हैं — Naxalism का कोई स्वास्थ्य प्रभाव नहीं", "is_correct": false },
+      { "text": "बस्तर, दंतेवाड़ा, सुकमा, बीजापुर में dual failure: (1) Naxal violence → healthcare worker displacement (ASHA/ANM targets बनाई गईं), PHC sabotage; (2) CRPF camps का garrison effect — local health services disrupted; नतीजा: IMR 100+, MMR 500+, malaria prevalence >30%, sickle cell disease undetected — 'double exclusion' (geography + conflict)", "is_correct": true },
+      { "text": "Naxal conflict ने Red Corridor में healthcare investments बढ़ाए हैं — स्वास्थ्य सेवाएँ बेहतर हुई हैं", "is_correct": false },
+      { "text": "Red Corridor की स्वास्थ्य समस्याएँ केवल funding की कमी से हैं — conflict irrelevant है", "is_correct": false }
+    ],
+    "explanation": "Red Corridor (Chhattisgarh-Jharkhand-Odisha-Telangana-AP triangle) में LWE (Left Wing Extremism) affected 90+ districts। Health geography impact: (1) Healthcare worker insecurity — ANMs, ASHAs target बनती हैं; Bastar में 100+ healthcare workers displaced 2010-15; (2) PHC destruction — Naxals ने 2000-2015 में Chhattisgarh में 200+ PHCs/schools sabotage; (3) CRPF camps — civilian health services disrupted; (4) Malaria hyperendemicity — Bastar में Pf malaria rate 30%; MDA (Mass Drug Administration) campaigns cannot reach; (5) Sickle Cell Disease — tribal population में 25-30% trait; untested; (6) MMR — Bastar में estimated 500-600/100,000 (CG state average 137). Aspirational Districts Programme में Bastar, Dantewada शामिल — लेकिन conflict के बिना implementation सीमित। WHO 'Health in Conflict' framework apply होता है।"
+  },
+  {
+    "question": "रेल नेटवर्क और रोग प्रसार — ऐतिहासिक प्लेग मार्गों और आधुनिक समानांतरों के संदर्भ में — 1994 के सूरत प्लेग का spatial epidemiology क्या था?",
+    "options": [
+      { "text": "1994 का सूरत प्लेग रेलवे से नहीं फैला — यह केवल local था", "is_correct": false },
+      { "text": "1994 सूरत pneumonic plague में rats और fleas के बजाय person-to-person droplet transmission था; रेलवे और सड़क मार्गों से महाराष्ट्र के बाढ़-प्रभावित अहमदाबाद-सूरत urban corridor में rapid spread; Delhi, Mumbai, Calcutta में WHO-notifiable panic; international airport suspension — यह 'rail-road-fear geography' का आधुनिक उदाहरण है", "is_correct": true },
+      { "text": "1994 का सूरत प्लेग बुबोनिक था — कोई person-to-person transmission नहीं था", "is_correct": false },
+      { "text": "रेल नेटवर्क से रोग प्रसार 19वीं सदी की समस्या थी — आधुनिक समय में irrelevant है", "is_correct": false }
+    ],
+    "explanation": "1994 सूरत plague epidemic (September-October): Yersinia pestis — pneumonic form। Context: 1994 में Gujarat में massive floods → rat population explosion → Surat urban migration से crowded slums। Spatial spread mechanism: (1) Surat में Diamond industry और textile worker slums — Jhagadia, Salabatpura में dense populations; (2) Pneumonic plague: droplet spread → rapid human-to-human; (3) Rail: flee from Surat — 300,000 लोग 2 दिन में escaped; trains to Delhi, Mumbai, Calcutta में infected persons; (4) Aviation: Surat airport operational → WHO international concern; 6 countries ने India से imports ban; (5) Media panic — demand for tetracycline nationwide; pharmaceutical market disruption। Historical parallel: 1896 Bombay plague (bubonic) → railways से spread; Pune, Poona, Karachi तक 2 वर्षों में। आधुनिक parallel: COVID-19 (2020) — Tablighi Jamaat cluster → railways and flights network।"
+  },
+  {
+    "question": "शहरी हरियाली और मानसिक स्वास्थ्य — भारतीय शहरों में 'green space equity' और mental wellbeing का spatial evidence क्या है?",
+    "options": [
+      { "text": "शहरी पार्क केवल aesthetic purpose के लिए हैं — mental health पर कोई documented effect नहीं", "is_correct": false },
+      { "text": "Lancet Global Health और urban planning studies के अनुसार Delhi, Mumbai, Bengaluru में green space distribution highly unequal है — Lutyens Delhi में 20+ m²/capita vs. Dharavi/Govandi <1 m²/capita; green space access से stress biomarkers (cortisol) कम होते हैं; Chennai tree cover loss (2014-2020) के बाद UHI-mental health co-morbidity बढ़ी", "is_correct": true },
+      { "text": "सभी Indian cities में WHO recommended 9 m²/capita green space उपलब्ध है", "is_correct": false },
+      { "text": "Mental health और green space का संबंध केवल Western countries में है — Indian cities में कोई evidence नहीं", "is_correct": false }
+    ],
+    "explanation": "WHO Urban Green Space guideline: 9 m²/capita (minimum); 50 m² ideal। Indian cities reality: (1) Delhi — green cover 20-25% but highly unequal: South Delhi (wealthy) vs. East/North-East (low income) — Ridge forest accessible vs. inaccessible; (2) Bengaluru — lake encroachment 79 lakes से 27 lakes (1960-2010) → UHI + mental stress; (3) Mumbai — Aarey forest controversy — Adivasi land + green lung; (4) Kolkata — East Kolkata Wetlands (Ramsar site) — ecosystem service; (5) Chennai — tree cover loss 8% in floods 2015 → heat stress. Mechanisms: green space → phytoncides → immune function; cortisol reduction; exercise facilitation; social cohesion. NIUA (National Institute of Urban Affairs) report on urban biodiversity और mental health। Climate-smart cities में green infrastructure mandatory (15 cities)। Environmental psychology: restorative environments theory (Kaplan, Ulrich)।"
+  },
+  {
+    "question": "भौगोलिक नियतत्ववाद बनाम संभावनावाद — स्वास्थ्य भूगोल में इस बहस की relevance क्या है?",
+    "options": [
+      { "text": "भौगोलिक नियतत्ववाद सही है — मनुष्य का स्वास्थ्य पूरी तरह पर्यावरण से निर्धारित होता है", "is_correct": false },
+      { "text": "Possibilism (Vidal de la Blache) — मानव प्रकृति द्वारा दी गई संभावनाओं को modify कर सकता है — स्वास्थ्य भूगोल में सबसे उपयुक्त framework है; Kerala का उदाहरण: समान tropical disease exposure के बावजूद education, women's empowerment, public health investment से determinism को override किया", "is_correct": true },
+      { "text": "Possibilism और Determinism दोनों outdated हैं — आधुनिक health geography इन्हें नहीं मानती", "is_correct": false },
+      { "text": "स्वास्थ्य भूगोल में Determinism अधिक valid है क्योंकि climate change geography को deterministic बनाता है", "is_correct": false }
+    ],
+    "explanation": "Geographic Determinism (Aristotle, Montesquieu, Ellen Churchill Semple): geography → human behavior/health। Possibilism (Vidal de la Blache, Lucien Febvre): nature offers possibilities; humans choose। स्वास्थ्य भूगोल में debate: Determinism का extreme form — 'tropical countries inevitably diseased' (racist undertone; Huntington); Possibilism का उदाहरण: (1) Kerala paradox — tropical humid climate + backwaters (malaria, filariasis vectors) लेकिन Public Health Investment + female literacy + ASHA network → IMR 6, MMR 19 — lowest in India; (2) Netherlands — sea level नीचे लेकिन engineering से flood protection; (3) Cuba — resource-poor but strong public health = high life expectancy। Modern framework: Social Ecological Systems (SES) approach — geography + social structures + agency। Sri Lanka, Cuba, Kerala — comparative examples जो possibilism validate करते हैं। Health geography में neither extreme works — bimodal causation।"
+  },
+  {
+    "question": "AYUSH चिकित्सा पद्धतियों का भौगोलिक वितरण — किस क्षेत्र में किस AYUSH पद्धति का उपयोग सर्वाधिक है और इसके health access implications क्या हैं?",
+    "options": [
+      { "text": "AYUSH पद्धतियाँ पूरे भारत में समान रूप से उपयोग की जाती हैं", "is_correct": false },
+      { "text": "Ayurveda — केरल, कर्नाटक (classical tradition); Unani — UP, Delhi, Hyderabad (Deccani tradition); Siddha — Tamil Nadu (ancient Tamil tradition); Yoga/Naturopathy — urban; Homeopathy — West Bengal, Maharashtra (colonial legacy); आदिवासी क्षेत्रों में Traditional Medicine — इस geographic specialization से 'AYUSH first point of contact' का spatial mapping policy-critical है", "is_correct": true },
+      { "text": "AYUSH केवल placebo effect है — कोई वास्तविक health access role नहीं", "is_correct": false },
+      { "text": "AYUSH और आधुनिक चिकित्सा को कभी integrate नहीं किया जा सकता", "is_correct": false }
+    ],
+    "explanation": "AYUSH Ministry (Ayurveda, Yoga & Naturopathy, Unani, Siddha, Homeopathy) के तहत 7.7 lakh+ registered practitioners (2021)। Geographic distribution: (1) Ayurveda — Kerala (Kottakkal Arya Vaidya Sala, AVP Coimbatore), Karnataka, Uttarakhand (Haridwar); classical Panchakarma; (2) Unani — Aligarh (AMU Tibbiya), Hyderabad (NIUM), Delhi; Deccani tradition in south; (3) Siddha — Tamil Nadu (NIS Chennai); Tamil classical; (4) Homeopathy — West Bengal (National Institute of Homeopathy); colonial British-era introduction; (5) Naturopathy — urban metro wellness. Health Access Role: NSSO 75th Round — 30% of illness episodes treated by AYUSH/informal in rural areas; forest areas में only traditional healers accessible. Integrative Health Centres in HWCs (Health Wellness Centres) — AYUSH practitioners posted। COVID में Siddha's Kabasura Kudineer and Ayurveda's immunity modules highlighted।"
+  },
+  {
+    "question": "ई-कचरे का स्वास्थ्य भूगोल — मुरादाबाद (पीतल नगरी), सीलमपुर (दिल्ली) और अन्य e-waste hubs में occupational और environmental health geography क्या है?",
+    "options": [
+      { "text": "E-waste processing केवल formal recycling centers में होती है — informal sector में कोई health risk नहीं", "is_correct": false },
+      { "text": "सीलमपुर (दिल्ध) — Asia का सबसे बड़ा informal e-waste market; acid stripping से Pb, Cd, Hg, flame retardants; बच्चों में blood lead 5x WHO limit; मुरादाबाद में brass recycling से Pb और Zn exposure; Dharavi (Mumbai) में plastics से dioxins — सभी में 'sacrifice zone' geography है जहाँ marginalized workers worst exposure सहते हैं", "is_correct": true },
+      { "text": "Moradabad में केवल brass manufacturing है — e-waste का कोई संबंध नहीं है", "is_correct": false },
+      { "text": "E-Waste Management Rules 2016 के बाद India में e-waste का कोई informal processing नहीं होती", "is_correct": false }
+    ],
+    "explanation": "India में e-waste generation 3.2 million tonnes/year (2022, ASSOCHAM) — विश्व में 5th largest। Informal processing geography: (1) Seelampur, Delhi — पुरानी दिल्ली का backstreet network; mobile phone dismantling; acid (HCl, HNO3, H2SO4) से gold/silver leaching; BFR (brominated flame retardants) burning → dioxins; blood lead levels में Pb 5x WHO limit (Preeti Aggarwal, AIIMS study); (2) Moradabad — brass handicrafts + battery recycling; Pb smelting; child labour historically present; (3) Dharavi, Mumbai — plastic e-waste shredding; PVC → dioxin/furan; (4) Kolkata's Canning Street। E-Waste Management Rules 2016 (amended 2022) — EPR (Extended Producer Responsibility) mandatory; CPCB authorization for dismantlers/recyclers. Implementation gap: 95%+ collection informal. WHO 2021 Global E-waste Monitor: children's health impacts highlighted।"
+  },
+  {
+    "question": "भारत-नेपाल-बांग्लादेश स्वास्थ्य-भूगोलिक नेक्सस — तीन सीमाओं पर कौन-से रोग सर्वाधिक trans-boundary mobility show करते हैं?",
+    "options": [
+      { "text": "India-Nepal-Bangladesh nexus में कोई cross-border disease transmission नहीं होती", "is_correct": false },
+      { "text": "India-Nepal open border से kala-azar (VL) और drug-resistant malaria द्विदिशीय प्रवाहित होते हैं; India-Bangladesh border पर MDR-TB, cholera (Bangladesh से) और COVID variants; भारत से दोनों ओर poliovirus (wild) ऐतिहासिक रूप से; इन 'porous border health zones' में joint surveillance agreements कमजोर हैं", "is_correct": true },
+      { "text": "India-Nepal border sealed है इसलिए कोई disease transmission नहीं होती", "is_correct": false },
+      { "text": "Cross-border transmission केवल HIV/AIDS तक सीमित है", "is_correct": false }
+    ],
+    "explanation": "India-Nepal: 1751 km open border (Treaty of Friendship 1950); बिना passport/visa movement। VL (kala-azar): Bihar-Nepal Terai में Phlebotomus argentipes — same eco-zone; patients cross-border treatment seeking; SSR Pockets program coordination weak। Drug-resistant malaria: P. vivax chloroquine resistance border zones में। India-Bangladesh: 4156 km (fenced/unfenced); cholera: Bangladesh में hyperendemic El Tor O1 strains India में आती हैं (West Bengal); MDR-TB: Rohingya movement + cross-border trafficking; dengue; JE। Historical: India-Nepal 2005-09 में wild poliovirus cross-border; UP से Bihar से Nepal तक। Joint mechanisms: SAARC Disease Surveillance Centre (weak implementation); WHO SEARO bilateral coordination। Cross-border Health Information Sharing Agreement India-Bangladesh (2022) — health worker capacity building component। IMR and MMR differentials drive treatment-seeking across borders।"
+  },
+  {
+    "question": "GeoDeterminism और possibilism के बीच Kerala की 'health geography paradox' — किस multi-factor model से Kerala की exceptionally low IMR और MMR को explain किया जा सकता है?",
+    "options": [
+      { "text": "Kerala की low IMR/MMR केवल high rainfall से है — tropical climate ने इसे naturally healthy बनाया", "is_correct": false },
+      { "text": "Kerala paradox को 'capability approach' (Sen, Dreze) से explain किया जाता है: female literacy 92%+ (1951 से Travancore में education investment), matrilineal land ownership (Nair community), Communist government का public health investment (1957 onwards), ASHA/Kudumbashree community networks, और dense private hospital network — সব combined spatial enablers", "is_correct": true },
+      { "text": "Kerala में कम IMR इसलिए है क्योंकि वहाँ जनसंख्या कम है — कोई विशेष health intervention नहीं", "is_correct": false },
+      { "text": "Kerala paradox का कोई evidence नहीं है — IMR में Kerala और UP में कोई difference नहीं", "is_correct": false }
+    ],
+    "explanation": "Kerala paradox (Robin Jeffrey, P.G.K. Panikar): Low per-capita income (1970s में) लेकिन high health outcomes। Multi-factor spatial-historical model: (1) Female literacy: 1951 में Travancore-Cochin में literacy highest (Travancore Diwan CR's policy); by 1961 female literacy 50%+ vs. India 15%; (2) Matrilineal system: Nair community में women's land rights → agency; (3) Communist Party EMS Namboodiripad (1957): land reform → inequality reduction → health investment; (4) Missionary hospitals: 19th century Catholic/Protestant network → health infrastructure; (5) Geographic: coastal trade + remittances (Gulf, 1970s) → healthcare spending; (6) Kudumbashree (1998): women's self-help network → health outreach; (7) Private hospital density: Thiruvananthapuram, Kochi — high-quality referral. Result: IMR 6, MMR 19, Life expectancy 74 (2021). Sen's Capability Approach: resources → capabilities → functionings।"
+  },
+  {
+    "question": "आयोडीन अपूर्णता का स्वास्थ्य-भूगोल — भारत में 'आयोडीन-रहित क्षेत्र' (Iodine-Deficiency Belts) की spatial extent और Universal Salt Iodization की सफलता-असफलता क्या है?",
+    "options": [
+      { "text": "आयोडीन अपूर्णता केवल हिमालयी राज्यों में है — अन्य राज्यों में कोई समस्या नहीं", "is_correct": false },
+      { "text": "IDD endemic regions: हिमालयी belt (HP, Uttarakhand, Sikkim, Arunachal), Gangetic plains, और Deccan Plateau के कुछ क्षेत्र; soil iodine की leaching glacial और heavy rainfall से; Universal Iodization Salt Act 2005 के बाद coverage 93%+ लेकिन quality gaps (under-iodized salt) persist; NFHS-5 में Chhattisgarh, Bihar में iodized salt coverage <70%", "is_correct": true },
+      { "text": "Universal Salt Iodization ने आयोडीन अपूर्णता पूरी तरह समाप्त कर दी है", "is_correct": false },
+      { "text": "आयोडीन अपूर्णता केवल goiter की समस्या है — अन्य कोई health impact नहीं", "is_correct": false }
+    ],
+    "explanation": "IDD (Iodine Deficiency Disorders) spectrum: cretinism, goitre, intellectual disability, hypothyroidism, reproductive failure। India geography: (1) Himalayan belt — glacial erosion और heavy rainfall → soil iodine leach; HP में goitre endemic zones (Kullu, Lahaul); (2) Sub-Himalayan plains — Ganga alluvial soils — iodine poor; (3) Terai and Brahmaputra plains; (4) Some Deccan areas. National Iodine Deficiency Disorders Control Programme (NIDDCP): goal — iodized salt to all. Prevention of Food Adulteration Act → Salt Iodization mandatory। Legal Framework: Food Safety and Standards Act 2006 — iodized salt 15 ppm (at consumer level). NFHS-5: households using iodized salt 88.9% nationally but Chhattisgarh 60.9%, Meghalaya 55.3%, Bihar 68.2%. Quality challenge: under-iodization, storage loss, cooking loss। WHO target: <20% goitre prevalence → India achieved but pockets persist।"
+  },
+  {
+    "question": "महामारी विज्ञान संक्रमण और spatial expression — Richard Omran (1971) के मॉडल को भारत के राज्यों पर apply करें।",
+    "options": [
+      { "text": "भारत के सभी राज्य महामारी संक्रमण के एक ही चरण में हैं", "is_correct": false },
+      { "text": "Omran के तीन stages में भारत में spatial heterogeneity है: Kerala, Tamil Nadu, Punjab — Stage 3 (degenerative/man-made diseases dominant); UP, Bihar, MP — Stage 2 (receding pandemics, infectious still high); आदिवासी-बहुल Bastar, Manipur Hill districts — Stage 1 (pestilence and famine) — यह 'epidemiological polarization' Indian health policy की सबसे बड़ी चुनौती है", "is_correct": true },
+      { "text": "Omran का Epidemiological Transition Model भारत में लागू नहीं होता क्योंकि यह Western countries के लिए बना था", "is_correct": false },
+      { "text": "भारत ने 2000 के बाद Stage 4 (delayed degenerative diseases) में प्रवेश कर लिया है", "is_correct": false }
+    ],
+    "explanation": "Abdel Omran (1971) ने Epidemiological Transition Theory दी: Stage 1: Pestilence and Famine — infectious diseases, high fertility, high mortality; Stage 2: Receding Pandemics — infectious declining, NCD emerging; Stage 3: Degenerative and Man-Made Diseases — NCDs dominant, infectious controlled। Stage 4 (later added): Delayed Degenerative Diseases — NCD survival improved, tertiary prevention। India में spatial heterogeneity: Kerala IMR 6, NCD mortality 65%; vs. Bihar IMR 45, infectious disease 40%; vs. Chhattisgarh tribal districts IMR 80-100, malaria dominant। 'Double Burden' in middle states: both infectious AND NCDs. Carlos Frenk (1991) — 'protracted polarized transition' India जैसे countries के लिए। ICMR-IHME India State-Level Disease Burden Initiative 2017 ने state-wise transition mapping किया। Policy implication: one-size-fits-all health policy inadequate।"
+  },
+  {
+    "question": "Urban Slum में TB का spatial transmission — 'neighborhood effects' और social network analysis का evidence क्या है?",
+    "options": [
+      { "text": "TB transmission पूरी तरह individual level factor से होती है — neighborhood कोई role नहीं निभाता", "is_correct": false },
+      { "text": "Mumbai के Dharavi और Govandi studies में TB risk — spatial autocorrelation (Moran's I) significant था; household crowding index, ventilation score, और adjacent case density combined neighborhood-level risk predictor थे; DOTS default rates spatially clustered थे — 'treatment geography' की अवधारणा", "is_correct": true },
+      { "text": "Urban slum में TB transmission केवल alcohol abuse से होती है", "is_correct": false },
+      { "text": "DOTS programme से urban slum TB पूरी तरह नियंत्रित हो गई है", "is_correct": false }
+    ],
+    "explanation": "TB transmission geography में 'neighborhood effect' — proximity-based risk। Studies: (1) Mitra et al., Mumbai slums — cases cluster में distribution (non-random) — Moran's I = 0.34, p<0.01; (2) Household crowding index >3 persons/room — transmission amplified; (3) Natural ventilation index — window area/room volume; (4) Govandi/Mankhurd areas (Mumbai) — TB incidence 800/100,000 vs. city average 200; (5) MDR-TB: Dharavi में DOTS default hotspots spatially clustered — patient mobility, livelihood interruption. 'Treatment Geography': DOTS center distance >500m → default risk 2x (Singh et al. 2016). Mumbai: every 2 km² में DOTS center mandated but compliance gaps. Ni-kshay (digital TB case notification) helps spatial tracking। ICF (Infection Control measures) — natural light, cross-ventilation — spatial design intervention।"
+  },
+  {
+    "question": "Mangrove ecosystem और coastal health security — भारत में mangrove loss का quantified health impact क्या है?",
+    "options": [
+      { "text": "Mangrove केवल timber के लिए महत्वपूर्ण हैं — health से कोई संबंध नहीं", "is_correct": false },
+      { "text": "FSI survey: India में mangrove area 4992 km² (2021); Sundarbans में 40% loss 1970-2000; cyclone buffer function loss से coastal mortality 3-5x increases (NCAR study); mangrove loss से fishery decline → fisherfolk malnutrition; और coastal flooding से vector breeding sites — malaria, dengue increase", "is_correct": true },
+      { "text": "India के mangrove cover में 1970 से 2021 तक वृद्धि हुई है — health impact negative नहीं है", "is_correct": false },
+      { "text": "Mangrove loss का प्रभाव केवल biodiversity पर है — human health पर नहीं", "is_correct": false }
+    ],
+    "explanation": "FSI (Forest Survey of India) State of Forest Report 2021: India mangrove cover 4992 km² (slight increase from 4921 km² in 2019 — conservation efforts). But historical loss: 1975-2000 में 40-50% loss globally। Health linkages: (1) Cyclone buffer: mangroves attenuate wave energy 50-90%; Odisha cyclone data — intact mangrove villages 3x lower mortality; (2) Fishery ecosystem: mangrove nursery for 85% fish species; loss → fish decline → coastal malnutrition (fisherfolk protein deficiency); (3) Water quality: mangrove filtration → sediment retention → coastal water turbidity decrease → diarrheal disease reduction; (4) Vector breeding: deforested coastal areas → stagnant pools → Anopheles/Aedes breeding. CAMPA (Compensatory Afforestation Fund) और Mangrove Action Plan के तहत restoration। Sundarbans में UNESCO-listed mangroves के साथ climate adaptation critical।"
+  },
+  {
+    "question": "Geographic determinants of Anaemia — भारत में NFHS-5 के अनुसार anaemia का spatial pattern और इसके multi-causal geographic explanation क्या है?",
+    "options": [
+      { "text": "भारत में anaemia का pattern पूरी तरह dietary iron intake से explain होता है — geographic factors नहीं", "is_correct": false },
+      { "text": "NFHS-5 में women (15-49): 57% anaemic; highest Jharkhand 65.6%, Madhya Pradesh 54.7%; lowest Kerala 34.9%, Goa 41.5%; geographic determinants: (1) hookworm-endemic soil conditions (moist, alluvial), (2) malaria co-morbidity (haemolysis), (3) dietary pattern (rice-dominated Bihar/Jharkhand), (4) WASH deficiency (open defecation → hookworm), (5) fluoride (bone marrow effect) — multi-causal spatial model", "is_correct": true },
+      { "text": "Anaemia केवल dietary iron की कमी से होती है — other geographic factors irrelevant हैं", "is_correct": false },
+      { "text": "NFHS-5 में India में anaemia की दर 2015 से घटी है — अब कोई spatial concern नहीं", "is_correct": false }
+    ],
+    "explanation": "NFHS-5 anaemia data: Women 57%, Children 67%, Men 25% — anaemia 'triple burden'. Geographic causation matrix: (1) Hookworm geography: Necator americanus/Ancylostoma duodenale — moist tropical soil, alluvial plains (Jharkhand, Bihar, Bengal — highest anaemia); (2) Malaria overlap: P. falciparum → haemolysis → anaemia — Odisha, Chhattisgarh; (3) Dietary pattern: UP, Bihar — rice + daal diet; low bioavailable iron; phytate content high; (4) ODF/WASH: open defecation → hookworm reinfection cycle; sanitation geography → anaemia geography; (5) Fluorosis co-morbidity: fluoride → bone marrow suppression; (6) Thalassemia belt (Gujarat, Sindhi population) — genetic anaemia. Anaemia Mukt Bharat (AMB) strategy — IFA supplementation, deworming, dietary diversification, malaria treatment integration. Kerala lowest — fish diet (iron), higher female education, ODF.।"
+  },
+  {
+    "question": "Global Health Security Index (GHSI) और India की position — Pandemic preparedness में spatial vulnerabilities कौन-सी हैं?",
+    "options": [
+      { "text": "India GHSI में शीर्ष 10 में है और pandemic preparedness में कोई spatial gap नहीं है", "is_correct": false },
+      { "text": "GHS Index 2021 में India rank 66/195 (score 42.8/100); spatial vulnerabilities: NE India में BSL-3 lab शून्य, Andaman-Nicobar में quarantine facility नहीं, UP/Bihar में ICU beds/lakh <2 (national 2.3), cold chain gaps — ये geographic weak points next pandemic में amplification points बनेंगे", "is_correct": true },
+      { "text": "GHSI में India का score विश्व में सर्वाधिक है क्योंकि COVID management बेहतरीन था", "is_correct": false },
+      { "text": "GHSI एक irrelevant index है — pandemic preparedness से इसका कोई correlation नहीं", "is_correct": false }
+    ],
+    "explanation": "Global Health Security Index (GHS Index, 2021 edition) — Johns Hopkins, Nuclear Threat Initiative: 195 countries; 6 categories: Prevention, Detection, Response, Health system, International norms compliance, Risk environment। India score 42.8/100, rank 66। Spatial vulnerabilities: (1) BSL-3/4 labs: केवल ICMR-NIV Pune, NICD Delhi, NCDC Delhi — NE, island territories में शून्य; (2) ICU infrastructure: UP में 1.8/lakh, Bihar 0.9/lakh vs. Kerala 15/lakh (COVID wave 2 में Bihar collapse); (3) Quarantine facilities: Andaman में proper quarantine absent — maritime entry risk; (4) Surveillance: IHIP incomplete rural coverage; (5) Genomic sequencing: INSaCOG network (10 labs) — geographic gaps in NE और islands। IHR (International Health Regulations) JEE 2017 में India के gaps documented। National One Health Mission 2022 — multi-sectoral preparedness।"
+  },
+  {
+    "question": "Silk Road और आधुनिक Belt and Road Initiative — रोग प्रसार के historical-geographic patterns और स्वास्थ्य implications क्या हैं?",
+    "options": [
+      { "text": "Silk Road का disease transmission से कोई ऐतिहासिक संबंध नहीं था", "is_correct": false },
+      { "text": "ऐतिहासिक Silk Road से Black Death (Yersinia pestis) का Central Asia से Europe तक 14वीं सदी में प्रसार; आधुनिक BRI में China-Pakistan Economic Corridor (CPEC) से Pakistan-India border में Crimean-Congo HF vectors के tick transport और labour migration रोग प्रसार का खतरा बनाते हैं; यह 'geopolitical health geography' का उदाहरण है", "is_correct": true },
+      { "text": "Belt and Road Initiative का स्वास्थ्य पर केवल सकारात्मक प्रभाव है — रोग फैलाने का कोई खतरा नहीं", "is_correct": false },
+      { "text": "Silk Road केवल व्यापार का मार्ग था — जीव-जंतु और रोगजनक इससे नहीं फैलते थे", "is_correct": false }
+    ],
+    "explanation": "Historical Disease Geography of Trade Routes: (1) Silk Road (2nd century BCE - 15th CE): Black Death 1347-53 — Yersinia pestis Central Asian steppes (Kyrgyzstan, Kazakhstan) से Caffa (Crimea) → Mediterranean → Europe; 50 million deaths; (2) Maritime Spice Route: cholera from Bengal → Arabia → Europe; (3) Columbian Exchange: smallpox New World → Americas; syphilis Americas → Europe। Modern BRI (Belt and Road Initiative): 140 countries, $1 trillion+ infrastructure. Health risks: (1) CPEC — Gwadar port; Pakistani-Chinese labourers; tick vectors (Hyalomma) in Baluchistan — CCHF risk; (2) Malaria drug-resistance movement along BRI corridors (WHO concern); (3) Labour camps — HIV, TB transmission. India not in BRI (strategic reasons) but border implications. China's 'Health Silk Road' proposal — BRI health partnerships. Lancet: 'BRI health risks need multilateral governance'।"
+  },
+  {
+    "question": "Nipah virus की recurrent geography — Kerala में 2018, 2021, 2023 के outbreaks का spatial pattern क्या दर्शाता है?",
+    "options": [
+      { "text": "Kerala में Nipah का recurrent geography यादृच्छिक है — कोई pattern नहीं", "is_correct": false },
+      { "text": "Nipah outbreaks 2018 (Kozhikode-Malappuram), 2021 (Kozhikode), 2023 (Kozhikode) — सभी Kozhikode केंद्रित; Pteropus medius fruit bat colonies की persistent presence; bat-fruit orchard overlap; well water contamination pathway (2018); human-human transmission limited लेकिन healthcare worker exposure significant — यह 'persistent spillover geography' है", "is_correct": true },
+      { "text": "Nipah virus केवल Bangladesh में होता है — Kerala में कोई indigenous case नहीं हुआ", "is_correct": false },
+      { "text": "Nipah Kerala में एक बार था — recurrent geography गलत है", "is_correct": false }
+    ],
+    "explanation": "Kerala Nipah chronology: (1) 2018: Kozhikode — index case: Perambra में well में Pteropus bat-contaminated fruits/water; 17 confirmed, 17 deaths (high CFR); healthcare worker deaths; (2) 2019: Ernakulam — single case, controlled; (3) 2021: Kozhikode — single case, bat exposure; (4) 2023: Kozhikode — 6 cases, 2 deaths. Spatial pattern: Kozhikode hub — hill-coast interface; jackfruit, mango orchards; Pteropus giganteus/medius roosts persistent. Transmission pathway 2018: bat → well water → index case → healthcare (nosocomial). Case Fatality Rate: Bangladesh strain 40-75%; Kerala 2018 strain CFR 91% (high). NIPAH preparedness: ICMR-NIV Pune rapid diagnostics deployment; ring vaccination (not yet approved); contact tracing 700+ in 2023. 'Bat hotspot mapping' — Kerala Forest Department और ICMR collaboration। One Health surveillance required।"
+  },
+  {
+    "question": "Reproductive health geography — India में Maternal Anaemia का spatial-temporal trend और pregnancy outcomes पर प्रभाव क्या है?",
+    "options": [
+      { "text": "Maternal anaemia India में कम हो रही है और अब कोई spatial pattern नहीं है", "is_correct": false },
+      { "text": "NFHS-5 में pregnant women anaemia 52.2% (NFHS-4: 50.3% — worse!); highest Bihar 63.5%, UP 59.8%, Jharkhand 65.0%; spatial correlation with: low ANC utilization, IFA compliance <50%, hookworm endemic areas, malaria zones; anaemia in pregnancy → preterm birth, LBW, PPH (postpartum haemorrhage), maternal mortality — spatial health burden chain", "is_correct": true },
+      { "text": "NFHS-5 में maternal anaemia घटी है — anaemia और maternal mortality में कोई correlation नहीं है", "is_correct": false },
+      { "text": "Maternal anaemia केवल North India की समस्या है — South India में कोई issue नहीं", "is_correct": false }
+    ],
+    "explanation": "Maternal anaemia (Hb <11 g/dL during pregnancy) — WHO classification: mild 10-10.9, moderate 7-9.9, severe <7. NFHS-5: 52.2% pregnant women anaemic — NFHS-4 से worse। State pattern: Jharkhand 65%, Bihar 63.5%, UP 59.8%, MP 54.6%; vs. Kerala 35%, Goa 37%. Causal chain: (1) dietary iron (non-haem from rice diet); (2) IFA non-compliance — nausea, non-availability at PHC, cultural barriers; (3) hookworm co-infection; (4) malaria (haemolysis); (5) adolescent anaemia (intergenerational — low body stores). Pregnancy outcomes: anaemia → increased PPH risk (uterine atony worsened), preterm birth (risk 2x), LBW (<2500g — risk 3x), maternal death (OR 3.5). POSHAN Tracker में IFA distribution monitoring। Anaemia Mukt Bharat (AMB) 6 intervention — IFA, deworming, dietary counselling, point-of-care testing, malaria treatment, delayed cord clamping।"
+  },
+  {
+    "question": "स्वास्थ्य प्रभाव आकलन (Health Impact Assessment — HIA) — किसी नई infrastructure project के EIA में HIA का inclusion किस कानूनी framework के तहत mandatory होना चाहिए?",
+    "options": [
+      { "text": "भारत में HIA पूरी तरह mandatory है और सभी projects में होती है", "is_correct": false },
+      { "text": "भारत में HIA currently Environment Impact Assessment (EIA) Notification 2006 में explicitly mandatory नहीं है; WHO Gothenburg Consensus (1999) और IAIA HIA Practice Standards के अनुसार HIA को EIA में integrate करना आवश्यक है; India में केवल category 'A' projects में health component partial है — legal gap है जिसे EPR (Extended Producer Responsibility) framework से नहीं भरा जा सकता", "is_correct": true },
+      { "text": "HIA केवल health sector projects के लिए जरूरी है — infrastructure projects में irrelevant है", "is_correct": false },
+      { "text": "EIA Notification 2020 (draft) में HIA पूरी तरह शामिल कर दिया गया है", "is_correct": false }
+    ],
+    "explanation": "Health Impact Assessment (HIA): systematic process to judge health effects of a policy/program/project. WHO Gothenburg Consensus (1999): HIA के 4 values — democracy, equity, sustainable development, ethical use. India's EIA framework: Environment Protection Act 1986 → EIA Notification 2006 — Category A (national level) और B (state level) projects। HIA status: EIA में 'health' chapter होता है लेकिन standardized HIA methodology नहीं। Gaps: (1) No dedicated HIA national guideline; (2) District health officer का EIA review में कोई formal role नहीं; (3) Cumulative HIA (multiple projects एक क्षेत्र में) absent; (4) Scoping में health explicitly नहीं। Examples: DMIC, Delhi-Meerut RRTS, major irrigation dams — health component weak। Draft EIA 2020 (withdrawn) ने HIA को alight नहीं किया। WHO SEARO ने India के लिए HIA guidelines draft किए हैं। Health in All Policies (HiAP) framework को institutionalize करने की जरूरत।"
+  },
+  {
+    "question": "स्वास्थ्य भूगोल में 'Inverse Care Law' — Julian Tudor Hart का यह सिद्धांत भारतीय संदर्भ में किस spatial pattern में दिखता है?",
+    "options": [
+      { "text": "Inverse Care Law भारत में लागू नहीं होती — भारत में गरीबों को बेहतर सेवाएँ मिलती हैं", "is_correct": false },
+      { "text": "Tudor Hart (1971) का सिद्धांत: 'availability of good medical care tends to vary inversely with the need for it' — भारत में perfectly illustrated: Bihar, UP, MP, Jharkhand (highest disease burden) में doctor density 0.3-0.5/1000 vs. Kerala 4.1/1000; specialist hospitals केवल metros में; rural-urban और inter-state health inequality Inverse Care Law का spatial proof है", "is_correct": true },
+      { "text": "Inverse Care Law केवल NHS (UK) के लिए applicable है — developing countries में नहीं", "is_correct": false },
+      { "text": "NHM और Ayushman Bharat ने Inverse Care Law को पूरी तरह address कर दिया है", "is_correct": false }
+    ],
+    "explanation": "Julian Tudor Hart (1971, Lancet): 'The Inverse Care Law' — areas with greatest need have least medical care. भारत में spatial evidence: (1) Doctor density: Bihar 0.38/1000, UP 0.40/1000 vs. Kerala 4.1/1000, Delhi 3.7/1000 (WHO recommendation 1/1000); (2) Specialist services: 80%+ super-specialty hospitals in 10 metros; NE India में कोई AIIMS नहीं था (AIIMS Guwahati 2017 में established); (3) NMC (National Medical Commission) data — 54% medical colleges in 5 states (Maharashtra, Karnataka, Tamil Nadu, AP, Telangana); (4) Infrastructure: UP में 6000+ PHC positions vacant. Ayushman Bharat PMJAY ने demand-side financing solve की but supply-side maldistribution persists। NMC के Compulsory Rural Service policy से partial mitigation। 'Health human resource crisis' → spatial reinforcement of Inverse Care Law।"
+  },
+  {
+    "question": "Geospatial Technology और स्वास्थ्य नीति — ISRO का National Remote Sensing Centre (NRSC) स्वास्थ्य निगरानी में कैसे योगदान देता है?",
+    "options": [
+      { "text": "NRSC केवल agriculture और defense में satellite data use करता है — health में कोई role नहीं", "is_correct": false },
+      { "text": "NRSC का RESOURCESAT, CARTOSAT और OCEANSAT डेटा: malaria vector habitat mapping (water bodies, vegetation), flood inundation extent for disease early warning, coastal area monitoring for cholera risk, और air quality monitoring (aerosol optical depth) से health surveillance में उपयोग होता है — यह 'space-health nexus' है", "is_correct": true },
+      { "text": "स्वास्थ्य निगरानी में satellite data का उपयोग केवल विकसित देशों में संभव है", "is_correct": false },
+      { "text": "NRSC केवल रक्षा उद्देश्यों के लिए satellite data provide करता है", "is_correct": false }
+    ],
+    "explanation": "NRSC (National Remote Sensing Centre, Hyderabad) — ISRO का प्रमुख remote sensing center। Health applications: (1) Malaria vector mapping: RESOURCESAT-2 LISS-III — water body mapping, vegetation index (NDVI) → Anopheles breeding habitat; NVBDCP के साथ collaboration; (2) Flood early warning: RISAT-1 SAR imagery → flood inundation → cholera/leptospirosis risk zones; Bihar/Assam annual flood alerts; (3) Coastal health: OCEANSAT — Sea Surface Temperature (SST) → cholera (Vibrio cholerae bloom at 25-30°C); (4) Air quality: MODIS aerosol optical depth (AOD) → PM2.5 estimation — SAFAR integration; (5) Dengue: high-resolution Pleiades/CARTOSAT imagery → urban heat + stagnant water detection. ICMR-NRSC MOU (2019) — health surveillance integration। WHO Satellite Imagery for Public Health (SIPH) India collaboration। Bhuvan portal (NRSC) में health GIS layers।"
+  },
+  {
+    "question": "Seasonal migration और malaria — Rajasthan के brick kiln workers में seasonal malaria transmission का spatial epidemiology क्या है?",
+    "options": [
+      { "text": "Brick kiln workers में malaria का कोई विशेष risk नहीं है", "is_correct": false },
+      { "text": "Rajasthan में March-October brick kiln season में Bihar, UP, MP के migrant workers (10 lakh+) काम करते हैं; kiln sites पर stagnant water pools Anopheles culicifacies के prime habitats हैं; workers के पास ITNs/LLINs नहीं; कोई malarial prophylaxis नहीं; और घर लौटते समय parasitaemia positive workers drug-resistant strains को origin states में ले जाते हैं — 'mobile population malaria geography'", "is_correct": true },
+      { "text": "Rajasthan malaria-free है इसलिए brick kiln workers में कोई risk नहीं", "is_correct": false },
+      { "text": "Seasonal migration का malaria से कोई documented संबंध नहीं है", "is_correct": false }
+    ],
+    "explanation": "Brick kiln (ईंट-भट्टा) workers — India में 20 million+ workers seasonal migrants। Malaria geography: (1) Kiln sites में भट्टा के चारों ओर water-log → Anopheles culicifacies prime habitat; (2) Rajasthan में kiln season March-October — monsoon के बाद peak breeding; (3) Workers mostly SC/OBC/tribal from Bihar (Munger, Gaya), UP (Bahraich), MP (Damoh) — no prior malaria exposure or immunity; (4) ITN coverage zero — no government outreach to seasonal migrant worksites; (5) NVBDCP's jurisdiction conflict: origin state vs. destination state; (6) Return migration — parasitaemia workers → rural Bihar/UP — introduce strains; drug-resistance patterns differ. NVBDCP studies: brick kiln clusters में malaria prevalence 15-25% vs. surrounding 2-3%. Seasonal Malaria Chemoprevention (SMC) — WHO recommended for high transmission areas; India में implementation piloting। ASHA की brick kiln outreach — कुछ states में experimental।"
+  },
+  {
+    "question": "National Health Mission का Rural-Urban divide — शहरी NHM (NUHM) और ग्रामीण NHM की कवरेज और impact में क्या structural geographic असंतुलन है?",
+    "options": [
+      { "text": "NUHM और ग्रामीण NHM का coverage एवं impact समान है", "is_correct": false },
+      { "text": "NUHM (2013 में launch) — 1000 से अधिक cities cover; लेकिन NUHM का budget NRHM का 1/10वाँ है; urban poor (slum, homeless, ragpicker) targeting weak; peri-urban exclusion; ASHA deployment urban में कम effective; जबकि rural NHM में ASHA density, SBA training, JSY ने rural MMR घटाई — यह 'urban health paradox' है", "is_correct": true },
+      { "text": "NUHM का budget NRHM से अधिक है क्योंकि शहरों में जरूरत अधिक है", "is_correct": false },
+      { "text": "Urban areas में private sector पर्याप्त है इसलिए NUHM की कोई जरूरत नहीं", "is_correct": false }
+    ],
+    "explanation": "National Urban Health Mission (NUHM) — 2013 में NHM के sub-mission के रूप में launch। Structural asymmetry: (1) Budget: NHM total 2022-23 में ₹37,800 crore — rural component 85%, urban 15%; (2) NUHM coverage: 993 cities and towns; but 4000+ census towns और peri-urban excluded; (3) UPHC norm — 1 per 50,000 urban population; many cities 1:1,00,000+ (deficit); (4) ASHA in urban — role conflict (government ASHAs vs. private maid jobs); incentive structure rural-focused; (5) Slum health: official slums में UPHC; but unauthorized/unrecognized slums — excluded from NUHM. Urban health paradox: IMR में Delhi 17, Mumbai 17 — lower than national; but within city: dharavi/govandi IMR 60-80 — higher than rural UP! NUHM evaluation (NHSRC 2019): target cities में UPHC establishment 60% achieved। Urban poor health — 'between two systems' (neither rural NHM nor urban private).  ICMR-Urban Health Study network (2020) recommendations pending."
+  },
+  {
+    "question": "Disability और health geography — भारत में Divyangjan (persons with disabilities) का spatial distribution और healthcare access किस तरह से unequal है?",
+    "options": [
+      { "text": "Divyangjan का spatial distribution एकसमान है और सभी को समान health access है", "is_correct": false },
+      { "text": "Census 2011: 2.68 crore Divyangjan (2.21% population); rural में 69% PwD लेकिन specialized rehabilitation centers 95%+ urban; Hearing, Visual, Locomotor disabilities में rural-urban और inter-state gradient sharp है; RPWD Act 2016 के बावजूद inaccessible health facilities spatial barrier बनाते हैं", "is_correct": true },
+      { "text": "RPWD Act 2016 ने सभी PwD को समान health access सुनिश्चित कर दिया है", "is_correct": false },
+      { "text": "Disability का health से कोई geographic संबंध नहीं है", "is_correct": false }
+    ],
+    "explanation": "Census 2011 PwD data: 2.68 crore (2.21%); rural 69.4%, urban 30.6%. Disability types: locomotor 20.3%, visual 18.8%, hearing 18.9%, speech 7.5%, mental illness 5.6%, intellectual disability 5.6%, other 23.3%. Spatial disparities: (1) Specialized services: National Institute for Empowerment of Persons with Visual Disabilities (NIEPVD-Dehradun), NIOH (Kolkata), NIMH (Secunderabad) — only 8 national institutes; (2) Rehabilitation Council of India certified therapists: 95%+ in metros; (3) Inaccessible rural PHC — no ramps, no sign language interpreters; (4) State disparities: J&K, Tripura में PwD prevalence higher (conflict-related, road accidents); UP में highest absolute numbers (50 lakh+); Kerala में better rehabilitation infrastructure; (5) Telemedicine for rehabilitation — post-COVID expanded but digital divide limits rural PwD access. UN CRPD (2006) ratified by India 2007; RPWD Act 2016 mandates accessible health services but implementation gap।"
+  },
+  {
+    "question": "Sickle Cell Disease और tribal health geography — भारत में SCD का spatial distribution और Mission Sickle Cell Elimination की रणनीति क्या है?",
+    "options": [
+      { "text": "Sickle Cell Disease केवल Africa में होती है — भारत में कोई case नहीं है", "is_correct": false },
+      { "text": "India में SCD primarily tribal populations में है — Odisha, Chhattisgarh, Jharkhand, MP, Maharashtra, Gujarat के आदिवासी बहुल जिलों में; heterozygous (trait) 15-30%, homozygous (disease) 1-5% prevalence; National Sickle Cell Anaemia Elimination Mission (2023) में 7 crore tribal screening, genetic counselling और hydroxyurea treatment — spatial targeting tribal districts में है", "is_correct": true },
+      { "text": "SCD केवल मुस्लिम communities में होती है — tribal populations में नहीं", "is_correct": false },
+      { "text": "SCD का कोई treatment नहीं है इसलिए mission का कोई scientific आधार नहीं है", "is_correct": false }
+    ],
+    "explanation": "Sickle Cell Anaemia: autosomal recessive; HbSS in homozygous → painful crises, organ damage, immunodeficiency. India में prevalence geography: (1) Tribal belt — Gondi, Bhil, Oraon, Munda communities: Chhattisgarh, Odisha, Jharkhand, MP में prevalence highest (HbS allele 30-40% in some tribes); (2) Maharashtra (Vidarbha, Marathwada tribal areas); (3) Gujarat (Adivasi areas — Bharuch, Narmada district). HbS geographic distribution: malaria selection pressure — sickle cell trait (HbAS) protective against P. falciparum in heterozygous state → evolutionary advantage in malaria endemic regions → high allele frequency. Mission Sickle Cell Anaemia Elimination Mission (MSCEM, 2023-2047): (1) Universal newborn screening in tribal districts; (2) Haemoglobinopathy screening (7 crore); (3) Genetic counselling; (4) Hydroxyurea for severe cases; (5) Peer support groups. Financial allocation: ₹ not separately earmarked — under PM Jan Arogya Yojana।"
+  },
+  {
+    "question": "Coal power plants और respiratory health geography — Singrauli (MP-UP border) को 'energy capital' और 'health catastrophe' दोनों क्यों कहा जाता है?",
+    "options": [
+      { "text": "Singrauli में केवल environmental benefits हैं — health पर कोई negative impact नहीं", "is_correct": false },
+      { "text": "Singrauli में 11 thermal power plants (NTPC, SSPL) + coal mines (NCL) = cumulative SO2, NOx, Hg, fly ash; groundwater में fly ash leachate से As, F, Pb, Se; NHRC और CSE रिपोर्ट में endemic fluorosis, respiratory diseases, cancer clusters documented; tribal displacement (Singrauli dam, mines) + environmental pollution — double jeopardy geography", "is_correct": true },
+      { "text": "Singrauli में NTPC plants में fly ash का कोई leakage नहीं होता — environment safe है", "is_correct": false },
+      { "text": "Singrauli की health problems केवल poverty से हैं — thermal plants से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Singrauli region (MP-UP border): Vindhya range में coal-rich zone। Energy infrastructure: NTPC Vindhyachal (4760 MW — India's largest), NTPC Rihand, Sasan Ultra Mega Power Project, NCL (Northern Coalfields Ltd) open-cast mines। Cumulative pollution: (1) SO2: 11 plants combined → acid rain; (2) Mercury: coal combustion → Rihand reservoir → fish → bioaccumulation → tribal communities; (3) Fly ash: 40 million tonnes/year; ash ponds leaking → groundwater As, F, Se, Pb; (4) Vehicular: 5000+ heavy trucks daily → road dust, diesel PM. Health documentation: (1) CSE 2012 study: 73% children blood mercury above limits; (2) NHRC 2012 — directed ₹50,000 compensation for disease; (3) Skeletal fluorosis endemic; (4) Endemic goiter; (5) Lung function studies — children's FEV1 significantly lower. Tribal displacement: Singrauli dam (1960s), mine expansion — 2 lakh+ displaced; resettlement camps with no infrastructure. 'Sacrifice Zone' concept — geography of environmental injustice।"
+  },
+  {
+    "question": "Hepatitis C का India में geographic burden — क्या यह मान्यता सही है कि Punjab में सर्वाधिक HCV prevalence है और क्यों?",
+    "options": [
+      { "text": "Hepatitis C का India में कोई geographic pattern नहीं है — uniform distribution है", "is_correct": false },
+      { "text": "Punjab में HCV prevalence 3.6% (national 1%) — injection drug use (IDU) का 'golden crescent' drug route (Afghanistan-Pakistan-Punjab corridor) से connection; reuse of needles; traditional blood transfusion practices; semi-urban barber shops में unsterilized razors — multi-route transmission geography; Delhi और Manipur में IDU-related HCV भी high", "is_correct": true },
+      { "text": "Punjab में HCV इसलिए अधिक है क्योंकि वहाँ agriculture में chemicals अधिक use होते हैं", "is_correct": false },
+      { "text": "Hepatitis C का कोई effective treatment नहीं है इसलिए geographic study irrelevant है", "is_correct": false }
+    ],
+    "explanation": "HCV India prevalence: WHO estimate 1% (13 million); blood-borne transmission। Punjab geographic pattern: (1) Punjab में registered IDU population 2+ lakh (UNODC); Amritsar, Ludhiana, Gurdaspur, Kapurthala में cluster; (2) 'Golden Crescent drug route' — Afghanistan opiates → Pakistan (Punjab, Peshawar) → Punjab India — heroin, synthetic drugs; (3) Needle sharing — HCV transmission efficiency (syringe) > HIV; (4) Traditional practices: rural Punjab में registered doctors द्वारा injections preferred over oral medication — 'injection culture'; (5) Barber shops: blade reuse — significant HCV vector in semi-urban Punjab. Delhi: IDU communities (Pul Mithai, Yamuna Pushta) में HCV 60-70%. Manipur: IDU-HCV since 1990s, HIV co-infection high. Treatment: Direct-Acting Antivirals (DAAs) — pangenotypic regimens (sofosbuvir+velpatasvir); India generics affordable. NACO HCV elimination plan; PMGAM (Pradhan Mantri Garib Kayan Yojana) में free DAA treatment।"
+  },
+  {
+    "question": "Dengue की urban ecology और spatial transmission — भारतीय megacities में dengue hotspot formation का mechanism क्या है?",
+    "options": [
+      { "text": "Dengue केवल rural areas में होता है — cities में vector नहीं होते", "is_correct": false },
+      { "text": "Dengue urban ecology: Aedes aegypti — anthropophilic, container breeder, peridomestic; construction site water tanks, discarded tyres, flower pots, rooftop terrace pools; Delhi में serotype switching (DENV-1,2,3,4 circulation) से annually new susceptible cohort; UHI से Aedes development time कम होना; और spatial cluster: JJ colonies, semi-constructed areas में peak transmission", "is_correct": true },
+      { "text": "Dengue transmission में urban infrastructure का कोई role नहीं है", "is_correct": false },
+      { "text": "India में Dengue vaccine उपलब्ध है इसलिए spatial epidemiology अब irrelevant है", "is_correct": false }
+    ],
+    "explanation": "Dengue vector ecology — Aedes aegypti: (1) Urban container breeder — clean water (tyre, drum, flower pot, cooler tray, roof terrace); (2) Peridomestic — human proximity; bites day-time; (3) Flight range limited (100-300m) → localized transmission clusters. Delhi dengue geography: (1) 2015 epidemic — 10,000+ cases; (2) JJ colonies (Seemapuri, Seelampur) — highest; (3) Construction sites — temporary water storage; (4) Serotype dynamics: DENV-2 → severe dengue 2015; (5) UHI effect: 2-4°C higher city temperature → extrinsic incubation period (EIP) from 15 days to 10 days → faster vector multiplication. Spatial tools: MCGM (Mumbai), MCD (Delhi) dengue GIS dashboard — container survey data plotted by ward. India: 2022 में 2.3 lakh dengue cases; mortality 0.1%. Dengvaxia (Sanofi) — only WHO-approved but India not adopted; TAK-003 (Takeda) WHO prequalified 2024। NVBDCP urban vector control: source reduction campaigns quarterly।"
+  },
+  {
+    "question": "Medical Tourism और health geography — India के 'medical value travel' hubs का spatial distribution और इसके domestic health system पर क्या impact होता है?",
+    "options": [
+      { "text": "Medical tourism से India के domestic health system को केवल लाभ होता है — कोई negative impact नहीं", "is_correct": false },
+      { "text": "Medical tourism hubs: Chennai (cardiac, oncology), Bengaluru (orthopedics, fertility), Hyderabad (pharma, oncology), Delhi (general surgery, transplant), Mumbai (cardiac) — 5 cities में 85%+ medical tourism; लेकिन 'dual market effect' — top specialists अंतर्राष्ट्रीय patients पर focus करते हैं; domestic rural poor की उपेक्षा होती है — spatial inequality deepens", "is_correct": true },
+      { "text": "Medical tourism केवल Kerala में है — अन्य राज्यों में कोई medical tourism नहीं", "is_correct": false },
+      { "text": "India में medical tourism अनुमोदित नहीं है — सरकार इसे प्रतिबंधित करती है", "is_correct": false }
+    ],
+    "explanation": "India medical tourism: 2022 में 6-7 lakh international patients; revenue $9 billion (FICCI estimate); USD savings 60-90% vs. Western countries। Spatial concentration: (1) Chennai — Apollo, Fortis, MIOT; cardiac surgery, liver transplant; Tamil Nadu government support; (2) Bengaluru — Manipal, Narayana Health; IVF centers; (3) Hyderabad — KIMS, Care hospitals; oncology; (4) Delhi-NCR — Medanta, Max, BLK; complex surgeries; (5) Mumbai — Hinduja, Jaslok, Kokilaben. 'Dual Market Effect': (1) Brain drain internal — rural/government doctors to private hospitals in medical tourism cities; (2) Resource allocation — premium private hospitals prioritize international patients (revenue); (3) Cost escalation — medical tourism demand → prices rise → domestic poor excluded; (4) Geographic exclusion — tier-2/3 cities और rural patients left with depleted specialist pool. Policy debate: National Medical Tourism Policy 2022 (India) — promotes but health equity concerns ignored। EXIM Bank report on medical value travel recommends domestic patient protection mechanisms।"
+  },
+  {
+    "question": "Malnutrition और agriculture geography — India में 'food production surplus' के बावजूद malnutrition persistence का spatial paradox क्या है?",
+    "options": [
+      { "text": "India में food production surplus है इसलिए malnutrition की कोई problem नहीं है", "is_correct": false },
+      { "text": "India विश्व का 2nd largest food producer है लेकिन GHI (Global Hunger Index) 2023 में rank 111/125; 'production-nutrition disconnect' — PDS में केवल calorie crops (rice, wheat); protein, micronutrient crops (pulses, vegetables) महँगे; Eastern India में tribal areas में calorie surplus but micronutrient deficient — 'hidden hunger geography'", "is_correct": true },
+      { "text": "India का GHI rank विश्व में सर्वोच्च है — malnutrition problem हल हो गई है", "is_correct": false },
+      { "text": "Malnutrition केवल drought-affected areas में होती है — surplus production areas में कभी नहीं", "is_correct": false }
+    ],
+    "explanation": "'Production-Nutrition Paradox': India food production 330+ million tonnes (record 2023) लेकिन GHI 2023 score 28.7 (serious category), rank 111/125। Geographic disconnect: (1) PDS (Public Distribution System) — FCI में only wheat and rice storage; millet, pulse, vegetables excluded; (2) Odisha, Chhattisgarh — rice bowl AND tribal child malnutrition >50%; (3) Punjab-Haryana — wheat-rice monoculture → soil micronutrient depletion → food micronutrient decline; (4) 'Hidden hunger' — Iron, Zinc, Vitamin A deficiency despite caloric adequacy; (5) Market access: tribal areas में vegetable market infrastructure absent → monotonous diet. ICDS (Integrated Child Development Services) — supplementary nutrition; effectiveness limited by diet diversity. POSHAN Abhiyan — diet diversity component (eat right). National Food Security Act 2013 — PDS reform needed to include diverse crops. PM POSHAN (Mid-Day Meal) — now includes egg/fruits in some states। Agricultural diversification policy — economic vs. caloric approach।"
+  },
+  {
+    "question": "Mental health geography — India में suicide prevention के लिए 'means restriction' की spatial effectiveness क्या है?",
+    "options": [
+      { "text": "Means restriction suicide prevention में ineffective है — लोग अन्य तरीके ढूंढ लेते हैं", "is_correct": false },
+      { "text": "India में pesticide ingestion suicide का 30%+ share (NCRB) है; agricultural states में organophosphate access high है; Sri Lanka में paraquat ban (2012) से farmer suicides 50% कम हुए — यह 'means restriction geography' evidence है; India में pesticide suicide spatial hotspots वही हैं जहाँ highly toxic pesticides availability highest है", "is_correct": true },
+      { "text": "India में suicide की प्रमुख विधि hanging है — pesticide का कोई role नहीं", "is_correct": false },
+      { "text": "WHO के अनुसार means restriction suicide prevention में scientifically proven नहीं है", "is_correct": false }
+    ],
+    "explanation": "Means Restriction — WHO LIVE LIFE suicide prevention strategy का एक प्रमुख pillar। India context: (1) NCRB 2022: hanging 42.1%, poison (including pesticide) 29.2% of suicide methods; (2) Pesticide suicide concentration: agricultural states (Maharashtra, Karnataka, AP, Telangana) में organophosphate (monocrotophos, endosulfan), paraquat access → high lethality ingestion → high CFR; (3) Sri Lanka natural experiment: paraquat ban 2012 → 70% decline in pesticide suicide (BMJ Lancet 2020); total suicides 50% reduction; (4) India WHO Pesticide Model Policy — only some states (Kerala ban on endosulfan 2011) — paraquat still available; (5) Spatial mapping: districts with high agrarian distress + pesticide shops concentration = highest suicide rate. 'Means substitution' argument weak — lethality matters; less lethal method → survival → recovery opportunity. ICall, Vandrevala Foundation helplines — mental health support। National Suicide Prevention Strategy (India, 2022) — means restriction as component।"
+  },
+  {
+    "question": "COVID-19 के बाद Long COVID का स्वास्थ्य-भौगोलिक burden — India में किन geographic clusters में Long COVID की highest prevalence और least healthcare access है?",
+    "options": [
+      { "text": "Long COVID का कोई geographic pattern नहीं है — सभी areas में समान है", "is_correct": false },
+      { "text": "Long COVID (12+ सप्ताह symptoms) India में 10-30% recovered patients में; सबसे अधिक burden वहाँ जहाँ (1) Delta variant wave (Apr-May 2021) severe थी — UP, MP, Maharashtra; (2) rehabilitation services absent — tier-2/3 cities, rural; (3) comorbidities high (diabetes, hypertension) — IGP states; Long COVID care की spatial infrastructure नगण्य है — cities में specialty clinics vs. rural में zero", "is_correct": true },
+      { "text": "India में Long COVID नहीं होती क्योंकि Indian population naturally resistant है", "is_correct": false },
+      { "text": "Long COVID केवल vaccinated लोगों में होती है — unvaccinated में नहीं", "is_correct": false }
+    ],
+    "explanation": "Long COVID (Post-COVID Condition — WHO definition: symptoms >12 weeks post-acute infection, not explained by alternative diagnosis). India estimates: ICMR MSPF study: 10-30% of recovered COVID patients report Long COVID symptoms. Symptoms: fatigue, breathlessness, brain fog, PTSD, cardiac arrhythmia, hair loss. Geographic vulnerability: (1) Delta wave (B.1.617.2) — severest: UP, MP, Maharashtra; ICU stays linked to higher Long COVID risk; (2) Rural areas — no Post-COVID clinics; rehabilitation physiotherapy absent; pulmonary function testing unavailable; (3) Comorbidity geography — diabetes + hypertension (IGP states) → worse Long COVID; (4) Healthcare worker Long COVID — AIIMS Delhi study: 23% HCWs post-COVID symptoms. Care infrastructure: Post-COVID OPDs — major metros (AIIMS, PGI Chandigarh, JIPMER Pondicherry) established; tier-2/3 cities — practically none. Policy gap: No national Long COVID registry; NHM scheme absent; Ayushman Bharat coverage for Long COVID unclear।"
+  },
+  {
+    "question": "Water-Energy-Food (WEF) Nexus और India का स्वास्थ्य — इस त्रिकोण में spatial trade-offs कैसे health outcomes को प्रभावित करते हैं?",
+    "options": [
+      { "text": "WEF Nexus का स्वास्थ्य से कोई संबंध नहीं है — ये अलग-अलग sectors हैं", "is_correct": false },
+      { "text": "WEF Nexus spatial trade-off उदाहरण: महाराष्ट्र में sugar cooperatives (water-intensive) के लिए reservoir diversification → पेयजल scarcity in Marathwada → waterborne diseases; Haryana में wheat-rice double crop (groundwater over-extraction) → arsenic deeper aquifers; thermal power cooling water → river temperature rise → fishery decline → coastal nutrition — सभी आपस में connected हैं", "is_correct": true },
+      { "text": "WEF Nexus केवल academic concept है — practical health policy में इसका कोई use नहीं", "is_correct": false },
+      { "text": "India में WEF Nexus में कोई conflict नहीं है क्योंकि water, energy और food सभी surplus में हैं", "is_correct": false }
+    ],
+    "explanation": "WEF Nexus (Water-Energy-Food) — Bonn 2011 में conceptualized। India spatial trade-offs: (1) Maharashtra sugar belt: Ahmednagar, Solapur, Pune में sugar factories 30-50 liter water/kg sugar use → Marathwada drought में pipewater scarcity → typhoid, cholera, fluorosis (groundwater dependency); (2) Punjab Green Revolution: rice cultivation 3000 liter/kg water → groundwater depletion → deeper wells → arsenic exposure; excess nitrogen → groundwater nitrate → methemoglobinemia ('blue baby disease'); (3) Thermal power cooling: Singrauli में Rihand reservoir → heated water discharge → fish ecology disruption → tribal nutrition impact; (4) Hydropower vs. fish: Indus dams → hilsa fish disappearance from Punjab → omega-3 deficiency. NITI Aayog Composite Water Management Index (CWMI): Jharkhand, UP, Bihar score lowest → worst WEF nexus management → worst health outcomes correlation. UN SDG 2, 3, 6, 7 interlinkages — integrated spatial planning needed।"
+  },
+  {
+    "question": "India में NCD prevention की geographic targeting — 'Population Attributable Risk' (PAR) approach से किन क्षेत्रों में priority intervention की जरूरत है?",
+    "options": [
+      { "text": "PAR approach से NCD prevention में सभी क्षेत्र समान प्राथमिकता के हैं", "is_correct": false },
+      { "text": "PAR = (Pe × (RR-1)) / (Pe × (RR-1) + 1) — highest PAR districts वे हैं जहाँ (1) tobacco prevalence highest (Mizoram 52%, Meghalaya 43%) + high cancer RR; (2) hypertension prevalence high (Punjab 32%, Haryana 30%) + CVD RR; (3) diabetes clustering (Tamil Nadu urban 25%) + nephropathy. Geographic PAR mapping से targeted NHM interventions का evidence base बनता है", "is_correct": true },
+      { "text": "PAR केवल infectious diseases के लिए relevant है — NCDs में यह approach नहीं चलती", "is_correct": false },
+      { "text": "NCD prevention में geographic targeting अनावश्यक है — one-size-fits-all approach बेहतर है", "is_correct": false }
+    ],
+    "explanation": "Population Attributable Risk (PAR) — Rose's 'prevention paradox': small risk reduction in large population > large reduction in small high-risk group। Geographic NCD PAR mapping: (1) Tobacco: GATS India 2016-17 — NE states highest (smokeless + smoked); Mizoram 52.3%, Meghalaya 42.8%; lung cancer, oral cancer PAR highest here; (2) Hypertension: NFHS-5 — Punjab 31.7%, Himachal 32.4%, Goa 31.6% (highest); CVD mortality concentrated; (3) Diabetes: Tamil Nadu urban 23.9%, Kerala 21.4%; diabetic nephropathy ESRD burden; (4) Alcohol: Tripura 44%, Chhattisgarh 43% men — liver cirrhosis, road accident burden. Geographic PAR framework use: NHM's Healthy Districts Programme में district-specific NCD risk profiling। ICMR-INDIAB (India Diabetes/NCD prevalence study) — district-level NCD mapping ongoing। National NCD Monitoring Framework (2023-2030) में geographic equity targets। NPCDCS (National Programme for Prevention & Control of Cancer, Diabetes, CVD & Stroke) — district-level implementation।"
+  },
+  {
+    "question": "Fishermen communities की health geography — India की 7516 km coastline पर fisherfolk के specific health vulnerabilities क्या हैं?",
+    "options": [
+      { "text": "Coastal fisherfolk को कोई विशेष health risks नहीं हैं — समुद्री जीवन स्वास्थ्यप्रद है", "is_correct": false },
+      { "text": "India में 40 lakh+ marine fisherfolk: occupational hazards (UV exposure → cataracts; vibration from boats → HAVS; drowning risk); mercury bioaccumulation in fish → neurological effects in pregnant women; cyclone vulnerability (highest casualties in Tamil Nadu, Andhra coast); inadequate healthcare access (isolated coastal hamlets); बंगाल की खाड़ी में Anisakis worm (fish parasite) foodborne infection", "is_correct": true },
+      { "text": "Fisherfolk में health risks केवल drowning तक सीमित हैं", "is_correct": false },
+      { "text": "Coastal areas में healthcare सर्वोत्तम है — fishermen को priority services मिलती हैं", "is_correct": false }
+    ],
+    "explanation": "India marine fisherfolk: 40 lakh+ (CMFRI data); 3,477 maritime fishing villages। Health vulnerabilities: (1) UV exposure: 8-12 hr/day sea exposure → pterygium, cataracts; squamous cell skin cancer; (2) HAVS (Hand-Arm Vibration Syndrome): outboard motors vibration → peripheral neuropathy, white finger; (3) Drowning: cyclone season (Oct-Nov, May-June) → fatalities; Kerala, Tamil Nadu coast highest drowning rates; Cyclone Ockhi (2017) — 800+ fisherfolk missing; (4) Mercury: coastal industrial pollution + deep-sea fish bioaccumulation; pregnant fisherfolk women → fetal neurotoxicity; Kerala fisherfolk studies show elevated blood Hg; (5) Decompression sickness: diving fisherfolk (Pearl diving — Tuticorin, sponge diving); (6) Isolation: hamlets without all-weather roads → emergency obstetric care delay. Blue Economy policy vs. fisherfolk health rights conflict — large trawlers vs. artisanal fishers competition. NHM coastal districts में RBSK (Rashtriya Bal Swasthya Karyakram) fisherfolk children के लिए mobile camps।"
+  },
+  {
+    "question": "Pharmaceutical geography — India में generic drug manufacturing का spatial concentration और drug access equity पर इसका प्रभाव क्या है?",
+    "options": [
+      { "text": "India में pharmaceutical manufacturing समान रूप से सभी राज्यों में distributed है", "is_correct": false },
+      { "text": "Pharma clusters: Hyderabad (Genome Valley, Patancheru GIDC — 40%+ API manufacturing), Ahmedabad-Vadodara (Ankleshwar-Vapi), Baddi (HP), Aurangabad, Sikkim (tax-incentive); इस spatial concentration से supply chain vulnerability है; COVID में API imports (China) disruption ने geographical dependency उजागर किया; लेकिन Jan Aushadhi Kendras spatial distribution अभी rural में poor है", "is_correct": true },
+      { "text": "India में pharmaceutical manufacturing पूरी तरह decentralized है — कोई cluster नहीं", "is_correct": false },
+      { "text": "India में drugs सभी के लिए equally accessible हैं — कोई geographical access problem नहीं", "is_correct": false }
+    ],
+    "explanation": "India pharmaceutical industry — world's 3rd largest by volume; generic drugs 20% global export। Geographic concentration: (1) Hyderabad's Genome Valley — 400+ pharma/biotech companies; Patancheru GIDC — Bulk Drug (API) manufacturing; 40%+ India's API capacity; (2) Ahmedabad-Vapi-Ankleshwar (Gujarat) — formulation + API; (3) Baddi (HP) — tax incentives post-2003 → northern cluster; (4) Sikkim — SikiM Industrial Development Act benefits → special exemptions → pharma hub. COVID supply chain crisis: 70% APIs imported from China; Wuhan factory shutdowns → drug shortage risk → March 2020 India export ban on HCQ, paracetamol. PLI (Production Linked Incentive) Scheme for Pharma — domestic API production boost in bulk drug parks (Andhra, Gujarat, Himachal). Jan Aushadhi: 9500+ Kendras by 2024; but rural coverage — tier-3 towns/villages में <15%. OOPE on medicines: 47% of total OOPE — spatial access to affordable generics critical।"
+  },
+  {
+    "question": "Integrated Child Development Services (ICDS) का spatial equity evaluation — किन geographic metrics से ICDS impact का assessment होता है और कहाँ सबसे बड़ा implementation gap है?",
+    "options": [
+      { "text": "ICDS का impact पूरे India में एकसमान और positive है", "is_correct": false },
+      { "text": "ICDS Anganwadi coverage metrics: operational centres (13.9 lakh), worker-to-child ratio, supplementary nutrition delivery, growth monitoring. Biggest gaps: (1) Urban slum — Anganwadi underserved; (2) tribal remote areas — worker absenteeism 30-40%; (3) UP, Bihar में quality vs. quantity gap — centres open but nutrition quality poor; (4) NHM-ICDS convergence weak — NFHS-5 में still 67% child anaemia despite ICDS", "is_correct": true },
+      { "text": "ICDS केवल nutrition component cover करती है — health और education components नहीं", "is_correct": false },
+      { "text": "ICDS का funding पर्याप्त नहीं है — इसीलिए कोई programme नहीं चल रहा", "is_correct": false }
+    ],
+    "explanation": "ICDS (1975, World Food Programme → GOI) — 6 services: supplementary nutrition, immunization, health check-up, referral, pre-school education, nutrition and health education। Coverage metrics: 13.9 lakh Anganwadi Centres (AWC); 7.55 crore beneficiaries (children + pregnant/lactating women). Geographic gap analysis: (1) Urban slum: NHM 'urban ICDS' component underfunded; unauthorized colony Anganwadis absent; (2) Tribal/remote: Orissa's Kandhamal, CG's Bastar — AWW absenteeism 40%; supply chain disruption; (3) Quality gradient: UP में 1 AWW for 1200+ children (norm 1:800); (4) Supplementary nutrition — contractor-supplied rather than community kitchen — quality issues; (5) Convergence: ICDS + NHM + NITI Aayog POSHAN Abhiyan coordination — state-level implementation varies. CAG (Comptroller and Auditor General) audit 2017: UP, Bihar में 50%+ AWCs non-functional. Supreme Court PUCL case — monitoring Anganwadi service delivery. POSHAN Tracker (real-time data) launched 2021 — some improvement in monitoring।"
+  },
+  {
+    "question": "Environmental radiation और health — भारत में natural background radiation के high-dose zones का स्वास्थ्य-भौगोलिक significance क्या है?",
+    "options": [
+      { "text": "India में कोई natural high-radiation zone नहीं है — radiation केवल nuclear plants से आती है", "is_correct": false },
+      { "text": "Kerala का Chavara-Neendakara coastal monazite belt (thorium-rich beach sand) में background radiation 70-80 mGy/year (world average 2.4 mSv/year); BARC और WHO longitudinal studies में cancer rates NOT significantly elevated — 'radiation hormesis' hypothesis test; लेकिन Jaduguda (Jharkhand) uranium mines में mining workers में excess cancer documented", "is_correct": true },
+      { "text": "High background radiation zones में cancer rates automatic रूप से बहुत अधिक होती हैं", "is_correct": false },
+      { "text": "Monazite beaches Kerala में health के लिए completely safe हैं और radiation का कोई monitoring नहीं होती", "is_correct": false }
+    ],
+    "explanation": "Natural background radiation geography: (1) Kerala monazite belt: Chavara, Neendakara, Quilon district; beach sand में monazite (ThO2 + RadiumU); background radiation 70-80 mGy/year (global 2.4 mSv/year — 30x); population 1 lakh+; BARC Kudankulam/NLRB study (2000-2020): cancer rates NOT statistically elevated vs. low-radiation Kerala areas — 'radiation hormesis' debate; (2) Jaduguda (Jharkhand): UCIl uranium mines; UCIL workers + surrounding tribal villages; Greenpeace/JAM (Jharkhand Against Nuclear Mines) studies: anemia, stillbirth, birth defects claimed elevated; BARC disputed; independent study needed; (3) Rajasthan Rawatbhata nuclear plants — Emergency Planning Zones; (4) Geologic radon: granite-rich areas (HP, Jharkhand) — indoor radon → lung cancer risk. Radiation dose-response: LNT (Linear No-Threshold) model vs. hormesis debate in radiobiology। AERB (Atomic Energy Regulatory Board) India monitors nuclear facilities; natural radiation monitoring less systematic।"
+  },
+  {
+    "question": "India में Non-communicable Disease का urban-rural reversal — क्या NCDs अब ग्रामीण भारत में भी अधिक हो रहे हैं?",
+    "options": [
+      { "text": "NCDs केवल शहरी क्षेत्रों में होते हैं — ग्रामीण भारत में infectious diseases ही dominant हैं", "is_correct": false },
+      { "text": "ICMR-INDIAB और NFHS-5 के अनुसार urban-rural NCD gap संकुचित हो रहा है: rural hypertension 28% (NFHS-5), rural diabetes 11%; tobacco smoking rural men में 43% vs. urban 35%; physical activity decline (mechanized agriculture); dietary change (ultra-processed food rural penetration) — 'rural NCD epidemiological catch-up' trend है", "is_correct": true },
+      { "text": "Rural India में NCDs negligible हैं — 2050 से पहले कोई rural NCD burden नहीं होगा", "is_correct": false },
+      { "text": "Rural-urban NCD gap 2000 से 2024 तक बढ़ा है — urban में और शहरी, rural में और ग्रामीण", "is_correct": false }
+    ],
+    "explanation": "NCD rural-urban convergence evidence: (1) Hypertension: NFHS-5 — urban women 24.3%, rural women 21.3%; urban men 27.6%, rural 24.4% — gap only 3-5 percentage points; (2) Diabetes: ICMR-INDIAB study (2023): rural 7.2%, urban 12.4% — rural rapidly rising; (3) Tobacco: GATS India — rural men 43% any tobacco vs. urban 35%; smokeless tobacco rural dominant; (4) Physical activity: ASER-health surveys: rural mechanization (tractors, threshers) → sedentary shift; (5) Ultra-processed food: FSSAI NCAPFHD study — rural market penetration of biscuits, instant noodles, chips increasing. Drivers: rural income rise (MGNREGS, remittances) → dietary change; media exposure (mobile phone, TV) → behavioral change; food system integration. NPCDCS (National Programme for Prevention & Control of Cancer, Diabetes, CVD & Stroke) extended to all districts 2017 — but screening and management capacity limited at CHC/PHC level। Health and Wellness Centres (HWC) — NCD screening now mandated।"
+  },
+  {
+    "question": "India में Telemedicine और स्वास्थ्य भूगोल — eSanjeevani platform का geographic reach और 'digital health equity' की चुनौती क्या है?",
+    "options": [
+      { "text": "eSanjeevani ने India में सभी geographic health disparities समाप्त कर दी हैं", "is_correct": false },
+      { "text": "eSanjeevani (2019) ने 2024 तक 25+ crore consultations दी हैं; लेकिन 'digital health equity gap': NE India, Chhattisgarh tribal areas, Lakshadweep, Andaman में internet penetration <30%; smartphone literacy कम; local language support सीमित; specialist distribution tilted — metropolitan doctors ही consult करते हैं; rural patients को digital intermediary (HWC staff) की जरूरत है", "is_correct": true },
+      { "text": "eSanjeevani में privacy की कोई चिंता नहीं है क्योंकि data encrypted है", "is_correct": false },
+      { "text": "Telemedicine केवल urban professionals के लिए useful है — rural areas में कोई benefit नहीं", "is_correct": false }
+    ],
+    "explanation": "eSanjeevani — MoHFW का telemedicine platform; two models: (1) Ayushman Bharat-HWC (hub-spoke model: PHC/HWC → specialist); (2) eSanjeevani OPD (citizen-to-doctor direct). Achievements: 25+ crore consultations (April 2020-2024); peak 3 lakh/day. Geographic reach challenges: (1) Internet penetration: Trai data — NE India 30-40%; Chhattisgarh tribal 25%; A&N islands 35%; vs. Delhi 80%+; (2) Smartphone literacy: elderly, illiterate rural population → ASHA/AWW intermediary model needed; (3) Language: Hindi + English dominant; tribal languages (Gondi, Bodo, Meitei) — minimal support; (4) Specialist distribution: 70%+ eSanjeevani specialists registered in metros — rural PHC connecting to urban doctor — but doctor connects patient to metropolitan hospital → referral chain unchanged; (5) Infrastructure: HWC without stable power/internet → consultation impossible. PM-WANI (Wi-Fi Access Network Interface) और BharatNet — rural connectivity improvement. National Digital Health Mission (ABDM, 2022) — ABHA ID, digital health records — implementation gradual।"
+  },
+  {
+    "question": "Filariasis (Lymphatic Filariasis) का India में geographic distribution और Mass Drug Administration (MDA) की spatial coverage क्या है?",
+    "options": [
+      { "text": "Filariasis पूरे India में समान रूप से endemic है", "is_correct": false },
+      { "text": "LF endemic districts 256 (21 states); Uttar Pradesh, Bihar, Jharkhand, Odisha, West Bengal, Tamil Nadu, Andhra Pradesh में सर्वाधिक; Culex quinquefasciatus — urban drainage, stagnant water breeder; MDA (DEC+Albendazole+Ivermectin triple drug) 2017 से; geographic exclusion — UP के कुछ जिले MDA coverage <65% — WHO elimination threshold नहीं पहुँचा", "is_correct": true },
+      { "text": "Filariasis केवल Kerala में है और वहाँ पूरी तरह समाप्त हो गई है", "is_correct": false },
+      { "text": "LF elimination में vaccination ही एकमात्र strategy है", "is_correct": false }
+    ],
+    "explanation": "Lymphatic Filariasis (Wuchereria bancrofti): Culex quinquefasciatus mosquito vector। India में 256 LF-endemic districts; estimated 21 million microfilaremic; 23 million chronic disease (lymphoedema, hydrocele)। Geographic distribution: (1) Indo-Gangetic Plains — UP (Varanasi, Gorakhpur, Deoria), Bihar (Muzaffarpur, Sitamarhi) — highest burden; (2) Odisha coastal; (3) Tamil Nadu; (4) West Bengal। MDA strategy: WHO recommendation — annual DEC 6mg/kg + Albendazole 400mg। India 2017 से Triple Drug Therapy (TDT): IDA (DEC+Albendazole+Ivermectin) in high-burden states. Coverage threshold for elimination: ≥65% therapeutic coverage 5+ consecutive years। Challenge: UP में 2021-22 में coverage 58-62% — Lymphatic Filariasis Programme Management Unit (PFMU) strengthening। Transmission Assessment Survey (TAS) post-MDA। GPELF (Global Programme to Eliminate LF) 2030 deadline। India में 5 states achieved TAS-pass: Kerala, TN, Karnataka, Goa, Puducherry। UP/Bihar still away from elimination threshold।"
+  },
+  {
+    "question": "Leptospirosis और monsoon flood geography — कौन-से Indian districts में leptospirosis का seasonal spike सबसे अधिक documented है?",
+    "options": [
+      { "text": "Leptospirosis India में नहीं होती — केवल Southeast Asia में है", "is_correct": false },
+      { "text": "Kerala (Kottayam, Alappuzha backwaters — rice field workers), Andaman-Nicobar (post-monsoon, rat reservoir), Gujarat (post-flood Vadodara, Surat), Maharashtra (Mumbai slums, flood season Aug-Oct) में Leptospira interrogans का seasonal cluster है; paddy cultivation में barefoot workers, sewer cleaners, fisherfolk highest risk group", "is_correct": true },
+      { "text": "Leptospirosis केवल cattle farms में होती है — human cases नहीं होते", "is_correct": false },
+      { "text": "Leptospirosis का geography monsoon से independent है", "is_correct": false }
+    ],
+    "explanation": "Leptospirosis — Leptospira interrogans; zoonotic; rat, cattle, dog reservoir; humans — skin abrasion/mucous contact with contaminated water/soil। India seasonal geography: (1) Kerala — backwater regions post-monsoon; paddy harvesting season (July-September); Kottayam, Alappuzha highest; Kerala state surveillance system detects 2000-5000 cases/year; (2) Mumbai — slum flooding; Dharavi, Govandi, Kurla — post-flood leptospirosis cases surge; Sion Hospital Aug-Oct spike documented; (3) Andaman-Nicobar — rat population dense in island habitats; post-cyclone/monsoon spikes; (4) Vadodara — 2005 Gujarat floods → leptospirosis outbreak; (5) Karnataka coastal (Dakshina Kannada, Udupi) — paddy fields, plantation workers. Occupational risk: sewer cleaners (municipalities), agricultural workers, garbage collectors, fisherfolk. Diagnosis challenge: Serology (MAT — Microscopic Agglutination Test) not widely available; empirical Doxycycline treatment. ICMR National Leptospirosis Referral Centre: Regional Medical Research Centre, Port Blair (A&N)।"
+  },
+  {
+    "question": "India में maternal health geography का 'last mile' problem — ASHAs की spatial distribution और performance variability का evidence क्या है?",
+    "options": [
+      { "text": "ASHAs की performance पूरे India में एकसमान है — कोई spatial variability नहीं", "is_correct": false },
+      { "text": "ASHA density: 1/1000 rural population norm; but performance heterogeneity: Kerala ASHAs के 95% JSY-linked deliveries vs. Bihar में 68%; tribal areas में ASHA attrition 30-40%; NE India में ASHA's linguistic mismatch; UP में ASHA incentive payment delays → motivation कम; अर्थात ASHA system spatial equity का amplifier है — जहाँ सबसे जरूरत, वहाँ performance worst", "is_correct": true },
+      { "text": "ASHAs केवल शहरी areas में नियुक्त हैं — ग्रामीण में कोई ASHA नहीं", "is_correct": false },
+      { "text": "ASHA system completely successful है — कोई performance gap नहीं है", "is_correct": false }
+    ],
+    "explanation": "ASHA (Accredited Social Health Activist) — 2005 में NRHM के तहत launch; 10.6 lakh ASHAs (2023). Performance spatial heterogeneity: (1) Kerala: high female literacy + ASHA training quality; JSY facilitation 95%+; Kudumbashree integration; (2) Bihar: ASHA vacancy 15%; payment delays (PFMS issues); cash-based incentives dependency; JSY 68%; (3) UP: 1.6 lakh ASHAs but attrition; ASHA Sahyogini (supervisor) gap; district NHM weak management; (4) NE India: Nagaland, Meghalaya, Mizoram — church-based healthcare system vs. ASHA role overlap; linguistic mismatch (tribal dialects); (5) Tribal/LWE: Bastar, Kandhamal — physical safety concerns; absenteeism 40%+; (6) Urban slum: ASHA role in peri-urban unclear. Inverse ASHA performance: weakest where need greatest — Inverse Care Law amplified. ASHA incentive reform needed: fixed component + performance component. National ASHA Association advocacy for minimum wage guarantee।"
+  },
+  {
+    "question": "Cancer geography में cervical cancer का India-specific spatial distribution — HPV vaccination की geographic rollout में क्या challenges हैं?",
+    "options": [
+      { "text": "Cervical cancer India में uniform geographic distribution दिखाती है", "is_correct": false },
+      { "text": "Cervical cancer: India में 1.25 lakh new cases/year (2nd most common in women); highest incidence: Mizoram (age-standardized rate 27/100,000), Tamil Nadu coastal districts, Odisha tribal; low screening coverage — rural women 5% ever screened; HPV Quadrivalent vaccine (CERVAVAC — Serum Institute) 2022 में approved; geographic rollout challenge: cold chain, health literacy, male gatekeeping in conservative districts", "is_correct": true },
+      { "text": "Cervical cancer India में rare है और कोई geographic pattern नहीं है", "is_correct": false },
+      { "text": "HPV vaccination in India already provides herd immunity nationally", "is_correct": false }
+    ],
+    "explanation": "Cervical cancer India: 1.25 lakh new cases, 77,000 deaths/year (GLOBOCAN 2020). HPV (Human Papillomavirus) — types 16, 18 cause 70%+ cervical cancer. Geographic incidence: (1) Mizoram highest (27/100,000 ASR) — possibly related to smoking + sexual behavior; (2) Tamil Nadu coastal (Salem, Tiruvannamalai); (3) Odisha tribal districts; (4) North-East urban — Imphal, Guwahati. Screening geography: VIA (Visual Inspection with Acetic Acid) + Pap smear — NCRP data: rural women <5% ever screened; urban 15%. CERVAVAC (Quadrivalent HPV vaccine, Serum Institute) — 2022 DCGI approval; Indigenous, affordable (₹200-400/dose vs. Gardasil ₹2000+). National vaccination rollout: UIP inclusion announced 2023 budget; girls 9-14 years target. Geographic challenges: (1) Cold chain: 2°C-8°C; rural PHC; (2) Health literacy: rural women don't know HPV; (3) Male gatekeeping: conservative districts — permission needed; (4) 2-dose schedule (6-month gap) — default risk. NACO + NCD Division convergence needed।"
+  },
+  {
+    "question": "India में occupational disease geography — बीड़ी उद्योग में tobacco workers की health vulnerabilities का spatial analysis क्या है?",
+    "options": [
+      { "text": "बीड़ी workers में कोई occupational health risk नहीं है क्योंकि वे खुद नहीं पीते", "is_correct": false },
+      { "text": "Madhya Pradesh (Jabalpur, Katni, Sagar), Maharashtra (Solapur, Aurangabad), West Bengal (Murshidabad), और Tamil Nadu (Dindigul) में 44 lakh+ home-based बीड़ी rollers (mostly women और बच्चे) में chronic respiratory disease, musculoskeletal disorders, secondhand tobacco exposure, और piece-rate poverty wages — सब combined occupational health geography बनाते हैं", "is_correct": true },
+      { "text": "बीड़ी industry केवल Rajasthan में है", "is_correct": false },
+      { "text": "ESIC बीड़ी workers को पूरी coverage देता है — कोई gap नहीं है", "is_correct": false }
+    ],
+    "explanation": "India में बीड़ी industry: 44 lakh registered workers (ESIC) + unregistered; world's largest non-cigarette tobacco product. Geographic concentration: (1) MP — Jabalpur, Katni, Sagar, Damoh में largest production; (2) Maharashtra — Solapur; (3) WB — Murshidabad; (4) Tamil Nadu — Dindigul, Tiruchirappalli. Health vulnerabilities: (1) Home-based rolling — women 60%+ workforce; secondhand tobacco exposure (tendu leaf + tobacco dust); EVidence (Jindal TB & Lung, Delhi) — COPD prevalence 30%+ in longtime workers; (2) Child labour: CLPRA (Child Labour Prohibition Act) — bidi exemption disputed; children rolling at home; (3) Musculoskeletal: repetitive strain, long hours seated; (4) Income: ₹100-150/1000 beedis — piece rate; BOCW welfare schemes — implementation poor; (5) ESIC coverage: nominally covered but claims process complex — utilization <20%. Cigarettes vs. bidi — bidi health burden disproportionately on poor/tribal/women geography। Tobacco Cessation Clinics (TCC) — lack in beedi districts।"
+  },
+  {
+    "question": "India में Neglected Tropical Diseases (NTDs) का spatial burden — WHO roadmap 2021-2030 के अनुसार India में priority NTDs कौन-से हैं?",
+    "options": [
+      { "text": "India में NTDs की कोई problem नहीं है — ये केवल sub-Saharan Africa में होती हैं", "is_correct": false },
+      { "text": "India में priority NTDs: Visceral Leishmaniasis (Bihar, Jharkhand, WB), Lymphatic Filariasis (UP, Bihar, Tamil Nadu), Soil-Transmitted Helminths (STH — National Deworming Day), Leprosy (UP, Maharashtra, Bihar), Dengue (pan-India), Rabies — सभी में distinct 'disease geography' है जो targeted intervention का आधार है", "is_correct": true },
+      { "text": "India में NTDs का burden negligible है — WHO roadmap में India का नाम नहीं है", "is_correct": false },
+      { "text": "NTDs को केवल drugs से control किया जा सकता है — vector control और WASH irrelevant हैं", "is_correct": false }
+    ],
+    "explanation": "WHO NTD Roadmap 2021-2030: 20 NTDs; India में endemic: (1) VL/Kala-azar (Visceral Leishmaniasis): Bihar, Jharkhand, WB, UP — 2030 elimination target <1/10,000/year at sub-district level; (2) LF (Lymphatic Filariasis): 256 endemic districts — MDA ongoing; 2030 elimination; (3) STH (Soil-Transmitted Helminths): A. lumbricoides, hookworm, T. trichiura; 250 million children at risk; National Deworming Day (February 10 + August 10); school + anganwadi based; (4) Leprosy: UP (highest absolute numbers — Varanasi, Gorakhpur), Maharashtra, Bihar; 'hidden endemic' districts; 2030 goal <1/10,000; (5) Rabies: WHO underreported — India 20,000 deaths/year; post-exposure prophylaxis access rural gap; (6) Dengue: non-NTD by WHO but included under vector-borne control; (7) Scabies, Snakebite (now NTD). MDA platforms, WASH, vector control, disease management integration — 'Integrated NTD control' framework. NCDC coordinates NTD programme with WHO SEARO।"
+  },
+  {
+    "question": "India में Adolescent health geography — RKSK (Rashtriya Kishor Swasthya Karyakram) का spatial implementation और adolescent nutrition geography क्या है?",
+    "options": [
+      { "text": "Adolescent health भारत में कोई priority नहीं है", "is_correct": false },
+      { "text": "RKSK (2014): 253 million adolescents; Adolescent Friendly Health Clinics (AFHC) weekly clinics at PHC/CHC; लेकिन spatial gap — UP, Bihar, MP में AFHC operational <40%; adolescent anaemia (girls 59.1% NFHS-5 — worse than NFHS-4); early marriage geography (Rajasthan, UP, Bihar) → teenage pregnancy → maternal mortality; menstrual hygiene rural gap — MHAM scheme implementation uneven", "is_correct": true },
+      { "text": "RKSK ने सभी adolescent health issues पूरी तरह address कर दिए हैं", "is_correct": false },
+      { "text": "Adolescent health केवल urban schools में relevant है — rural adolescents को programs की जरूरत नहीं", "is_correct": false }
+    ],
+    "explanation": "Adolescent health geography: 253 million adolescents (10-19 years) = 21% India's population। RKSK components: nutrition, WASH, mental health, sexual-reproductive health, substance abuse, violence/injury. Spatial implementation gaps: (1) AFHC: PHC में weekly clinic; but UP में 60% AFHCs non-functional; Bihar में supply shortage; (2) Adolescent anaemia: NFHS-5 girls (15-19) 59.1% anaemic — NFHS-4 (54.1%) से worse! IFA weekly supplementation; compliance poor; (3) Early marriage: Child Marriage Prohibition Act 2006 — but Rajasthan (38%), Bihar (40%), WB (41%) girls married before 18 (NFHS-5) → teenage pregnancy → MMR; (4) Menstrual Hygiene: Kishori Shakti Yojana → MHAM (Menstrual Hygiene for Adolescents in school) — UP/Bihar implementation poor; sanitary napkin subsidized but school toilets 40% non-functional; (5) Peer Educators (Saathiya) program — coverage good in pilot districts but scale-up limited। Integrated Health and Wellness strategy under NTAGI (National Technical Advisory Group for Immunization) for adolescent vaccines।"
+  },
+  {
+    "question": "India में alcohol-related health burden का geographic pattern — 'wet states', 'dry states', और health outcomes का spatial analysis क्या है?",
+    "options": [
+      { "text": "Alcohol prohibition (dry states) से health outcomes में कोई documented improvement नहीं होता", "is_correct": false },
+      { "text": "NFHS-5 में पुरुष alcohol consumption: Tripura 44.2%, Arunachal 43.0%, Chhattisgarh 43.5% (wet states — highest); Bihar, Gujarat, Manipur 'dry states' — but bootlegging, hooch tragedy (Ahmedabad 2009 — 136 deaths); Nagaland partial prohibition। Dry state में liver cirrhosis कम लेकिन hooch tragedies और illicit alcohol — spatial health trade-off", "is_correct": true },
+      { "text": "सभी Indian states में alcohol equally available है — कोई regulatory difference नहीं", "is_correct": false },
+      { "text": "Alcohol-related health burden केवल Punjab में है — NE India में कोई problem नहीं", "is_correct": false }
+    ],
+    "explanation": "India alcohol policy geography: (1) Dry states: Bihar (since 2016 — Nitish Kumar), Gujarat (since 1960), Nagaland, Mizoram, Manipur (partial); (2) Wet states: most others. NFHS-5 alcohol use among men: NE India highest — Tripura 44.2%, Arunachal 43.0%, Chhattisgarh 43.5%; Telangana 43.5%; Punjab 35.5% (declining from earlier highs). Dry state paradox: (1) Bihar prohibition (2016) → liver disease cases in government hospitals dropped 15-20%; but (2) bootlegging thrives — hooch tragedies: Saran district 2022 — 35 deaths; 2023 — 30+ deaths; (3) Illegal distilleries use methanol → acute poisoning; (4) Cross-border procurement from UP-Jharkhand; (5) Women's groups supportive of prohibition (domestic violence reduction). Alcohol-attributable deaths India: IHME estimates 1.56 lakh deaths/year attributable to alcohol. Liver cirrhosis geography: Punjab, NE India, Goa — highest per-capita consumption → hepatic morbidity. NITI Aayog SDG India Index — alcohol use indicator included।"
+  },
+  {
+    "question": "India में जिला स्वास्थ्य की composite ranking — NHM's District Health Index और Aspirational Districts Programme में स्वास्थ्य की spatial monitoring कैसे होती है?",
+    "options": [
+      { "text": "India में जिला-स्तरीय स्वास्थ्य का कोई composite ranking system नहीं है", "is_correct": false },
+      { "text": "NITI Aayog का Aspirational Districts Programme (ADP) 112 districts में Delta Ranking — Health & Nutrition domain (30 points): ANC, institutional delivery, full immunization, stunting, anaemia के incremental improvement measure; NHM District Health Index (DHI) — outcome + infrastructure + process indicators; competitive federalism से 'race to top' motivation लेकिन data quality issues हैं", "is_correct": true },
+      { "text": "District Health ranking केवल financial expenditure पर based है", "is_correct": false },
+      { "text": "Aspirational Districts Programme में health component नहीं है", "is_correct": false }
+    ],
+    "explanation": "Aspirational Districts Programme (ADP, NITI Aayog, 2018): 112 'most underdeveloped' districts; 5 domains: Health & Nutrition, Education, Agriculture, Financial Inclusion, Infrastructure. Health & Nutrition (30 points): indicators — (1) pregnant women 4 ANC visits; (2) institutional delivery; (3) full immunization of children; (4) children stunting <5yr; (5) anaemia in women; (6) low birth weight. Delta Ranking: monthly/quarterly improvement measured (not absolute level) → districts competing on improvement velocity. Champion of Change awards। Problems: (1) Data collection at district level relies on HMIS — underreporting continues; (2) Perverse incentives — inflated reporting; (3) Some 'aspirational' districts show improvement on paper but not verified. District Health Index (DHI): NHM framework — health system performance; 24 indicators; states rank districts. Competitive federalism: States compete for National Health Mission performance fund. Evidence: Aspirational districts में measurable improvement in some indicators (Piramal Foundation, Tata Trusts support) but baseline so low that absolute levels still poor.।"
+  },
+  {
+    "question": "E-health और ABHA (Ayushman Bharat Health Account) — Digital Health Mission का 'spatial health record equity' challenge क्या है?",
+    "options": [
+      { "text": "ABHA से India में सभी नागरिकों के health records instantly digital हो गए हैं", "is_correct": false },
+      { "text": "ABHA (14-digit health ID, 2021) enrollment 54+ crore (2024); लेकिन spatial equity gap: (1) urban-biased enrollment — rural adoption <25%; (2) digital literacy barrier; (3) private sector non-linkage — 70% healthcare unlinked; (4) Interoperability — HMIS, ICMR, insurance systems अभी aligned नहीं; (5) Data sovereignty — tribal health data sensitivity; NE India में ABHA-linked health transactions virtually zero", "is_correct": true },
+      { "text": "ABHA केवल insurance purpose के लिए है — clinical records नहीं", "is_correct": false },
+      { "text": "ABHA का rural areas में कोई implementation plan नहीं है", "is_correct": false }
+    ],
+    "explanation": "Ayushman Bharat Digital Mission (ABDM, 2022): ecosystem — ABHA ID + health locker + healthcare provider registry + UHI (Unified Health Interface). ABHA enrollment: 54+ crore (as of 2024); majority enrolled via Aadhaar-linked OTP or driving license. Spatial equity challenges: (1) Urban-rural divide: internet penetration rural 40% → digital enrollment barrier; (2) Elderly, illiterate: smartphone literacy gap → ASHA/HWC staff as intermediary; (3) Private sector opt-in: Apollo, Fortis adoption — good; small clinics and rural RMPs — near zero adoption; (4) Interoperability: different hospital systems (SAP, Epic, homegrown) not yet integrated; Health Data Management Policy (HDMP) in draft; (5) NE India: Nagaland, Arunachal, Mizoram — even Aadhaar penetration 60-70%; ABHA ecosystem nascent; (6) Tribal data sensitivity: communities worry about identification/surveillance. National Digital Health Blueprint (NDHB, 2019) vision vs. reality gap। WHO Global Digital Health Strategy (2020-2025) India compliance — partial।"
+  },
+  {
+    "question": "India में जलवायु परिवर्तन के health co-benefits — NAPCC के Climate Action Plans में स्वास्थ्य सह-लाभ (co-benefits) की spatial mapping कैसे होती है?",
+    "options": [
+      { "text": "Climate action plans का health से कोई co-benefit नहीं होता — ये अलग-अलग sectors हैं", "is_correct": false },
+      { "text": "NAPCC के 8 missions में National Solar Mission (coal → solar → PM2.5 reduction → 1.4 lakh premature deaths prevented/year — TERI estimate); National Mission for Enhanced Energy Efficiency (industrial emission reduction → occupational + ambient health); National Mission for Sustainable Agriculture (crop residue burning reduction → IGP air quality) — सभी में spatial health co-benefit quantification संभव है", "is_correct": true },
+      { "text": "NAPCC में health co-benefits को explicitly quantify किया गया है — कोई gap नहीं है", "is_correct": false },
+      { "text": "Climate action से health को केवल नुकसान होता है — कोई co-benefit नहीं", "is_correct": false }
+    ],
+    "explanation": "NAPCC (National Action Plan on Climate Change, 2008): 8 National Missions: Solar, Enhanced Energy Efficiency, Sustainable Habitat, Water, Himalayan Ecosystem, Sustainable Agriculture, Green India, Strategic Knowledge. Health Co-benefits spatial analysis: (1) National Solar Mission: coal → renewable transition; TERI/CEEW study: 100 GW solar by 2022 prevents 80,000-1.4 lakh premature deaths/year from coal PM2.5 reduction; PM2.5 reduction concentrated in coal-belt states (Jharkhand, MP, UP); (2) Energy Efficiency: industrial kiln modernization → brick kiln PM reduction → West UP, Bihar respiratory health improvement; (3) Sustainable Agriculture: crop residue management → parali burning reduction → Punjab, Haryana → IGP air quality → 50 million people's health; (4) Green India Mission: 5 million ha reforestation → urban heat island mitigation → heat mortality prevention. Gaps: Health not included as explicit metric in NAPCC monitoring; NDC (Nationally Determined Contributions) update 2022 lacks health co-benefit quantification. Lancet Countdown India: annual tracking of climate-health co-benefits।"
+  },
+  {
+    "question": "India में Geographic Information System (GIS) की Spatial Equity Analysis — Health and Wellness Centres (HWCs) की population coverage gaps को identify करने में GIS का उपयोग कैसे होता है?",
+    "options": [
+      { "text": "HWC placement में GIS का कोई उपयोग नहीं होता — केवल administrative decisions होती हैं", "is_correct": false },
+      { "text": "National Health Stack और NHM के तहत HWC geo-coding (lat/long); Euclidean distance analysis vs. network distance (road) analysis; population coverage maps में 5-km catchment vs. actual accessibility; Voronoi tessellation से service area overlap identification; UP, Bihar में HWC-to-population ratio gaps spatially quantified; यह 'equity-based GIS planning' है", "is_correct": true },
+      { "text": "India में सभी HWCs पहले से optimally placed हैं — GIS analysis की जरूरत नहीं", "is_correct": false },
+      { "text": "GIS analysis केवल disease mapping में useful है — facility planning में नहीं", "is_correct": false }
+    ],
+    "explanation": "HWC (Health and Wellness Centre) — Ayushman Bharat Component 1: 1,50,000 Sub-Health Centres और PHCs → HWC। GIS-based equity analysis methods: (1) Euclidean distance buffer (5 km): simple but ignores roads; (2) Network analysis: road network → actual travel time; mountain districts में Euclidean underestimates access; (3) Two-step Floating Catchment Area (2SFCA): supply (HWC capacity) + demand (population need) ratio; (4) Voronoi polygons: define service territories without overlap; identify gaps; (5) Dasymetric mapping: population density-weighted coverage calculation. Real-world application: NHSRC (National Health Systems Resource Centre) spatial analysis team; state NHM GIS cells. Findings: UP के Bundelkhand में 30+ km service gap; Arunachal में 80+ km from any HWC; Rajasthan desert में HWC inaccessible in summer (road washed/cut). WHO Essential Service Coverage Index (SCI) requires spatial equity — India reports aggregate but spatial equity component weak। NITI Aayog's India@100 vision: 100% population within 5km of HWC — achievable only with GIS-optimized placement।"
+  },
+  {
+    "question": "India में पारा (Mercury) प्रदूषण का health geography — कोयला combustion से mercury का spatial bioaccumulation chain क्या है?",
+    "options": [
+      { "text": "Mercury प्रदूषण India में कोई समस्या नहीं है", "is_correct": false },
+      { "text": "India coal में mercury content 0.2-0.5 ppm; thermal plants (Singrauli, Korba, Chandrapur, Neyveli) से atmospheric mercury → wet deposition → river/reservoir sediments → methylmercury (CH3Hg+) formation → fish bioaccumulation → human exposure (tribal fisherfolk, Rihand reservoir, Bhakra reservoir near coal areas); pregnant women सबसे vulnerable — neurotoxicity; CPCB monitoring mercury in emissions patchy", "is_correct": true },
+      { "text": "Mercury केवल chlor-alkali plants से आता है — coal combustion से नहीं", "is_correct": false },
+      { "text": "India में fish में mercury concentration WHO limit से कम है — कोई exposure risk नहीं", "is_correct": false }
+    ],
+    "explanation": "Mercury (Hg) health geography in India: Sources: (1) Coal combustion — largest source; India 660 MT mercury/year (UNEP 2019 estimate); (2) Chlor-alkali plants; (3) Artisanal gold mining; (4) Cement kilns. Bioaccumulation chain: Coal combustion → gaseous Hg0/HgII atmospheric deposition → water bodies → sediment → anaerobic bacteria → methylation → CH3Hg+ → plankton → small fish → large fish → predator fish → human (biomagnification 10x per trophic level). Geographic hotspots: (1) Singrauli — NTPC → Rihand reservoir; tribal Gond communities fishing daily; blood mercury elevated (CSE 2012); (2) Korba (Chhattisgarh) — Hasdeo river; (3) Chandrapur (Maharashtra) — Wardha river; (4) Neyveli (Tamil Nadu) — lignite. WHO mercury limit: fish 0.5 mg/kg; methylmercury 0.1 μg/kg body weight/week (EFSA). Health effects: neurological (Minamata disease — Japan precedent), nephrotoxic, teratogenic. Minamata Convention (2013): India signatory; National Mercury Action Plan — implementation slow। CPCB mercury monitoring in emissions — few plants covered।"
+  },
+  {
+    "question": "India में Antimicrobial Resistance (AMR) का spatial epidemiology — कौन-से geographic clusters highest AMR burden दिखाते हैं और इसके structural determinants क्या हैं?",
+    "options": [
+      { "text": "India में AMR समान रूप से distributed है — कोई geographic clustering नहीं", "is_correct": false },
+      { "text": "ICMR AMR surveillance (AMRSNET) data: tertiary hospitals में ESKAPE pathogens carbapenem-resistance: Delhi, Mumbai, Chennai, Hyderabad में highest; Punjab-Haryana में poultry/livestock antibiotic overuse → colistin-resistant E. coli zoonotic spillover; Ganga river corridor में untreated pharmaceutical effluent (Hyderabad bulk drug cluster, Baddi-Himachal) → environmental AMR reservoir; healthcare-associated AMR vs. community AMR spatial divergence", "is_correct": true },
+      { "text": "AMR केवल tertiary hospitals तक सीमित है — community और environment में कोई AMR नहीं", "is_correct": false },
+      { "text": "India में AMR कोई public health problem नहीं है क्योंकि antibiotics regulated हैं", "is_correct": false }
+    ],
+    "explanation": "AMR spatial epidemiology India: ICMR AMR Surveillance Network (AMRSNET) — 30+ tertiary care sentinel sites। ESKAPE pathogens (Enterococcus, Staph aureus MRSA, Klebsiella carbapenem-resistant, Acinetobacter, Pseudomonas, Enterobacter): Delhi AIIMS में carbapenem-resistant Klebsiella >50%; Mumbai में MRSA 30-40%; South India → extended-spectrum beta-lactamase (ESBL) E. coli community prevalence 70%+ (diarrhea cases). Geographic determinants: (1) Pharmaceutical clusters: Hyderabad (bulk drug effluent → Musi/Nalla rivers → >1000x WHO guideline AMR genes — ENVIS/CPCB studies); Baddi (HP), Ankleshwar (Gujarat); (2) Poultry: Punjab, Haryana, Andhra Pradesh — colistin-resistant MCR-1 gene found in poultry/environment; (3) Healthcare density: urban hospitals concentrate resistant strains; (4) OTC antibiotic sales: Schedule H mandatory but rural pharmacies noncompliant — UP, Bihar, Rajasthan. National Action Plan on AMR (NAP-AMR, 2017): India one of first countries; ICAR (agriculture) + MOHFW + MoEFCC joint mandate. GLASS (WHO Global AMR Surveillance System) — India contributes data. Surveillance gap: community-level AMR data systematically lacking।"
+  },
+  {
+    "question": "India में Nipah Virus (NiV) और अन्य Zoonotic Spillover Events का wildlife corridor geography — health emergence का landscape epidemiology क्या है?",
+    "options": [
+      { "text": "Nipah virus India में केवल एक बार (2018) आया था और geography से इसका कोई सम्बन्ध नहीं", "is_correct": false },
+      { "text": "Pteropus medius (Indian fruit bat) NiV reservoir; spillover geography: Kerala (Kozhikode 2018 — 17 deaths; Ernakulam 2023; Kozhikode 2024); Siliguri 2001 (hospital amplification); bat roosting sites: date palm trees (Bengal), mango orchards (Kerala); Western Ghats forest fragmentation → bat-human interface → spillover; landscape epidemiology: deforestation, fruit orchards adjacent to forest patches = high-risk interface zones", "is_correct": true },
+      { "text": "Nipah virus का transmission केवल imported livestock से होता है — bats से नहीं", "is_correct": false },
+      { "text": "NiV spillover geography पूरे India में equally distributed है", "is_correct": false }
+    ],
+    "explanation": "Nipah Virus (NiV) India landscape epidemiology: Reservoir: Pteropus medius (large flying fox/Indian fruit bat) — nationwide distribution but spillover concentrated in specific zones. Outbreak chronology: (1) Siliguri, WB 2001: 66 cases, 45 deaths (CFR 68%); hospital amplification (Siliguri + Kolkata nursing home); contaminated date palm sap likely; (2) Nadia, WB 2007: 5 cases, 4 deaths; (3) Kozhikode-Malappuram, Kerala 2018: 19 cases, 17 deaths (CFR 89%); index case: Muhammed Sabith — bat contact in well; (4) Kochi/Ernakulam 2023: 2 deaths, 700 contacts traced; (5) Kozhikode 2024: contained. Landscape risk factors: (a) Western Ghats deforestation → bat displacement → peridomestic roosting; (b) Fruit orchards (mango, jackfruit, coconut) near forest edge — bats feeding → partially eaten fruits → human consumption; (c) Date palm sap collection (Bengal) — bats lick sap at night → NiV-contaminated. Kerala containment model: DISHA call centre, contact tracing, geographic ring containment. ICMRs NiV surveillance: 13 states with bat sampling. One Health approach: bat ecology + agricultural land use + human behavior = NiV emergence geography।"
+  },
+  {
+    "question": "India में Health Human Resource (HHR) की आंतरिक migration और 'rural push-urban pull' — PHC specialist vacancy का spatial pattern और systemic solutions क्या हैं?",
+    "options": [
+      { "text": "India में government doctors सभी rural postings स्वेच्छा से स्वीकार करते हैं", "is_correct": false },
+      { "text": "Rural Health Statistics 2023: PHC में specialist vacancy 80%+; CHC में specialist 74% vacant; NE India सर्वाधिक; Push factors: poor infrastructure, lack of schools/career, security; Pull factors: urban private sector (3-10x salary); Solutions: compulsory rural bond (many states — but bond amount < opportunity cost), PG seat incentive (MCI/NMC rural posting for PG eligibility), Rural Health Cadre (separate cadre — AYUSH integration controversial)", "is_correct": true },
+      { "text": "Rural doctor shortage केवल AYUSH doctors की कमी से है — allopathic supply adequate है", "is_correct": false },
+      { "text": "India में medical colleges सभी rural areas में हैं इसलिए HHR rural में adequate है", "is_correct": false }
+    ],
+    "explanation": "Health Human Resource (HHR) geographic maldistribution India — Rural Health Statistics 2022-23: (1) PHCs: total shortfall — doctors 3,610 (18.5%), specialists near-absent; (2) CHCs: Specialist vacancy: Surgeons 83.2%, OBG 74%, Physicians 79.5%, Pediatricians 81% — all critical; (3) NE India worst: Meghalaya, Nagaland — CHC specialist vacancy >90%. Push factors: lack of spouse employment, poor school quality for children, isolation, security concerns (LWE areas), inadequate housing, professional stagnation. Pull factors: metro private hospitals (₹1-3 lakh/month vs. ₹80K government), research opportunities, career growth. Policy responses: (1) Compulsory Rural Service: many states mandate 1-2 years; Karnataka — ₹40 lakh bond; but enforcement poor; doctors resign and pay; (2) NMC/MCI: rural service for PG admissions — operationalization incomplete; (3) MBBS in rural area: rural quota in medical colleges; (4) Mid-level providers: Community Health Officers (CHOs) at HWC — BPH/B.Sc. Nursing + 6-month bridge; (5) Task-shifting: ASHA, ANM — expanding scope. WHO threshold: 4.45 doctors+nurses+midwives per 1000 population — India ~5.6 aggregate but rural <2। NHSRC 2023: rural-urban HHR ratio 1:3.8।"
+  },
+  {
+    "question": "India में Island territories (Andaman-Nicobar और Lakshadweep) की unique health geography — mainland से health system connectivity challenges क्या हैं?",
+    "options": [
+      { "text": "Andaman-Nicobar और Lakshadweep में mainland जैसी ही health infrastructure है", "is_correct": false },
+      { "text": "Andaman-Nicobar: 572 islands (36 inhabited); Port Blair में GB Pant Hospital (referral); outer islands में only Primary Health Centres — helicopter/boat evacuation; cyclone disruption; indigenous Sentinel Island tribes — no modern healthcare; Lakshadweep: 36 islands (11 inhabited); single district hospital Agatti; ocean distance 200-400 km from Kochi; air ambulance critical; coral reef malaria-free but dengue endemic; telemedicine (eSanjeevani) — connectivity dependent", "is_correct": true },
+      { "text": "India के island territories में healthcare केवल private sector provide करता है", "is_correct": false },
+      { "text": "Andaman के indigenous tribes को immunization कार्यक्रम में शामिल किया गया है", "is_correct": false }
+    ],
+    "explanation": "Island territory health geography India: ANDAMAN & NICOBAR ISLANDS (UT): 572 islands, 36 inhabited; population ~400,000; geography: 800 km chain. Health system: (1) GB Pant Hospital, Port Blair — tertiary referral (350 beds); (2) Regional Hospital at Car Nicobar; (3) PHCs in inhabited islands; (4) Critical gap: specialist doctors reluctant to serve remote islands (career isolation); (5) Evacuation: boat (6-8 hours from south islands) or helicopter (weather-dependent); cyclone season June-November — complete isolation possible; (6) Indigenous tribes: Jarawa, Sentinelese, Onge, Shompen, Great Andamanese — Government policy: 'contact only for medical emergency' for Sentinelese; Jarawa health: measles/respiratory outbreak risks; AAJVS (Andaman Adim Janjati Vikas Samiti) monitors. LAKSHADWEEP (UT): 36 islands, 11 inhabited; 70,000 population; 200-400 km from Kochi. (1) District Hospital Agatti; (2) PHC on each inhabited island; (3) Air ambulance to Kochi — only option for cardiac/surgical emergency; (4) Coral reef geography: malaria historically absent (no vector breeding in coral reef environment); dengue seasonal. Telemedicine: eSanjeevani network — solar+satellite connectivity; storm interruption challenge। ICMR island-specific health research limited।"
+  },
+  {
+    "question": "India में Occupational Health Geography — औद्योगिक clusters के आसपास रहने वाली population का environmental health burden कैसे spatially quantified होता है?",
+    "options": [
+      { "text": "Occupational health problems केवल factory workers को होती हैं — surrounding community अप्रभावित होती है", "is_correct": false },
+      { "text": "CPCB की Critically Polluted Areas (CPA) assessment (CEPI score >70): Talcher, Angul (Odisha — coal/aluminium), Vapi (Gujarat — chemical), Ludhiana (Punjab — electroplating), Patancheru (Telangana — pharma effluent) — nearby communities: elevated cancer, neurological, reproductive health outcomes; 'Community Pollution Burden' = occupational + environmental exposure combined; spatial analysis: distance-decay of health outcomes from industrial source", "is_correct": true },
+      { "text": "India में औद्योगिक प्रदूषण का health impact केवल OSHA workplace limits से assess होता है", "is_correct": false },
+      { "text": "Critically Polluted Areas में health monitoring MOHFW करता है — CPCB का कोई role नहीं", "is_correct": false }
+    ],
+    "explanation": "Occupational-environmental health geography India: CPCB Comprehensive Environmental Pollution Index (CEPI): industrial clusters scored 0-100; >70 = critically polluted; >80 = severely critically polluted. Moratorium on new industries in >70 CEPI zones (2010 MoEFCC order). Key clusters and community health: (1) Talcher-Angul, Odisha (coal mining + thermal + aluminium): CEPI 88; community: respiratory disease, fluorosis (aluminium smelting HF emissions); groundwater fluoride; (2) Vapi, Gujarat (chemical industrial estate): CEPI 88.5 — highest; community: heavy metal (Cr, Cd, Pb) in blood; cancer registry shows elevated rates; (3) Ludhiana, Punjab (electroplating, dyeing): Buddah Nullah — hexavalent chromium; children with elevated blood chromium; (4) Patancheru, Telangana (pharmaceutical): estrogens, antibiotics in groundwater → AMR, reproductive health; (5) Singrauli (coal-power): mercury, flyash; (6) Sukinda, Odisha (chromite): Cr6+ water contamination. Health impact methods: (1) Geographic Information System (GIS) spatial overlay: emissions + population; (2) Epidemiological studies: cancer incidence, birth defects rates in 5/10 km buffers; (3) Biomonitoring: blood lead, urine arsenic in nearby communities. MoEFCC National Green Tribunal (NGT) — community health complaints registered; several CPA clusters subject to NGT orders for cleanup।"
+  },
+  {
+    "question": "India में Road Traffic Injury (RTI) का geographic epidemiology — state-wise mortality patterns और National Road Safety Policy के spatial implementation gaps क्या हैं?",
+    "options": [
+      { "text": "India में road traffic injuries सभी states में समान रूप से distributed हैं", "is_correct": false },
+      { "text": "MoRTH Road Accidents Report 2022: 4.61 lakh accidents, 1.68 lakh deaths; highest accident states: UP, Tamil Nadu, Maharashtra, MP, Karnataka; NH (national highway) = 2% road length but 30%+ RTI deaths; 'Black Spots' (500m stretch with 5+ accidents/3 years or 10+ deaths): 789 identified; Uttar Pradesh Golden Quadrilateral stretch अत्यधिक vulnerable; Vulnerable Road Users (pedestrians, two-wheelers) 74% fatalities; trauma care gap: Golden Hour compliance <20%", "is_correct": true },
+      { "text": "India में RTI deaths में कमी आई है क्योंकि Motor Vehicle Act 2019 पूर्ण लागू है", "is_correct": false },
+      { "text": "National Highways में RTI की दर state highways से कम होती है", "is_correct": false }
+    ],
+    "explanation": "Road Traffic Injury (RTI) geographic epidemiology India: MoRTH Annual Report 2022: 4,61,312 accidents; 1,68,491 deaths; 4,43,366 injured. State-wise: (1) Tamil Nadu — highest accidents 57,222; (2) UP — highest deaths 22,595; (3) MP — highest per capita RTI mortality. Road type geography: National Highways (2.3% of total road length) account for 30.4% of total accidents and 35.7% of deaths — high speed, mixed traffic, lack of service roads. Black Spots (identified under NRSAP): 789 nationally; concentration on NH44 (Jammu-Kanyakumari), NH48 (Delhi-Mumbai), UP-Bihar belt. Vulnerable Road Users (VRU): Two-wheelers — 44.5% deaths; pedestrians — 15%; cyclists — 3.7%. Temporal pattern: 11 PM-6 AM — high fatality accidents (fatigue, drunk driving). Trauma Care Gaps: Golden Hour (first 60 min): <20% trauma patients reach any care; PHC/CHC Level 1 trauma: most ill-equipped; only 12 Level 1 trauma centres nationally adequate (AIIMS, PGI, JIPMER). National Road Safety Policy (2010): targets 50% reduction in fatalities by 2025 — India WHO 2011 Decade of Action signatory; progress minimal (only 5% reduction per NITI Aayog). MV Amendment Act 2019: penalty increase; Good Samaritan protection — implementation patchy। Cashless treatment for accident victims scheme — operationalized 2023।"
+  }
+]

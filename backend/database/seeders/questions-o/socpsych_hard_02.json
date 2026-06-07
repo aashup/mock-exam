@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "Moscovici के 'Social Representations Theory' और Bourdieu के 'Habitus' में स्वास्थ्य विश्वासों को समझाने में क्या मूलभूत अंतर है?",
+    "options": [
+      { "text": "दोनों identical theoretical frameworks हैं", "is_correct": false },
+      { "text": "Social Representations — shared cognitive frameworks (conscious, communicable); Habitus — embodied, pre-reflective dispositions formed by field position — दोनों complementary लेकिन different mechanisms", "is_correct": true },
+      { "text": "Bourdieu ने Moscovici को पूरी तरह reject किया", "is_correct": false },
+      { "text": "Habitus — individual psychology; Social Representations — only sociology", "is_correct": false }
+    ],
+    "explanation": "Moscovici (1961) — Social Representations: shared mental models जो unfamiliar को familiar बनाते हैं — anchoring + objectification। Communicated through discourse। Bourdieu (1977) — Habitus: field (caste, class position) से historically formed durable dispositions — pre-reflective, embodied ('second nature')। Health belief in: 'TB = curse' — SR level (community discourse); 'cancer is not for us' — habitus (class-based embodied expectation)। Both needed: SR for communication, Habitus for structural reproduction of health inequalities।"
+  },
+  {
+    "question": "Stanley Milgram के आज्ञाकारिता (Obedience) प्रयोगों की पद्धतिगत एवं नैतिक आलोचनाओं और उनके 'agentic state' के सिद्धांत का मूल्यांकन करें।",
+    "options": [
+      { "text": "Milgram के प्रयोग पद्धतिगत और नैतिक दृष्टि से निर्दोष थे", "is_correct": false },
+      { "text": "Agentic State — valid construct पर नैतिक violations (deception, distress), ecological validity सीमाएँ, और recent replication debates — complex picture", "is_correct": true },
+      { "text": "Milgram के निष्कर्ष — पूरी तरह discredited हो चुके हैं", "is_correct": false },
+      { "text": "Agentic state — Bandura के social learning का synonym है", "is_correct": false }
+    ],
+    "explanation": "Milgram (1963-74) — Agentic State: authority system में व्यक्ति autonomous state छोड़कर 'agent' बन जाता है। Criticisms: (1) Ethical — deception, psychological harm (Baumrind critique), (2) Ecological validity — artificial lab, real authority different, (3) Demand characteristics, (4) Gina Perry's archival research — some participants knew shocks were fake। Recent: Burger (2009) partial replication at 45% mark। Counter: situational power of authority remains valid lesson। Health implications: organizational hierarchy and unethical compliance।"
+  },
+  {
+    "question": "Critical Health Psychology और mainstream Health Psychology के बीच epistemological tension क्या है?",
+    "options": [
+      { "text": "कोई tension नहीं — दोनों एक ही approach हैं", "is_correct": false },
+      { "text": "Mainstream HP — positivist, individualist, behavior-focused; Critical HP — social constructionist, structural, power-aware, emancipatory — fundamentally different assumptions about health causation", "is_correct": true },
+      { "text": "Critical HP — mainstream HP की extension है", "is_correct": false },
+      { "text": "Critical HP — anti-scientific है", "is_correct": false }
+    ],
+    "explanation": "Mainstream HP (Matarazzo, Taylor) — positivist, RCT-based, individualist, bio-psychosocial model (still bio-medical adjacent)। Critical HP (Murray, Chamberlain, Marks) — (1) Health = social/political construction, (2) Power differentials और structural inequalities primary, (3) Qualitative, participatory methods, (4) Emancipatory goals — not just behavior change but social transformation। Tension: Can you simultaneously study individual behavior AND structural oppression? Feminist HP, Community HP, Liberation HP — all within critical tradition। India में: tribal health आंदोलन = critical HP।"
+  },
+  {
+    "question": "Giddens का 'Structuration Theory' सामाजिक मनोविज्ञान में 'agency vs structure' बहस को कैसे हल करने का प्रयास करता है?",
+    "options": [
+      { "text": "Giddens — structure को agency पर absolute priority देते हैं", "is_correct": false },
+      { "text": "Structure और Agency — duality, not dualism: agents structure को reproduce करते हैं और structure agency को enable/constrain करती है — recursive relationship", "is_correct": true },
+      { "text": "Giddens — methodological individualism के समर्थक हैं", "is_correct": false },
+      { "text": "Structuration Theory — health behavior research में inapplicable है", "is_correct": false }
+    ],
+    "explanation": "Anthony Giddens (1984) — Structuration Theory: Structure (rules + resources) → dual: enables AND constrains। Agency → reproduces structure (but can transform)। Recursive duality — not determinism, not voluntarism। Health Application: ASHA worker (agent) operates within PHC structure (constraints) but can innovate (agency) → over time, successful innovations become new structural rules। Health behavior: individual choices within structural constraints (Bourdieu field similar but more power-focused)। Practical consciousness vs discursive consciousness।"
+  },
+  {
+    "question": "Weick का 'Sensemaking' सिद्धांत और Luhmann का 'Systems Theory' स्वास्थ्य संगठनों में संचार संकट को कैसे समझाते हैं?",
+    "options": [
+      { "text": "दोनों theories health organizations में irrelevant हैं", "is_correct": false },
+      { "text": "Sensemaking — equivocal situations में meaning construction (retrospective, enactive); Systems Theory — autopoietic organizations self-referentially communicate — both explain why health crises are mismanaged", "is_correct": true },
+      { "text": "Sensemaking और Systems Theory — identical explanations देते हैं", "is_correct": false },
+      { "text": "Luhmann की Systems Theory — psychological reductionism है", "is_correct": false }
+    ],
+    "explanation": "Weick (1995) — Sensemaking: enactment (situations are partly created by actors), selection (narrative making), retention। Health crisis: COVID response — officials making sense of ambiguous data, retroactive justification। 7 properties: Social, Retrospective, Enactive, Cues-based, etc। Luhmann — Autopoietic Systems: organizations self-reproduce through communication। Health system as autopoietic — resists environmental perturbation (external advice). Coupling: health system poorly coupled to community concerns। Together: explain why top-down health directives fail in crisis।"
+  },
+  {
+    "question": "Norman Fairclough की 'Critical Discourse Analysis' (CDA) का उपयोग स्वास्थ्य नीति में power और ideology को कैसे reveal करता है?",
+    "options": [
+      { "text": "CDA — केवल linguistic analysis है, power से असंबंधित", "is_correct": false },
+      { "text": "CDA दिखाता है कि health policy documents में language ideological choices को normalize करती है — 'individual responsibility' discourse structural factors को obscure करता है", "is_correct": true },
+      { "text": "CDA — health policy में objective analysis है", "is_correct": false },
+      { "text": "Fairclough के CDA को health research में apply नहीं किया जा सकता", "is_correct": false }
+    ],
+    "explanation": "Fairclough (1992) — CDA: text + discursive practice + social practice। Three-dimensional analysis। Health policy in: (1) 'Lifestyle diseases' framing → individual blame, structural factors invisible, (2) 'Health-seeking behavior' → pathologizes poor communities rather than poor services, (3) 'Target groups' → dehumanization, (4) 'Compliance' → paternalism. India में: National Health Policy documents — 'wellness' discourse और 'personal responsibility' language → poverty/caste as health determinants कम visible। CDA unmasks these power effects।"
+  },
+  {
+    "question": "'Intersubjectivity' (Husserl, Merleau-Ponty) की अवधारणा सामाजिक मनोविज्ञान में health interactions को कैसे enrich करती है?",
+    "options": [
+      { "text": "Intersubjectivity — philosophical concept, empirical health research में irrelevant", "is_correct": false },
+      { "text": "Shared meaning-making और embodied understanding — health encounters में provider-patient 'meeting of worlds' → therapeutic alliance की philosophical foundation", "is_correct": true },
+      { "text": "Intersubjectivity — केवल linguistic communication है", "is_correct": false },
+      { "text": "Phenomenology और social psychology — unrelated disciplines", "is_correct": false }
+    ],
+    "explanation": "Husserl — Intersubjectivity: shared phenomenal world। Merleau-Ponty — embodied intersubjectivity: pre-reflective, bodily resonance। Health Application: (1) Therapeutic relationship requires genuine 'meeting' — not just information transfer, (2) Nurses' embodied attunement to patient's distress, (3) Empathy as intersubjective phenomenon (not just cognitive perspective-taking), (4) Pain communication — words inadequate, intersubjective understanding needed। IPA (Interpretive Phenomenological Analysis) in health psychology draws on this। Beyond positivist patient-as-object।"
+  },
+  {
+    "question": "Albert Bandura के 'Self-Efficacy Theory' की सीमाओं का आलोचनात्मक मूल्यांकन करें और बताएं कि यह structural health inequalities को क्यों adequately explain नहीं कर पाती।",
+    "options": [
+      { "text": "Self-Efficacy Theory — कोई सीमा नहीं है", "is_correct": false },
+      { "text": "SE — individualist, decontextualizes agency from structural constraints, conflates confidence with real opportunity, और may victim-blame — structural interventions equally necessary", "is_correct": true },
+      { "text": "SE Theory — health behavior research में completely discredited", "is_correct": false },
+      { "text": "SE का structural factors से कोई interaction नहीं", "is_correct": false }
+    ],
+    "explanation": "Self-Efficacy criticisms: (1) Individualism — ignores structural barriers (poverty cannot be 'believed away'), (2) Paradox: high SE in resource-poor environments → frustration when blocked by structures, (3) Cultural variation — collectivist cultures में individual SE less relevant than collective, (4) Measurement issues — domain-specific vs generalized, (5) SE alone does not predict action when resources absent। Feminist critique: women's low SE = rational response to real powerlessness, not cognitive deficit। Solutions: Structural + Collective Efficacy interventions alongside individual SE building।"
+  },
+  {
+    "question": "George Herbert Mead का 'Symbolic Interactionism' और Charles Peirce का 'Semiotics' — दोनों मिलकर स्वास्थ्य संचार को कैसे inform करते हैं?",
+    "options": [
+      { "text": "Symbolic Interactionism और Semiotics — health में inapplicable philosophical theories", "is_correct": false },
+      { "text": "Meaning creation through symbols/signs in social interaction — health messages' symbolic content और shared meaning-making process को reveal करते हैं", "is_correct": true },
+      { "text": "दोनों theories एक ही हैं", "is_correct": false },
+      { "text": "Semiotics — केवल advertising में applicable है", "is_correct": false }
+    ],
+    "explanation": "Mead (1934) — Symbolic Interactionism: 'I' and 'Me', significant symbols, role-taking। Meaning arises from social interaction। Peirce — Sign = Representamen + Object + Interpretant। Health Communication: (1) Red cross symbol — icon (resembles) + index + symbol। (2) Health campaign images — symbolic meaning varies by community (needle = fear vs. healing), (3) Doctor's white coat — symbol of authority/trust (contested), (4) 'Healthy body' images in IEC — whose symbolic standard? SI + Semiotics → messages must be socially constructed WITH target community — not AT them।"
+  },
+  {
+    "question": "Jonathan Turner की 'Theory of Motivation, Emotion, and Emotional Energy' का स्वास्थ्य संगठनों में worker motivation पर क्या निहितार्थ है?",
+    "options": [
+      { "text": "Turner की theory — केवल macro-sociological है, organizations में irrelevant", "is_correct": false },
+      { "text": "Emotional energy (Collins) + Interaction Ritual Chains — successful health encounters build shared EE; failed encounters deplete workers and communities", "is_correct": true },
+      { "text": "Turner की theory Freud के motivation theory का extension है", "is_correct": false },
+      { "text": "Emotional Energy — physical energy का synonym है", "is_correct": false }
+    ],
+    "explanation": "Randall Collins (2004) — Interaction Ritual Chains: face-to-face encounters with shared focus + emotional entrainment → emotional energy (EE). High EE → enthusiasm, solidarity, confidence। Health Application: Positive community health meetings → shared EE → ASHA workers more motivated। Failed encounters (disrespect, exclusion) → EE drain → demoralization। Implications: (1) Regular community health rituals (VHSNDs), (2) Peer support meetings, (3) Recognition ceremonies, (4) 'Ritual solidarity' in health teams。 Turner adds: need satisfaction (identity, belonging, security) drives participation।"
+  },
+  {
+    "question": "'Narrative Medicine' (Rita Charon) और सामाजिक मनोविज्ञान में 'narrative identity' (McAdams) का health में क्या योगदान है?",
+    "options": [
+      { "text": "Narratives — health में anecdotal, evidence-free approach", "is_correct": false },
+      { "text": "Illness narratives capture subjective experience, restore agency, facilitate meaning-making और improve provider empathy — complementing biomedical evidence", "is_correct": true },
+      { "text": "Narrative Medicine — केवल literary exercise है", "is_correct": false },
+      { "text": "Narrative identity — केवल childhood में relevant है", "is_correct": false }
+    ],
+    "explanation": "Rita Charon (2001) — Narrative Medicine: close reading of patient stories → enhanced clinical empathy, recognition of suffering, ethical action। McAdams (1993) — Personal narrative as identity: life = internalized, evolving story। Illness disrupts narrative → 'biographical disruption' (Bury). Narrative reconstruction = central to chronic illness adjustment। Health Applications: (1) Life story interviews in geriatric care, (2) Cancer patients' meaning-making through writing, (3) Medical education — narrative competence, (4) Community health — testimonials as social proof। Kleinman's 'illness narrative' also foundational।"
+  },
+  {
+    "question": "Pierre Bourdieu के 'Field Theory' में 'Capital' (Economic, Cultural, Social, Symbolic) का स्वास्थ्य असमानताओं को पुनरुत्पादित करने में क्या भूमिका है?",
+    "options": [
+      { "text": "Bourdieu का Capital — केवल economic resources", "is_correct": false },
+      { "text": "Multiple capitals interact: cultural (health literacy), social (networks), symbolic (respectability) — lower capitals → health field में marginalization → inequalities reproduced across generations", "is_correct": true },
+      { "text": "Bourdieu की theory — individualist है", "is_correct": false },
+      { "text": "Health field में केवल economic capital relevant है", "is_correct": false }
+    ],
+    "explanation": "Bourdieu — Field Theory in health: Health field = structured space of positions। Capital forms: (1) Economic — money for healthcare, (2) Cultural — embodied (health literacy, body practices), institutionalized (degrees), objectified (books), (3) Social — networks to doctors, (4) Symbolic — 'good patient' respectability। Low capitals → misrecognition of health system norms, symbolic violence ('why didn't you come earlier?')। Habitus-capital-field intersection → explains why health inequalities are reproduced। Dalit + low economic + low cultural capital → triple disadvantage।"
+  },
+  {
+    "question": "'Intersectionality' के Crenshaw (legal) और Hill Collins (matrix of domination) के formulations में सामाजिक मनोविज्ञान की health research में क्या methodological implications हैं?",
+    "options": [
+      { "text": "Intersectionality — only qualitative research में applicable", "is_correct": false },
+      { "text": "दोनों demand multiplicative (not additive) analysis — health data को multiple simultaneous axes (caste+gender+class+disability) पर simultaneously examine करना", "is_correct": true },
+      { "text": "Crenshaw और Collins की frameworks identical हैं", "is_correct": false },
+      { "text": "Intersectionality — quantitative health research में impossible है", "is_correct": false }
+    ],
+    "explanation": "Crenshaw (1989) — legal contexts: intersection makes Black women invisible (not Black enough for some claims, not woman enough for others)। Collins (1990) — Matrix of Domination: interlocking systems of oppression (race, class, gender, sexuality) operating simultaneously at structural, disciplinary, hegemonic, interpersonal levels। Methodological implications: (1) Disaggregate data by multiple axes, (2) Interaction terms in quantitative analysis, (3) Avoid single-identity analysis, (4) Community-participatory methods। India: SC+female+rural+disabled — intersectional disadvantage in health outcomes।"
+  },
+  {
+    "question": "'Epidemiology of Syndemics' (Singer) और सामाजिक मनोविज्ञान में 'structural violence' (Farmer) — दोनों मिलकर health disparities को कैसे explain करते हैं?",
+    "options": [
+      { "text": "Syndemics — केवल concurrent diseases का concept है", "is_correct": false },
+      { "text": "Syndemics: diseases interact biologically AND through shared social conditions; Structural Violence: political-economic structures cause suffering → together expose health inequality's root causes", "is_correct": true },
+      { "text": "Structural Violence — केवल war-related concept", "is_correct": false },
+      { "text": "दोनों frameworks competing, complementary नहीं", "is_correct": false }
+    ],
+    "explanation": "Merrill Singer (1994) — Syndemic Theory: substance abuse + violence + AIDS (SAVA syndemic) — disease clusters interact in social context (poverty, inequality)। Not merely comorbidity — biologically synergistic AND socially determined। Paul Farmer (2003) — Structural Violence: political-economic structures systematically harm poor, marginalized (TB/HIV in Haiti)। Together: poverty → substance abuse + violence → HIV + TB syndemic (India में: malnutrition + TB + poverty + gender inequality = syndemic). Both demand social transformation, not just biomedical treatment।"
+  },
+  {
+    "question": "Solomon Asch के conformity experiments की कौन-सी methodological limitations हैं और इनके cross-cultural replications ने क्या reveal किया?",
+    "options": [
+      { "text": "Asch experiments — कोई limitation नहीं, perfectly replicated worldwide", "is_correct": false },
+      { "text": "Lab artificiality, US WEIRD sample, sex composition, perceived stakes — cross-cultural: collectivist cultures में higher conformity, but effect universal — situational power confirmed", "is_correct": true },
+      { "text": "Cross-cultural replications ने Asch के निष्कर्षों को completely refuted किया", "is_correct": false },
+      { "text": "Conformity — केवल American societies में होती है", "is_correct": false }
+    ],
+    "explanation": "Asch (1951-56) — Limitations: (1) Artificial task (obvious correct answer) → ecological validity low, (2) All-male US participants — WEIRD bias, (3) Low stakes — real decisions different, (4) Demand characteristics, (5) Only public conformity measured, not private acceptance। Cross-cultural: Bond & Smith (1996) meta-analysis — collectivist cultures (Japan, China) → higher conformity; individualistic → lower। But conformity exists everywhere — situationally determined. Face-saving cultures: conformity more about harmony than ignorance। Health in: treatment decision conformity to family norms (India)।"
+  },
+  {
+    "question": "'Symbolic Threat Theory' और 'Integrated Threat Theory' (Stephan) का उपयोग करके India में COVID-19 के दौरान community-level stigma और xenophobia को explain करें।",
+    "options": [
+      { "text": "COVID stigma — purely individual psychological phenomenon है", "is_correct": false },
+      { "text": "Realistic threats (disease) + Symbolic threats (cultural pollution beliefs) + Negative stereotypes + Intergroup anxiety → scapegoating of specific communities — documented in India 2020", "is_correct": true },
+      { "text": "Threat theories — COVID context में inapplicable", "is_correct": false },
+      { "text": "COVID stigma केवल ignorance के कारण था", "is_correct": false }
+    ],
+    "explanation": "COVID India 2020: (1) Realistic threat — viral spread fear, (2) Symbolic threat — certain communities 'polluting' India's spiritual/cultural body, (3) Negative stereotypes — 'superspreader' communities, (4) Intergroup anxiety — proximity fears। Tablighi Jamaat → scapegoating. Northeast people → anti-Asian discrimination. Health workers attacked. Stephan's ITT: all 4 threat types activated → violence, discrimination, treatment refusal. Solutions: accurate threat information, intergroup contact, leader condemnation of scapegoating, humanizing communications।"
+  },
+  {
+    "question": "Foucault के 'Medical Gaze' (Le Regard Médical) की अवधारणा का आधुनिक digital health surveillance और patient data में क्या अनुप्रयोग है?",
+    "options": [
+      { "text": "Medical Gaze — 19th century concept, आज irrelevant", "is_correct": false },
+      { "text": "Medical Gaze (objectifying, disciplining patient bodies) digital health में intensified: AI diagnostics, fitness trackers, health apps → panopticon of health data, surveillance capitalism", "is_correct": true },
+      { "text": "Digital health — medical gaze को eliminate करता है", "is_correct": false },
+      { "text": "Foucault — health में only historical analysis दिया", "is_correct": false }
+    ],
+    "explanation": "Foucault (1963) — 'Birth of the Clinic': Medical Gaze transforms patient from person to body-as-object. Clinic as disciplinary space. Digital extension: (1) Fitness trackers → continuous self-surveillance (internalized gaze), (2) AI diagnostics → patient as data point, (3) Health apps collecting intimate data → corporate surveillance capitalism (Zuboff), (4) Aarogya Setu/ABHA → state health surveillance, (5) Predictive profiling — insurance discrimination। Biopolitics (Foucault) → algorithmic governance of populations। Privacy, consent, data justice concerns।"
+  },
+  {
+    "question": "James Pennebaker का 'Expressive Writing' research क्या reveal करता है और इसके neurobiological mechanisms क्या हैं?",
+    "options": [
+      { "text": "Expressive Writing — unproven, purely anecdotal", "is_correct": false },
+      { "text": "Writing about trauma → cognitive processing, narrative coherence, emotional regulation → improved immune function, health outcomes — inhibition model और self-regulatory model से explained", "is_correct": true },
+      { "text": "Expressive Writing — केवल mental health में, physical health में नहीं", "is_correct": false },
+      { "text": "Expressive Writing — केवल educated, literate populations के लिए", "is_correct": false }
+    ],
+    "explanation": "Pennebaker & Beall (1986) — Paradigm: write about deepest thoughts/feelings about trauma for 15 mins, 4 days → improved immune function, fewer health centre visits, better mood. Meta-analyses support moderate effects। Mechanisms: (1) Inhibition model — actively inhibiting thoughts → physiological burden; writing releases, (2) Cognitive processing — narrative coherence reduces intrusive thoughts, (3) Emotional regulation (Gross), (4) Neurobiologically: reduced HPA activation, improved NK cell function। Limitations: cultural (collectivism), literacy, moderators। India में: adapted oral storytelling versions।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Social Comparison Theory' के extensions — 'Temporal Self-Appraisal' (Wilson & Ross) और 'Social Projection' (Krueger) — chronic illness management में क्या भूमिका निभाते हैं?",
+    "options": [
+      { "text": "दोनों concepts chronic illness में irrelevant हैं", "is_correct": false },
+      { "text": "Temporal Self-Appraisal (past self vs current) और Social Projection (assuming others similar) — chronic illness में identity continuity, optimistic projection और self-serving comparisons को explain करते हैं", "is_correct": true },
+      { "text": "Social Projection — always maladaptive in illness", "is_correct": false },
+      { "text": "TSA और Social Projection — identical concepts हैं", "is_correct": false }
+    ],
+    "explanation": "Wilson & Ross (2001) — Temporal Self-Appraisal: past self unfavorably appraised to feel better about present ('मैं तब भी इतना बीमार था, अब बेहतर हूँ')। Adaptive in chronic illness — self-continuity maintained. Krueger — Social Projection: assuming others share one's characteristics. In illness: projecting pain experience onto others → validation-seeking, social comparison for normalization। Chronic illness: downward temporal comparisons (better than 3 months ago) + peer comparisons (SHGs) → coping। But: unrealistic optimism through projection → treatment non-adherence।"
+  },
+  {
+    "question": "'Terror Management Health Model' (Goldenberg & Arndt) mortality salience का health behaviors पर कैसे paradoxical प्रभाव दिखाती है?",
+    "options": [
+      { "text": "Mortality salience हमेशा health-protective behaviors बढ़ाती है", "is_correct": false },
+      { "text": "Mortality Salience → defensive responding — tanning, smoking, ignoring health threats — to affirm cultural worldview या escape body-awareness; health messages backfire", "is_correct": true },
+      { "text": "TMHM — TMT का direct extension है, नई insights नहीं देती", "is_correct": false },
+      { "text": "Mortality Salience — health behaviors से सीधे-सीधे जुड़ी नहीं है", "is_correct": false }
+    ],
+    "explanation": "Goldenberg & Arndt (2008) — TMHM: mortality salience activates two conflicting responses: (1) Death reminder → health behaviors (protective), BUT (2) Health messages often remind of bodily mortality → defensive: (a) worldview defense (cultural practices overriding health), (b) body transcendence (ignoring physical body), (c) risk behaviors affirming symbolic immortality। Skin cancer awareness + MS → MORE tanning (worldview: tanned = attractive, alive). Cigarettes in warrior cultures = symbolic. Implications: health messages should avoid mortality salience OR provide clear cultural worldview bolstering।"
+  },
+  {
+    "question": "Jonathan Haidt का 'Social Intuitionist Model' (SIM) नैतिक निर्णयों को कैसे explain करता है और यह स्वास्थ्य नैतिकता में क्यों महत्वपूर्ण है?",
+    "options": [
+      { "text": "SIM — नैतिक reasoning primary, intuition secondary मानता है", "is_correct": false },
+      { "text": "Moral intuitions come first (fast, automatic) → post-hoc reasoning; reasoning rarely changes moral judgments — health ethics decisions इसी से driven हैं", "is_correct": true },
+      { "text": "SIM — Kohlberg के moral development theory का extension", "is_correct": false },
+      { "text": "SIM — केवल clinical ethics में, public health में नहीं", "is_correct": false }
+    ],
+    "explanation": "Haidt (2001) — SIM: 'Moral intuitions come first and moral reasoning comes later.' The reasoning is mostly post-hoc rationalization of intuitive reactions। Dumbfounding phenomenon। Moral foundations: care, fairness, loyalty, authority, sanctity, liberty। Health ethics implications: (1) Disgust (sanctity foundation) → irrational rejection of organ donation, (2) Authority → vaccine hesitancy if 'authority' changes advice, (3) In-group loyalty → prioritize own community in triage, (4) Care → universal healthcare intuition। Ethics committees must acknowledge intuitive reasoning underlying 'rational' debates।"
+  },
+  {
+    "question": "Walter Mischel के 'Personality Coherence Paradox' और 'CAPS Model' स्वास्थ्य व्यवहार की consistency और context-specificity को कैसे explain करते हैं?",
+    "options": [
+      { "text": "Personality traits — सदैव health behavior को predict करते हैं", "is_correct": false },
+      { "text": "CAPS: person × situation interactions — health behaviors are if-then situation-specific patterns, not cross-situationally consistent traits — personalized interventions needed", "is_correct": true },
+      { "text": "CAPS Model — Big Five को replace करती है", "is_correct": false },
+      { "text": "Mischel ने personality को completely dismiss किया", "is_correct": false }
+    ],
+    "explanation": "Mischel (1968) — Personality Paradox: cross-situational consistency of behavior much lower than assumed (r ≈ 0.3). CAPS (1995) — Cognitive-Affective Processing System: internal units (encodings, expectancies, affects, goals, competencies) → if-then behavioral signatures (IF this situation THEN this behavior)। Health: 'I exercise' NOT consistent — IF with friends, THEN exercise; IF alone/stressed, THEN skip। Personalized health interventions: identify if-then patterns, engineer situations. 'Implementation intentions' (Gollwitzer) = CAPS-informed。"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Network Contagion Theory' (Christakis & Fowler) का स्वास्थ्य व्यवहार के प्रसार में क्या योगदान और क्या controversies हैं?",
+    "options": [
+      { "text": "Network Contagion — केवल infectious disease में applicable", "is_correct": false },
+      { "text": "Health behaviors (obesity, smoking, happiness) spread through social networks up to 3 degrees of separation — criticized for confounding (homophily, shared environment) but influential", "is_correct": true },
+      { "text": "Christakis & Fowler के findings — fully replicated without controversy", "is_correct": false },
+      { "text": "Social networks — health behavior में irrelevant हैं", "is_correct": false }
+    ],
+    "explanation": "Christakis & Fowler (2007-2008): Obesity, smoking cessation, happiness spread through social networks — up to 3 degrees (friend of friend of friend)। Claimed mechanisms: norm influence, behavioral mimicry। Controversies: (1) Homophily confound — similar people cluster, (2) Shared environmental causes, (3) Statistical methodology (Cohen-Cole & Fletcher critique), (4) Causal inference impossible from observational data। Despite criticism: idea influential — Network interventions — target hubs and bridges। Social contagion in health SBCC programs। Ego-alter network approaches in India's health promotion।"
+  },
+  {
+    "question": "'Self-Determination Theory' (Deci & Ryan) में 'Autonomy Support' बनाम 'Control' health communication strategies में क्यों निर्णायक है और इसका cross-cultural validity क्या है?",
+    "options": [
+      { "text": "SDT — केवल Western individualistic cultures में valid है", "is_correct": false },
+      { "text": "Autonomy-supportive contexts → identified/integrated regulation → more durable behavior change; controlling → introjection/external → fragile; SDT universal though expression culturally varies", "is_correct": true },
+      { "text": "SDT में autonomy और control — interchangeable concepts हैं", "is_correct": false },
+      { "text": "SDT — mental health में, physical health behavior में irrelevant", "is_correct": false }
+    ],
+    "explanation": "Deci & Ryan (1985, 2000) — SDT: Needs: Autonomy + Competence + Relatedness. Regulatory continuum: External → Introjected → Identified → Integrated (autonomous motivation). Autonomy Support: rationale provision, perspective-taking, non-controlling language → internalization। Controlling communication → reactance, pressure experience, rebound. Cross-cultural: needs universal; autonomy expression varies — in collectivist cultures, autonomy = acting in harmony with family values (not Western individualism). Health in: MI is autonomy-supportive। India में: family-based autonomy support for treatment adherence。"
+  },
+  {
+    "question": "Elias Canetti का 'Crowds and Power' और Le Bon की 'Crowd Psychology' की तुलना करें और बताएं कि स्वास्थ्य आपदाओं में crowd behavior को कैसे समझाया जाता है।",
+    "options": [
+      { "text": "Le Bon और Canetti — identical theories हैं", "is_correct": false },
+      { "text": "Le Bon — crowd as irrational, primitive; Canetti — crowds as liberating, power-seeking; modern: emergent norm theory (Turner) is more nuanced — crowds are NOT mindless", "is_correct": true },
+      { "text": "Crowd Psychology — health emergencies में irrelevant है", "is_correct": false },
+      { "text": "Crowds — always destructive in health contexts", "is_correct": false }
+    ],
+    "explanation": "Le Bon (1895) — crowds: contagion, suggestibility, regression to primitive। Criticized: racial bias, authoritarian implications, empirically wrong। Canetti (1960) — crowds: 4 types (open/closed/slow/quick); density → equality, liberation from individual isolation। Modern: Turner & Killian (1957) — Emergent Norm Theory: crowds develop shared norms contextually — NOT mindless. Reicher (1987) — Social Identity Model of Crowd Behavior। Health: Kumbh Mela COVID risk; vaccine distribution stampedes; Rath Yatra COVID. Crowd management: information + legitimate authority + trust + space design।"
+  },
+  {
+    "question": "Nancy Fraser का 'Participatory Parity' सिद्धांत और Axel Honneth का 'Recognition Theory' सामाजिक मनोविज्ञान और health equity में कैसे योगदान करते हैं?",
+    "options": [
+      { "text": "दोनों theories — political philosophy में, health में irrelevant", "is_correct": false },
+      { "text": "Recognition Theory: misrecognition (contempt, invisibility) → psychological harm + social exclusion → health disparities; Participatory Parity: equal participation in healthcare decisions as justice requirement", "is_correct": true },
+      { "text": "Fraser और Honneth की theories — identical हैं", "is_correct": false },
+      { "text": "Recognition — केवल cultural dimension है, health से unrelated", "is_correct": false }
+    ],
+    "explanation": "Honneth (1992) — Recognition Theory: 3 domains: Love (care, self-confidence), Legal recognition (rights, self-respect), Social esteem (solidarity, self-esteem)। Misrecognition: maltreatment, rights violations, denigration → moral injuries → health outcomes। Fraser (2000) — Participatory Parity: redistribution (economic) + recognition (cultural) + representation (political) together needed. Health application: Dalit patients misrecognized in hospitals (contempt) → late presentation, non-adherence। ASHA workers misrecognized as 'volunteers' not 'workers' → exploitation. Recognition + representation + redistribution = health justice।"
+  },
+  {
+    "question": "'Polyvagal Theory' (Porges) का सामाजिक मनोविज्ञान और community health interventions के design में क्या महत्व है?",
+    "options": [
+      { "text": "Polyvagal Theory — केवल individual therapy में applicable", "is_correct": false },
+      { "text": "Neuroception (threat/safety cues) → autonomic state → social engagement capacity — safe social environments enable prosocial behavior और healing — community design में critical", "is_correct": true },
+      { "text": "Polyvagal Theory — psychoanalytic theory है", "is_correct": false },
+      { "text": "Autonomic nervous system — social behavior से unrelated है", "is_correct": false }
+    ],
+    "explanation": "Stephen Porges (1994) — Polyvagal Theory: 3 neural circuits: (1) Ventral vagal (safe, social engagement — co-regulation, prosocial), (2) Sympathetic (fight-flight), (3) Dorsal vagal (freeze, shutdown)। Neuroception — unconscious assessment of safety/danger। Social Applications: (1) Trauma-informed environments must signal safety (calm staff, warm welcome, predictable routines), (2) Unsafe PHC environments → sympathetic/dorsal states → poor communication, non-compliance, (3) VHSND design — safety cues enable genuine participation, (4) Co-regulation — calm health worker regulates patient state. Community as 'container of safety'।"
+  },
+  {
+    "question": "Amartya Sen के 'Capability Approach' और Martha Nussbaum के 'Central Capabilities' का सामाजिक मनोविज्ञान में कैसा संगम है?",
+    "options": [
+      { "text": "Capability Approach — केवल economics में, psychology में नहीं", "is_correct": false },
+      { "text": "Capabilities = real freedoms to be/do — health psychology में agency, flourishing और well-being को GDP/utility से परे operationalize करता है; misrecognition = capability deprivation", "is_correct": true },
+      { "text": "Sen और Nussbaum — competing, incompatible frameworks", "is_correct": false },
+      { "text": "Capability Approach — मनोवैज्ञानिक well-being से unrelated है", "is_correct": false }
+    ],
+    "explanation": "Sen (1985, 1999) — Capabilities: functionings (achieved states) + capabilities (real freedoms to achieve)। Nussbaum (2000) — 10 Central Capabilities including bodily health, emotional development, social affiliation. Psychology link: (1) Self-efficacy ≠ real capability (structural constraints), (2) Psychological well-being requires capability threshold, (3) Agency = key psychological function + capability, (4) Adaptive preferences (oppressed prefer what they can get) — preference satisfaction theories miss hidden deprivation। India में: NFHS capabilities analysis — women's health capabilities severely constrained by gender norms।"
+  },
+  {
+    "question": "Vygotsky के 'Zone of Proximal Development' और 'Scaffolding' को community health education में कैसे apply किया जाता है और इसकी limitations क्या हैं?",
+    "options": [
+      { "text": "ZPD — केवल children's cognitive development के लिए", "is_correct": false },
+      { "text": "ZPD applied to adult community health: ASHA scaffolding community members' health behaviors beyond their current capacity — cultural tools mediate; criticized for ignoring power dynamics", "is_correct": true },
+      { "text": "Scaffolding — Bandura के modeling के identical है", "is_correct": false },
+      { "text": "Vygotsky की sociocultural theory — health में inapplicable है", "is_correct": false }
+    ],
+    "explanation": "Vygotsky (1934) — ZPD: what learner can do with guidance - what alone. Scaffolding (Wood, Bruner): temporary support → internalization → removal। Cultural tools (language, concepts) mediate learning। Adult health education: (1) ASHA guides community through immunization schedule (scaffold) → community internalizes, (2) Peer support groups — advanced members scaffold newcomers, (3) PLA facilitators scaffold community health analysis। Criticisms: (1) Ignores power asymmetry in scaffold relationship, (2) Cultural tools are not neutral (whose knowledge?), (3) Freire's critique — scaffolding can still be 'banking model'।"
+  },
+  {
+    "question": "George Kelly का 'Personal Construct Theory' और health psychology में 'Repertory Grid Technique' का diagnostic एवं therapeutic value क्या है?",
+    "options": [
+      { "text": "PCT — केवल personality research में, clinical health में नहीं", "is_correct": false },
+      { "text": "PCT: people as scientists constructing experience — health constructs (threat/safety, control/helplessness) guide illness behavior; RepGrid reveals idiosyncratic meaning systems", "is_correct": true },
+      { "text": "Repertory Grid — only quantitative data देती है, qualitative insights नहीं", "is_correct": false },
+      { "text": "Personal Construct Theory — CBT का subset है", "is_correct": false }
+    ],
+    "explanation": "George Kelly (1955) — PCT: Each person = scientist with unique construct system. Health constructs: 'strength vs weakness', 'normal vs sick', 'controllable vs chance'. Tight vs loose constructions. Repertory Grid: elements (significant people/situations) × constructs (bipolar dimensions) → individual's meaning matrix. Health Applications: (1) Cancer patients' illness constructs predict coping, (2) Chronic pain — constructs about pain (challenge vs punishment), (3) Fixed Role Therapy for health behavior change, (4) Doctor-patient construct clash. India में: 'fate vs karma' construction of illness → fatalistic health behavior।"
+  },
+  {
+    "question": "Erving Goffman के 'Stigma Management Strategies' में से कौन-सी strategies chronic illness वाले individuals के psychological well-being पर negative impact डालती हैं?",
+    "options": [
+      { "text": "सभी Goffman की stigma management strategies — positive outcomes देती हैं", "is_correct": false },
+      { "text": "Passing (hiding stigma), Covering (reducing salience) और Withdrawal — short-term shame relief पर long-term isolation, identity distress, और help-seeking avoidance उत्पन्न करती हैं", "is_correct": true },
+      { "text": "Disclosure — always harmful strategy है", "is_correct": false },
+      { "text": "Stigma management — HIV में inapplicable है", "is_correct": false }
+    ],
+    "explanation": "Goffman (1963) — Stigma Management: Discredited (visible) vs Discreditable (concealable). Strategies: (1) Passing — concealing stigma identity (HIV, mental illness, epilepsy) → constant vigilance, cognitive load, isolation, (2) Covering — disclosed but minimizing (wheelchair → 'only sometimes'), (3) Withdrawal — avoid contact with 'normals' → social isolation। Alternative: Identity disclosure + advocacy (activism) → better psychological outcomes (Corrigan — Coming Out model). India में: TB/HIV patients' passing → delayed treatment, partner notification failure। Selective disclosure + social support → better outcomes।"
+  },
+  {
+    "question": "Reintegrative Shaming Theory (Braithwaite) का स्वास्थ्य नीति में क्या निहितार्थ है?",
+    "options": [
+      { "text": "Shaming — health behavior change में always effective", "is_correct": false },
+      { "text": "Stigmatizing shaming → defiance/isolation; Reintegrative shaming (communitarian, followed by forgiveness/re-inclusion) → behavior change — health context में distinction critical", "is_correct": true },
+      { "text": "Braithwaite's theory — criminal justice में only", "is_correct": false },
+      { "text": "Shame — always dysfunctional in health contexts", "is_correct": false }
+    ],
+    "explanation": "Braithwaite (1989) — Reintegrative Shaming: Stigmatizing (labeling, outcasting) → recidivism/defiance। Reintegrative (shaming the behavior, not person, followed by acceptance back into community) → behavior change in communitarian societies। Health applications: (1) ODF campaign — stigmatizing open defecators → ostracization = stigmatizing shaming → backfire, (2) TB isolation without reintegration — stigmatizing, (3) Alcohol rehabilitation with community ceremony of reintegration — potentially reintegrative, (4) Obesity shaming → worse health behaviors. Requires strong community bonds (communitarianism) to work।"
+  },
+  {
+    "question": "Habermas का 'Communicative Action Theory' और 'Lifeworld vs System' सामाजिक मनोविज्ञान में health service delivery को कैसे critique करता है?",
+    "options": [
+      { "text": "Habermas — health में inapplicable है", "is_correct": false },
+      { "text": "Health system (money + administrative power) colonizing lifeworld (lived health experience) → technocratic, dehumanizing care; communicative rationality needed to restore meaningful health encounters", "is_correct": true },
+      { "text": "Lifeworld और System — health में complementary without tension", "is_correct": false },
+      { "text": "Habermas — Weber के bureaucracy theory का synonym है", "is_correct": false }
+    ],
+    "explanation": "Habermas (1984) — Theory of Communicative Action: Lifeworld (symbolic reproduction — culture, society, personality) vs System (material reproduction — money, power, bureaucracy). Colonization: system rationality invades lifeworld → distortion of communicative action। Health Application: (1) Biomedical technocracy → patient as organ/target, (2) Insurance/administrative systems → physician's time for real listening eroded, (3) PHC metrics (deliveries, immunizations) → ASHA performs tasks without community relationship, (4) PPI (Patient and Public Involvement) attempts to restore communicative rationality।"
+  },
+  {
+    "question": "Triandis का 'Subjective Culture' और 'Social Behavior' model — cross-cultural health psychology में क्या methodological contributions देता है?",
+    "options": [
+      { "text": "Triandis का model — Hofstede के Cultural Dimensions के identical है", "is_correct": false },
+      { "text": "Subjective Culture (shared cognitive + affective elements) distinguishes attitudes, roles, norms, values और isomorphism between cultures — richer than dimensional models for health research", "is_correct": true },
+      { "text": "Triandis — केवल individualism-collectivism का विस्तार करते हैं", "is_correct": false },
+      { "text": "Subjective Culture — objective culture का subset है", "is_correct": false }
+    ],
+    "explanation": "Harry Triandis (1972) — Subjective Culture: group's characteristic way of perceiving social environment — shared attitudes, beliefs, roles, norms, values. Not just dimensions but rich fabric. Allocentrism vs idiocentrism (within-culture variations). Method: functional equivalence — same construct may need different measures across cultures. Health: illness cognitions differ in subjective culture (not just country). Cross-cultural health interventions must assess local subjective culture — not assume Hofstede dimensions sufficient. India में: state-level subjective culture variations in health seeking patterns।"
+  },
+  {
+    "question": "John Cacioppo का 'Loneliness Research' और 'Social Neuroscience' ने सामाजिक अलगाव के health consequences को कैसे mechanistically explain किया?",
+    "options": [
+      { "text": "Loneliness — केवल subjective feeling है, biological mechanisms नहीं", "is_correct": false },
+      { "text": "Loneliness → hypervigilance to social threat + HPA activation + inflammatory dysregulation + sleep disruption + accelerated cognitive decline — evolutionary threat-detection account", "is_correct": true },
+      { "text": "Cacioppo का loneliness research — replication में failed", "is_correct": false },
+      { "text": "Social isolation — mental health में, physical health में नहीं", "is_correct": false }
+    ],
+    "explanation": "Cacioppo & Patrick (2008) — Loneliness as evolutionary threat signal: isolated individual = vulnerable → threat hypervigilance. Mechanisms: (1) Heightened neural threat sensitivity (amygdala), (2) HPA axis dysregulation → chronic cortisol → immunosuppression, (3) Pro-inflammatory gene expression, (4) Sleep fragmentation, (5) Accelerated cognitive decline, (6) Cardiovascular risk. Social neuroscience: lonely brain encodes world differently (threat-bias). Population-level: loneliness epidemic in elderly India — widows, migrants, nuclear families. Social prescribing — community connections as medicine।"
+  },
+  {
+    "question": "Fiske का 'Core Social Motives' model health behavior में कैसे apply होता है?",
+    "options": [
+      { "text": "Fiske के social motives — health में irrelevant हैं", "is_correct": false },
+      { "text": "Belonging, Understanding, Controlling, Enhancing Self, Trusting — पाँच motives health encounters को drive करते हैं और इन्हें threaten करने से poor outcomes होते हैं", "is_correct": true },
+      { "text": "Fiske — केवल 3 social motives describe करते हैं", "is_correct": false },
+      { "text": "Core Social Motives — Maslow की hierarchy का extension है", "is_correct": false }
+    ],
+    "explanation": "Susan Fiske (2004) — 5 Core Social Motives: (1) Belonging — need for social inclusion, (2) Understanding — need for shared meaning, (3) Controlling — sense of personal efficacy, (4) Enhancing Self — positive self-image, (5) Trusting — default positive view of others. Health: (1) Illness threatens belonging → social support groups address, (2) Diagnosis threatens understanding → clear explanation needed, (3) Chronic illness threatens control → shared decision-making restores, (4) Stigma threatens self-enhancement → positive identity work, (5) Medical system distrust → trust-building interventions। All 5 must be addressed for therapeutic alliance।"
+  },
+  {
+    "question": "'Epigenetic Social Psychology' में social experiences कैसे gene expression को alter करती हैं और इसके health equity के लिए क्या implications हैं?",
+    "options": [
+      { "text": "Epigenetics — pure biology है, social psychology से unrelated", "is_correct": false },
+      { "text": "Social stress (discrimination, poverty, early adversity) → DNA methylation + histone modification → altered gene expression → health outcomes — AND transmissible across generations (transgenerational epigenetics)", "is_correct": true },
+      { "text": "Epigenetic changes — irreversible हैं", "is_correct": false },
+      { "text": "Social epigenetics — hypothesis only, no evidence yet", "is_correct": false }
+    ],
+    "explanation": "Social Epigenetics (Hertzman, 2000; McEwen, 2012): Social exposures → epigenetic marks → altered biological functioning. Examples: (1) Early adversity → CpG methylation in glucocorticoid receptor gene → HPA dysregulation for life, (2) Racial discrimination → accelerated epigenetic aging (Telomere shortening), (3) Poverty → inflammatory gene expression patterns, (4) Transgenerational: Holocaust survivors' children show epigenetic stress signatures. India में: Dalit communities → discrimination → epigenetic load → health disparities that persist even with income increase. Justice interventions must begin prenatally।"
+  },
+  {
+    "question": "Karl Weick का 'High Reliability Organizations' (HRO) सिद्धांत और Reason का 'Swiss Cheese Model' स्वास्थ्य प्रणाली की सुरक्षा में कैसे apply होते हैं?",
+    "options": [
+      { "text": "दोनों models — aviation में only, health में nahi", "is_correct": false },
+      { "text": "HRO: preoccupation with failure, sensitivity to operations, reluctance to simplify, commitment to resilience — SCM: multiple defensive layers prevent latent errors from causing harm", "is_correct": true },
+      { "text": "Swiss Cheese Model — human error को ignore करता है", "is_correct": false },
+      { "text": "HROs — errors नहीं होते", "is_correct": false }
+    ],
+    "explanation": "Weick et al. — HRO: 5 mindful organizing principles for high-stakes systems। (1) Preoccupation with failure (report near-misses), (2) Reluctance to simplify (complex problems need complex understanding), (3) Sensitivity to operations (frontline awareness), (4) Commitment to resilience (recover from errors), (5) Deference to expertise (not hierarchy)। James Reason (1990) — Swiss Cheese: active failures (human error) + latent failures (organizational). Holes align → accident. Health: medication errors, surgical mishaps, lab failures. India में: patient safety WHO protocols; adverse event reporting systems। Human factors approach।"
+  },
+  {
+    "question": "'Anthropology of Suffering' (Kleinman, Das, Lock) और सामाजिक मनोविज्ञान का मिलकर chronic suffering communities को health interventions कैसे design करते हैं?",
+    "options": [
+      { "text": "Suffering — only medical/clinical domain है", "is_correct": false },
+      { "text": "Social suffering (political-economic forces cause embodied distress); illness narratives; cultural idioms of distress — interventions must witness, not just treat suffering", "is_correct": true },
+      { "text": "Anthropology of Suffering और Social Psychology — competing frameworks हैं", "is_correct": false },
+      { "text": "Chronic suffering communities — only pharmacological interventions need करते हैं", "is_correct": false }
+    ],
+    "explanation": "Kleinman et al. (1997) — Social Suffering: misery caused by political violence, poverty, displacement → embodied. Veena Das — Critical Events: extreme violence redefines ordinary life. Margaret Lock — Local biologies: suffering embodied differently across cultures. Social psych contributions: (1) Narrative witness — hearing suffering → acknowledgment, (2) Community ritual for collective processing (Van der Kolk), (3) Social support mobilization, (4) Political advocacy as therapeutic action (Becker, Fanon). India में: post-communal violence mental health → community healing rituals + trauma-informed care। 'Presence' not just 'intervention'।"
+  },
+  {
+    "question": "'Discursive Psychology' (Harré, Potter & Wetherell) mainstream social cognition research को कैसे challenge करती है?",
+    "options": [
+      { "text": "Discursive Psychology — social cognition का extension है", "is_correct": false },
+      { "text": "Discursive Psychology: attitudes, identities, mental states are NOT internal representations but discursive constructions in talk — health beliefs are performed in conversation, not stored in minds", "is_correct": true },
+      { "text": "Discursive Psychology — quantitative methods का समर्थन करती है", "is_correct": false },
+      { "text": "Harré और Potter — identical theoretical positions रखते हैं", "is_correct": false }
+    ],
+    "explanation": "Harré (1979) — Positioning Theory: positions in conversation rather than fixed roles। Potter & Wetherell (1987) — Discourse Analysis: language constructs social reality, not merely reflects mental states। Challenge to social cognition: (1) Attitudes are not stored but constructed in context, (2) 'Health attitudes' vary with interlocutor, purpose, accountability, (3) Identity is achieved discursively, not possessed. Health Application: KAP surveys miss discursive construction of 'attitudes'. FGD discourse analysis → how health beliefs are negotiated in community talk। Conversation Analysis of medical encounters → turn-taking reveals power dynamics।"
+  },
+  {
+    "question": "'Prevention Paradox' (Rose) और 'High-Risk Strategy vs Population Strategy' में social psychology का tension क्या है?",
+    "options": [
+      { "text": "Population strategy — हमेशा high-risk strategy से better है", "is_correct": false },
+      { "text": "Population strategy: small benefit to many > large benefit to few (mathematically); but psychologically — individuals have little personal benefit perception → low motivation and political resistance", "is_correct": true },
+      { "text": "Prevention Paradox — psychological dimension नहीं है", "is_correct": false },
+      { "text": "High-Risk strategy — always most cost-effective", "is_correct": false }
+    ],
+    "explanation": "Geoffrey Rose (1985) — Prevention Paradox: most cases of disease come from 'average risk' populations (numerically more), not high-risk. Population strategy (shift entire distribution) → greatest impact. BUT: psychological paradox: lowering salt for ALL → personal benefit tiny ('sick individual' treatment very salient, 'statistical life' invisible). Political: policy unpopular (no personal motivation). High-risk: visible, motivated individuals. Behavioral economics application: default healthy options (salt reduction), taxation (nudge), social norms shifts. India में: national programs must address both but explain population benefit clearly।"
+  },
+  {
+    "question": "Judith Butler का 'Performativity' और 'Gender Trouble' सामाजिक मनोविज्ञान में gender और health की समझ को कैसे radically transform करता है?",
+    "options": [
+      { "text": "Butler — gender को biological reality के रूप में confirm करती हैं", "is_correct": false },
+      { "text": "Gender = iterative performative acts (not fixed essence) → gender norms construct differential health risks, access, and treatments — destabilizing binaries opens new health possibilities", "is_correct": true },
+      { "text": "Performativity Theory — केवल LGBTQ+ individuals में applicable", "is_correct": false },
+      { "text": "Butler की theory — empirical health research में inapplicable है", "is_correct": false }
+    ],
+    "explanation": "Judith Butler (1990) — Gender Trouble: Gender not a noun (identity) but a verb (doing). Performativity: repeated citations of gender norms produce the illusion of a stable gender identity. Subversion through parody, drag. Health implications: (1) 'Men don't cry' = health-damaging gender performance, (2) 'Women as primary caregivers' = burnout, (3) Trans health — non-binary bodies destabilize binary medical protocols, (4) Intersex 'normalizing' surgeries — enforcing gender binary, (5) PCPNDT Act — response to son preference = gender performativity normalization। Queer theory → inclusive health systems।"
+  },
+  {
+    "question": "'Social Epidemiology' में 'Psychosocial Pathway' बनाम 'Neo-material Pathway' debate स्वास्थ्य असमानताओं की causation में क्या resolve करती है?",
+    "options": [
+      { "text": "दोनों pathways identical explanations देती हैं", "is_correct": false },
+      { "text": "Psychosocial: relative deprivation → stress hormones → disease; Neo-material: absolute deprivation → lack of resources → disease — both operate, best evidence: interaction model", "is_correct": true },
+      { "text": "Neo-material Pathway — has been conclusively proven; psychosocial — disproven", "is_correct": false },
+      { "text": "Psychosocial pathway — only mental health में relevant है", "is_correct": false }
+    ],
+    "explanation": "Debate: Wilkinson & Pickett (2009) — psychosocial: income inequality → status anxiety → stress biology → poor health. Critics (Lynch, Kaplan) — neo-material: poverty → lack of food, housing, healthcare → direct disease causation. Marmot — Whitehall studies support psychosocial (controlling for material resources, gradient persists). Resolution: both operate, income inequality works through BOTH material deprivation AND psychosocial pathways. Policy implications: income inequality reduction (material AND psychosocial), not just poverty elimination. India में: relative deprivation in aspirational middle class + absolute deprivation in poor।"
+  },
+  {
+    "question": "Moscovici और Mugny के 'Conversion Theory' में minority influence के 'conversion effect' और 'compliance effect' में क्या difference है और यह health advocacy में कैसे relevant है?",
+    "options": [
+      { "text": "Conversion और Compliance — identical outcomes हैं", "is_correct": false },
+      { "text": "Compliance — public behavior change without private attitude change (majority influence); Conversion — private attitude change without public acknowledgment (minority influence) — delayed, indirect health impact", "is_correct": true },
+      { "text": "Minority influence — केवल compliance produces करती है", "is_correct": false },
+      { "text": "Majority influence — always more powerful than minority influence", "is_correct": false }
+    ],
+    "explanation": "Moscovici & Mugny — Majority influence: normative route → public compliance, no private conversion। Minority influence: informational/consistency route → private attitude change (conversion) even if not publicly admitted. Delayed action and indirect validation. Health advocacy: (1) Early vaccine advocates (minority) → gradual conversion → mainstream, (2) Mental health anti-stigma advocates — initially minority → conversion of health professionals, (3) Family planning pioneers in conservative communities — minorities create cognitive conflict → private reconsideration। WHO advocates often minority voices → conversion takes decades but transforms policy।"
+  },
+  {
+    "question": "'Moral Disengagement' (Bandura) theory का स्वास्थ्य प्रणाली में corruption और unethical behavior को explain करने में क्या योगदान है?",
+    "options": [
+      { "text": "Moral Disengagement — केवल war crimes में applicable", "is_correct": false },
+      { "text": "8 mechanisms (moral justification, euphemistic labeling, dehumanization, displacement of responsibility, etc.) allow health workers to harm without guilt — systemic, not just individual", "is_correct": true },
+      { "text": "Moral Disengagement — individual character flaw है, systemic नहीं", "is_correct": false },
+      { "text": "Bandura ने moral disengagement को health ethics में apply नहीं किया", "is_correct": false }
+    ],
+    "explanation": "Bandura (1999) — Moral Disengagement: 8 mechanisms: (1) Moral justification ('prescribing unnecessary tests saves lives'), (2) Euphemistic labeling ('enhancement fee' not bribe), (3) Advantageous comparison ('everyone does it'), (4) Displacement of responsibility ('hospital policy'), (5) Diffusion of responsibility ('everyone prescribes this'), (6) Dehumanization ('patients don't understand'), (7) Attribution of blame ('they didn't follow advice'), (8) Disregard for consequences। India में: medical over-prescription, sex-selective abortion facilitation, unauthorized health workers — all use moral disengagement. Institutional ethics cultures counter this।"
+  },
+  {
+    "question": "Daniel Kahneman के 'Focusing Illusion' का स्वास्थ्य प्रासंगिकता क्या है और health policy में इसकी implications क्या हैं?",
+    "options": [
+      { "text": "Focusing Illusion — attention bias का synonym मात्र है", "is_correct": false },
+      { "text": "'Nothing in life is as important as you think it is, while you are thinking about it' — health surveys, quality of life measures, और disability acceptance को systematically distort करती है", "is_correct": true },
+      { "text": "Focusing Illusion — health में positive outcomes देती है", "is_correct": false },
+      { "text": "Kahneman की Focusing Illusion — प्रयोगात्मक रूप से unsupported है", "is_correct": false }
+    ],
+    "explanation": "Kahneman et al. (2006) — Focusing Illusion: जिस पर ध्यान केंद्रित है, उसे overweight किया जाता है। Health implications: (1) Pre-illness people overestimate disability's impact on well-being (Impact Bias + Focusing Illusion), (2) Disability paradox: people with severe disabilities report better QoL than non-disabled people expect, (3) Health policy: stated preferences for health states exaggerate importance when health is salient, (4) Cancer patients' daily well-being ≠ retrospective global ratings, (5) 'Day Reconstruction Method' vs retrospective surveys। India में: disability-adjusted life years (DALYs) — methodological caution।"
+  },
+  {
+    "question": "Dacher Keltner के 'Power Paradox' का स्वास्थ्य प्रणाली में power-holding health officials के behaviour पर क्या निहितार्थ है?",
+    "options": [
+      { "text": "Power — health officials में empathy बढ़ाती है", "is_correct": false },
+      { "text": "Power → empathy deficit, risk-taking, disinhibition, stereotyping, attention narrowing — powerful health officers बनते हैं less effective community servants", "is_correct": true },
+      { "text": "Power Paradox — केवल political leaders में", "is_correct": false },
+      { "text": "Power holders — naturally better decision-makers बनते हैं", "is_correct": false }
+    ],
+    "explanation": "Keltner (2016) — Power Paradox: Power gained through empathy, collaboration, social intelligence; BUT power corrupts these very qualities. Neural level: power → reduced mirror neuron activity → empathy deficit (Van Kleef studies). Behavioral: powerful → more stereotyping, less perspective-taking, more rule-breaking, attention narrowing. Health system: CMO/District Health Officer → over time → less community-connected, patient experiences invisible. Power Approach Theory (Keltner): power → approach motivation system activation → action without social caution. Counter: distributed power, accountability, community feedback mechanisms।"
+  },
+  {
+    "question": "Sherif का 'Realistic Group Conflict Theory' और Gaertner का 'Common Ingroup Identity Model' — दोनों के बीच के theoretical tension का मूल्यांकन करें।",
+    "options": [
+      { "text": "दोनों theories identical conclusions देती हैं", "is_correct": false },
+      { "text": "RGCT: competition for real resources → conflict; CIIM: recategorize as one superordinate group → prejudice reduction — tension: CIIM may erase important subgroup identities and ignore real resource competition", "is_correct": true },
+      { "text": "CIIM — RGCT को complete replacement है", "is_correct": false },
+      { "text": "Realistic Group Conflict — modern multicultural societies में inapplicable", "is_correct": false }
+    ],
+    "explanation": "Sherif (1954) RGCT: Scarce resources → intergroup competition → hostility. Solution: superordinate goals. Gaertner et al. CIIM: Recategorize warring groups as single superordinate group → reduce bias. Tension: (1) CIIM may demand subgroup identity erasure → identity threat (Dovidio), (2) 'Dual identity' model (both superordinate + subgroup) better, (3) RGCT: if resources actually scarce, recategorization not enough. Health in: caste groups competing for PHC posts → RGCT. Superordinate 'community health' identity → CIIM. Both needed: resource equity (RGCT-informed) + inclusive identity (CIIM-informed)।"
+  },
+  {
+    "question": "Clifford Geertz की 'Thick Description' methodology और सामाजिक मनोविज्ञान की experimental tradition के बीच epistemological conflict का स्वास्थ्य अनुसंधान में क्या समाधान है?",
+    "options": [
+      { "text": "Thick Description — scientific health research में inapplicable है", "is_correct": false },
+      { "text": "Mixed Methods Integration: Thick Description reveals cultural context और meaning; experiment tests mechanisms — complementary epistemologies through pragmatic triangulation", "is_correct": true },
+      { "text": "Geertz ने experimental psychology को fully support किया", "is_correct": false },
+      { "text": "Thick Description और experiment — never compatible", "is_correct": false }
+    ],
+    "explanation": "Geertz (1973) — Thick Description: interpretive ethnography capturing layers of meaning in cultural context — 'what is a wink?' depends on context, intention, shared understanding. Epistemological conflict with positivism: (1) Context-specificity vs generalizability, (2) Interpretation vs measurement, (3) Emic vs etic. Health research resolution: (1) Phase 1: ethnographic thick description → hypotheses, (2) Phase 2: experimental test, (3) Phase 3: return to context for implementation. Community Intervention: understanding 'why people don't seek TB care' requires thick description + epidemiological data + intervention trial। Sequential mixed methods।"
+  },
+  {
+    "question": "'Post-Colonial Psychology' (Fanon, Bulhan) ने mainstream Western Social Psychology को किन आधारों पर challenge किया है?",
+    "options": [
+      { "text": "Post-Colonial Psychology — Western psychology को fully accepts करती है", "is_correct": false },
+      { "text": "Western SP: WEIRD-biased, colonial knowledge structures reproduced, Indigenous psychologies marginalized, psychology itself as colonial tool — decolonization needed", "is_correct": true },
+      { "text": "Post-Colonial Psychology — केवल African contexts में relevant है", "is_correct": false },
+      { "text": "Fanon — psychological theories नहीं दिए, केवल political writing किया", "is_correct": false }
+    ],
+    "explanation": "Fanon (1952, 1961) — Wretched of the Earth: colonization → psychological damage (internalized racism, Manichaean worldview, colonial personality). Hussein Bulhan — Zones of Nonbeing. Challenges to mainstream SP: (1) WEIRD samples → universal claims, (2) Colonial researchers studying colonized = extraction, (3) Individualism embedded in Western SP vs relational African/Asian psychologies, (4) Western categories (mental illness, personality) impose on different ontologies. India में: indigenous health systems (Ayurveda, tribal healing) pathologized by Western psychiatry. Decolonizing Health Psychology: community-based, indigenous-methods, power-reflexive।"
+  },
+  {
+    "question": "Edward Deci और Richard Ryan के 'Organismic Integration Theory' (OIT) में internalization की प्रक्रिया health behavior adherence में क्यों central है?",
+    "options": [
+      { "text": "OIT — SDT का irrelevant subdivision है", "is_correct": false },
+      { "text": "Internalization continuum (Introjection → Identification → Integration) determines regulation quality — integrated regulation = most autonomous, most sustainable health behavior", "is_correct": true },
+      { "text": "OIT — external motivation को best मानती है", "is_correct": false },
+      { "text": "Health behavior — केवल external regulation से effective होती है", "is_correct": false }
+    ],
+    "explanation": "OIT (Deci & Ryan) — sub-theory of SDT explaining how external regulation becomes progressively internalized: (1) External (reward/punishment) → (2) Introjected (internal pressure, guilt, pride) → (3) Identified (personally meaningful) → (4) Integrated (consistent with self). Quality of motivation matters more than quantity. Health in: (1) Diabetes management forced by doctor (external) → drops when unsupervised, (2) 'Healthy eating = part of who I am' (integrated) → sustained, (3) Nurse supporting patient autonomy → facilitates internalization, (4) Community health programs — build identification then integration। Autonomy-supportive environments accelerate internalization।"
+  },
+  {
+    "question": "'Cognitive Polyphasia' (Moscovici) की अवधारणा और भारतीय समुदायों में Western medicine और traditional health beliefs के सह-अस्तित्व को explain करने में इसका उपयोग क्या है?",
+    "options": [
+      { "text": "Cognitive Polyphasia — cognitive inconsistency है, irrational है", "is_correct": false },
+      { "text": "Cognitive Polyphasia: different, contradictory modes of thinking co-exist in same person for different purposes — rational, not pathological — explains medical pluralism naturally", "is_correct": true },
+      { "text": "Cognitive Polyphasia — केवल pre-modern societies में", "is_correct": false },
+      { "text": "Modern education eliminates Cognitive Polyphasia", "is_correct": false }
+    ],
+    "explanation": "Moscovici (1961, 1976) — Cognitive Polyphasia: multiple, sometimes contradictory logics coexist within individuals — different modes for different social contexts. Not confusion, but adaptive flexibility. India health in: same woman → Ayurvedic remedies for chronic conditions (traditional logic) + antibiotics for acute infection (biomedical logic) + religious rituals for 'nazar' (religious logic). All three coexist rationally in different contexts. Implications: (1) Don't force choice between systems, (2) Understand when/why each mode activated, (3) Integrate biomedical and traditional — not compete।"
+  },
+  {
+    "question": "Roy Baumeister का 'Meaning-Making Theory' existential health psychology में कैसे applies होता है?",
+    "options": [
+      { "text": "Meaning-Making — केवल psychotherapy में, public health में नहीं", "is_correct": false },
+      { "text": "4 needs for meaning (Purpose, Values, Efficacy, Self-Worth) — chronic illness, disability, bereavement में meaning disruption → psychological distress; restoration → resilience and health", "is_correct": true },
+      { "text": "Baumeister — Frankl के logotherapy का identical extension", "is_correct": false },
+      { "text": "Meaning-Making — passive process है, active नहीं", "is_correct": false }
+    ],
+    "explanation": "Baumeister (1991) — Meaning and motivation: 4 needs: (1) Purpose (goals/fulfillment), (2) Values (moral worth), (3) Efficacy (sense of control), (4) Self-Worth (belonging, justification). Illness threatens all 4. Park (2010) — Meaning-Making Model: global meaning (worldview) + situational meaning (appraisal) → discrepancy → meaning-making coping → revised global meaning. Health: cancer diagnosis → purpose loss + worldview shattered → meaning-making process → post-traumatic growth. Palliative care: dignity therapy, narrative life review. ASHA worker burnout → meaning erosion → intervention needed।"
+  },
+  {
+    "question": "Philip Zimbardo के Stanford Prison Experiment की पुनर्व्याख्या और 'situationism vs dispositionalism' debate में आधुनिक social neuroscience क्या योगदान देती है?",
+    "options": [
+      { "text": "Stanford Prison Experiment — perfect science है, पुनर्व्याख्या अनावश्यक", "is_correct": false },
+      { "text": "SPE — methodological flaws (experimenter demand, selection bias); modern view: person-situation interaction, not pure situationism; neural substrates of role-conformity emerging", "is_correct": true },
+      { "text": "SPE — dispositionalist view को confirm करता है", "is_correct": false },
+      { "text": "Situationism — modern neuroscience ने completely disproved किया", "is_correct": false }
+    ],
+    "explanation": "SPE (Zimbardo, 1971) — guards became brutal in 6 days. Original claim: situation overwhelms disposition. Critiques: (1) Demand characteristics — guards coached, (2) Selection bias — power-seeking participants, (3) Experimenter role confusion, (4) Parry reanalysis (2018). Reicher & Haslam (2006) BBC Prison Study: guards not automatically brutal — identity-based, (5) Modern view: person × situation interaction (Fleeson's whole-trait theory). Social Neuroscience: role adoption activates identity-consistent neural networks. Health: 'healthy/sick role' neural consolidation. Institutionalization of both patients and staff।"
+  },
+  {
+    "question": "Roy Baumeister का 'Ego Depletion' और Carol Dweck का 'Growth Mindset' — दोनों health behavior change में कैसे complementary हैं?",
+    "options": [
+      { "text": "Ego Depletion और Growth Mindset — contradictory, incompatible theories", "is_correct": false },
+      { "text": "Ego Depletion: willpower is limited resource; Growth Mindset: belief that willpower grows with use — beliefs about willpower moderate depletion effects — intervention targets both", "is_correct": true },
+      { "text": "Ego Depletion — fully replicated, no controversy", "is_correct": false },
+      { "text": "Growth Mindset — केवल academic performance में, health में नहीं", "is_correct": false }
+    ],
+    "explanation": "Baumeister Ego Depletion: sequential self-control tasks → depleted → worse performance. Dweck Growth Mindset: 'willpower grows with use.' Job & Dweck (2010): people who believe willpower is non-limited → no depletion! Replication: Ego depletion inconsistently replicated. Together: (1) health behavior interventions should build willpower beliefs (mindset) not just 'try harder,' (2) Structural environments reduce depletion demand (healthy defaults), (3) Replenishment: glucose, positive emotion (but glucose effect also contested). India में: chronic poverty environments → perpetual depletion → structural solutions critical over willpower-building।"
+  },
+  {
+    "question": "Hannah Arendt की 'Banality of Evil' अवधारणा और Milgram के obedience को मिलाकर institutional health care में systemic harm को कैसे समझाया जाता है?",
+    "options": [
+      { "text": "Arendt की theory — health care में completely irrelevant है", "is_correct": false },
+      { "text": "Ordinary health workers following routine procedures can cause systemic harm without malicious intent — 'thoughtlessness' and bureaucratic role-following = health's 'banality of evil'", "is_correct": true },
+      { "text": "Arendt — individual evil को describe करती हैं, systemic नहीं", "is_correct": false },
+      { "text": "Banality of Evil — health system में unobservable है", "is_correct": false }
+    ],
+    "explanation": "Hannah Arendt (1963) — Eichmann in Jerusalem: 'banality of evil' — not monster, but bureaucratic functionary following orders without moral thinking. Thoughtlessness as danger. Health Applications: (1) Nurses documenting vitals routinely while patient deteriorates — 'not my job to question,' (2) Tuskegee — researchers following protocol without moral reflection, (3) Forced sterilizations in India — officials following government targets, (4) Psychiatric institutionalization harm. Milgram extends empirically. Prevention: cultivate moral awareness, reflective practice, professional courage, ethics training, safe whistleblowing।"
+  },
+  {
+    "question": "Tajfel का 'Minimal Group Paradigm' (MGP) in-group favoritism के बारे में क्या radical finding reveal करता है और इसकी theoretical implications क्या हैं?",
+    "options": [
+      { "text": "MGP दिखाता है कि in-group favoritism — केवल long-standing cultural groups में", "is_correct": false },
+      { "text": "Even trivially created groups (random assignment, dot-estimating) show in-group favoritism — discrimination is automatic, minimal basis needed — self-categorization sufficient", "is_correct": true },
+      { "text": "MGP — prejudice की absence demonstrate करता है", "is_correct": false },
+      { "text": "In-group favoritism — केवल competitive contexts में होती है", "is_correct": false }
+    ],
+    "explanation": "Tajfel et al. (1971) — MGP: Participants arbitrarily assigned to groups (dot-overestimators vs underestimators). Even with minimal criteria: allocate more points to in-group, even sacrificing absolute gains for relative advantage. Finding: discrimination requires NO real differences, history, or conflict — mere categorization sufficient. SIT explanation: positive distinctiveness seeking → self-esteem via in-group superiority. Implications: (1) Healthcare discrimination may occur with minimal group cues (uniform, dialect), (2) Very difficult to eliminate — structural interventions needed, (3) Superordinate identity strategies (CIIM) must overcome this basic mechanism।"
+  },
+  {
+    "question": "'Cultural Neuroscience' (Chiao & Bebko) के निष्कर्ष social psychology के cross-cultural generalizations को कैसे challenge करते हैं?",
+    "options": [
+      { "text": "Cultural Neuroscience — culture-universal brain mechanisms confirm करती है", "is_correct": false },
+      { "text": "Neural processes underlying social cognition (self, pain perception, fairness) are culturally shaped — same stimuli, different neural activation — challenges universal claims of Western social psychology", "is_correct": true },
+      { "text": "Cultural Neuroscience — brain structure को culture से independent मानती है", "is_correct": false },
+      { "text": "Cultural Neuroscience — theoretical, no empirical evidence", "is_correct": false }
+    ],
+    "explanation": "Chiao & Bebko (2011) — Cultural Neuroscience: culture × biology interaction. Evidence: (1) Self-referential processing — East Asians: medial PFC activates for close others AND self; Westerners: only self. (2) Pain empathy — in-group vs out-group neural differences. (3) Fairness norms — Ultimatum Game: different neural responses across cultures. (4) Collectivism gene-culture coevolution (serotonin transporter polymorphism). Implications: (1) Social psychology theories (even social cognition) culturally situated, (2) Health interventions must match cultural neurocognitive patterns, (3) WEIRD neuroscience ≠ universal।"
+  },
+  {
+    "question": "'Liberation Psychology' (Martín-Baró) और 'Community Psychology' (Sarason) — दोनों mainstream social psychology के वैकल्पिक approaches कैसे हैं?",
+    "options": [
+      { "text": "दोनों mainstream social psychology के identical हैं", "is_correct": false },
+      { "text": "Liberation Psych: psychology must serve oppressed, not oppressors — deconstruct ideological falsehoods, recover historical memory, prefer poor; Community Psych: ecological view, prevention, community change over individual treatment", "is_correct": true },
+      { "text": "Liberation Psychology — political ideology है, science नहीं", "is_correct": false },
+      { "text": "Community Psychology — केवल mental health में, physical health में नहीं", "is_correct": false }
+    ],
+    "explanation": "Ignacio Martín-Baró (1994) — Liberation Psychology from El Salvador: (1) Deconstruct oppressive social reality, (2) Recover historical memory of oppressed, (3) Preferential option for poor, (4) Deideologize — expose false consciousness. Seymour Sarason — Community Psychology (1974): sense of community, ecological analysis, prevention over treatment. Together: health psychology must (1) Work WITH marginalized communities, (2) Address structural conditions, (3) Build community competence, (4) Prevention focus. India में: Eklavya Foundation, SEWA health programs, Chhattisgarh community health movement — liberation approach।"
+  },
+  {
+    "question": "Naomi Zack का 'Philosophy of Race' और 'Race as Social Construction' का biological health research में क्या implications है?",
+    "options": [
+      { "text": "Race — purely biological category है", "is_correct": false },
+      { "text": "Race is socially constructed but has real health effects through racism (stress, discrimination, differential treatment) — biological race in medicine is scientifically invalid but racism is real health determinant", "is_correct": true },
+      { "text": "Race-based medicine — fully scientific है", "is_correct": false },
+      { "text": "Race = ethnicity — दोनों identical concepts", "is_correct": false }
+    ],
+    "explanation": "Naomi Zack — Race has no biological validity (genetic variation within 'races' > between). BUT race as social category has profound health effects through: (1) Racism-related stress → allostatic load (Geronimus — 'weathering'), (2) Discrimination in healthcare → differential treatment, pain mismanagement, (3) Residential segregation → environmental exposures, (4) Epigenetic effects of chronic discrimination. Dangers of race-based medicine: (1) eGFR race correction in kidney disease — perpetuates inequality (now being removed), (2) BiDil — first 'race-based drug' — controversial. India में: caste ≈ race in health effects। 'Racism not race causes health disparities.'।"
+  },
+  {
+    "question": "Antonio Damasio का 'Somatic Marker Hypothesis' rational health decision-making के बारे में क्या reveal करता है?",
+    "options": [
+      { "text": "Damasio — pure reason health decisions में sufficient है", "is_correct": false },
+      { "text": "Somatic markers (embodied emotional signals from past experience) guide decision-making — without them, rational health decisions become impossible, not better (Descartes' Error)", "is_correct": true },
+      { "text": "Somatic Marker Hypothesis — behavior therapy का extension है", "is_correct": false },
+      { "text": "Emotions always impair health decision-making", "is_correct": false }
+    ],
+    "explanation": "Damasio (1994) — Descartes' Error: Ventromedial PFC patients (emotion-processing damage) → preserve intellect but catastrophic real-life decisions (gambling, relationships). Somatic markers: body-based emotional signals from associated past experiences guide future choices, narrowing option space before rational deliberation. Health implications: (1) Fear response to needle → avoidance (somatic marker from past pain), (2) Affective computing in health AI must account for emotional decision guidance, (3) Health communication must engage emotional system, not just cognitive, (4) Patients with chronic disease develop somatic markers for treatment experiences → adherence affected।"
+  },
+  {
+    "question": "Zygmunt Bauman का 'Liquid Modernity' और 'Liquid Surveillance' आधुनिक digital health में क्या challenges उत्पन्न करते हैं?",
+    "options": [
+      { "text": "Bauman — positive view of digital health surveillance रखते थे", "is_correct": false },
+      { "text": "Liquid modernity: unstable identities, dissolved communities, fragmented social bonds → health misinformation spreads faster; liquid surveillance: health data flows without consent, new forms of health control", "is_correct": true },
+      { "text": "Liquid Modernity — pre-digital concept है, आज irrelevant", "is_correct": false },
+      { "text": "Bauman का work — health में applicability नहीं रखता", "is_correct": false }
+    ],
+    "explanation": "Bauman (2000) — Liquid Modernity: solid institutions dissolve → flexibility, insecurity, individualism. Health implications: (1) Community health solidarity weakens in liquid modernity → individualized health consumerism, (2) Solid professional health authority → liquid (social media 'experts' equally credible), (3) Stable identities → fluid health identities (wellness influencer vs patient). Liquid Surveillance (Bauman & Lyon, 2013): surveillance flows, seeps into daily life — wearables, health apps → gentle coercion into 'responsible health citizenship.' India में: Aarogya Setu → digital health liquid surveillance। Privacy, consent, health data justice।"
+  },
+  {
+    "question": "Michael White का 'Narrative Therapy' और Deconstructionist approach सामाजिक मनोविज्ञान में dominant health narratives को कैसे challenge करते हैं?",
+    "options": [
+      { "text": "Narrative Therapy — biological model का complement मात्र है", "is_correct": false },
+      { "text": "Externalizing the problem, deconstructing dominant pathologizing narratives, and restoring preferred identity stories — power dynamics in health narratives are explicitly interrogated", "is_correct": true },
+      { "text": "Narrative Therapy — केवल mental illness में", "is_correct": false },
+      { "text": "White और Epston — cognitive therapy की branch हैं", "is_correct": false }
+    ],
+    "explanation": "Michael White & David Epston (1990) — Narrative Therapy: (1) Externalizing: problem is not the person — 'the diabetes' not 'you're diabetic,' (2) Deconstruction: whose story is this? (medical discourse vs patient's experience), (3) Unique outcomes: exceptions to problem-saturated story → build alternative story, (4) Definitional ceremony: witnessing by community. Deconstructionist: challenges dominant biomedical narrative that positions patient as passive, deficient, non-compliant. Health applications: (1) Chronic illness — preferred identity restoration, (2) Addiction — externalizing 'the addiction,' (3) Disability — challenging tragedy narrative, (4) Community health — collective preferred identity।"
+  },
+  {
+    "question": "'Cultural Consonance' (Dressler) बनाम 'Cultural Incongruity' (Oyserman) — दोनों concepts मिलकर health behavior को कैसे predict करते हैं?",
+    "options": [
+      { "text": "Cultural Consonance और Cultural Incongruity — opposing theories हैं", "is_correct": false },
+      { "text": "Consonance: living up to cultural models reduces stress → better health; Incongruity (identity-behavior mismatch): when context activates identity inconsistent with behavior → motivation to change — both predict health behavior", "is_correct": true },
+      { "text": "Dressler और Oyserman — identical constructs describe करते हैं", "is_correct": false },
+      { "text": "Cultural factors — health behavior prediction में unimportant हैं", "is_correct": false }
+    ],
+    "explanation": "Dressler — Cultural Consonance: shared cultural models (ideal body, food practices) → lived consonance = stress buffer → better health. Oyserman — Cultural Incongruity/Culture as Situated Cognition: identity salience in context → if cued identity inconsistent with health behavior → dissonance → motivation to change ('student identity' + 'healthy student' schema cued → more studying, healthier eating). Together: (1) Consonance with cultural health ideals = protective, (2) Incongruity intervention: 'as a mother, what would you do for your child's health?' — cue maternal identity. India में: 'good farmer' identity + healthy farm practices।"
+  },
+  {
+    "question": "Ann Oakley का 'Sociology of Housework' और feminist critique — reproductive health में 'medicalization of birth' को कैसे explain करती है?",
+    "options": [
+      { "text": "Medicalization of birth — purely positive public health achievement है", "is_correct": false },
+      { "text": "Medicalization: normal female bodily processes (pregnancy, birth) redefined as medical events → male medical control, surveillance, disempowerment of women — feminist critique essential", "is_correct": true },
+      { "text": "Oakley — medical intervention in birth को fully supports करती हैं", "is_correct": false },
+      { "text": "Feminist critique — birth medicalization में inapplicable है", "is_correct": false }
+    ],
+    "explanation": "Ann Oakley (1980) — 'Women Confined': hospital birth → medicalization → loss of women's control. Conrad (2007) — Medicalization: non-medical conditions redefined as medical. Birth medicalization: (1) Normal birth → pathologized risk, (2) Male obstetrician replaces female midwife, (3) Technology (fetal monitoring, epidurals) → passive patient, (4) Caesarean rate explosion (India: 47% private sector). Feminist critique: (1) Women's birth autonomy violated, (2) TBA/midwife marginalization → traditional knowledge erased, (3) Respectful maternity care. India: LaQshya program — respectful, woman-centered. Counter: some medicalization saves lives — critical feminism, not rejection।"
+  },
+  {
+    "question": "René Girard का 'Scapegoat Theory' और 'Mimetic Desire' — महामारियों में community violence और stigma को explain करने में कैसे apply होते हैं?",
+    "options": [
+      { "text": "Girard — केवल anthropological, health में inapplicable", "is_correct": false },
+      { "text": "Mimetic desire creates social tension → surrogate victim (scapegoat) needed → epidemic periods: stigmatized groups become sacrificial — historical pattern repeats", "is_correct": true },
+      { "text": "Mimetic Desire — economic competition से completely different है", "is_correct": false },
+      { "text": "Scapegoat Theory — Allport के prejudice theory का identical है", "is_correct": false }
+    ],
+    "explanation": "René Girard (1972) — Mimetic Desire: we desire what others desire → rivalry → social crisis। Resolution: surrogate victim (scapegoat) — unite against common 'culprit.' Health epidemics: (1) Black Death → Jewish scapegoating, (2) AIDS → gay men, Africans, (3) COVID India → minorities, migrants, NE Indians, healthcare workers. Pattern: social anxiety + visible 'other' + mimetic community solidarity → violence/exclusion. Girard: scapegoating is universal, disguised as legitimate response. Health Communication: identify scapegoating early, provide factual attribution, build inclusive community identity. Media responsibility critical।"
+  },
+  {
+    "question": "Erving Goffman के 'Total Institutions' की अवधारणा का आधुनिक psychiatric hospitals और long-term care facilities में क्या relevance है?",
+    "options": [
+      { "text": "Total Institutions — historical concept, modern healthcare में irrelevant", "is_correct": false },
+      { "text": "Mortification of self (stripping identity), standardization, surveillance — modern mental health institutions और care homes partially retain these features → dehumanization → poor outcomes", "is_correct": true },
+      { "text": "Goffman — psychiatric institutions को supportive बताते थे", "is_correct": false },
+      { "text": "Total Institution features — patient outcomes पर no impact", "is_correct": false }
+    ],
+    "explanation": "Goffman (1961) — 'Asylums': Total institutions encompass all aspects of life under single authority. 4 processes: (1) Mortification of self — stripping names, clothes, personal history, (2) Standardization — uniform routines regardless of individuality, (3) Surveillance — constant visibility, (4) Privilege systems — rewards for compliance. Modern relevance: (1) Psychiatric wards — still partially total, (2) COVID isolation centers in India — totalizing, (3) Long-term care homes — infantilization, (4) Prisons as health environments. Counter: Recovery Model, Deinstitutionalization, Person-Centered Care, Therapeutic Community approaches।"
+  },
+  {
+    "question": "'Positive Health' (Seligman) और 'Salutogenesis' (Antonovsky) के बीच theoretical convergences और divergences क्या हैं?",
+    "options": [
+      { "text": "Positive Health और Salutogenesis — completely identical frameworks हैं", "is_correct": false },
+      { "text": "Both: beyond pathology, focus on assets and well-being; Divergence: Antonovsky — sense of coherence (comprehensibility, manageability, meaningfulness); Seligman — PERMA + physical assets — different operationalizations", "is_correct": true },
+      { "text": "Salutogenesis — pathogenic model का extension है", "is_correct": false },
+      { "text": "Positive Health — population level, Salutogenesis — individual only", "is_correct": false }
+    ],
+    "explanation": "Aaron Antonovsky (1979) — Salutogenesis: What keeps people healthy despite stressors? Sense of Coherence (SOC): comprehensibility (makes sense), manageability (resources available), meaningfulness (worth the effort). Generalized Resistance Resources. Seligman (2008) — Positive Health: well-being (PERMA: Positive emotion, Engagement, Relationships, Meaning, Accomplishment) + physical and biological assets. Convergences: both asset-based, both see health as positive state. Divergences: SOC = cognitive-motivational orientation; PERMA = multidimensional well-being. India में: SOC for community resilience programs; PERMA for HEO wellness programs।"
+  },
+  {
+    "question": "Foucault के 'Biopower' और 'Biopolitics' की अवधारणाओं का India के population health programs में क्या critical analysis होता है?",
+    "options": [
+      { "text": "Biopower — purely positive state tool for health improvement है", "is_correct": false },
+      { "text": "State deployment of power over life (discipline of individual bodies + regulation of populations) — family planning programs, immunization campaigns, COVID lockdowns = biopolitical governance with compliance/resistance tensions", "is_correct": true },
+      { "text": "Biopower — केवल authoritarian states में होता है", "is_correct": false },
+      { "text": "Foucault — public health को fully supports करते थे", "is_correct": false }
+    ],
+    "explanation": "Foucault (1975, 1978) — Biopower: power over life. Two poles: (1) Anatomo-politics (discipline of individual body — clinical gaze, sexuality regulation), (2) Biopolitics (regulation of population — birth rates, mortality, migration). India in: (1) Emergency sterilization (1975-77) — extreme anatomo-politics, (2) Immunization campaigns — both beneficial AND disciplinary, (3) BMI surveillance in schools, (4) COVID lockdowns — intense biopolitical intervention, (5) ABHA health ID — permanent biopolitical data extraction. Critical health: biopolitical programs must ensure consent, equity, resistance rights. Not rejection but critical consciousness।"
+  },
+  {
+    "question": "Michael Marmot का 'Status Syndrome' hypothesis और Wilkinson का 'Spirit Level' — दोनों को empirically और theoretically कैसे evaluate किया जाता है?",
+    "options": [
+      { "text": "दोनों theories — empirically uncontested हैं", "is_correct": false },
+      { "text": "Strong evidence: social gradient in health is real (Whitehall); Spirit Level: income inequality → worse health AND social outcomes — criticized for country selection, ecological fallacy, but core finding robust", "is_correct": true },
+      { "text": "Income inequality और health gradient — unrelated phenomena हैं", "is_correct": false },
+      { "text": "Wilkinson और Marmot की theories — completely discredited", "is_correct": false }
+    ],
+    "explanation": "Marmot — Whitehall Studies: clear social gradient in health — not just poverty vs. affluence, but each step of hierarchy shows worse health. Status Syndrome: low status → worse health through psychosocial pathways. Wilkinson & Pickett (2009) Spirit Level: more equal societies do better on 11 health and social outcomes. Criticisms: (1) Country selection cherry-picking, (2) Ecological fallacy — country-level data to individual inference, (3) Confounders, (4) Causation vs correlation. Defenders: within-country data supports; mechanism (stress, trust) plausible. India implications: extreme Gini coefficient → health inequalities। Reducing inequality = health policy।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Behavioral Immune System' (BIS — Schaller) hypothesis community health में disease avoidance और xenophobia को कैसे connect करती है?",
+    "options": [
+      { "text": "BIS — biological immune system का synonym मात्र है", "is_correct": false },
+      { "text": "BIS: psychological system evolved to avoid disease-relevant stimuli (disgust, behavioral avoidance) — can overgeneralize to stigmatize disabled, foreign, visually atypical individuals as 'contaminating'", "is_correct": true },
+      { "text": "BIS — only positive public health function देती है", "is_correct": false },
+      { "text": "BIS hypothesis — empirically unfounded speculation है", "is_correct": false }
+    ],
+    "explanation": "Mark Schaller & colleagues — Behavioral Immune System: evolved set of psychological mechanisms (disgust, avoidance) to detect and avoid pathogen threats BEFORE actual infection. Adaptive historically. Problems: (1) Overgeneralization — unfamiliar people, atypical bodies, foreigners trigger BIS as 'cues' → stigmatization, (2) Disease-relevant disgust → xenophobia in high pathogen environments, (3) COVID epidemic → BIS hyperactivation → racial stigmatization, (4) Disabled people, leprosy patients, obese individuals stigmatized via BIS cues. Health Communication: BIS awareness in health workers training — distinguish real pathogen risk from social bias triggered by BIS।"
+  },
+  {
+    "question": "'Epistemic Injustice' (Miranda Fricker) के concept का स्वास्थ्य सेवाओं में marginalized communities के साथ कैसे manifest होता है?",
+    "options": [
+      { "text": "Epistemic Injustice — केवल philosophy में, health में irrelevant", "is_correct": false },
+      { "text": "Testimonial injustice (patients' illness knowledge dismissed) + Hermeneutical injustice (no shared concepts for marginalized health experiences) → systematic credibility deficits in healthcare", "is_correct": true },
+      { "text": "Epistemic Injustice — केवल gender-based है", "is_correct": false },
+      { "text": "Fricker — health में Epistemic Injustice को apply नहीं किया", "is_correct": false }
+    ],
+    "explanation": "Miranda Fricker (2007) — Epistemic Injustice: wrong done to someone in their capacity as knower. (1) Testimonial Injustice: credibility deficit due to identity prejudice — Dalit patient's pain report discounted, (2) Hermeneutical Injustice: gap in collective interpretive resources — no concept for women's experience of 'gaslighting' by doctors, premenstrual dysphoria dismissed as 'hysterical.' Health applications: (1) Women's chronic pain dismissed, (2) Tribal health knowledge systematically excluded, (3) Mental illness — 'unreliable narrator' stereotype, (4) LGBTQ+ experiences pathologized. Solutions: epistemic humility, patient expertise, Community-Based Participatory Research।"
+  },
+  {
+    "question": "HEO (Health Education Officer) के रूप में आप किस प्रकार सामाजिक मनोविज्ञान के उन्नत सिद्धांतों को एकीकृत करके एक जिले में TB stigma reduction और case notification में सुधार लाने की व्यापक रणनीति बनाएंगे?",
+    "options": [
+      { "text": "केवल IEC materials वितरित करना पर्याप्त होगा", "is_correct": false },
+      { "text": "Multi-level intervention: Contact Theory (person with TB as educator) + Social Norms Correction + Extended Contact + Narrative Medicine + Structural changes (DOTS at home) + Community Champions + Self-Categorization (TB fighters' identity)", "is_correct": true },
+      { "text": "केवल भयोत्पादक संदेश (fear appeals) पर्याप्त हैं", "is_correct": false },
+      { "text": "Stigma reduction — HEO के दायरे में नहीं आता", "is_correct": false }
+    ],
+    "explanation": "Comprehensive TB Stigma Reduction Strategy: (1) Contact Theory: Persons with treated TB as community educators — equal status, cooperative goal, (2) Social Norms Correction: '80% TB patients treated, live normal lives' — address pluralistic ignorance, (3) Extended Contact: even knowing someone with TB-positive contact helps, (4) Narrative Medicine: testimonials of recovery — transforming illness narratives, (5) Self-Categorization: 'TB Fighter' identity group — pride not shame, (6) Structural: DOTS at home → no daily hospital stigma, (7) Cultural Consonance: align TB treatment with community 'courage' values, (8) Epistemic Justice: TB patient knowledge in program design, (9) Critical Health Literacy: structural causes of TB. Monitoring: social distance scales, healthcare seeking rates।"
+  },
+  {
+    "question": "Foucault की 'Naissance de la Clinique' (The Birth of the Clinic) में 'Medical Gaze' (le regard médical) की अवधारणा clinical encounters में power-knowledge के संबंध को कैसे redefine करती है?",
+    "options": [
+      { "text": "Medical Gaze — doctor और patient के बीच neutral, benevolent observation है", "is_correct": false },
+      { "text": "Medical Gaze: patient body को objectified text में convert करना, disease को person से अलग करना — power-knowledge nexus जो clinic को discipline के space के रूप में स्थापित करता है", "is_correct": true },
+      { "text": "Foucault — Medical Gaze को positive diagnostic tool मानते थे", "is_correct": false },
+      { "text": "Medical Gaze — केवल 19th century France में relevant था", "is_correct": false }
+    ],
+    "explanation": "Foucault (1963) — 'Birth of the Clinic': Modern clinical medicine 18th-19th century transition में। Medical Gaze (le regard): (1) Patient → 'readable body' — disease mapped on body as text, (2) 'Anatomo-clinical method': pathological anatomy + clinical observation → disease becomes visible in body, (3) Patient's subjectivity irrelevant — 'Where does it hurt?' replaced by 'What do you feel?' → doctor's gaze supersedes patient experience, (4) Clinic as disciplinary space — regular examination, record-keeping, surveillance। Power-knowledge: knowledge production (diagnosis) = form of power (control over patient body). India में आज: OPD counters — high patient load → gaze intensified, dehumanizing। Telemedicine — gaze becomes algorithmic। Critical: patient-centered care attempts to disrupt this gaze।"
+  },
+  {
+    "question": "Ivan Illich के 'Medical Nemesis' (1974) में iatrogenesis के तीन स्तरों — clinical, social, और cultural — का आलोचनात्मक विश्लेषण करें।",
+    "options": [
+      { "text": "Illich — medical progress को fully supports करते थे", "is_correct": false },
+      { "text": "Clinical iatrogenesis: treatment-caused harm; Social: medicalization of life stages; Cultural: destruction of autonomous coping capacity — तीनों मिलकर medical establishment को स्वास्थ्य का दुश्मन बनाते हैं", "is_correct": true },
+      { "text": "Illich — केवल clinical iatrogenesis describe करते हैं", "is_correct": false },
+      { "text": "Medical Nemesis — empirically refuted है", "is_correct": false }
+    ],
+    "explanation": "Ivan Illich (1974) — Medical Nemesis: Iatrogenesis (doctor-caused harm): (1) Clinical Iatrogenesis: direct harm from treatment — adverse drug reactions, hospital infections, surgical errors, overdiagnosis। McKeown thesis link: mortality decline preceded antibiotics। (2) Social Iatrogenesis: medicalization — normal life events (birth, aging, grief, childbirth) become medical problems requiring professional management → dependency creation, (3) Cultural Iatrogenesis (deepest): medicine undermines people's capacity to cope autonomously — personal and community healing resources atrophied. 'Expropriation of health.' Critical evaluation: (1) Overstates case — modern medicine does save lives, (2) Romanticizes pre-modern suffering, (3) BUT: over-prescription, C-section epidemic, pharma industry — illich partly right. India में: polypharmacy in elderly, unnecessary caesareans।"
+  },
+  {
+    "question": "Pierre Bourdieu के Habitus की अवधारणा class-based health dispositions के biological incorporation को कैसे explain करती है और यह 'health lifestyle' research को कैसे inform करती है?",
+    "options": [
+      { "text": "Habitus — केवल cultural preferences describe करती है, health से unrelated", "is_correct": false },
+      { "text": "Habitus: class position → embodied durable dispositions (dietary taste, exercise attitudes, health-seeking behavior) → biological incorporation of social inequalities — 'the social made flesh'", "is_correct": true },
+      { "text": "Habitus — conscious, rational health choices का synonym है", "is_correct": false },
+      { "text": "Bourdieu ने habitus को health में apply नहीं किया", "is_correct": false }
+    ],
+    "explanation": "Bourdieu (1977, 1984 Distinction) — Habitus: durable, transposable dispositions inscribed in body through accumulated experience of field position। Health Habitus (William Cockerham, 2005): (1) Working class habitus → 'taste for necessity' — fatty foods, less exercise, fatalism about health, (2) Middle class habitus → 'taste for luxury' — gym, organic food, proactive healthcare seeking, (3) Dispositions pre-reflective — not conscious 'choices', (4) 'Hysteresis': habitus lags field change — upwardly mobile retain unhealthy working-class habits। Biological incorporation: Bourdieu — 'biological long-term memory of society' — postures, eating habits, physical hexis. India में: caste + class habitus → health behaviors reproduced across generations। Policy implication: health literacy programs alone insufficient — structural field change needed।"
+  },
+  {
+    "question": "Kimberlé Crenshaw के Intersectionality framework का उपयोग करके भारत में Dalit महिलाओं के reproductive health outcomes को analyze करें।",
+    "options": [
+      { "text": "Dalit महिलाओं की reproductive health समस्याएं केवल gender discrimination के कारण हैं", "is_correct": false },
+      { "text": "Caste × gender × class × rural location — compounded simultaneous axes of oppression → multiplicative (not additive) disadvantage: Dalit women face unique health barriers invisible in single-axis analysis", "is_correct": true },
+      { "text": "Intersectionality — urban India में inapplicable है", "is_correct": false },
+      { "text": "Caste और gender — separate, independent variables हैं", "is_correct": false }
+    ],
+    "explanation": "Crenshaw (1989, 1991) — Intersectionality: multiple identities intersect creating unique experiences not reducible to single dimension. Dalit women's reproductive health: (1) Caste: ANM/ASHA from upper caste → discriminatory care ('unclean' bodies), (2) Gender: patriarchal decision-making → husband's consent required, (3) Class: poverty → distance/cost barriers, (4) Rural: distance from referral hospitals, (5) Intersection: Dalit + female + poor + rural = unique experience — not simply 'worse than Dalit men' or 'worse than upper-caste women'. NFHS data: Dalit women's institutional delivery, ANC, MMR — all worse than national average in multiplicative pattern. Additive analysis (gender + caste separately) misses intersection. Intersectional interventions: targeted, community-specific, multiple-axis addressing।"
+  },
+  {
+    "question": "Critical Race Theory (CRT) को स्वास्थ्य असमानताओं पर apply करने पर 'structural racism' और 'individual prejudice' में क्या fundamental distinction है?",
+    "options": [
+      { "text": "CRT — केवल individual racist attitudes पर focus करती है", "is_correct": false },
+      { "text": "Structural racism: policies, institutions, और systems जो racial health inequalities produce करती हैं without individual racist intent — unconscious bias से beyond, embedded in healthcare systems", "is_correct": true },
+      { "text": "CRT — health research में inapplicable है", "is_correct": false },
+      { "text": "Structural racism और institutional racism — different phenomena हैं", "is_correct": false }
+    ],
+    "explanation": "Critical Race Theory (Bell, Delgado, Crenshaw) — applied to health (Bonilla-Silva, Williams): Structural Racism: race-neutral policies producing racially inequitable outcomes. Key distinction from individual prejudice: (1) No individual racist needed — system operates through 'normal' functioning, (2) Historical accumulation: redlining → health-toxic neighborhoods persist, (3) Colorblind racism: 'we don't see race in our hospital' → existing disparities invisible, (4) Interest convergence: racial health equity advances only when majority benefits. India में: 'Caste-blind' health systems — SC/ST health disparities persist because structural caste discrimination embedded in land, water, sanitation access, healthcare worker composition. Solutions: race/caste-conscious (not blind) policies, representative workforce, targeted interventions, data disaggregation।"
+  },
+  {
+    "question": "Antonio Gramsci के 'Hegemony' concept का उपयोग करके स्वास्थ्य में 'medicalization' और 'healthism' को dominant ideology के रूप में analyze करें।",
+    "options": [
+      { "text": "Gramsci — health ideology में completely irrelevant है", "is_correct": false },
+      { "text": "Hegemony: ruling class health ideology (individualism, medicalization, healthism) naturalized as common sense — civil society institutions (media, schools, clinics) reproduce it; counter-hegemony possible", "is_correct": true },
+      { "text": "Medical hegemony — purely economic phenomenon है", "is_correct": false },
+      { "text": "Healthism — positive health promotion ideology है", "is_correct": false }
+    ],
+    "explanation": "Gramsci (1930s) — Hegemony: dominant class maintains power not just through coercion but consent — ruling ideas become 'common sense.' Health Applications: (1) Medicalization as hegemony: 'you need a doctor for everything' — naturalizes medical authority, commodity health, (2) Healthism (Crawford, 1980): moral imperative for individual health responsibility — 'healthy choices' discourse → structural causes invisible, poor blamed for ill health, (3) Pharmaceutical hegemony: 'chemical imbalance' model of depression → naturalized, drug treatment normalized, (4) Civil society actors: media glorifying medical technology, health apps encouraging self-surveillance. Counter-hegemony: community health movements (SEWA, Jan Swasthya Abhiyan), critical health journalism, alternative medicine movements. India में: 'Swachh Bharat' — individual sanitation behavior vs. structural sanitation investment debate।"
+  },
+  {
+    "question": "Ignacio Martín-Baró की Liberation Psychology को एक marginalized adivasi community में mental health program design में कैसे operationalize किया जाएगा?",
+    "options": [
+      { "text": "Liberation Psychology — individual therapy का विस्तार मात्र है", "is_correct": false },
+      { "text": "Conscientization (critical awareness of oppression), recovery of historical memory, preferential option for marginalized, deideologization — community as agent not recipient of mental health intervention", "is_correct": true },
+      { "text": "Liberation Psychology — केवल political activism है, mental health नहीं", "is_correct": false },
+      { "text": "Martín-Baró — Western psychotherapy को fully reject करते थे", "is_correct": false }
+    ],
+    "explanation": "Martín-Baró (1994) — Liberation Psychology operationalization in adivasi mental health: (1) Conscientization (Freire-linked): facilitating community's critical understanding of how displacement, forest rights loss → psychological distress — naming oppression as first step, (2) Recovery of Historical Memory: adivasi healing traditions, collective grief rituals, pre-colonial community identity → restore resources, (3) Preferential Option: program designed BY community, WITH community, FOR community — not expert-driven, (4) Deideologization: unmasking 'adivasi mental illness' as internalized oppression/response to structural violence, not individual pathology, (5) Collective rather than individual therapy, (6) Alliance with land rights, forest rights movements — mental health inseparable from justice. India में: Baiga, Gond communities — connect mental health to rights advocacy।"
+  },
+  {
+    "question": "Frantz Fanon के post-colonial analysis में colonial health systems ने colonized populations की psychological reality को कैसे shape किया?",
+    "options": [
+      { "text": "Fanon — colonial medicine को beneficial मानते थे", "is_correct": false },
+      { "text": "Colonial medicine: racializing pathology, denying indigenous healing, creating inferiority complex — 'colonized body' as diseased other — psychological damage through internalized colonial gaze", "is_correct": true },
+      { "text": "Fanon — health psychology में theoretical contributions नहीं किए", "is_correct": false },
+      { "text": "Post-colonial health — Western medicine को completely reject करता है", "is_correct": false }
+    ],
+    "explanation": "Fanon (1952 'Black Skin, White Masks'; 1961 'Wretched of the Earth'): (1) Racialization of pathology: colonial medicine pathologized African bodies — 'native' bodies inherently diseased, prone to specific mental illness ('Manichaean' brain, North African syndrome by Porot), (2) Psychiatric colonialism: segregated asylums, European psychiatrists as gatekeepers, European diagnostic categories imposed, (3) Cultural iatrogenesis: traditional healers criminalized → knowledge destroyed, (4) Internalized colonial gaze: colonized began to see own bodies/health through colonizer's pathologizing lens — 'Black is sick', (5) Violence and psychology: colonial violence → PTSD-equivalents, revolutionary violence as psychological liberation (controversial), (6) Decolonization as healing. India में: British sanitary campaigns often racist; traditional medicine (Ayurveda) marginalized; 'native disease' categorization. Today: caste system = internal colonialism → similar psychological dynamics।"
+  },
+  {
+    "question": "Feminist Standpoint Epistemology (Harding, Hartsock) स्वास्थ्य अनुसंधान में knowledge production की किन limitations को उजागर करती है?",
+    "options": [
+      { "text": "Feminist Standpoint — anti-science है", "is_correct": false },
+      { "text": "Dominant health knowledge produced from male/privileged standpoints → systematically excludes women's health experiences; situated knowledge + strong objectivity → better science through marginalized perspectives", "is_correct": true },
+      { "text": "Standpoint Epistemology — subjectivity = bias, इसलिए invalid", "is_correct": false },
+      { "text": "Health research — standpoint-neutral है", "is_correct": false }
+    ],
+    "explanation": "Sandra Harding (1986) — Feminist Standpoint Epistemology: knowledge is socially situated; marginalized standpoints provide epistemic advantage ('strong objectivity' — examining assumptions of dominant position). Nancy Hartsock — feminist standpoint as starting point for less partial knowledge. Health research limitations revealed: (1) Clinical trials historically excluded women → drug dosages calibrated on male bodies (aspirin + heart disease studied in men only), (2) Pain research: women's pain systematically undertreated (labeled 'emotional'), (3) Autoimmune diseases (primarily female) underfunded vs. erectile dysfunction, (4) 'Normal' anatomy and physiology = male default (Criado-Perez 'Invisible Women'), (5) Research questions framed by male researchers miss female health experiences. India में: PCOD, maternal mental health, menstrual health — research gaps. Standpoint solution: women researchers, community advisory boards, participatory research।"
+  },
+  {
+    "question": "Epigenetics और social psychology का integration — 'biological embedding of social experience' किस mechanism से होती है और इसके health equity implications क्या हैं?",
+    "options": [
+      { "text": "Epigenetics — completely genetic, social factors irrelevant", "is_correct": false },
+      { "text": "Social stress (poverty, discrimination, early adversity) → HPA dysregulation → DNA methylation + histone modification → altered gene expression persisting across life course और potentially generations", "is_correct": true },
+      { "text": "Epigenetic changes — reversible नहीं हैं", "is_correct": false },
+      { "text": "Social epigenetics — speculative, no empirical evidence", "is_correct": false }
+    ],
+    "explanation": "Biological Embedding (Hertzman, 1999): social experiences get 'under the skin' through epigenetic mechanisms. Key mechanisms: (1) CpG methylation: social adversity → methylation of glucocorticoid receptor gene (NR3C1) → HPA hyperreactivity for life, (2) Histone modification: chromatin remodeling alters gene accessibility, (3) miRNA: non-coding RNA regulation by social environment. Evidence: (1) Meaney rats: maternal licking → methylation → stress reactivity, (2) ACEs → accelerated epigenetic aging, (3) Racial discrimination → inflammatory gene expression (CTRA pattern). Transgenerational: Holocaust survivors' grandchildren show epigenetic signatures. Health equity: poverty → epigenetic disadvantage → health disparities persist even with economic mobility. Policy: prenatal and early childhood social investment — critical sensitive periods. India में: intergenerational caste disadvantage may have epigenetic dimension।"
+  },
+  {
+    "question": "Allostatic Load का concept 'chronic social stress को biological cost में translate करने' की प्रक्रिया को कैसे explain करता है?",
+    "options": [
+      { "text": "Allostatic Load — acute stress का synonym है", "is_correct": false },
+      { "text": "Allostasis (adaptive physiological response to stress) के repeated/chronic activation का cumulative 'wear and tear' — multiple biomarker dysregulation → accelerated disease across multiple systems simultaneously", "is_correct": true },
+      { "text": "Allostatic Load — केवल cortisol measurement है", "is_correct": false },
+      { "text": "Allostatic Load — reversible है, chronic effects नहीं", "is_correct": false }
+    ],
+    "explanation": "McEwen & Stellar (1993) — Allostatic Load: allostasis = maintaining stability through change (adaptive). Allostatic load = cumulative cost when allostatic systems (HPA, SAM, immune, metabolic, cardiovascular) repeatedly/chronically activated. 4 types of allostatic load: (1) Repeated hits — frequent stressors, (2) Lack of adaptation — HPA fails to habituate, (3) Prolonged response — inadequate shutoff, (4) Inadequate response — compensatory activation of other systems. Biomarker composite index: cortisol, DHEA-S, BP, BMI, cholesterol, HbA1c, fibrinogen, IL-6. Social gradient: poverty, discrimination, minority status → higher allostatic load → 'weathering' (Geronimus) — Black Americans age faster biologically. India में: Dalit communities, migrant workers — high allostatic load → multisystem disease earlier. Justice as health intervention।"
+  },
+  {
+    "question": "Whitehead और Dahlgren के 'Social Determinants of Health' model (1991) की 'Rainbow Model' की layers को critically evaluate करें — इसकी strengths और limitations क्या हैं?",
+    "options": [
+      { "text": "Rainbow Model — केवल descriptive, no policy implications", "is_correct": false },
+      { "text": "Model strengths: visual clarity, multi-level causation, actionable layers; Limitations: static, omits power/politics, implies equal-weight layers, misses dynamic interactions between levels", "is_correct": true },
+      { "text": "Rainbow Model — power structures को adequately represent करती है", "is_correct": false },
+      { "text": "Rainbow Model — individual lifestyle factors को prioritize करती है", "is_correct": false }
+    ],
+    "explanation": "Dahlgren & Whitehead (1991) Rainbow Model: concentric layers — (1) Constitutional factors, (2) Individual lifestyle, (3) Social/community networks, (4) Living/working conditions, (5) General socioeconomic/cultural/environmental conditions। Strengths: (1) Visual intuitiveness — policy communication, (2) Multi-level — beyond biomedical, (3) Suggests interventions at each level, (4) Widely used in CSDH (2008) framework. Limitations (Krieger, Link & Phelan critique): (1) Political economy absent — who controls layers? Power invisible, (2) Static model — doesn't show dynamic interactions (e.g., poverty → individual behavior → worse neighborhood), (3) All layers appear equal-weighted — actually distal (socioeconomic) → proximal (lifestyle) causally dominant, (4) 'Fundamental causes' (Link & Phelan) missing — socioeconomic status as umbrella cause. India में: NITI Aayog SDH framework adapted but power critique persists।"
+  },
+  {
+    "question": "Foucault का 'Biopower' और 'Governmentality' concept स्वास्थ्य संबंधी population management में state की techniques को कैसे explain करता है?",
+    "options": [
+      { "text": "Biopower — purely coercive state power है", "is_correct": false },
+      { "text": "Biopower: optimization of life (health, reproduction, longevity) at population level through disciplinary techniques — governmentality: self-governing 'health citizens' internalize norms — consent + coercion combined", "is_correct": true },
+      { "text": "Foucault — public health को purely positive मानते थे", "is_correct": false },
+      { "text": "Governmentality — केवल authoritarian states में होती है", "is_correct": false }
+    ],
+    "explanation": "Foucault (1975-1979) — Biopower two poles: (1) Anatomo-politics: discipline of individual bodies (clinical examination, exercise regimes, sexuality normalization), (2) Biopolitics: regulation of population — birth rates, mortality statistics, life expectancy, migration control। Governmentality (1978-79 lectures): rationality of government — how subjects are governed through knowledge, disciplines, institutions. Neoliberal governmentality: subject as 'entrepreneur of self' — health as individual responsibility project. Techniques: (1) Health risk profiling and nudging, (2) BMI surveillance programs, (3) Tobacco taxation — self-regulation, (4) Aarogya Setu as biopolitical data extraction, (5) COVID vaccination mandates. Critical: biopower not simply repressive — it 'makes live and lets die.' India में: National Population Register + health data = intensified biopower。 Counter: biopolitical resistance — vaccine refusal, data privacy advocacy।"
+  },
+  {
+    "question": "Slavoj Žižek के ideological critique को health promotion के 'victim-blaming' discourse पर apply करने से क्या critical insights मिलती हैं?",
+    "options": [
+      { "text": "Žižek — health ideology में completely irrelevant हैं", "is_correct": false },
+      { "text": "Ideological fantasy: victim-blaming 'lifestyle' discourse सामान्य लगती है पर structural causes को disavow करती है — 'we know very well, yet we act as if we don't' — cynical ideology in health promotion", "is_correct": true },
+      { "text": "Žižek — victim-blaming को justified मानते हैं", "is_correct": false },
+      { "text": "Ideology critique — health research methodology में inapplicable", "is_correct": false }
+    ],
+    "explanation": "Žižek (1989, 'The Sublime Object of Ideology') — Ideology not merely false consciousness but 'ideological fantasy' structuring reality. Cynical ideology: 'they know very well what they are doing, but still they do it.' Health promotion victim-blaming: (1) Ideological level: 'individuals choose unhealthy lifestyles' — naturalizes poverty-constrained choices, (2) Ideological disavowal: 'we know poverty causes disease, yet we design individual behavior change programs' — structural knowledge disavowed in practice, (3) Fantasy: 'health citizen' who freely chooses wellness — masks real structural unfreedom, (4) Symptom: communities that resist health promotion = symptoms of structural contradiction erupting. Alternative: Symptom Reading — why do poor communities 'choose' unhealthy options? → structural answer. India में: Swachh Bharat — 'behavior change' framing vs. piped water infrastructure investment debate। Ideological analysis reveals which 'choice' is funded।"
+  },
+  {
+    "question": "Jürgen Habermas के 'Communicative Action' और 'Lifeworld Colonization' का PHC में provider-patient encounter पर क्या critical application है?",
+    "options": [
+      { "text": "Habermas — health में inapplicable philosopher हैं", "is_correct": false },
+      { "text": "Lifeworld (patient's lived health experience) colonized by system rationality (bureaucratic targets, clinical protocols, time pressure) → authentic communicative action replaced by strategic/instrumental communication → poor therapeutic alliance", "is_correct": true },
+      { "text": "System rationality always improves healthcare encounters", "is_correct": false },
+      { "text": "Communicative Action — केवल policy level में applicable है", "is_correct": false }
+    ],
+    "explanation": "Habermas (1984, 1987) — Theory of Communicative Action: Lifeworld (shared cultural background, everyday communication — validity claims: truth, rightness, sincerity) vs. System (money + administrative power, strategic rationality). Colonization: system penetrates lifeworld → distortion of communication. PHC application: (1) OPD time pressure (system rationality) → doctor cannot genuinely listen (communicative action), (2) NHM targets (deliveries, immunizations, sterilizations) → ASHA uses strategic communication ('convincing' instead of genuine dialogue), (3) Insurance billing codes → doctor classifies patient, not understands, (4) EMR systems → documentation > relationship. Ideal Speech Situation: all participants equal, only force of better argument prevails — basis for shared decision-making. India में: Jan Aushadhi — system vs. lifeworld in medicine access। Participatory Health Planning as communicative action restoration।"
+  },
+  {
+    "question": "Community Psychology के Rappaport और Sarason के contributions — 'Sense of Community' (SOC) और 'Empowerment' — स्वास्थ्य outcomes को कैसे mediate करते हैं?",
+    "options": [
+      { "text": "Community Psychology — individual therapy की large-scale version है", "is_correct": false },
+      { "text": "SOC (membership, influence, integration, shared emotional connection) → social support + collective efficacy + belonging → buffer against stressors + health-promoting resource mobilization; Empowerment → agency + structural change", "is_correct": true },
+      { "text": "Rappaport और Sarason — identical frameworks रखते हैं", "is_correct": false },
+      { "text": "Sense of Community — mental health में only, physical health में नहीं", "is_correct": false }
+    ],
+    "explanation": "Seymour Sarason (1974) — 'The Psychological Sense of Community': belonging, integration, emotional connection — missing in modern society. McMillan & Chavis (1986) — 4 elements: (1) Membership, (2) Influence (bidirectional), (3) Integration/fulfillment of needs, (4) Shared emotional connection. Julian Rappaport (1981, 1987) — Empowerment: process by which individuals and communities gain control over their lives — paradox: cannot give empowerment, must create conditions. Health mechanisms: (1) High SOC → social support buffer → lower allostatic load, (2) Empowered communities → negotiating better health services, (3) Collective efficacy (Sampson) → neighborhood health outcomes, (4) 'Sense of coherence' (Antonovsky) shares SOC roots. India में: SHG (Self Help Groups) → SOC + empowerment → improved maternal health (Kerala studies), VHSNC functioning. Community mobilization = prerequisite, not just strategy।"
+  },
+  {
+    "question": "Bronfenbrenner के Ecological Systems Theory (EST) को बाल स्वास्थ्य outcomes research में apply करने पर कौन से methodological और theoretical insights मिलती हैं?",
+    "options": [
+      { "text": "EST — केवल child development में, health outcomes में नहीं", "is_correct": false },
+      { "text": "Microsystem (family), Mesosystem (family-school link), Exosystem (parental workplace), Macrosystem (policy, culture), Chronosystem (time) — child health = multi-system product; single-level interventions inadequate", "is_correct": true },
+      { "text": "Bronfenbrenner — individual child behavior को primary मानते थे", "is_correct": false },
+      { "text": "EST और Social Determinants of Health — incompatible frameworks हैं", "is_correct": false }
+    ],
+    "explanation": "Urie Bronfenbrenner (1979, 1994 PPCT model) — Ecological Systems: nested systems, bidirectional influences. Child health application: (1) Microsystem: family nutrition practices, parental health literacy, home environment, (2) Mesosystem: Anganwadi-family interaction quality, school health programs, (3) Exosystem: parental workplace policies (maternity leave, health benefits) → child health, (4) Macrosystem: cultural norms around breastfeeding, child marriage, vaccinations; ICDS policy design, (5) Chronosystem: effect of birth order, developmental timing of adversity (ACEs). Research implications: (1) Multi-level analysis (HLM/MLM) required, (2) Proximal processes (daily parent-child interaction) — primary mechanisms, (3) Person × Process × Context × Time interaction. India में: NHM + ICDS convergence — mesosystem strengthening. Child stunting — macrosystem (poverty) + microsystem (feeding practices) simultaneously।"
+  },
+  {
+    "question": "Christakis और Fowler के Social Network Analysis और 'health behavior contagion' — obesity, smoking cessation का 3-degree spread — के theoretical और methodological contributions क्या हैं?",
+    "options": [
+      { "text": "Network effects — health behavior में non-existent हैं", "is_correct": false },
+      { "text": "Health behaviors spread through social networks (3 degrees of separation) via norm influence and behavioral mimicry — network interventions (targeting hubs) more efficient than random population approaches", "is_correct": true },
+      { "text": "Network contagion — causal mechanism fully established है", "is_correct": false },
+      { "text": "Social networks — health behavior को worsen करते हैं only", "is_correct": false }
+    ],
+    "explanation": "Christakis & Fowler (2007, NEJM — obesity; 2008 — smoking; 2008 — happiness): Framingham Heart Study social network analysis — health behaviors spread through social networks up to 3 degrees (friend of friend of friend). Mechanisms proposed: (1) Social norms change — 'normal' weight/smoking shifts as network changes, (2) Behavioral mimicry — direct observation and copying. Network-specific findings: (1) Obesity: mutual friends > one-directional (norms, not selection only), (2) Smoking: cessation spreads, not just initiation. Methodological controversies: Cohen-Cole & Fletcher (2008) — spurious contagion from shared environmental exposures (homophily confound, correlated time series). Causal inference: impossible from observational network data. DESPITE controversy: network intervention logic valid — identifying bridges and hubs for health SBCC. India में: ASHA networks, SHG peer influence — network leverage for behavior change।"
+  },
+  {
+    "question": "Psychoneuroimmunology (PNI) — सामाजिक संबंधों और immune function के बीच mechanistic pathways क्या हैं और इनके community health implications क्या हैं?",
+    "options": [
+      { "text": "PNI — purely laboratory science है, community health में irrelevant", "is_correct": false },
+      { "text": "Social integration → HPA modulation + SNS regulation → immune surveillance enhancement (NK cells, antibody response) → better infection resistance; loneliness/social stress → immunosuppression pathways", "is_correct": true },
+      { "text": "Social relationships — immune function को impair करते हैं", "is_correct": false },
+      { "text": "PNI — केवल cancer में, infectious disease में नहीं", "is_correct": false }
+    ],
+    "explanation": "Psychoneuroimmunology (Ader, Cohen, Felten — 1981): nervous system, endocrine system, immune system bidirectionally communicate. Pathways: (1) HPA axis: social stress → cortisol → immunosuppression (lymphocyte proliferation, NK activity), (2) SNS: norepinephrine → lymph node innervation → immune cell trafficking, (3) Vagal tone: social engagement → parasympathetic → anti-inflammatory, (4) Pro-inflammatory cytokines → depression (sickness behavior — Dantzer). Social relationship evidence: (1) Cohen et al. (1997): socially integrated people → lower cold susceptibility when experimentally inoculated, (2) Kiecolt-Glaser: marital conflict → impaired wound healing, (3) Loneliness → inflammatory markers + poor vaccine response. Community implications: (1) Social prescribing — community activities as immune support, (2) Group-based interventions for chronic illness, (3) Bereaved → immune risk period — targeted support. India में: community festivals, SHG meetings — PNI basis।"
+  },
+  {
+    "question": "'Moral Injury' — healthcare workers में institutional betrayal और burnout का यह concept traditional burnout से कैसे different है?",
+    "options": [
+      { "text": "Moral Injury — burnout का synonym है", "is_correct": false },
+      { "text": "Moral Injury: witnessing/perpetrating/failing to prevent events violating moral code — deeper than burnout (resource depletion), involves conscience and identity — institutional betrayal compounds it", "is_correct": true },
+      { "text": "Moral Injury — केवल military personnel में होती है", "is_correct": false },
+      { "text": "Burnout और Moral Injury — same interventions से treatable हैं", "is_correct": false }
+    ],
+    "explanation": "Moral Injury (Shay, 1994 — military; Litz et al., 2009 — expanded): psychological damage from participating in events that transgress deeply held moral beliefs. Healthcare distinct from burnout (Maslach — exhaustion, cynicism, inefficacy): (1) Moral Injury involves conscience — 'I did wrong' or 'was complicit in wrong', (2) Can occur without resource depletion, (3) Guilt, shame, betrayal — not just fatigue. Healthcare Moral Injuries: (1) Providing care below own standards due to resource constraints, (2) Following institutional protocols harming patients, (3) Watching preventable deaths due to systemic failures. Institutional Betrayal (Smith & Freyd): institution fails to prevent harm or blames individual → compounds injury. COVID: PPE shortage → doctors transmitted infection to families → moral injury + institutional betrayal. India में: ASHA workers expected to achieve targets without resources → systematic moral injury. Intervention: moral injury requires moral repair — acknowledgment, justice, community, not just self-care।"
+  },
+  {
+    "question": "Adverse Childhood Experiences (ACEs) study (Felitti et al., 1998) की dose-response relationship और इसके adult health outcomes पर long-term neurobiological impact की mechanistic explanation क्या है?",
+    "options": [
+      { "text": "ACEs — केवल mental health outcomes predict करती है", "is_correct": false },
+      { "text": "ACE score dose-response: cumulative adversities → toxic stress → HPA + immune + prefrontal cortex disruption → graded risk across chronic diseases, cancer, heart disease, addiction, shortened lifespan", "is_correct": true },
+      { "text": "ACEs — adulthood में reversible without intervention", "is_correct": false },
+      { "text": "ACE effects — mediated solely by risky health behaviors", "is_correct": false }
+    ],
+    "explanation": "Felitti, Anda et al. (1998) — ACE Study (Kaiser Permanente, 17,000 middle-class adults): 10 ACE categories (abuse, neglect, household dysfunction). Key findings: (1) 67% exposed to at least 1 ACE, (2) Dose-response: ACE score 4+ → 4-12× increased risk across ischemic heart disease, cancer, COPD, liver disease, (3) Mental health: 4-12× depression, suicide attempt risk, (4) Shortened life expectancy: 4+ ACEs → 20-year reduction. Neurobiological mechanisms (Shonkoff — Toxic Stress): (1) HPA axis sensitization — chronic cortisol dysregulation, (2) Prefrontal cortex development impaired — executive function, emotional regulation, (3) Amygdala hyperreactivity, (4) Epigenetic programming (Meaney), (5) Immune programming — inflammatory baseline elevated. Two pathways: (1) Behavioral (substance use, risky sex) — partially explains, (2) Biological embedding — direct, even without risky behaviors. India में: domestic violence, child labor, early marriage → ACE loading. ICPS (Integrated Child Protection Scheme) — prevention focus।"
+  },
+  {
+    "question": "Developmental Origins of Health and Disease (DOHaD) — Barker hypothesis के आलोचनात्मक evaluation में इसके evidence, mechanisms और public health implications क्या हैं?",
+    "options": [
+      { "text": "Barker hypothesis — completely disproven है", "is_correct": false },
+      { "text": "Fetal programming hypothesis: intrauterine undernutrition → thrifty phenotype → mismatch with later nutrient-rich environment → metabolic disease — strong epidemiological evidence, epigenetic mechanisms proposed, India-specific 'thin-fat' baby phenomenon", "is_correct": true },
+      { "text": "DOHaD — केवल childhood nutrition में, adult disease में नहीं", "is_correct": false },
+      { "text": "Barker hypothesis — genetic determinism का form है", "is_correct": false }
+    ],
+    "explanation": "David Barker (1989, 1992) — DOHaD/Barker Hypothesis: low birthweight → coronary heart disease, hypertension, type 2 diabetes in adulthood. Hertfordshire cohort study. Mechanism — Fetal Programming: (1) Nutrition-restricted fetus → 'thrifty phenotype' (Hales & Barker, 1992) — conserves calories, reduces metabolic rate, (2) Mismatch: fetal adaptation to scarcity + adult abundance → metabolic syndrome, (3) Epigenetic: methylation of metabolic genes in utero. India-specific (C.S. Yajnik — 'thin-fat' Indian baby): Indian neonates — small but high body fat % → insulin resistance risk. Evidence: (1) Dutch Hunger Winter natural experiment — famine exposure in utero → adult metabolic disease, schizophrenia, (2) PMGSY, NHM — maternal nutrition → intergenerational health. Criticisms: (1) Confounding (poverty persists childhood → adulthood), (2) Overstatement of fetal period vs. childhood. Policy: Pradhan Mantri Matru Vandana Yojana — maternal nutrition investment।"
+  },
+  {
+    "question": "Stigma measurement में Goffman (1963) के original framework और Link & Phelan (2001) के Modified Labeling Theory की तुलना करें — दोनों के empirical और conceptual contributions क्या हैं?",
+    "options": [
+      { "text": "Goffman और Link & Phelan — identical stigma theories हैं", "is_correct": false },
+      { "text": "Goffman: interactional stigma management (microsocial); Link & Phelan: stigma as power exercise (labeling + stereotyping + separation + status loss + discrimination) — structural level — more measurable, intervention-relevant", "is_correct": true },
+      { "text": "Link & Phelan — Goffman को fully replace करते हैं", "is_correct": false },
+      { "text": "Stigma — measurement में standardized scales exist नहीं करते", "is_correct": false }
+    ],
+    "explanation": "Goffman (1963) — 'Stigma: Notes on the Management of Spoiled Identity': (1) Discredited vs Discreditable, (2) Stigma management strategies (passing, covering, withdrawal), (3) Interaction rituals — stigmatized and 'normals'. Strengths: phenomenological richness, social interaction focus. Limitations: (1) Microsocial only, (2) Apolitical — ignores power structures, (3) Hard to operationalize. Link & Phelan (2001) — Modified Labeling Theory + Conceptual framework: 5 components: (1) Labeling, (2) Stereotyping, (3) Separation (us/them), (4) Status loss, (5) Discrimination — all contingent on POWER. Advantages: (1) Measurable components, (2) Structural — power differential necessary condition, (3) 'Status loss and discrimination' linkage to health outcomes. Measurement scales: DISC (Discrimination and Stigma Scale), ISMI (Internalized Stigma of Mental Illness). India में: mental illness + TB + HIV stigma measured. Intervention: target stereotyping + separation + power structures।"
+  },
+  {
+    "question": "Rita Charon की 'Narrative Medicine' — 'close reading, reflective writing, और bearing witness' — clinical empathy और therapeutic alliance को कैसे empirically और theoretically strengthen करती है?",
+    "options": [
+      { "text": "Narrative Medicine — anecdotal, unscientific approach है", "is_correct": false },
+      { "text": "Narrative competence training → perspective-taking + tolerance of ambiguity + ethical commitment → measurable improvement in therapeutic alliance, patient satisfaction, reduced burnout — narrative as clinical knowledge form", "is_correct": true },
+      { "text": "Narrative Medicine — केवल literary education है, clinical outcomes से unrelated", "is_correct": false },
+      { "text": "Close reading — clinical skills development में irrelevant है", "is_correct": false }
+    ],
+    "explanation": "Rita Charon (2001, 2006) — Narrative Medicine: 'medicine practiced with narrative competence.' Three activities: (1) Close Reading: detailed attention to patient texts, clinical notes, literature — noticing what's said AND unsaid, (2) Reflective Writing: providers write about clinical encounters — processing emotional + ethical content, (3) Bearing Witness: standing with patient in suffering — without fixing. Theoretical basis: Paul Ricoeur — narrative as meaning-making; Kleinman — illness narrative. Empirical evidence: (1) Charon's Columbia program: narrative training → improved therapeutic alliance scores, (2) Reduced physician burnout, (3) Improved patient satisfaction, (4) Enhanced ethical reasoning. Mechanism: narrative thinking ↔ case-based thinking → wholeness of patient restored. India में: medical education reform — integrating social sciences through narrative medicine. Qualitative: illness narrative research (IPA, Narrative Inquiry) as clinical knowledge。"
+  },
+  {
+    "question": "Paulo Freire के 'Pedagogy of the Oppressed' (1968) में 'conscientization' (critical consciousness) की health education में क्या radical application है और 'banking model' से यह कैसे भिन्न है?",
+    "options": [
+      { "text": "Freire की pedagogy — केवल literacy education में, health में नहीं", "is_correct": false },
+      { "text": "Banking model: passive recipients receive health information (deposits); Conscientization: community analyses own health conditions, identifies structural causes, acts collectively — empowerment not compliance goal", "is_correct": true },
+      { "text": "Conscientization — individual behavior change का synonym है", "is_correct": false },
+      { "text": "Freire — health education को fully accepts as neutral science", "is_correct": false }
+    ],
+    "explanation": "Paulo Freire (1968) — 'Pedagogy of the Oppressed': (1) Banking Model (Problem): educator deposits knowledge into passive students — health equivalent: HEO lectures community about hygiene, diet, vaccination → compliance expected. Critique: (a) Assumes community empty of knowledge, (b) Maintains power asymmetry, (c) No transformation of conditions. (2) Problem-Posing Education + Conscientization: (a) Dialogue — horizontal relationship, (b) Generative Themes — start from community's lived reality (their health problems, their words), (c) Naming → Reflection → Action (praxis), (d) Critical consciousness: understanding structural causes of health problems (poverty, caste, gender) — not just 'dirty hands.' Applications: (1) Participatory Learning and Action (PLA) in ASHA training, (2) PhotoVoice methodology, (3) Community Health Workers as Freirean educators, (4) SEWA health education, (5) Jan Swasthya Abhiyan campaigns. India में: Chhattisgarh Mitanin program — community-based Freirean approach to health education। Evaluation: process + structural outcomes, not just knowledge scores।"
+  },
+  {
+    "question": "Naomi Zack के 'race as social construction' के philosophical argument का health research methodology पर क्या radical implication है और 'race-based medicine' की critique क्या है?",
+    "options": [
+      { "text": "Race — biological category है इसलिए race-based medicine scientifically valid है", "is_correct": false },
+      { "text": "Race biologically invalid (genetic variation within 'races' > between) — BUT racism real health determinant; race-based medicine reifies false categories while obscuring racism as actual cause", "is_correct": true },
+      { "text": "Zack — race को health research में entirely ignore करने की advocate हैं", "is_correct": false },
+      { "text": "Race-based medicine — discrimination नहीं, personalized care है", "is_correct": false }
+    ],
+    "explanation": "Naomi Zack (2002, 'Philosophy of Science and Race') — Race has no biological validity: (1) Human genetic variation is clinal (continuous gradations), not discrete racial groups, (2) More genetic variation within 'racial' groups than between them (Lewontin), (3) No race-specific alleles — only different frequencies across populations. Race = social/political construction with real material consequences. Health Research Methodology implications: (1) Using race as biological variable → category error — conflates social category with biological, (2) Race-adjusted clinical measures: eGFR (kidney function) race correction → historically discriminatory, being phased out, (3) BiDil (heart failure drug for 'African Americans') — racialized pharmaceutical market, (4) Spirometry race correction — underestimates lung disease in Black patients. What race actually predicts: racism's health effects — discrimination stress, residential segregation, wealth gaps, differential treatment. Methodologically: measure racism (discrimination experiences, neighborhood segregation index) not race. India में: caste = race analogue — caste-adjusted medicine would be absurd; measure casteism's health effects directly।"
+  },
+  {
+    "question": "Erving Goffman के 'Total Institutions' (1961) की अवधारणा का उपयोग करके आधुनिक COVID-19 isolation centers और long-term psychiatric facilities में dehumanization की mechanisms को critically analyze करें।",
+    "options": [
+      { "text": "Total Institution features — therapeutic environment को enhance करती हैं", "is_correct": false },
+      { "text": "Mortification of self (identity stripping), batch living, binary management, privilege system — COVID isolation centers replicated total institution dynamics → resistance, poor compliance, psychological harm", "is_correct": true },
+      { "text": "COVID isolation centers — total institutions नहीं थे", "is_correct": false },
+      { "text": "Goffman — institutional care को positive विकल्प मानते थे", "is_correct": false }
+    ],
+    "explanation": "Goffman (1961) — 'Asylums': Total Institution: place of residence and work for large number of like-situated individuals, cut off from wider society, together lead an enclosed, formally administered life. 4 types: mental hospitals, prisons, monasteries, military camps. 5 key features: (1) All aspects of life in same place/authority, (2) Batch treatment — inmates treated alike, (3) Tight scheduling, (4) Single rational plan serving institutional aims (not individual), (5) Sharp divide: inmates vs staff. COVID Isolation Centers (India 2020): (1) Mortification: patients stripped of phones, personal items, clothing choices, (2) Batch living: diverse patients together regardless of condition, (3) Binary authority: medical staff = all power, (4) Surveillance: cameras, regular rounds, no privacy, (5) Privilege system: 'good patients' got better beds. Psychological effects: demoralization, resistance to isolation, absconding. Psychiatric hospitals today: despite reform — still retain total institution features (Goffman's critique remains relevant). Recovery Model attempts to counter this. Design recommendations: patient choice, personal space, maintained outside connections, individualized care plans।"
+  }
+]

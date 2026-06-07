@@ -1,0 +1,792 @@
+[
+  {
+    "question": "मनोविज्ञान में 'अभिप्रेरणा' (Motivation) का अर्थ क्या है?",
+    "options": [
+      { "text": "केवल पुरस्कार प्राप्त करने की इच्छा", "is_correct": false },
+      { "text": "व्यवहार को शुरू करने, दिशा देने और बनाए रखने की आंतरिक प्रक्रिया", "is_correct": true },
+      { "text": "केवल भय से उत्पन्न कार्य", "is_correct": false },
+      { "text": "केवल बाहरी दबाव से उत्पन्न क्रिया", "is_correct": false }
+    ],
+    "explanation": "अभिप्रेरणा (Motivation) वह मनोवैज्ञानिक शक्ति है जो व्यक्ति को किसी लक्ष्य की ओर कार्य करने के लिए प्रेरित करती है। यह आंतरिक (भूख, जिज्ञासा) और बाह्य (पुरस्कार, दंड) दोनों प्रकार की हो सकती है।"
+  },
+  {
+    "question": "मैस्लो की 'आवश्यकता सोपान' (Hierarchy of Needs) में सबसे निचले स्तर की आवश्यकता कौन-सी है?",
+    "options": [
+      { "text": "सुरक्षा आवश्यकता", "is_correct": false },
+      { "text": "जैविक/शारीरिक आवश्यकताएँ (भोजन, जल, नींद)", "is_correct": true },
+      { "text": "प्रेम और अपनेपन की आवश्यकता", "is_correct": false },
+      { "text": "आत्म-सम्मान की आवश्यकता", "is_correct": false }
+    ],
+    "explanation": "Abraham Maslow के 'Hierarchy of Needs' (1943) में पाँच स्तर हैं। सबसे निचले और प्राथमिक स्तर पर शारीरिक आवश्यकताएँ हैं — जैसे भोजन, पानी, आश्रय, नींद। इन्हें पूरा किए बिना उच्च स्तर की आवश्यकताएँ सक्रिय नहीं होतीं।"
+  },
+  {
+    "question": "पावलोव का 'क्लासिकल कंडीशनिंग' (Classical Conditioning) किसने और किस पर किया?",
+    "options": [
+      { "text": "स्किनर ने चूहों पर", "is_correct": false },
+      { "text": "पावलोव ने कुत्तों पर — लार (saliva) की प्रतिक्रिया का अध्ययन", "is_correct": true },
+      { "text": "फ्रायड ने बच्चों पर", "is_correct": false },
+      { "text": "बंडुरा ने बंदरों पर", "is_correct": false }
+    ],
+    "explanation": "Ivan Pavlov ने कुत्तों पर प्रयोग करके Classical Conditioning की खोज की। उन्होंने पाया कि यदि घंटी बजाने के साथ भोजन दिया जाए, तो बाद में केवल घंटी बजने पर भी कुत्ते लार टपकाने लगते हैं। यह 'शर्तबद्ध अनुक्रिया' (Conditioned Response) है।"
+  },
+  {
+    "question": "स्किनर का 'क्रियाप्रसूत अनुबंधन' (Operant Conditioning) में 'सकारात्मक पुनर्बलन' (Positive Reinforcement) का क्या अर्थ है?",
+    "options": [
+      { "text": "दंड देकर व्यवहार बदलना", "is_correct": false },
+      { "text": "किसी वांछित व्यवहार के बाद पुरस्कार देकर उस व्यवहार को मजबूत करना", "is_correct": true },
+      { "text": "अवांछित चीज हटाकर व्यवहार बढ़ाना", "is_correct": false },
+      { "text": "व्यवहार को नजरअंदाज करना", "is_correct": false }
+    ],
+    "explanation": "B.F. Skinner के Operant Conditioning में Positive Reinforcement में किसी सकारात्मक उत्तेजना (पुरस्कार) को जोड़कर वांछित व्यवहार की आवृत्ति बढ़ाई जाती है। उदाहरण: बच्चे को अच्छे काम पर शाबाशी देना।"
+  },
+  {
+    "question": "मनोविज्ञान में 'स्मृति' (Memory) के तीन चरण कौन-से हैं?",
+    "options": [
+      { "text": "सोचना, बोलना, लिखना", "is_correct": false },
+      { "text": "एनकोडिंग (Encoding), भंडारण (Storage), पुनःप्राप्ति (Retrieval)", "is_correct": true },
+      { "text": "देखना, सुनना, स्पर्श करना", "is_correct": false },
+      { "text": "जागना, सोना, सपने देखना", "is_correct": false }
+    ],
+    "explanation": "स्मृति (Memory) की तीन प्रक्रियाएँ हैं: (1) Encoding — सूचना को मानसिक कोड में बदलना, (2) Storage — कोडित जानकारी को मस्तिष्क में संग्रहीत करना, (3) Retrieval — जरूरत पड़ने पर संग्रहीत जानकारी को वापस लाना।"
+  },
+  {
+    "question": "'अल्पकालीन स्मृति' (Short-Term Memory) की क्षमता कितनी होती है?",
+    "options": [
+      { "text": "असीमित", "is_correct": false },
+      { "text": "7 ± 2 इकाइयाँ (George Miller का 'Magic Number')", "is_correct": true },
+      { "text": "केवल 3 इकाइयाँ", "is_correct": false },
+      { "text": "50 इकाइयाँ", "is_correct": false }
+    ],
+    "explanation": "George Miller (1956) ने अपने प्रसिद्ध लेख 'The Magical Number Seven, Plus or Minus Two' में बताया कि Short-Term Memory में एक बार में लगभग 7 (±2) सूचना इकाइयाँ (chunks) रखी जा सकती हैं।"
+  },
+  {
+    "question": "सिगमंड फ्रायड ने मन के किन तीन स्तरों का वर्णन किया?",
+    "options": [
+      { "text": "बुद्धि, भावना, इच्छाशक्ति", "is_correct": false },
+      { "text": "चेतन (Conscious), अर्धचेतन (Preconscious), अचेतन (Unconscious)", "is_correct": true },
+      { "text": "इड, इगो, सुपरइगो", "is_correct": false },
+      { "text": "तर्क, भावना, अंतर्ज्ञान", "is_correct": false }
+    ],
+    "explanation": "फ्रायड ने मन को तीन स्तरों में विभाजित किया: (1) Conscious — वर्तमान में जागरूकता में जो है, (2) Preconscious — जो आसानी से चेतना में आ सके, (3) Unconscious — जो दमित है और सामान्यतः चेतना में नहीं आता।"
+  },
+  {
+    "question": "मनोविज्ञान में 'भावना' (Emotion) के घटक कौन-से हैं?",
+    "options": [
+      { "text": "केवल शारीरिक प्रतिक्रिया", "is_correct": false },
+      { "text": "शारीरिक उत्तेजना, व्यक्तिपरक अनुभव और व्यवहारिक अभिव्यक्ति", "is_correct": true },
+      { "text": "केवल मानसिक अनुभव", "is_correct": false },
+      { "text": "केवल चेहरे के भाव", "is_correct": false }
+    ],
+    "explanation": "भावना (Emotion) के तीन घटक हैं: (1) Physiological — शरीर में परिवर्तन (हृदय गति, रक्तचाप), (2) Subjective — व्यक्ति का अपना अनुभव (खुशी, दुःख), (3) Behavioral — व्यवहार और चेहरे के भाव। तीनों मिलकर एक भावना बनाते हैं।"
+  },
+  {
+    "question": "पॉल एकमान (Paul Ekman) के अनुसार 'सार्वभौमिक भावनाएँ' (Universal Emotions) कितनी हैं?",
+    "options": [
+      { "text": "3", "is_correct": false },
+      { "text": "6 — खुशी, दुःख, क्रोध, भय, घृणा, आश्चर्य", "is_correct": true },
+      { "text": "10", "is_correct": false },
+      { "text": "20", "is_correct": false }
+    ],
+    "explanation": "Paul Ekman ने अपने क्रॉस-कल्चरल अनुसंधान में पाया कि 6 मूलभूत भावनाएँ सभी संस्कृतियों में पाई जाती हैं: Happiness (खुशी), Sadness (दुःख), Anger (क्रोध), Fear (भय), Disgust (घृणा) और Surprise (आश्चर्य)। बाद में उन्होंने 'Contempt' (तिरस्कार) जोड़ा।"
+  },
+  {
+    "question": "'बुद्धि-लब्धि' (IQ — Intelligence Quotient) की गणना कैसे होती है?",
+    "options": [
+      { "text": "IQ = (मानसिक आयु / वास्तविक आयु) × 100", "is_correct": true },
+      { "text": "IQ = (वास्तविक आयु / मानसिक आयु) × 100", "is_correct": false },
+      { "text": "IQ = मानसिक आयु + वास्तविक आयु", "is_correct": false },
+      { "text": "IQ = (परीक्षा अंक / कुल अंक) × 100", "is_correct": false }
+    ],
+    "explanation": "IQ (Intelligence Quotient) = (Mental Age / Chronological Age) × 100। यह सूत्र William Stern ने दिया था। यदि मानसिक आयु और वास्तविक आयु समान हों, तो IQ = 100 (औसत)। IQ 130+ — gifted, 70 से कम — intellectual disability।"
+  },
+  {
+    "question": "'थर्स्टन का बहुकारक बुद्धि सिद्धांत' (Thurstone's Primary Mental Abilities) में कितनी प्राथमिक मानसिक क्षमताएँ हैं?",
+    "options": [
+      { "text": "3", "is_correct": false },
+      { "text": "7 — वाचिक, संख्यात्मक, स्थान, स्मृति, तर्क, प्रत्यक्षीकरण, शब्द प्रवाह", "is_correct": true },
+      { "text": "12", "is_correct": false },
+      { "text": "2 — सामान्य और विशेष", "is_correct": false }
+    ],
+    "explanation": "L.L. Thurstone ने 7 Primary Mental Abilities बताई: Verbal Comprehension, Word Fluency, Number Facility, Spatial Visualization, Memory, Perceptual Speed और Inductive Reasoning। उन्होंने Spearman के एकल 'g-factor' को चुनौती दी।"
+  },
+  {
+    "question": "'विकास मनोविज्ञान' (Developmental Psychology) में जीन पियाजे ने बच्चों के संज्ञानात्मक विकास के कितने चरण बताए?",
+    "options": [
+      { "text": "3", "is_correct": false },
+      { "text": "4 — संवेदी-गति, पूर्व-संक्रियात्मक, ठोस-संक्रियात्मक, औपचारिक-संक्रियात्मक", "is_correct": true },
+      { "text": "6", "is_correct": false },
+      { "text": "8", "is_correct": false }
+    ],
+    "explanation": "Piaget के Cognitive Development के 4 चरण: (1) Sensorimotor (0-2 वर्ष), (2) Pre-operational (2-7 वर्ष), (3) Concrete operational (7-11 वर्ष), (4) Formal operational (12+ वर्ष)। प्रत्येक चरण में बच्चे की सोचने की क्षमता गुणात्मक रूप से बदलती है।"
+  },
+  {
+    "question": "एरिक एरिक्सन ने मनोसामाजिक विकास के कितने चरण बताए?",
+    "options": [
+      { "text": "5", "is_correct": false },
+      { "text": "8 — जन्म से वृद्धावस्था तक", "is_correct": true },
+      { "text": "3", "is_correct": false },
+      { "text": "10", "is_correct": false }
+    ],
+    "explanation": "Erik Erikson ने 8 Psychosocial Stages बताए — पहला शैशव में (Trust vs Mistrust) से लेकर अंतिम वृद्धावस्था में (Integrity vs Despair) तक। प्रत्येक चरण में एक मनोसामाजिक 'संकट' होता है जिसे सुलझाना स्वस्थ विकास के लिए जरूरी है।"
+  },
+  {
+    "question": "'अनुकूलन विधि' (Defense Mechanism) में 'दमन' (Repression) का क्या अर्थ है?",
+    "options": [
+      { "text": "किसी को दंड देना", "is_correct": false },
+      { "text": "कष्टदायक विचारों या भावनाओं को अचेतन में धकेलना", "is_correct": true },
+      { "text": "अपनी जिम्मेदारी दूसरे पर डालना", "is_correct": false },
+      { "text": "बचकाने व्यवहार पर लौटना", "is_correct": false }
+    ],
+    "explanation": "Repression (दमन) फ्रायड का प्रमुख Defense Mechanism है — इसमें व्यक्ति दर्दनाक, चिंताजनक विचारों और इच्छाओं को चेतना से बाहर (unconscious में) धकेल देता है। यह अचेतन रूप से होता है और मानसिक रोगों का कारण बन सकता है।"
+  },
+  {
+    "question": "तनाव (Stress) और उसके स्रोतों के सन्दर्भ में 'जीवन घटना पैमाना' (Holmes-Rahe Stress Scale) में सर्वाधिक तनावपूर्ण जीवन घटना कौन-सी है?",
+    "options": [
+      { "text": "नौकरी बदलना", "is_correct": false },
+      { "text": "जीवनसाथी की मृत्यु", "is_correct": true },
+      { "text": "विवाह करना", "is_correct": false },
+      { "text": "गर्भावस्था", "is_correct": false }
+    ],
+    "explanation": "Holmes और Rahe (1967) के Social Readjustment Rating Scale (SRRS) में जीवनसाथी की मृत्यु को 100 अंक (सर्वाधिक तनावपूर्ण) दिए गए। इस पैमाने पर 300 से अधिक अंक होने पर गंभीर बीमारी का जोखिम बढ़ जाता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'आत्म-अवधारणा' (Self-Concept) का क्या अर्थ है?",
+    "options": [
+      { "text": "स्वयं के बारे में आत्म-सम्मान", "is_correct": false },
+      { "text": "स्वयं के बारे में व्यक्ति का समग्र विश्वास और धारणाएँ — मैं कौन हूँ", "is_correct": true },
+      { "text": "स्वयं को दूसरों से श्रेष्ठ मानना", "is_correct": false },
+      { "text": "दूसरों की राय में अपनी छवि", "is_correct": false }
+    ],
+    "explanation": "Self-Concept व्यक्ति की अपने बारे में विश्वासों और धारणाओं का समूह है — इसमें शारीरिक, सामाजिक और मनोवैज्ञानिक पहलू शामिल हैं। यह विकास के दौरान अनुभवों से बनता है और व्यवहार को निर्देशित करता है।"
+  },
+  {
+    "question": "अल्बर्ट बंडुरा का 'अवलोकन अधिगम' (Observational Learning) किस सिद्धांत पर आधारित है?",
+    "options": [
+      { "text": "लोग केवल पुरस्कार और दंड से सीखते हैं", "is_correct": false },
+      { "text": "लोग दूसरों को देखकर और उनका अनुकरण करके भी सीखते हैं — 'Bobo Doll Experiment'", "is_correct": true },
+      { "text": "सीखना केवल पुस्तकों से होता है", "is_correct": false },
+      { "text": "सीखना केवल व्यक्तिगत अनुभव से होता है", "is_correct": false }
+    ],
+    "explanation": "Albert Bandura के Social Learning Theory के अनुसार, लोग दूसरों के व्यवहार को देखकर और उसके परिणामों को देखकर सीखते हैं (Vicarious Learning)। उनके प्रसिद्ध 'Bobo Doll Experiment' में बच्चों ने वयस्कों की आक्रामकता का अनुकरण किया।"
+  },
+  {
+    "question": "मनोविज्ञान में 'अभिवृत्ति' (Attitude) के तीन घटक कौन-से हैं?",
+    "options": [
+      { "text": "बुद्धि, भावना, व्यवहार", "is_correct": false },
+      { "text": "संज्ञानात्मक (Cognitive), भावात्मक (Affective), व्यवहारात्मक (Behavioral)", "is_correct": true },
+      { "text": "विश्वास, आदत, परंपरा", "is_correct": false },
+      { "text": "आनुवांशिकता, पर्यावरण, संस्कृति", "is_correct": false }
+    ],
+    "explanation": "Attitude के ABC घटक: (A) Affective — भावनात्मक पहलू (पसंद/नापसंद), (B) Behavioral — व्यवहारिक पहलू (किसी वस्तु/व्यक्ति के प्रति क्रिया), (C) Cognitive — विचारात्मक पहलू (विश्वास और जानकारी)।"
+  },
+  {
+    "question": "'संज्ञानात्मक विसंवाद' (Cognitive Dissonance — Festinger) का क्या अर्थ है?",
+    "options": [
+      { "text": "दो लोगों के बीच मतभेद", "is_correct": false },
+      { "text": "व्यक्ति के विश्वासों/व्यवहार में परस्पर विरोध से उत्पन्न मानसिक बेचैनी", "is_correct": true },
+      { "text": "बुद्धि और भावना का टकराव", "is_correct": false },
+      { "text": "दिमाग की थकान", "is_correct": false }
+    ],
+    "explanation": "Leon Festinger (1957) के अनुसार, जब किसी व्यक्ति के दो विचार या विचार और व्यवहार में विरोधाभास होता है (जैसे धूम्रपान करने वाला जानता है कि यह हानिकारक है), तो मानसिक बेचैनी (Cognitive Dissonance) होती है, जिसे दूर करने के लिए व्यक्ति अपने विचार या व्यवहार बदलता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'व्यक्तित्व' (Personality) को मापने का एक प्रमुख उपकरण कौन-सा है?",
+    "options": [
+      { "text": "सोनार", "is_correct": false },
+      { "text": "Minnesota Multiphasic Personality Inventory (MMPI)", "is_correct": true },
+      { "text": "EEG", "is_correct": false },
+      { "text": "सोशियोमेट्री", "is_correct": false }
+    ],
+    "explanation": "MMPI (Minnesota Multiphasic Personality Inventory) सर्वाधिक उपयोग किया जाने वाला व्यक्तित्व परीक्षण है। यह मानसिक स्वास्थ्य, व्यक्तित्व लक्षण और मनोविकारों का मूल्यांकन करता है। इसे मूल रूप से Hathaway और McKinley (1943) ने विकसित किया था।"
+  },
+  {
+    "question": "'रोर्शाक परीक्षण' (Rorschach Test) किस प्रकार का परीक्षण है?",
+    "options": [
+      { "text": "बुद्धि परीक्षण", "is_correct": false },
+      { "text": "प्रक्षेपी व्यक्तित्व परीक्षण — जिसमें स्याही के धब्बों (inkblots) की व्याख्या से अचेतन को समझा जाता है", "is_correct": true },
+      { "text": "उपलब्धि परीक्षण", "is_correct": false },
+      { "text": "अभिक्षमता परीक्षण", "is_correct": false }
+    ],
+    "explanation": "Hermann Rorschach (1921) द्वारा विकसित Rorschach Inkblot Test एक Projective Test है। इसमें व्यक्ति को 10 स्याही के धब्बों को देखकर बताना होता है कि वे उसे क्या दिखते हैं। व्यक्ति अपनी अचेतन भावनाओं और विचारों को धब्बों पर 'प्रक्षेपित' करता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सहानुभूति' (Empathy) और 'सहदुःख' (Sympathy) में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Empathy में दूसरे की भावनाओं को महसूस करना, जबकि Sympathy में दूसरे के लिए दुःख अनुभव करना", "is_correct": true },
+      { "text": "Sympathy अधिक गहरी भावना है", "is_correct": false },
+      { "text": "Empathy केवल नकारात्मक भावनाओं के लिए है", "is_correct": false }
+    ],
+    "explanation": "Empathy में व्यक्ति दूसरे की दृष्टि से देखता है और उनकी भावनाओं को समझता और महसूस करता है ('खुद को उनकी जगह रखना')। Sympathy में व्यक्ति दूसरे के लिए दुःख या करुणा अनुभव करता है, लेकिन उनकी दृष्टि अपनी नहीं बनाता।"
+  },
+  {
+    "question": "मनोविज्ञान में 'चिंता विकार' (Anxiety Disorder) का एक सामान्य उदाहरण क्या है?",
+    "options": [
+      { "text": "मनोभ्रंश (Dementia)", "is_correct": false },
+      { "text": "सामाजिक भय (Social Phobia/Social Anxiety Disorder)", "is_correct": true },
+      { "text": "सिज़ोफ्रेनिया", "is_correct": false },
+      { "text": "द्विध्रुवी विकार", "is_correct": false }
+    ],
+    "explanation": "Anxiety Disorders में Social Anxiety Disorder (सामाजिक भय) सबसे सामान्य है, जिसमें व्यक्ति को सामाजिक स्थितियों में अत्यधिक भय और शर्म महसूस होती है। अन्य उदाहरण: Specific Phobia, Generalized Anxiety Disorder (GAD), Panic Disorder।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सकारात्मक मनोविज्ञान' (Positive Psychology) के प्रमुख प्रवर्तक कौन हैं?",
+    "options": [
+      { "text": "सिगमंड फ्रायड", "is_correct": false },
+      { "text": "मार्टिन सेलिगमन", "is_correct": true },
+      { "text": "बी.एफ. स्किनर", "is_correct": false },
+      { "text": "अल्बर्ट बंडुरा", "is_correct": false }
+    ],
+    "explanation": "Martin Seligman को 'Positive Psychology' का जनक माना जाता है। उन्होंने 1998 में APA के अध्यक्ष के रूप में Positive Psychology को एक आंदोलन के रूप में स्थापित किया — जो रोग और कमजोरी के बजाय मानव शक्तियों, खुशी और फलने-फूलने पर ध्यान देती है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'आत्मा-प्रभावकारिता' (Self-Efficacy) की अवधारणा किसने दी?",
+    "options": [
+      { "text": "कार्ल रोजर्स", "is_correct": false },
+      { "text": "अल्बर्ट बंडुरा", "is_correct": true },
+      { "text": "एरिक एरिक्सन", "is_correct": false },
+      { "text": "अब्राहम मैस्लो", "is_correct": false }
+    ],
+    "explanation": "Albert Bandura ने Self-Efficacy की अवधारणा दी — यह व्यक्ति का अपनी क्षमताओं में विश्वास है कि वह किसी कार्य को सफलतापूर्वक कर सकता है। उच्च Self-Efficacy वाले व्यक्ति चुनौतियों को बेहतर तरीके से संभालते हैं और स्वास्थ्यकर व्यवहार अपनाने में अधिक सफल होते हैं।"
+  },
+  {
+    "question": "'अनुकूलन' (Coping) की दो मुख्य रणनीतियाँ कौन-सी हैं?",
+    "options": [
+      { "text": "सक्रिय और निष्क्रिय", "is_correct": false },
+      { "text": "समस्या-केंद्रित (Problem-Focused) और भावना-केंद्रित (Emotion-Focused)", "is_correct": true },
+      { "text": "सामाजिक और व्यक्तिगत", "is_correct": false },
+      { "text": "तत्काल और दीर्घकालिक", "is_correct": false }
+    ],
+    "explanation": "Lazarus और Folkman (1984) ने Coping की दो रणनीतियाँ बताईं: (1) Problem-Focused Coping — समस्या के कारण को बदलना (जैसे स्किल सीखना), (2) Emotion-Focused Coping — भावनात्मक प्रतिक्रिया को प्रबंधित करना (जैसे ध्यान, सामाजिक समर्थन)।"
+  },
+  {
+    "question": "बच्चों में 'अनुलग्नन' (Attachment) की अवधारणा किसने दी?",
+    "options": [
+      { "text": "सिगमंड फ्रायड", "is_correct": false },
+      { "text": "जॉन बॉल्बी (John Bowlby)", "is_correct": true },
+      { "text": "जीन पियाजे", "is_correct": false },
+      { "text": "लेव वायगोत्स्की", "is_correct": false }
+    ],
+    "explanation": "John Bowlby ने Attachment Theory विकसित की — यह बताती है कि शिशु अपने प्राथमिक देखभालकर्ता (माँ) के साथ एक भावनात्मक बंधन विकसित करते हैं जो उनके जीवन भर के संबंधों का आधार बनता है। Mary Ainsworth ने 'Strange Situation' प्रयोग से इसे आगे विकसित किया।"
+  },
+  {
+    "question": "मनोविज्ञान में 'विस्मरण' (Forgetting) का सबसे सामान्य कारण क्या है?",
+    "options": [
+      { "text": "मस्तिष्क में कोई कमी", "is_correct": false },
+      { "text": "क्षय (Decay), व्यतिकरण (Interference) और पुनःप्राप्ति विफलता (Retrieval Failure)", "is_correct": true },
+      { "text": "नींद न आना", "is_correct": false },
+      { "text": "केवल बुढ़ापा", "is_correct": false }
+    ],
+    "explanation": "विस्मरण के प्रमुख कारण: (1) Decay — समय के साथ स्मृति का कमजोर होना, (2) Interference — पुरानी या नई जानकारी का हस्तक्षेप, (3) Retrieval Failure — जानकारी stored है लेकिन retrieval cues उपलब्ध नहीं। Ebbinghaus का 'Forgetting Curve' इसे दर्शाता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'ध्यान' (Attention) की 'चयनात्मकता' (Selectivity) का क्या अर्थ है?",
+    "options": [
+      { "text": "एक समय में सभी उत्तेजनाओं पर ध्यान देना", "is_correct": false },
+      { "text": "एक समय में केवल कुछ उत्तेजनाओं पर ध्यान केंद्रित करके बाकी को छोड़ना", "is_correct": true },
+      { "text": "ध्यान न देना", "is_correct": false },
+      { "text": "सोने की अवस्था में ध्यान", "is_correct": false }
+    ],
+    "explanation": "ध्यान की चयनात्मकता (Selective Attention) वह क्षमता है जिससे हम एक साथ आने वाली अनेक उत्तेजनाओं में से कुछ विशेष पर ध्यान केंद्रित करते हैं। Cherry का 'Cocktail Party Effect' इसका उदाहरण है — भीड़ में भी हम अपना नाम सुन लेते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सामाजिक सुविधा' (Social Facilitation) का क्या अर्थ है?",
+    "options": [
+      { "text": "समूह में काम करने से सदैव प्रदर्शन बेहतर होता है", "is_correct": false },
+      { "text": "दूसरों की उपस्थिति से सरल/परिचित कार्यों में प्रदर्शन बेहतर होता है, लेकिन जटिल कार्यों में खराब हो सकता है", "is_correct": true },
+      { "text": "अकेले काम करने से हमेशा बेहतर परिणाम मिलते हैं", "is_correct": false },
+      { "text": "समूह में काम करने से हमेशा प्रदर्शन बुरा होता है", "is_correct": false }
+    ],
+    "explanation": "Norman Triplett (1898) ने Social Facilitation की खोज की — दूसरों की उपस्थिति से 'arousal' बढ़ती है। Zajonc (1965) ने स्पष्ट किया: यदि कार्य सरल/अभ्यस्त है तो प्रदर्शन बेहतर होता है; यदि कठिन/नया है तो खराब। इसका स्वास्थ्य शिक्षा में महत्व है।"
+  },
+  {
+    "question": "फ्रायड के व्यक्तित्व के त्रि-संरचना सिद्धांत में 'इड' (Id) क्या है?",
+    "options": [
+      { "text": "नैतिकता का केंद्र", "is_correct": false },
+      { "text": "मूल आवेगों और इच्छाओं का भंडार — जो 'आनंद सिद्धांत' पर काम करता है", "is_correct": true },
+      { "text": "वास्तविकता की जाँच करने वाला हिस्सा", "is_correct": false },
+      { "text": "तर्कसंगत सोच का केंद्र", "is_correct": false }
+    ],
+    "explanation": "फ्रायड के अनुसार व्यक्तित्व की तीन संरचनाएँ: (1) Id — जन्मजात, अचेतन, 'pleasure principle' पर काम करता है — तत्काल संतुष्टि चाहता है। (2) Ego — 'reality principle' पर, Id और Superego में मध्यस्थता करता है। (3) Superego — नैतिकता और आदर्श।"
+  },
+  {
+    "question": "मनोविज्ञान में 'आत्म-सम्मान' (Self-Esteem) और 'आत्म-प्रभावकारिता' (Self-Efficacy) में अंतर क्या है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Self-Esteem स्वयं के मूल्य का समग्र मूल्यांकन है, जबकि Self-Efficacy किसी विशेष कार्य को करने की क्षमता में विश्वास है", "is_correct": true },
+      { "text": "Self-Efficacy अधिक व्यापक अवधारणा है", "is_correct": false },
+      { "text": "Self-Esteem केवल बच्चों में होती है", "is_correct": false }
+    ],
+    "explanation": "Self-Esteem एक वैश्विक मूल्यांकन है — 'मैं एक अच्छा इंसान हूँ' या 'मैं मूल्यवान हूँ'। Self-Efficacy कार्य-विशिष्ट है — 'मैं यह काम कर सकता हूँ'। कोई व्यक्ति उच्च Self-Esteem के साथ किसी विशेष क्षेत्र में निम्न Self-Efficacy रख सकता है।"
+  },
+  {
+    "question": "'संज्ञानात्मक व्यवहार चिकित्सा' (Cognitive Behaviour Therapy — CBT) का मूल सिद्धांत क्या है?",
+    "options": [
+      { "text": "दवाओं से मानसिक रोग ठीक होते हैं", "is_correct": false },
+      { "text": "नकारात्मक विचार पैटर्न को पहचानकर और बदलकर भावनाओं और व्यवहार में सुधार किया जा सकता है", "is_correct": true },
+      { "text": "केवल अचेतन की खोज से मानसिक रोग ठीक होते हैं", "is_correct": false },
+      { "text": "CBT केवल गंभीर मानसिक रोगों के लिए है", "is_correct": false }
+    ],
+    "explanation": "CBT (Aaron Beck और Albert Ellis द्वारा विकसित) का मूल सिद्धांत है: हमारे विचार → भावनाएँ → व्यवहार को प्रभावित करते हैं। नकारात्मक, अतार्किक विचारों (Cognitive Distortions) को पहचानकर और तार्किक विचारों से बदलकर मानसिक स्वास्थ्य सुधारा जा सकता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'प्रत्यक्षीकरण' (Perception) और 'संवेदना' (Sensation) में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही प्रक्रिया हैं", "is_correct": false },
+      { "text": "Sensation कच्ची उत्तेजना है जो इंद्रियों द्वारा मस्तिष्क तक पहुँचती है, जबकि Perception उस उत्तेजना को अर्थ देने की प्रक्रिया है", "is_correct": true },
+      { "text": "Perception पहले होती है, Sensation बाद में", "is_correct": false },
+      { "text": "Sensation मानसिक है, Perception शारीरिक है", "is_correct": false }
+    ],
+    "explanation": "Sensation — जब प्रकाश आँख से टकराता है या ध्वनि कान में जाती है (bottom-up processing)। Perception — मस्तिष्क उस कच्ची सूचना को organize, interpret करके अर्थ देता है (top-down processing भी शामिल)। जैसे: आँख प्रकाश देखती है, मस्तिष्क 'सेब' पहचानता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'स्लीप साइकल' (Sleep Cycle) में REM नींद का क्या महत्व है?",
+    "options": [
+      { "text": "REM नींद में शरीर सर्वाधिक आराम करता है", "is_correct": false },
+      { "text": "REM (Rapid Eye Movement) नींद में सपने आते हैं और स्मृति एकीकरण (memory consolidation) होती है", "is_correct": true },
+      { "text": "REM नींद केवल बच्चों में होती है", "is_correct": false },
+      { "text": "REM नींद में मस्तिष्क पूरी तरह बंद होता है", "is_correct": false }
+    ],
+    "explanation": "REM Sleep में आँखें तेजी से हिलती हैं, मस्तिष्क अत्यंत सक्रिय होता है और सपने आते हैं। यह स्मृति एकीकरण, भावनात्मक प्रसंस्करण और रचनात्मकता के लिए महत्वपूर्ण है। REM की कमी से स्मृति और मानसिक स्वास्थ्य पर नकारात्मक प्रभाव पड़ता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'आक्रामकता' (Aggression) का 'निराशा-आक्रामकता सिद्धांत' (Frustration-Aggression Hypothesis) क्या है?",
+    "options": [
+      { "text": "आक्रामकता केवल जन्मजात है", "is_correct": false },
+      { "text": "लक्ष्य प्राप्ति में रुकावट (Frustration) आक्रामकता को जन्म देती है — Dollard et al. (1939)", "is_correct": true },
+      { "text": "आक्रामकता केवल अनुकरण से होती है", "is_correct": false },
+      { "text": "आक्रामकता का निराशा से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Dollard और मिलर (1939) ने Frustration-Aggression Hypothesis प्रस्तुत की: जब व्यक्ति किसी लक्ष्य की ओर बढ़ते समय रोका जाता है (frustrated), तो आक्रामकता उत्पन्न होती है। हालाँकि बाद में Berkowitz ने संशोधित किया — frustration always doesn't lead to aggression, but increases its likelihood।"
+  },
+  {
+    "question": "मनोविज्ञान में 'नींद संबंधी विकार' (Sleep Disorders) में 'अनिद्रा' (Insomnia) के लिए प्रथम-पंक्ति उपचार क्या है?",
+    "options": [
+      { "text": "सदैव नींद की गोलियाँ (sleeping pills)", "is_correct": false },
+      { "text": "Cognitive Behavioral Therapy for Insomnia (CBT-I)", "is_correct": true },
+      { "text": "अधिक समय सोना", "is_correct": false },
+      { "text": "व्यायाम बंद कर देना", "is_correct": false }
+    ],
+    "explanation": "WHO और अमेरिकन स्लीप एसोसिएशन के अनुसार, Insomnia के लिए CBT-I (Cognitive Behavioral Therapy for Insomnia) प्रथम-पंक्ति उपचार है। इसमें नींद की hygiene, stimulus control, sleep restriction और cognitive restructuring शामिल हैं।"
+  },
+  {
+    "question": "वायगोत्स्की (Vygotsky) की 'निकटवर्ती विकास क्षेत्र' (Zone of Proximal Development — ZPD) क्या है?",
+    "options": [
+      { "text": "बच्चे की वर्तमान क्षमता का स्तर", "is_correct": false },
+      { "text": "वह अंतर जो बच्चा अकेले कर सकता है और एक सक्षम व्यक्ति की सहायता से कर सकता है", "is_correct": true },
+      { "text": "स्कूल में बच्चे का अध्ययन क्षेत्र", "is_correct": false },
+      { "text": "बच्चे की भौगोलिक विकास सीमा", "is_correct": false }
+    ],
+    "explanation": "Vygotsky का ZPD — वह अंतर है जो बच्चे की स्वतंत्र क्षमता और एक अधिक कुशल व्यक्ति (शिक्षक, माता-पिता) की सहायता से उसकी क्षमता के बीच होता है। 'Scaffolding' इस ZPD में सहायता प्रदान करने की प्रक्रिया है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'जन्मजात और अर्जित' (Nature vs Nurture) विवाद किससे संबंधित है?",
+    "options": [
+      { "text": "प्राकृतिक पर्यावरण और शहरी जीवन से", "is_correct": false },
+      { "text": "इस प्रश्न से कि व्यक्तित्व और व्यवहार आनुवांशिकता से निर्धारित होते हैं या पर्यावरण/अनुभव से", "is_correct": true },
+      { "text": "स्वास्थ्य और बीमारी के बीच के अंतर से", "is_correct": false },
+      { "text": "केवल बुद्धि के निर्धारण से", "is_correct": false }
+    ],
+    "explanation": "Nature vs Nurture विवाद मनोविज्ञान का एक केंद्रीय प्रश्न है: क्या मानव व्यवहार और व्यक्तित्व मुख्यतः जीन (Nature) द्वारा निर्धारित होता है या पर्यावरण, परवरिश और अनुभव (Nurture) द्वारा? आधुनिक मनोविज्ञान दोनों की भूमिका मानता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'मानसिक स्वास्थ्य' (Mental Health) की WHO की परिभाषा में क्या शामिल है?",
+    "options": [
+      { "text": "केवल मानसिक रोगों की अनुपस्थिति", "is_correct": false },
+      { "text": "भलाई की वह अवस्था जिसमें व्यक्ति अपनी क्षमताओं का उपयोग करता है, सामान्य जीवन तनावों का सामना करता है, उत्पादक काम करता है और समुदाय में योगदान देता है", "is_correct": true },
+      { "text": "सदैव खुश रहना", "is_correct": false },
+      { "text": "कोई चिंता न होना", "is_correct": false }
+    ],
+    "explanation": "WHO के अनुसार Mental Health केवल मानसिक रोग की अनुपस्थिति नहीं है — यह एक 'state of well-being' है जिसमें व्यक्ति: (1) अपनी क्षमताओं को जानता है, (2) जीवन के तनावों का सामना करता है, (3) उत्पादक रूप से काम करता है, (4) समुदाय में योगदान देता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'समूह मानसिकता' (Groupthink) का क्या अर्थ है?",
+    "options": [
+      { "text": "समूह में अच्छे निर्णय लेना", "is_correct": false },
+      { "text": "एकमत और सामंजस्य की चाह में समूह गलत निर्णय लेता है क्योंकि आलोचनात्मक सोच दब जाती है", "is_correct": true },
+      { "text": "समूह में विचारों की विविधता", "is_correct": false },
+      { "text": "समूह का टूटना", "is_correct": false }
+    ],
+    "explanation": "Irving Janis (1972) ने Groupthink की अवधारणा दी — जब समूह सदस्य एकता और सहमति को इतना महत्व देते हैं कि वे असहमति व्यक्त करने से डरते हैं। परिणाम: खराब निर्णय। उदाहरण: Bay of Pigs Invasion। स्वास्थ्य नीति निर्माण में यह खतरनाक है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'पक्षपात' (Bias) का एक उदाहरण 'पुष्टि पक्षपात' (Confirmation Bias) क्या है?",
+    "options": [
+      { "text": "सभी प्रमाणों को समान रूप से महत्व देना", "is_correct": false },
+      { "text": "व्यक्ति केवल उन प्रमाणों पर ध्यान देता है जो उसकी पहले से मौजूद मान्यताओं की पुष्टि करते हैं", "is_correct": true },
+      { "text": "नए विचारों के प्रति खुलापन", "is_correct": false },
+      { "text": "किसी की पुष्टि माँगना", "is_correct": false }
+    ],
+    "explanation": "Confirmation Bias — व्यक्ति अपनी पहले से मौजूद मान्यताओं की पुष्टि करने वाली जानकारी को ढूँढता, याद रखता और महत्व देता है, जबकि विरोधी प्रमाणों को नजरअंदाज करता है। स्वास्थ्य शिक्षा में यह anti-vaccine beliefs को बनाए रखने का एक कारण है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'अनुपालन' (Compliance) का प्रसिद्ध प्रयोग 'मिल्ग्राम प्रयोग' (Milgram Experiment) क्या सिद्ध करता है?",
+    "options": [
+      { "text": "लोग प्राधिकार का कभी पालन नहीं करते", "is_correct": false },
+      { "text": "लोग प्राधिकार व्यक्ति (Authority Figure) के आदेश पर नैतिक रूप से गलत कार्य भी कर सकते हैं", "is_correct": true },
+      { "text": "लोग हमेशा स्वतंत्र रूप से निर्णय लेते हैं", "is_correct": false },
+      { "text": "आज्ञाकारिता केवल बच्चों में होती है", "is_correct": false }
+    ],
+    "explanation": "Stanley Milgram (1963) के प्रयोग में 65% प्रतिभागियों ने प्राधिकार (शोधकर्ता) के आदेश पर 450 वोल्ट तक बिजली के झटके (नकली) देना जारी रखा — भले ही 'शिकार' ने दर्द के संकेत दिए। यह आज्ञाकारिता और नैतिकता का शक्तिशाली प्रदर्शन था।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सामाजिक अनुरूपता' (Social Conformity) का प्रसिद्ध प्रयोग 'ऐश प्रयोग' (Asch Experiment) क्या दिखाता है?",
+    "options": [
+      { "text": "लोग हमेशा सही उत्तर देते हैं", "is_correct": false },
+      { "text": "लोग समूह के दबाव में आकर स्पष्ट रूप से गलत उत्तर भी देते हैं", "is_correct": true },
+      { "text": "लोग समूह की राय कभी नहीं मानते", "is_correct": false },
+      { "text": "समूह सदैव सही उत्तर देता है", "is_correct": false }
+    ],
+    "explanation": "Solomon Asch (1951) के Line Experiment में 75% प्रतिभागियों ने कम से कम एक बार समूह के गलत उत्तर के साथ सहमति जताई — भले ही सही उत्तर स्पष्ट था। यह सामाजिक अनुरूपता (conformity) की शक्ति को दर्शाता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'स्वास्थ्य व्यवहार' (Health Behaviour) को बदलने में 'स्वास्थ्य विश्वास मॉडल' (Health Belief Model) के मुख्य तत्व कौन-से हैं?",
+    "options": [
+      { "text": "केवल जागरूकता और ज्ञान", "is_correct": false },
+      { "text": "रोग की संवेदनशीलता, गंभीरता, लाभ, बाधाएँ और संकेत (Cues to Action)", "is_correct": true },
+      { "text": "केवल डर और सजा", "is_correct": false },
+      { "text": "केवल पारिवारिक दबाव", "is_correct": false }
+    ],
+    "explanation": "Health Belief Model (Rosenstock, 1966) के अनुसार व्यक्ति स्वास्थ्य व्यवहार तब अपनाता है जब वह मानता है: (1) वह रोग के प्रति susceptible है, (2) रोग serious है, (3) व्यवहार बदलने से benefit है, (4) barriers कम हैं, (5) Cues to Action (संकेत) मिलते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'मनोदैहिक रोग' (Psychosomatic Illness) का क्या अर्थ है?",
+    "options": [
+      { "text": "केवल मानसिक कल्पना से उत्पन्न रोग", "is_correct": false },
+      { "text": "वे शारीरिक रोग जिनमें मनोवैज्ञानिक कारक (तनाव, चिंता) महत्वपूर्ण भूमिका निभाते हैं", "is_correct": true },
+      { "text": "केवल पागलपन", "is_correct": false },
+      { "text": "शरीर और मन का अलग-अलग अध्ययन", "is_correct": false }
+    ],
+    "explanation": "Psychosomatic Illness में शारीरिक लक्षण वास्तविक होते हैं लेकिन मनोवैज्ञानिक कारक उन्हें शुरू करते या बिगाड़ते हैं। उदाहरण: तनाव से उच्च रक्तचाप, अल्सर, माइग्रेन, त्वचा रोग। यह मन-शरीर के गहरे संबंध को दर्शाता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'विपर्यासी कंडीशनिंग' (Aversive Conditioning) का एक उदाहरण क्या है?",
+    "options": [
+      { "text": "पुरस्कार देकर अच्छा व्यवहार बढ़ाना", "is_correct": false },
+      { "text": "शराब के साथ मतली उत्पन्न करने वाली दवा देकर शराब पीने की आदत छुड़ाना", "is_correct": true },
+      { "text": "बच्चे को डर दिखाकर पढ़ाना", "is_correct": false },
+      { "text": "योग से तनाव कम करना", "is_correct": false }
+    ],
+    "explanation": "Aversive Conditioning में किसी अवांछित व्यवहार के साथ एक अप्रिय उत्तेजना जोड़कर उस व्यवहार को कम किया जाता है। शराब की लत में 'Antabuse' (disulfiram) दवा दी जाती है जो शराब के साथ मतली करती है — इससे शराब पीने से नकारात्मक अनुबंधन बनता है।"
+  },
+  {
+    "question": "हॉवर्ड गार्डनर (Howard Gardner) ने कितने प्रकार की 'बहु-बुद्धि' (Multiple Intelligences) बताई?",
+    "options": [
+      { "text": "3", "is_correct": false },
+      { "text": "8 या उससे अधिक — भाषिक, तार्किक, स्थानिक, संगीत, शारीरिक, पारस्परिक, अंतर्व्यक्तिक, प्राकृतिक", "is_correct": true },
+      { "text": "5", "is_correct": false },
+      { "text": "12", "is_correct": false }
+    ],
+    "explanation": "Howard Gardner (1983) ने Theory of Multiple Intelligences में 8 प्रकार की बुद्धि बताई: Linguistic, Logical-Mathematical, Spatial, Musical, Bodily-Kinesthetic, Interpersonal, Intrapersonal, और Naturalist। यह एकल IQ की अवधारणा को चुनौती देती है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'पुनःमूल्यांकन' (Cognitive Reappraisal) तनाव प्रबंधन में क्यों प्रभावी है?",
+    "options": [
+      { "text": "क्योंकि यह तनाव के स्रोत को हटा देता है", "is_correct": false },
+      { "text": "क्योंकि यह किसी घटना को अलग दृष्टि से देखने से नकारात्मक भावनात्मक प्रभाव कम करता है", "is_correct": true },
+      { "text": "क्योंकि यह तनाव को नजरअंदाज करना सिखाता है", "is_correct": false },
+      { "text": "क्योंकि यह शारीरिक व्यायाम पर आधारित है", "is_correct": false }
+    ],
+    "explanation": "Cognitive Reappraisal में व्यक्ति किसी तनावपूर्ण घटना की नकारात्मक व्याख्या को बदलता है — जैसे 'यह परीक्षा मेरे लिए खतरा है' की जगह 'यह मेरे विकास का अवसर है'। यह Emotion Regulation की एक प्रभावी रणनीति है जिसे CBT में उपयोग किया जाता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सीखे हुए असहाय' (Learned Helplessness — Martin Seligman) का क्या अर्थ है?",
+    "options": [
+      { "text": "जन्मजात असहाय होना", "is_correct": false },
+      { "text": "बार-बार अनियंत्रणीय बुरी घटनाओं का अनुभव करने से व्यक्ति यह मान लेता है कि उसके प्रयास व्यर्थ हैं — निष्क्रियता और अवसाद का कारण", "is_correct": true },
+      { "text": "दूसरों से सहायता लेना सीखना", "is_correct": false },
+      { "text": "बच्चों में अत्यधिक निर्भरता", "is_correct": false }
+    ],
+    "explanation": "Seligman ने कुत्तों पर प्रयोग में पाया कि जब वे अनियंत्रणीय झटकों के आदी हो गए, तो बचने का अवसर मिलने पर भी नहीं भागे। यही Learned Helplessness है — जो Depression का एक महत्वपूर्ण कारण है। स्वास्थ्य में: लंबे समय से बीमार रोगी भी यह महसूस कर सकते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'मनोविकृति' (Psychosis) की मुख्य विशेषता क्या है?",
+    "options": [
+      { "text": "अत्यधिक चिंता", "is_correct": false },
+      { "text": "वास्तविकता की जाँच (Reality Testing) खो जाना — भ्रम (Delusions) और मतिभ्रम (Hallucinations)", "is_correct": true },
+      { "text": "स्मृति की कमजोरी", "is_correct": false },
+      { "text": "अत्यधिक उदासी", "is_correct": false }
+    ],
+    "explanation": "Psychosis में व्यक्ति वास्तविकता से संपर्क खो देता है। मुख्य लक्षण: (1) Delusions — झूठे विश्वास (जैसे 'मुझे जासूस देख रहे हैं'), (2) Hallucinations — बिना वास्तविक उत्तेजना के अनुभव (जैसे आवाजें सुनना)। Schizophrenia Psychotic Disorder का मुख्य उदाहरण है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'अवसाद' (Depression) और 'दुःख' (Grief/Sadness) में मुख्य अंतर क्या है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Grief एक सामान्य प्रतिक्रिया है जो क्षणिक है, जबकि Clinical Depression लगातार 2 सप्ताह से अधिक रहता है और दैनिक कार्यों को प्रभावित करता है", "is_correct": true },
+      { "text": "Grief अधिक गंभीर है", "is_correct": false },
+      { "text": "Depression केवल बुजुर्गों में होता है", "is_correct": false }
+    ],
+    "explanation": "Grief एक सामान्य और अपेक्षित भावनात्मक प्रतिक्रिया है किसी नुकसान पर। Clinical Depression (Major Depressive Disorder) का निदान तब होता है जब कम से कम 2 सप्ताह तक लगातार उदासी, रुचि की कमी, नींद-भूख में बदलाव और दैनिक कार्यक्षमता में हस्तक्षेप हो।"
+  },
+  {
+    "question": "बच्चों में 'ADHD' (Attention Deficit Hyperactivity Disorder) की मुख्य विशेषताएँ क्या हैं?",
+    "options": [
+      { "text": "अत्यधिक शर्मीलापन और चुप्पी", "is_correct": false },
+      { "text": "ध्यान की कमी (Inattention), अतिसक्रियता (Hyperactivity) और आवेगशीलता (Impulsivity)", "is_correct": true },
+      { "text": "केवल बुद्धिमान बच्चों में होता है", "is_correct": false },
+      { "text": "केवल लड़कियों में होता है", "is_correct": false }
+    ],
+    "explanation": "ADHD बच्चों में सबसे सामान्य Neurodevelopmental Disorder है। इसके तीन मुख्य लक्षण: (1) Inattention — ध्यान केंद्रित न कर पाना, (2) Hyperactivity — अत्यधिक हलचल, (3) Impulsivity — बिना सोचे कार्य करना। इसका निदान DSM-5 के मानदंडों के अनुसार होता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सकारात्मक सुदृढीकरण' (Positive Reinforcement) और 'नकारात्मक सुदृढीकरण' (Negative Reinforcement) में क्या अंतर है?",
+    "options": [
+      { "text": "Negative Reinforcement दंड है", "is_correct": false },
+      { "text": "Positive Reinforcement में कुछ जोड़ा जाता है और Negative Reinforcement में कुछ हटाया जाता है — दोनों व्यवहार को बढ़ाते हैं", "is_correct": true },
+      { "text": "दोनों व्यवहार को कम करते हैं", "is_correct": false },
+      { "text": "Negative Reinforcement व्यवहार कम करता है", "is_correct": false }
+    ],
+    "explanation": "दोनों व्यवहार को मजबूत करते हैं: Positive Reinforcement — वांछित व्यवहार के बाद कुछ सुखद जोड़ा जाता है (शाबाशी)। Negative Reinforcement — वांछित व्यवहार के बाद कुछ अप्रिय हटाया जाता है (सर्दी-जुकाम में दवा लेने पर दर्द हटना)। दोनों व्यवहार की आवृत्ति बढ़ाते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'प्रत्यक्षीकरण का स्थायित्व' (Perceptual Constancy) का क्या अर्थ है?",
+    "options": [
+      { "text": "सभी वस्तुएँ एक जैसी दिखती हैं", "is_correct": false },
+      { "text": "वस्तुएँ दूरी, कोण या प्रकाश बदलने पर भी हमें स्थिर और अपरिवर्तित लगती हैं", "is_correct": true },
+      { "text": "याद रखने की स्थायी क्षमता", "is_correct": false },
+      { "text": "ध्यान का स्थायित्व", "is_correct": false }
+    ],
+    "explanation": "Perceptual Constancy वह क्षमता है जिससे हम किसी वस्तु को अलग-अलग परिस्थितियों में भी एक जैसा अनुभव करते हैं: Size Constancy (दूर की कार छोटी लगती है लेकिन हम जानते हैं कि उसका आकार नहीं बदला), Color Constancy (अलग प्रकाश में भी रंग पहचानना)।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सामाजिक तुलना सिद्धांत' (Social Comparison Theory — Festinger) क्या बताता है?",
+    "options": [
+      { "text": "हम कभी खुद की तुलना नहीं करते", "is_correct": false },
+      { "text": "हम अपनी क्षमताओं और विचारों का मूल्यांकन करने के लिए दूसरों से तुलना करते हैं", "is_correct": true },
+      { "text": "सामाजिक तुलना केवल नकारात्मक है", "is_correct": false },
+      { "text": "हम केवल श्रेष्ठ लोगों से तुलना करते हैं", "is_correct": false }
+    ],
+    "explanation": "Festinger (1954) के Social Comparison Theory के अनुसार, जब वस्तुनिष्ठ मापदंड उपलब्ध न हों, तो हम अपनी क्षमताओं और विचारों का मूल्यांकन दूसरों से तुलना करके करते हैं। Upward comparison (श्रेष्ठों से) और Downward comparison (कमजोरों से) दोनों स्वास्थ्य व्यवहार को प्रभावित करती है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'आघात के बाद तनाव विकार' (PTSD — Post-Traumatic Stress Disorder) के मुख्य लक्षण क्या हैं?",
+    "options": [
+      { "text": "केवल दुःख और रोना", "is_correct": false },
+      { "text": "घटना की बार-बार यादें (Flashbacks), बुरे सपने, टाल-मटोल और अतिसतर्कता", "is_correct": true },
+      { "text": "केवल भूलना", "is_correct": false },
+      { "text": "केवल युद्ध में जाने वाले सैनिकों को होता है", "is_correct": false }
+    ],
+    "explanation": "PTSD किसी गंभीर आघातकारी घटना (हिंसा, दुर्घटना, प्राकृतिक आपदा) के बाद हो सकता है। मुख्य लक्षण: (1) Re-experiencing — flashbacks, nightmares, (2) Avoidance — घटना की याद दिलाने वाली चीजों से बचना, (3) Hyperarousal — चौकन्नापन, नींद न आना, (4) Negative cognitions।"
+  },
+  {
+    "question": "मनोविज्ञान में 'किशोरावस्था' (Adolescence) में 'पहचान संकट' (Identity Crisis — Erikson) क्या है?",
+    "options": [
+      { "text": "किशोर की याददाश्त खोना", "is_correct": false },
+      { "text": "किशोरावस्था में 'मैं कौन हूँ?' के प्रश्न का उत्तर खोजना — Erikson का 5वाँ चरण: Identity vs Role Confusion", "is_correct": true },
+      { "text": "बच्चे का नाम भूल जाना", "is_correct": false },
+      { "text": "केवल लड़कियों में होने वाला संकट", "is_correct": false }
+    ],
+    "explanation": "Erikson के 5वें Psychosocial Stage (12-18 वर्ष) में किशोर 'Identity vs Role Confusion' के संकट से गुजरते हैं। वे यह जानने की कोशिश करते हैं कि वे कौन हैं, क्या मानते हैं और कहाँ जाना चाहते हैं। सफलतापूर्वक हल होने पर 'Fidelity' (निष्ठा) का गुण मिलता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'प्रसव-पश्चात अवसाद' (Postpartum Depression) क्या है?",
+    "options": [
+      { "text": "सामान्य 'बेबी ब्लूज' जो 2 दिन में ठीक हो जाता है", "is_correct": false },
+      { "text": "प्रसव के बाद 2-4 सप्ताह में शुरू होने वाला नैदानिक अवसाद जो उपचार की माँग करता है", "is_correct": true },
+      { "text": "केवल पहले बच्चे के बाद होता है", "is_correct": false },
+      { "text": "केवल शारीरिक थकान है", "is_correct": false }
+    ],
+    "explanation": "Postpartum Depression (PPD) प्रसव के बाद होने वाला Clinical Depression है जो 'Baby Blues' से अधिक गंभीर और लंबे समय तक रहता है। इसमें गहरी उदासी, चिड़चिड़ापन, शिशु की देखभाल में कठिनाई होती है। यह स्वास्थ्य शिक्षा में महत्वपूर्ण विषय है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'भूलने की बीमारी' (Alzheimer's Disease) की मुख्य विशेषता क्या है?",
+    "options": [
+      { "text": "यह केवल बच्चों में होती है", "is_correct": false },
+      { "text": "यह एक प्रगतिशील Neurodegenerative Disease है जिसमें स्मृति, सोच और व्यवहार धीरे-धीरे खराब होता है", "is_correct": true },
+      { "text": "यह एक मानसिक रोग है, शारीरिक नहीं", "is_correct": false },
+      { "text": "यह सदैव ठीक हो सकती है", "is_correct": false }
+    ],
+    "explanation": "Alzheimer's Disease Dementia का सबसे सामान्य कारण है (60-80% मामले)। यह Progressive Neurodegenerative Disease है जिसमें स्मृति की हानि, भाषा समस्या, निर्णय क्षमता में कमी और व्यवहार परिवर्तन धीरे-धीरे बढ़ते हैं। इसका कोई पूर्ण उपचार नहीं है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'मादक द्रव्य लत' (Substance Use Disorder) में 'शारीरिक निर्भरता' (Physical Dependence) का क्या अर्थ है?",
+    "options": [
+      { "text": "दवा देखने पर खुशी होना", "is_correct": false },
+      { "text": "पदार्थ बंद करने पर 'Withdrawal Symptoms' (शारीरिक कष्ट) उत्पन्न होना", "is_correct": true },
+      { "text": "दवा खरीदने की आर्थिक निर्भरता", "is_correct": false },
+      { "text": "केवल शराब में होती है", "is_correct": false }
+    ],
+    "explanation": "Physical Dependence में शरीर पदार्थ का इतना आदी हो जाता है कि उसके अभाव में Withdrawal Symptoms होते हैं — जैसे शराब छोड़ने पर कँपकँपी, पसीना, मतली। यह Psychological Dependence (लालसा, craving) से अलग है। दोनों मिलकर Addiction बनाते हैं।"
+  },
+  {
+    "question": "स्वास्थ्य मनोविज्ञान में 'दर्द की धारणा' (Pain Perception) में मनोवैज्ञानिक कारकों की क्या भूमिका है?",
+    "options": [
+      { "text": "दर्द पूरी तरह शारीरिक है, मनोवैज्ञानिक कारक महत्वहीन हैं", "is_correct": false },
+      { "text": "ध्यान, भावनाएँ, अपेक्षाएँ और विश्वास दर्द की तीव्रता और अनुभव को प्रभावित करते हैं", "is_correct": true },
+      { "text": "दर्द केवल नसों की समस्या है", "is_correct": false },
+      { "text": "मनोवैज्ञानिक दर्द वास्तविक नहीं होता", "is_correct": false }
+    ],
+    "explanation": "Gate Control Theory (Melzack & Wall, 1965) और Biopsychosocial Model दिखाते हैं कि दर्द की अनुभूति में मनोवैज्ञानिक कारक महत्वपूर्ण हैं: चिंता और अवसाद दर्द को बढ़ाते हैं, जबकि ध्यान बदलना, relaxation और positive emotions दर्द को कम करते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'लचीलापन' (Resilience) का क्या अर्थ है?",
+    "options": [
+      { "text": "कभी तनाव न होना", "is_correct": false },
+      { "text": "प्रतिकूलता, आघात और तनाव के बाद वापस उठने और स्वस्थ होने की क्षमता", "is_correct": true },
+      { "text": "शारीरिक लचीलापन (flexibility)", "is_correct": false },
+      { "text": "दूसरों की बात न मानना", "is_correct": false }
+    ],
+    "explanation": "Resilience वह मनोवैज्ञानिक गुण है जिससे व्यक्ति विपरीत परिस्थितियों (आपदा, हानि, बीमारी) से उबरता है। यह जन्मजात नहीं — अनुभव, सामाजिक समर्थन और सकारात्मक सोच से विकसित होती है। स्वास्थ्य शिक्षा में Resilience Building एक महत्वपूर्ण लक्ष्य है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'नींद की कमी' (Sleep Deprivation) का स्वास्थ्य पर क्या प्रभाव पड़ता है?",
+    "options": [
+      { "text": "केवल आलस्य बढ़ता है", "is_correct": false },
+      { "text": "संज्ञानात्मक क्षमता, प्रतिरक्षा तंत्र, मनोदशा और शारीरिक स्वास्थ्य सभी प्रभावित होते हैं", "is_correct": true },
+      { "text": "केवल भूख बढ़ती है", "is_correct": false },
+      { "text": "केवल बुजुर्गों पर प्रभाव पड़ता है", "is_correct": false }
+    ],
+    "explanation": "नींद की कमी से: (1) Cognitive — एकाग्रता, निर्णय क्षमता, स्मृति कमजोर होती है, (2) Immune — संक्रमण का जोखिम बढ़ता है, (3) Emotional — चिड़चिड़ापन, अवसाद का जोखिम, (4) Physical — मोटापा, मधुमेह, हृदयरोग का जोखिम। WHO नींद को स्वास्थ्य का महत्वपूर्ण निर्धारक मानता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'मानसिक स्वास्थ्य के कलंक' (Mental Health Stigma) के दो प्रमुख प्रकार कौन-से हैं?",
+    "options": [
+      { "text": "शारीरिक और मानसिक कलंक", "is_correct": false },
+      { "text": "सामाजिक कलंक (Social Stigma) और आत्म-कलंक (Self-Stigma)", "is_correct": true },
+      { "text": "सांस्कृतिक और धार्मिक कलंक", "is_correct": false },
+      { "text": "पेशेवर और व्यक्तिगत कलंक", "is_correct": false }
+    ],
+    "explanation": "Mental Health Stigma के दो प्रमुख रूप: (1) Social Stigma — समाज द्वारा मानसिक रोगी को नकारात्मक दृष्टि से देखना, भेदभाव करना, (2) Self-Stigma — मानसिक रोगी खुद अपने बारे में नकारात्मक धारणाएँ बना लेता है। दोनों उपचार की खोज में बाधा बनते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'जन्मजात सजगता' (Innate Reflexes) बच्चों में किसका उदाहरण है?",
+    "options": [
+      { "text": "सीखे हुए व्यवहार का", "is_correct": false },
+      { "text": "जन्म से उपस्थित स्वचालित व्यवहार — जैसे चूसना (Rooting Reflex), पकड़ना (Grasping Reflex)", "is_correct": true },
+      { "text": "सांस्कृतिक व्यवहार का", "is_correct": false },
+      { "text": "किशोरावस्था के व्यवहार का", "is_correct": false }
+    ],
+    "explanation": "शिशु जन्म से कुछ Innate Reflexes के साथ आते हैं: Rooting Reflex — गाल छूने पर मुँह उस दिशा में मोड़ना, Sucking Reflex — मुँह में कुछ आने पर चूसना, Moro Reflex — अचानक हलचल पर बाहें फैलाना। ये जीवित रहने में मदद करते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'आत्महत्या के जोखिम कारक' (Suicide Risk Factors) में कौन-से मनोवैज्ञानिक कारक शामिल हैं?",
+    "options": [
+      { "text": "केवल आर्थिक समस्याएँ", "is_correct": false },
+      { "text": "अवसाद, निराशा, पिछले प्रयास, मादक द्रव्य सेवन और मनोसामाजिक तनाव", "is_correct": true },
+      { "text": "केवल पारिवारिक समस्याएँ", "is_correct": false },
+      { "text": "केवल शारीरिक बीमारी", "is_correct": false }
+    ],
+    "explanation": "आत्महत्या के जोखिम कारकों में: मानसिक रोग (विशेषतः Depression, Bipolar), पिछला आत्महत्या प्रयास (सबसे बड़ा जोखिम), Hopelessness, मादक द्रव्य सेवन, सामाजिक अलगाव, और जीवन की तनावपूर्ण घटनाएँ। WHO के iLive campaign में इन्हें जानना जरूरी है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'स्वास्थ्य मनोवैज्ञानिक' (Health Psychologist) का प्राथमिक कार्य क्या है?",
+    "options": [
+      { "text": "दवाइयाँ लिखना", "is_correct": false },
+      { "text": "स्वास्थ्य और बीमारी पर मनोवैज्ञानिक कारकों के प्रभाव को समझना और स्वास्थ्य व्यवहार में सुधार लाना", "is_correct": true },
+      { "text": "केवल मानसिक रोगियों का उपचार", "is_correct": false },
+      { "text": "अस्पतालों का प्रबंधन", "is_correct": false }
+    ],
+    "explanation": "Health Psychology — जिसे Behavioral Medicine भी कहते हैं — यह अध्ययन करती है कि मनोवैज्ञानिक कारक (तनाव, व्यक्तित्व, विश्वास) शारीरिक स्वास्थ्य को कैसे प्रभावित करते हैं। Health Psychologist स्वास्थ्य व्यवहार परिवर्तन, रोग प्रबंधन और well-being में सहायता करते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'कृतज्ञता' (Gratitude) का मानसिक स्वास्थ्य से क्या संबंध है?",
+    "options": [
+      { "text": "कृतज्ञता का मानसिक स्वास्थ्य से कोई संबंध नहीं", "is_correct": false },
+      { "text": "नियमित कृतज्ञता अभ्यास खुशी बढ़ाता है, अवसाद कम करता है और सामाजिक संबंध मजबूत करता है", "is_correct": true },
+      { "text": "कृतज्ञता केवल धार्मिक अभ्यास है", "is_correct": false },
+      { "text": "कृतज्ञता से शारीरिक स्वास्थ्य पर कोई प्रभाव नहीं", "is_correct": false }
+    ],
+    "explanation": "Positive Psychology अनुसंधान (Emmons & McCullough) ने पाया कि Gratitude Journal (रोज 3 अच्छी बातें लिखना) से: खुशी बढ़ती है, अवसाद और चिंता कम होती है, नींद बेहतर होती है और सामाजिक संबंध मजबूत होते हैं। यह एक सरल और प्रभावी well-being intervention है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'ध्यान अभ्यास' (Mindfulness Meditation) का स्वास्थ्य पर क्या प्रभाव पड़ता है?",
+    "options": [
+      { "text": "केवल धार्मिक लाभ देता है", "is_correct": false },
+      { "text": "तनाव कम करता है, एकाग्रता बढ़ाता है, रक्तचाप कम करता है और मानसिक well-being सुधारता है", "is_correct": true },
+      { "text": "केवल बुजुर्गों के लिए उपयोगी है", "is_correct": false },
+      { "text": "Mindfulness का कोई वैज्ञानिक प्रमाण नहीं है", "is_correct": false }
+    ],
+    "explanation": "Jon Kabat-Zinn द्वारा विकसित MBSR (Mindfulness-Based Stress Reduction) का व्यापक शोध समर्थन है। नियमित Mindfulness से: Cortisol (stress hormone) कम होता है, Immune function सुधरता है, Depression और Anxiety कम होती है और दर्द प्रबंधन बेहतर होता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सामाजिक समर्थन' (Social Support) मानसिक और शारीरिक स्वास्थ्य को कैसे प्रभावित करता है?",
+    "options": [
+      { "text": "सामाजिक समर्थन का स्वास्थ्य पर कोई प्रभाव नहीं", "is_correct": false },
+      { "text": "उच्च सामाजिक समर्थन तनाव का बफर है, रोग-प्रतिरोध बढ़ाता है, जीवन काल बढ़ाता है और मानसिक well-being सुधारता है", "is_correct": true },
+      { "text": "सामाजिक समर्थन केवल भावनात्मक है, शारीरिक नहीं", "is_correct": false },
+      { "text": "अधिक सामाजिक संबंध तनाव बढ़ाते हैं", "is_correct": false }
+    ],
+    "explanation": "अनुसंधान (Berkman & Syme, 1979) ने पाया कि मजबूत सामाजिक नेटवर्क वाले लोग अधिक समय तक जीते हैं। Social Support तनाव को buffer करता है, immune function सुधारता है और स्वास्थ्य व्यवहार (व्यायाम, दवा लेना) को बढ़ावा देता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'टाइप-A और टाइप-B व्यक्तित्व' (Type A and Type B Personality) में से कौन-सा हृदयरोग के अधिक जोखिम में है?",
+    "options": [
+      { "text": "टाइप-B", "is_correct": false },
+      { "text": "टाइप-A — जो अत्यधिक प्रतिस्पर्धी, अधीर, शत्रुतापूर्ण और समय के प्रति तनावग्रस्त होता है", "is_correct": true },
+      { "text": "दोनों समान जोखिम में हैं", "is_correct": false },
+      { "text": "टाइप-A और टाइप-B वास्तविक नहीं हैं", "is_correct": false }
+    ],
+    "explanation": "Friedman और Rosenman (1959) ने Type A Behavior Pattern को हृदयरोग (CHD) के जोखिम से जोड़ा। Type A: शत्रुता (Hostility), समय-आपातकाल (Time Urgency), अत्यधिक प्रतिस्पर्धा। Type B: relaxed, patient। बाद के शोध ने 'Hostility' को सबसे हानिकारक घटक पाया।"
+  },
+  {
+    "question": "मनोविज्ञान में 'व्यवहार परिवर्तन का ट्रांसथेओरेटिकल मॉडल' (Transtheoretical Model — Prochaska) में कितने चरण हैं?",
+    "options": [
+      { "text": "3", "is_correct": false },
+      { "text": "5 — पूर्व-विचार, विचार, तैयारी, क्रिया, रखरखाव", "is_correct": true },
+      { "text": "7", "is_correct": false },
+      { "text": "2", "is_correct": false }
+    ],
+    "explanation": "Prochaska और DiClemente का Transtheoretical Model (Stages of Change) स्वास्थ्य व्यवहार परिवर्तन के 5 चरण बताता है: (1) Precontemplation — बदलने का विचार नहीं, (2) Contemplation — सोच रहे हैं, (3) Preparation — योजना बना रहे हैं, (4) Action — बदलाव कर रहे हैं, (5) Maintenance — बदलाव बनाए रखना।"
+  },
+  {
+    "question": "मनोविज्ञान में 'बर्नआउट' (Burnout) के तीन घटक क्या हैं?",
+    "options": [
+      { "text": "थकान, नींद की कमी, भूख की कमी", "is_correct": false },
+      { "text": "भावनात्मक थकावट (Exhaustion), निर्लिप्तता (Cynicism/Depersonalization) और कार्यक्षमता में कमी (Reduced Efficacy)", "is_correct": true },
+      { "text": "क्रोध, उदासी, चिंता", "is_correct": false },
+      { "text": "शारीरिक, मानसिक और सामाजिक थकान", "is_correct": false }
+    ],
+    "explanation": "Maslach Burnout Inventory (MBI) के अनुसार Burnout के तीन आयाम: (1) Emotional Exhaustion — पूरी तरह थका हुआ महसूस करना, (2) Depersonalization/Cynicism — रोगियों/ग्राहकों के प्रति निर्लिप्त या नकारात्मक होना, (3) Reduced Personal Accomplishment — खुद को अप्रभावी समझना। स्वास्थ्यकर्मियों में यह आम है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'शरीर की छवि' (Body Image) का मानसिक स्वास्थ्य से क्या संबंध है?",
+    "options": [
+      { "text": "Body Image का मानसिक स्वास्थ्य से कोई संबंध नहीं", "is_correct": false },
+      { "text": "नकारात्मक Body Image अवसाद, चिंता, खान-पान विकार (Eating Disorders) और कम Self-Esteem से जुड़ी है", "is_correct": true },
+      { "text": "Body Image केवल महिलाओं की समस्या है", "is_correct": false },
+      { "text": "Body Image केवल मोटे लोगों में नकारात्मक होती है", "is_correct": false }
+    ],
+    "explanation": "Negative Body Image — जब व्यक्ति अपने शरीर को अस्वीकार्य या दोषपूर्ण मानता है — तो यह Depression, Anxiety, Social Withdrawal, Eating Disorders (Anorexia, Bulimia) और कम Self-Esteem से जुड़ी है। Media और सामाजिक तुलना Body Image को प्रभावित करते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'जिज्ञासा' (Curiosity) का स्वास्थ्य और well-being से क्या संबंध है?",
+    "options": [
+      { "text": "जिज्ञासा केवल बच्चों में होती है", "is_correct": false },
+      { "text": "उच्च जिज्ञासा अधिक सीखने, बेहतर संबंधों, अधिक well-being और बेहतर स्वास्थ्य व्यवहार से जुड़ी है", "is_correct": true },
+      { "text": "जिज्ञासा खतरनाक है", "is_correct": false },
+      { "text": "जिज्ञासा का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Positive Psychology अनुसंधान दिखाता है कि Curiosity एक character strength है — जिज्ञासु व्यक्ति अधिक engaged रहते हैं, बेहतर सामाजिक संबंध बनाते हैं और नई स्वास्थ्य जानकारी को खुलेपन से स्वीकार करते हैं। स्वास्थ्य शिक्षा में curiosity को प्रोत्साहित करना प्रभावी है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'प्रेरक साक्षात्कार' (Motivational Interviewing — MI) का उपयोग स्वास्थ्य में कब किया जाता है?",
+    "options": [
+      { "text": "केवल मादक द्रव्य लत में", "is_correct": false },
+      { "text": "जब व्यक्ति स्वास्थ्य व्यवहार बदलने के प्रति ambivalent (दुविधाग्रस्त) हो — व्यक्ति की आंतरिक प्रेरणा को जगाने के लिए", "is_correct": true },
+      { "text": "केवल मनोचिकित्सकों द्वारा", "is_correct": false },
+      { "text": "जब मरीज पूरी तरह तैयार हो", "is_correct": false }
+    ],
+    "explanation": "Motivational Interviewing (Miller & Rollnick) एक client-centered, directive therapeutic approach है जो व्यक्ति की व्यवहार-परिवर्तन के प्रति ambivalence को explore करती है। यह धूम्रपान छोड़ना, व्यायाम शुरू करना, दवा नियमित लेना जैसे स्वास्थ्य व्यवहारों में प्रभावी है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'स्वास्थ्य साक्षरता' (Health Literacy) और 'स्वास्थ्य शिक्षा' (Health Education) में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Health Education जानकारी प्रदान करती है, जबकि Health Literacy वह क्षमता है जिससे व्यक्ति स्वास्थ्य जानकारी को समझ, मूल्यांकन और उपयोग कर सके", "is_correct": true },
+      { "text": "Health Literacy केवल पढ़ने की क्षमता है", "is_correct": false },
+      { "text": "Health Education Health Literacy से उन्नत है", "is_correct": false }
+    ],
+    "explanation": "Health Education जानकारी, कौशल और दृष्टिकोण प्रदान करती है। Health Literacy (WHO) उससे आगे है — यह वह क्षमता है जिससे व्यक्ति स्वास्थ्य जानकारी को ढूँढ सके, समझ सके, मूल्यांकन कर सके और अपने स्वास्थ्य निर्णयों में उपयोग कर सके।"
+  },
+  {
+    "question": "मनोविज्ञान में 'रंगभेद और स्वास्थ्य' (Racism and Health) का संबंध किस प्रकार है?",
+    "options": [
+      { "text": "नस्लभेद का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false },
+      { "text": "नस्लीय भेदभाव का अनुभव पुराना तनाव (Chronic Stress) है जो उच्च रक्तचाप, अवसाद और अन्य रोगों का जोखिम बढ़ाता है", "is_correct": true },
+      { "text": "रंगभेद केवल सामाजिक समस्या है", "is_correct": false },
+      { "text": "यह केवल अमेरिका में प्रासंगिक है", "is_correct": false }
+    ],
+    "explanation": "अनुसंधान दिखाता है कि Racial Discrimination एक chronic psychosocial stressor है — जो Cortisol levels बढ़ाता है, Blood Pressure उच्च करता है और Allostatic Load (तनाव का संचय) बढ़ाता है। भारत में जाति-आधारित भेदभाव भी इसी प्रकार दलित और आदिवासी समुदायों के स्वास्थ्य को प्रभावित करता है।"
+  }
+]

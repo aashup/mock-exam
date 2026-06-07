@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "सामाजिक मनोविज्ञान में 'व्यवहार की सामाजिक-पारिस्थितिकीय मॉडल' (Socio-Ecological Model) के अनुसार व्यवहार परिवर्तन हेतु किन स्तरों पर हस्तक्षेप आवश्यक है?",
+    "options": [
+      { "text": "केवल व्यक्तिगत स्तर पर", "is_correct": false },
+      { "text": "व्यक्तिगत, पारस्परिक, सामुदायिक, संगठनात्मक और नीति स्तर — सभी एक साथ", "is_correct": true },
+      { "text": "केवल नीति और कानून स्तर पर", "is_correct": false },
+      { "text": "परिवार और विद्यालय स्तर पर ही पर्याप्त है", "is_correct": false }
+    ],
+    "explanation": "McLeroy et al. (1988) — Socio-Ecological Model: व्यवहार केवल व्यक्तिगत कारकों से नहीं, बल्कि nested systems से प्रभावित होता है। Intrapersonal → Interpersonal (family, peers) → Organizational (workplace, school) → Community (norms, networks) → Public Policy (laws, regulations)। एकल-स्तरीय interventions अल्पकालिक — multi-level approach sustainable change लाती है।"
+  },
+  {
+    "question": "सामाजिक पहचान सिद्धांत (Social Identity Theory) में 'सामाजिक तुलना' (Social Comparison) और 'सकारात्मक विशिष्टता' (Positive Distinctiveness) की भूमिका क्या है?",
+    "options": [
+      { "text": "लोग अपनी तुलना किसी से नहीं करते", "is_correct": false },
+      { "text": "लोग अपने in-group को out-group से बेहतर दिखाने की कोशिश करते हैं — self-esteem बनाए रखने के लिए", "is_correct": true },
+      { "text": "Positive Distinctiveness केवल individualistic cultures में", "is_correct": false },
+      { "text": "Social Comparison हमेशा out-group के पक्ष में होती है", "is_correct": false }
+    ],
+    "explanation": "Tajfel & Turner (1979) — SIT: लोग अपनी social identity से self-esteem प्राप्त करते हैं। Positive Distinctiveness — in-group को favorable dimensions पर out-group से बेहतर बताना। यदि यह संभव न हो → individual mobility (group छोड़ना) या social competition (group status बदलना) या social creativity (नई comparison dimension)। Health में: stigmatized groups (addiction, HIV) में identity negotiation।"
+  },
+  {
+    "question": "Festinger के 'संज्ञानात्मक असंगति' (Cognitive Dissonance) सिद्धांत में असंगति कम करने की कौन-सी तीन रणनीतियाँ हैं?",
+    "options": [
+      { "text": "भूलना, इनकार करना, दूसरों को दोष देना", "is_correct": false },
+      { "text": "व्यवहार बदलना, विश्वास बदलना या नई अनुकूल जानकारी जोड़ना", "is_correct": true },
+      { "text": "दोस्तों से बात करना, सोना, व्यायाम करना", "is_correct": false },
+      { "text": "केवल व्यवहार बदलने से ही असंगति कम होती है", "is_correct": false }
+    ],
+    "explanation": "Festinger (1957) — जब दो cognitions असंगत हों तो discomfort → reduction strategies: (1) Change behavior — धूम्रपान छोड़ना, (2) Change cognition — 'थोड़ी smoking ठीक है', (3) Add new cognition — 'दादाजी 90 साल तक जीए smoking करके'। Health Education में: behavior ≠ knowledge → dissonance create करना → behavior change। 'आप जानते हैं, फिर भी क्यों?' — motivational interviewing approach।"
+  },
+  {
+    "question": "Cialdini के 'प्रभाव के 6 सिद्धांत' (6 Principles of Influence) में 'सामाजिक प्रमाण' (Social Proof) का स्वास्थ्य संचार में क्या उपयोग है?",
+    "options": [
+      { "text": "Social Proof — केवल commercial advertising में", "is_correct": false },
+      { "text": "जब लोग अनिश्चित हों तो दूसरों का व्यवहार देखकर निर्णय लेते हैं — 'अन्य लोग क्या करते हैं' दिखाना", "is_correct": true },
+      { "text": "Social Proof हमेशा नकारात्मक प्रभाव डालता है", "is_correct": false },
+      { "text": "केवल expert opinion का उपयोग करना चाहिए", "is_correct": false }
+    ],
+    "explanation": "Cialdini — Social Proof: 'यदि अन्य लोग यह कर रहे हैं तो सही होगा।' Health में: '95% माताओं ने अपने बच्चों को पोलियो की खुराक दी' → नई माताएँ भी देंगी। Social norms marketing इसी पर। 'Descriptive norm messaging' — what most people do। 'Injunctive norm messaging' — what most people approve। COVID vaccination campaigns में प्रभावी।"
+  },
+  {
+    "question": "Azjen के TPB में 'नियंत्रण पर अनुभवात्मक विश्वास' (Perceived Behavioral Control) Bandura की 'आत्म-प्रभावकारिता' (Self-Efficacy) से कैसे भिन्न है?",
+    "options": [
+      { "text": "दोनों बिल्कुल एक ही अवधारणाएँ हैं", "is_correct": false },
+      { "text": "PBC — internal और external control factors दोनों; Self-Efficacy — केवल internal capability की धारणा", "is_correct": true },
+      { "text": "Self-Efficacy व्यापक है, PBC संकीर्ण है", "is_correct": false },
+      { "text": "PBC — TPB में नहीं, बल्कि Health Belief Model में है", "is_correct": false }
+    ],
+    "explanation": "Ajzen का PBC — दो components: (1) Internal — self-efficacy ('क्या मैं यह कर सकता हूँ?'), (2) External controllability ('क्या परिस्थितियाँ अनुकूल हैं?')। Bandura की Self-Efficacy — केवल 'मैं कर सकता हूँ' की धारणा। PBC व्यापक है — external factors (resources, opportunities) शामिल। Condom use intention: Internal PBC = 'मुझे पता है कैसे use करें'; External = 'मेरा partner agree करेगा'।"
+  },
+  {
+    "question": "'बहुवचनीय अज्ञानता' (Pluralistic Ignorance) स्वास्थ्य व्यवहार में कैसे समस्या पैदा करती है?",
+    "options": [
+      { "text": "लोगों को अनेक विषयों की जानकारी नहीं होती", "is_correct": false },
+      { "text": "व्यक्तिगत रूप से असहमत होते हुए भी हर कोई समझता है कि बाकी सब सहमत हैं — गलत norm बना रहता है", "is_correct": true },
+      { "text": "Pluralistic Ignorance — केवल academia में होती है", "is_correct": false },
+      { "text": "इससे health behavior में कोई फर्क नहीं पड़ता", "is_correct": false }
+    ],
+    "explanation": "Pluralistic Ignorance (Miller & McFarland): हर व्यक्ति privately खुले में शौच को गलत मानता है परंतु सोचता है 'बाकी सब तो करते हैं' → खुद भी करता रहता है। Actual behavior ≠ perceived group norm। SBCC solution: reveal the actual norm ('असलियत में 60% लोग शौचालय उपयोग करते हैं') → behavior change। ODF campaigns, tobacco control में प्रयुक्त।"
+  },
+  {
+    "question": "स्वास्थ्य शिक्षा में 'प्रतिक्रिया सिद्धांत' (Reactance Theory — Brehm) और Health Communication का संबंध क्या है?",
+    "options": [
+      { "text": "Reactance — लोग स्वास्थ्य संदेश को स्वीकार करते हैं", "is_correct": false },
+      { "text": "जब स्वास्थ्य संदेश व्यक्ति की स्वतंत्रता को खतरा बताए → विरोध (boomerang effect) — autonomy-supportive messaging ज़रूरी", "is_correct": true },
+      { "text": "Reactance Theory — केवल adolescents में", "is_correct": false },
+      { "text": "Reactance — health compliance बढ़ाती है", "is_correct": false }
+    ],
+    "explanation": "Brehm (1966) — Psychological Reactance: जब perceived freedom threatened → restore करने की motivation। 'आपको यह करना ही होगा' → resistance। Health implications: coercive messages → non-compliance, boomerang। Solutions: (1) Autonomy-supportive language ('आप चुन सकते हैं'), (2) Motivational Interviewing, (3) Choice-based messaging। COVID mask mandates में reactance — voluntary compliance vs mandatory।"
+  },
+  {
+    "question": "Prochaska और DiClemente के 'परिवर्तन के चरण मॉडल' (Transtheoretical Model — TTM) में किस चरण में व्यक्ति व्यवहार बदलने की सोचता तो है, पर अगले 6 महीनों में नहीं?",
+    "options": [
+      { "text": "Precontemplation", "is_correct": false },
+      { "text": "Contemplation — 'सोच रहा हूँ, पर अभी नहीं'", "is_correct": true },
+      { "text": "Preparation", "is_correct": false },
+      { "text": "Action", "is_correct": false }
+    ],
+    "explanation": "TTM Stages: (1) Precontemplation — change की सोच नहीं (next 6 months में नहीं), (2) Contemplation — सोच रहे हैं परंतु अगले 6 months में नहीं, (3) Preparation — अगले 1 month में करने का plan, (4) Action — 6 months से कम समय से बदला, (5) Maintenance — 6+ months। Stage-matched interventions: Contemplation में → decisional balance (pros vs cons) बताना। Smoking cessation, alcohol reduction में widely used।"
+  },
+  {
+    "question": "'Elaboration Likelihood Model' में किन परिस्थितियों में 'परिधीय मार्ग' (Peripheral Route) अधिक प्रभावी होता है?",
+    "options": [
+      { "text": "जब व्यक्ति बहुत motivated हो", "is_correct": false },
+      { "text": "जब व्यक्ति की motivation या ability कम हो — तब surface cues (celebrity, music, humor) काम करते हैं", "is_correct": true },
+      { "text": "Peripheral Route हमेशा अधिक प्रभावी है", "is_correct": false },
+      { "text": "Peripheral Route — केवल uneducated लोगों में", "is_correct": false }
+    ],
+    "explanation": "Petty & Cacioppo — Peripheral Route active होता है जब: (1) Low motivation — topic irrelevant लगे, (2) Low ability — message समझना कठिन हो, (3) High time pressure। Peripheral cues: attractive spokesperson, emotional music, humor, 'herd behavior'। Health में: vaccination campaigns में film stars → peripheral route। परंतु attitude change — temporary। Central route → more durable change।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'समूह-ध्रुवीकरण' (Group Polarization) और 'जोखिम-परिवर्तन' (Risky Shift) में क्या संबंध है?",
+    "options": [
+      { "text": "Group Polarization — हमेशा जोखिम कम करता है", "is_correct": false },
+      { "text": "Risky Shift — Group Polarization का विशेष case है जहाँ समूह अधिक जोखिम की ओर जाता है; Polarization — मौजूदा रुझान को extreme करता है", "is_correct": true },
+      { "text": "दोनों अलग-अलग और असंबंधित phenomena हैं", "is_correct": false },
+      { "text": "Group Polarization — केवल political groups में होती है", "is_correct": false }
+    ],
+    "explanation": "Stoner (1961) — Risky Shift: groups अधिक risky decisions लेते हैं। Moscovici & Zavalloni — Group Polarization (व्यापक): groups discussion के बाद initially held position को extreme कर देते हैं। यदि group initially risky हो → more risk (Risky Shift); यदि cautious हो → more caution। Mechanisms: Social Comparison + Persuasive Arguments। Health Committees में: initially anti-vaccine group → more anti-vaccine बन सकता है।"
+  },
+  {
+    "question": "'Intersectionality' (अंतर्विभाजकता) का स्वास्थ्य असमानताओं से क्या संबंध है?",
+    "options": [
+      { "text": "Intersectionality — केवल feminist theory में", "is_correct": false },
+      { "text": "जाति + लिंग + वर्ग + अक्षमता जैसी पहचानें मिलकर complex, layered health disadvantages बनाती हैं", "is_correct": true },
+      { "text": "Intersectionality — स्वास्थ्य को प्रभावित नहीं करती", "is_correct": false },
+      { "text": "केवल एक identity factor स्वास्थ्य निर्धारित करता है", "is_correct": false }
+    ],
+    "explanation": "Kimberlé Crenshaw (1989) — Intersectionality: पहचानें अलग-अलग नहीं, बल्कि एक-दूसरे से interact करती हैं। उदाहरण: Dalit Muslim woman — gender + caste + religion + class सभी एक साथ health disadvantage बनाते हैं जो किसी एकल factor के sum से अधिक है। India में: DLHS data → SC/ST + female + rural → worst health outcomes। Health interventions में single-axis analysis inadequate।"
+  },
+  {
+    "question": "'Attribution Theory' (आरोपण सिद्धांत) में 'Weiner का Attribution Model' स्वास्थ्य व्यवहार में कैसे लागू होता है?",
+    "options": [
+      { "text": "Attribution Theory — केवल academic performance में", "is_correct": false },
+      { "text": "Weiner — Locus (internal/external), Stability (stable/unstable) और Controllability — तीन dimensions → health behaviors और emotions को प्रभावित करते हैं", "is_correct": true },
+      { "text": "Attribution Theory — motivation से असंबंधित", "is_correct": false },
+      { "text": "केवल internal attribution स्वास्थ्य में प्रासंगिक है", "is_correct": false }
+    ],
+    "explanation": "Weiner (1979, 1985) — 3D Attribution: (1) Locus — internal (मेरी इच्छाशक्ति) vs external (परिवार), (2) Stability — stable (मेरा स्वभाव) vs unstable (भाग्य), (3) Controllability — controllable vs uncontrollable। Health में: obesity attribution → 'आलसी' (internal, stable, controllable) → shame; 'thyroid problem' (external, uncontrollable) → sympathy। Controllability — guilt और anger को trigger करता है — health counseling में attributional retraining।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Normative Social Influence' और 'Informational Social Influence' के बीच कौन सा स्वास्थ्य संदर्भों में अधिक महत्वपूर्ण है?",
+    "options": [
+      { "text": "Normative — हमेशा अधिक महत्वपूर्ण", "is_correct": false },
+      { "text": "दोनों context-dependent — ambiguous health decisions में Informational; social acceptance-driven में Normative अधिक प्रभावी", "is_correct": true },
+      { "text": "Informational — हमेशा अधिक प्रभावी", "is_correct": false },
+      { "text": "दोनों का प्रभाव समान रहता है", "is_correct": false }
+    ],
+    "explanation": "Deutsch & Gerard (1955): Informational SI — अनिश्चितता में दूसरों को accurate information source मानना (नई vaccine लेनी चाहिए?) → Expert opinion, guidelines। Normative SI — rejection का डर → social approval चाहना (हर कोई mask पहनता है तो मैं भी)। COVID में: Informational SI → scientific advice follow; Normative → social pressure। Health Education: दोनों leverage करना strategic communication।"
+  },
+  {
+    "question": "Latané का 'सामाजिक प्रभाव सिद्धांत' (Social Impact Theory) स्वास्थ्य संदेश की प्रभावशीलता को कैसे समझाता है?",
+    "options": [
+      { "text": "Social Impact = केवल message की quality पर निर्भर", "is_correct": false },
+      { "text": "Social Impact = Source की Strength × Immediacy × Number — तीनों का गुणनफल", "is_correct": true },
+      { "text": "Social Impact Theory — बड़े समूहों में संदेश अधिक प्रभावी होता है", "is_correct": false },
+      { "text": "संदेश की संख्या जितनी अधिक, प्रभाव उतना अधिक", "is_correct": false }
+    ],
+    "explanation": "Bibb Latané (1981) — Social Impact Theory: Impact = f(Strength × Immediacy × Number)। Strength — source की credibility/authority; Immediacy — temporal/spatial closeness; Number — sources की संख्या। Health में: (1) Credible doctor (high strength) + present in room (high immediacy) → high impact। (2) Many weak sources (many flyers) → diminishing returns। 'Multiplication of impact' — more sources add but with decreasing returns।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Implicit Association Test (IAT)' क्या मापता है और स्वास्थ्य में इसका क्या महत्व है?",
+    "options": [
+      { "text": "IAT — explicit preferences मापता है", "is_correct": false },
+      { "text": "IAT — automatic, unconscious associations (implicit biases) मापता है — health providers के अनजाने पूर्वाग्रह पकड़ता है", "is_correct": true },
+      { "text": "IAT — intelligence test है", "is_correct": false },
+      { "text": "IAT — केवल racial bias को मापता है", "is_correct": false }
+    ],
+    "explanation": "Greenwald et al. (1998) — IAT: प्रतिक्रिया समय के माध्यम से unconscious associations को reveal करता है। Health में: (1) Doctors में implicit racial/caste/gender bias → differential treatment, (2) Weight bias in healthcare → overweight patients को कम quality care, (3) Mental illness stigma in providers। Explicit measures (surveys) में denial possible — IAT circumvents this। Implicit bias training programs में baseline measurement।"
+  },
+  {
+    "question": "'Intergroup Contact Theory' (Allport) की सीमाएँ क्या हैं और इन्हें कैसे overcome किया जा सकता है?",
+    "options": [
+      { "text": "Contact Theory की कोई सीमा नहीं — हर संपर्क से prejudice कम होती है", "is_correct": false },
+      { "text": "केवल optimal conditions में contact काम करता है — unfavorable contact से prejudice बढ़ सकती है; structural inequality address करना ज़रूरी", "is_correct": true },
+      { "text": "Contact Theory — केवल racial prejudice के लिए", "is_correct": false },
+      { "text": "Contact theory — किसी भी setting में अप्रभावी है", "is_correct": false }
+    ],
+    "explanation": "Allport (1954) — 4 conditions: equal status + common goal + cooperation + institutional support। सीमाएँ: (1) Generalization नहीं होती — एक individual से positive contact, अन्य in-group पर apply नहीं, (2) Tokenism — superficial contact, (3) Threat-under-threat contact → increased anxiety, (4) Power inequalities unaddressed। Solutions: Extended contact (indirect contact), Imagined contact, Parasocial contact (media). India में: caste-integrated schools, workplace diversity।"
+  },
+  {
+    "question": "'Terror Management Theory' (TMT) स्वास्थ्य व्यवहार और death anxiety में क्या कहती है?",
+    "options": [
+      { "text": "मृत्यु की जागरूकता हमेशा healthy behavior promote करती है", "is_correct": false },
+      { "text": "मृत्यु की जागरूकता (Mortality Salience) → cultural worldview और self-esteem को मजबूत करना — health messages भी backfire कर सकते हैं", "is_correct": true },
+      { "text": "TMT — केवल suicidal behavior में लागू", "is_correct": false },
+      { "text": "मृत्यु भय का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Greenberg, Solomon & Pyszczynski (1986) — TMT: मनुष्य मृत्यु की जागरूकता (Mortality Salience) से anxiety manage करने के लिए cultural worldviews में invest करते हैं और self-esteem बढ़ाते हैं। Health में: (1) Health-threatening messages → defensiveness बढ़ती है, (2) Cigarette warnings → smokers cultural identify को strengthen करते हैं, (3) कुछ unhealthy behaviors को 'खुशी से जीना' frame करके कम threatening बनाते हैं। Implications: fear appeals का careful use।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Dehumanization' (विमानवीकरण) और स्वास्थ्य सेवाओं में इसके परिणाम क्या हैं?",
+    "options": [
+      { "text": "Dehumanization — केवल war crimes में होती है", "is_correct": false },
+      { "text": "मरीजों को मानव के बजाय 'case' या 'object' मानना → empathy कम → quality of care बुरी → patient outcomes खराब", "is_correct": true },
+      { "text": "Dehumanization — health workers को efficient बनाती है", "is_correct": false },
+      { "text": "Dehumanization का स्वास्थ्य देखभाल में कोई प्रभाव नहीं", "is_correct": false }
+    ],
+    "explanation": "Haslam (2006) — Dehumanization: (1) Animalistic dehumanization — patient को जानवर जैसा मानना (addict, 'dirty'), (2) Mechanistic — patient को object/case number मानना। Health consequences: reduced empathy, pain mismanagement, poor communication, substandard care। 'Bed 12' vs 'Mr. Kumar' — naming humanizes। Compassion fatigue → secondary dehumanization। Humanizing medical education और reflective practice ज़रूरी।"
+  },
+  {
+    "question": "'Empathy' और 'Compassion' में सामाजिक मनोविज्ञान के दृष्टिकोण से क्या अंतर है और health workers के लिए यह क्यों महत्वपूर्ण है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Empathy — दूसरे की feeling share करना; Compassion — दूसरे की suffering देखकर मदद करने की motivation — compassion fatigue से बचाता है", "is_correct": true },
+      { "text": "Compassion — केवल religious concept", "is_correct": false },
+      { "text": "Empathy हमेशा better है Compassion से", "is_correct": false }
+    ],
+    "explanation": "Bloom (2016) — Empathy vs Compassion: Empathy — दूसरे का दर्द feel करना → over-arousal → distress → burnout। Compassion — दूसरे की suffering देखकर 'मैं इसमें मदद करूँगा' → action-oriented, sustainable। Singer & Klimecki research — compassion training reduces vicarious suffering without reducing prosocial behavior। Health workers में compassion cultivation programs (CCPs) → better job satisfaction, patient outcomes। Empathic concern vs personal distress।"
+  },
+  {
+    "question": "'Gender और Health' में 'मर्दानगी' (Masculinity) की अवधारणाएँ पुरुषों के स्वास्थ्य व्यवहार को कैसे प्रभावित करती हैं?",
+    "options": [
+      { "text": "Masculinity — केवल महिलाओं को प्रभावित करती है", "is_correct": false },
+      { "text": "Hegemonic Masculinity — कमज़ोरी न दिखाना, मदद न माँगना → health-seeking behavior कम → late diagnosis, higher mortality", "is_correct": true },
+      { "text": "पुरुष हमेशा अधिक health-seeking behavior दिखाते हैं", "is_correct": false },
+      { "text": "Masculinity और health behavior का कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Connell (1987) — Hegemonic Masculinity: culturally dominant form — strength, stoicism, self-reliance। Health consequences: (1) Pain tolerate करना — delay in care, (2) 'Men don't cry' — mental health help-seeking कम, (3) Risk-taking behavior (alcohol, tobacco), (4) 'मुझे doctor की ज़रूरत नहीं' → late cancer diagnosis। India में: Men's Health तुलनात्मक रूप से neglected। Male-friendly health services — NCD screening in workplaces।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Vicarious Trauma' (परोक्ष आघात) क्या है और स्वास्थ्यकर्मियों पर इसका क्या प्रभाव होता है?",
+    "options": [
+      { "text": "Vicarious Trauma — केवल therapists में होती है", "is_correct": false },
+      { "text": "दूसरों के trauma accounts सुनने/देखने से स्वयं में PTSD-like symptoms — worldview, beliefs और identity में बदलाव", "is_correct": true },
+      { "text": "Vicarious Trauma — temporary और insignificant है", "is_correct": false },
+      { "text": "Vicarious Trauma और Secondary Traumatic Stress एक ही हैं", "is_correct": false }
+    ],
+    "explanation": "McCann & Pearlman (1990) — Vicarious Traumatization: दूसरों के trauma witness करने से cumulative change in: (1) Frame of reference (world is unsafe), (2) Self-capacities (emotional regulation), (3) Ego resources, (4) Psychological needs (safety, trust, esteem), (5) Cognitive schemas। Health workers (ASHA in violence-prone areas, COVID frontliners) → VT risk। STS — symptom-based; VT — worldview change। Supervision, debriefing, self-care protocols ज़रूरी।"
+  },
+  {
+    "question": "'Mass Psychogenic Illness' (सामूहिक मनोदैहिक बीमारी) क्या है और इसे सामाजिक मनोविज्ञान कैसे समझाता है?",
+    "options": [
+      { "text": "यह एक संक्रामक रोग है", "is_correct": false },
+      { "text": "समूह में चिंता, सामाजिक अनुकरण और shared belief से शारीरिक symptoms का प्रसार — बिना organic cause के", "is_correct": true },
+      { "text": "Mass Psychogenic Illness — केवल बच्चों में होती है", "is_correct": false },
+      { "text": "इसका कोई सामाजिक कारण नहीं होता", "is_correct": false }
+    ],
+    "explanation": "Mass Psychogenic (Sociogenic) Illness — historical: Dancing Mania, laughing epidemics। Mechanisms: (1) Collective anxiety — shared stressor, (2) Social modeling — seeing others sick → symptoms, (3) Social norms — illness as acceptable response, (4) Media amplification। India में: school fainting episodes after rumor। HEO के लिए: identify trigger, manage anxiety, transparent communication, remove affected people। Stigma से बचना ज़रूरी।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Status Characteristics Theory' (Berger) समूह निर्णय में कैसे प्रभाव डालती है?",
+    "options": [
+      { "text": "समूह में सभी की राय समान weight से ली जाती है", "is_correct": false },
+      { "text": "उच्च status वाले सदस्यों (लिंग, जाति, शिक्षा) को अधिक competent माना जाता है — भले ही समस्या से असंबंधित हो", "is_correct": true },
+      { "text": "Status — केवल formal hierarchy में relevance है", "is_correct": false },
+      { "text": "Health committees में status का कोई प्रभाव नहीं", "is_correct": false }
+    ],
+    "explanation": "Berger et al. (1977) — Expectation States/Status Characteristics Theory: Diffuse status characteristics (gender, race, caste, education) → performance expectations → group influence। पुरुष doctor की राय महिला ANM से अधिक मानी जाती है — भले ही ANM अधिक जानती हो। Health committees: upper-caste male members dominate decisions। Status interventions: explicit role clarification, structured participation, evidence-based discussion।"
+  },
+  {
+    "question": "'Emotional Contagion' (भावनात्मक संक्रमण) स्वास्थ्य सेवाओं में क्या भूमिका निभाती है?",
+    "options": [
+      { "text": "Emotions — professional setting में relevant नहीं", "is_correct": false },
+      { "text": "Health workers की positive/negative emotional states patient experiences और outcomes को प्रभावित करती हैं — और worker wellbeing को भी", "is_correct": true },
+      { "text": "Emotional Contagion — केवल negative emotions में होती है", "is_correct": false },
+      { "text": "Emotional Contagion का कोई therapeutic value नहीं", "is_correct": false }
+    ],
+    "explanation": "Hatfield et al. (1993) — Emotional Contagion: unconscious mimicry of facial expressions, vocalizations, postures → emotional convergence। Health in: (1) Anxious nurse → patient anxiety बढ़ती है (Negative contagion), (2) Calm, reassuring health worker → patient anxiety कम (Positive contagion), (3) Burnout spreading in teams — collective exhaustion। Patient outcomes — provider's emotional state से linked। Emotional regulation training — health workers के लिए essential।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Community Resilience' (सामुदायिक लचीलापन) किन कारकों पर निर्भर है?",
+    "options": [
+      { "text": "Community Resilience — केवल आर्थिक संसाधनों पर", "is_correct": false },
+      { "text": "सामाजिक पूँजी, shared identity, adaptive leadership, local knowledge और resource networks — सब मिलकर", "is_correct": true },
+      { "text": "Community Resilience — व्यक्तिगत resilience का योग मात्र", "is_correct": false },
+      { "text": "बाहरी सहायता ही community resilience बनाती है", "is_correct": false }
+    ],
+    "explanation": "Norris et al. (2008) — Community Resilience: adaptive capacity from 4 resource sets: (1) Economic Development — diverse livelihoods, (2) Social Capital — networks, trust, collective efficacy, (3) Information & Communication — warning systems, (4) Community Competence — collective problem-solving, empowerment। COVID में resilient communities: mutual aid networks, local health volunteers, clear communication। Kerala model — high social capital + strong health infrastructure।"
+  },
+  {
+    "question": "'Transactional Model of Stress and Coping' (Lazarus & Folkman) में 'Primary Appraisal' और 'Secondary Appraisal' में क्या अंतर है?",
+    "options": [
+      { "text": "Primary — पहले होता है इसलिए अधिक महत्वपूर्ण", "is_correct": false },
+      { "text": "Primary — 'क्या यह खतरनाक है?' का आकलन; Secondary — 'मैं इससे कैसे निपट सकता हूँ?' — दोनों मिलकर coping निर्धारित करते हैं", "is_correct": true },
+      { "text": "Secondary Appraisal हमेशा बाद में होती है, पहले नहीं", "is_correct": false },
+      { "text": "Appraisal — objective process, subjective नहीं", "is_correct": false }
+    ],
+    "explanation": "Lazarus & Folkman (1984): Primary Appraisal — 'Is this event threatening/harmful/challenging or irrelevant?' Threat, harm/loss, या challenge। Secondary Appraisal — 'What can I do about it?' — coping resources और options का evaluation। दोनों simultaneously हो सकते हैं। Reappraisal — changing interpretation। Health में: chronic disease diagnosis → primary (threat) + secondary (can I manage?) → coping strategy चुनी जाती है।"
+  },
+  {
+    "question": "'Coping Flexibility' (Bonanno) क्या है और यह rigid coping से क्यों बेहतर है?",
+    "options": [
+      { "text": "एक fixed coping strategy हमेशा बेहतर होती है", "is_correct": false },
+      { "text": "Context के अनुसार coping strategies बदलने की क्षमता — feedback sensitivity + strategy adjustment + awareness of outcomes", "is_correct": true },
+      { "text": "Problem-focused coping हमेशा emotion-focused से बेहतर", "is_correct": false },
+      { "text": "Coping Flexibility — केवल acute stress में आवश्यक", "is_correct": false }
+    ],
+    "explanation": "Bonanno & Burton (2013) — Coping Flexibility: तीन components: (1) Repertoire breadth — अनेक strategies जानना, (2) Context sensitivity — कब कौन सी लगाएँ, (3) Feedback monitoring — क्या काम कर रहा है। Rigid copers — एक ही strategy (denial या rumination) → maladaptive। Health में: chronic illness — कभी problem-focused (medication), कभी emotion-focused (acceptance), कभी meaning-making — flexibility = better adjustment।"
+  },
+  {
+    "question": "'Health Belief Model' में 'Cues to Action' की क्या भूमिका है और इसे कैसे लागू किया जाता है?",
+    "options": [
+      { "text": "HBM में Cues to Action — कोई महत्वपूर्ण भूमिका नहीं", "is_correct": false },
+      { "text": "Cues to Action — behavior को trigger करते हैं जब perceived susceptibility और severity पहले से हो — reminder, symptom या media message", "is_correct": true },
+      { "text": "Cues to Action — केवल internal (symptoms) होते हैं", "is_correct": false },
+      { "text": "HBM में Cues to Action — HBM का मुख्य component नहीं", "is_correct": false }
+    ],
+    "explanation": "Rosenstock (1966) — HBM: 6 components: Perceived Susceptibility, Severity, Benefits, Barriers, Self-Efficacy (added later), और Cues to Action। Cues to Action — triggers: (1) Internal — symptoms ('मेरा सीना दर्द करता है'), (2) External — reminder card, ASHA call, health fair, media campaign। व्यक्ति को action-ready state में push करते हैं। Immunization reminder SMS + village crier — both cues। Japan में cervical cancer screening — reminder letter = cue।"
+  },
+  {
+    "question": "स्वास्थ्य मनोविज्ञान में 'Secondary Prevention' और 'Tertiary Prevention' में सामाजिक मनोवैज्ञानिक दृष्टिकोण से क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं — केवल नाम अलग", "is_correct": false },
+      { "text": "Secondary — early detection/screening में stigma और health beliefs को address करना; Tertiary — rehabilitation में social support और re-integration focus", "is_correct": true },
+      { "text": "Secondary Prevention — केवल medical intervention है", "is_correct": false },
+      { "text": "Tertiary Prevention — दवाइयों तक सीमित है", "is_correct": false }
+    ],
+    "explanation": "Secondary Prevention (screening, early diagnosis) — psychological barriers: stigma (cancer, TB, HIV testing में), perceived severity ('मुझे नहीं होगा'), access issues। Social psych role: stigma reduction campaigns, self-efficacy building। Tertiary Prevention (disability, rehabilitation) — social reintegration: caste discrimination + disability → double burden; peer support groups (AA model), vocational rehabilitation, family psychoeducation। Social support networks — recovery में critical।"
+  },
+  {
+    "question": "'PRECEDE-PROCEED Model' (Green & Kreuter) में 'Predisposing, Enabling और Reinforcing Factors' क्या हैं?",
+    "options": [
+      { "text": "केवल individual behavior factors", "is_correct": false },
+      { "text": "Predisposing — ज्ञान/अभिवृत्ति; Enabling — skills/resources/access; Reinforcing — social support/rewards — तीनों को target करना ज़रूरी", "is_correct": true },
+      { "text": "PRECEDE-PROCEED — केवल policy level model", "is_correct": false },
+      { "text": "तीनों factors एक ही level पर काम करते हैं", "is_correct": false }
+    ],
+    "explanation": "Green & Kreuter — PRECEDE-PROCEED: Predisposing factors — पूर्व-प्रेरणा: knowledge, attitudes, beliefs, values, perceptions (उदाहरण: TB के बारे में awareness)। Enabling factors — सक्षम कारक: skills, resources, access (CHC की उपलब्धता)। Reinforcing factors — पुनर्बल: social support, peer influence, rewards (family ka encouragement)। सभी तीनों को simultaneously address करने वाला program अधिक प्रभावी।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Stigma' (कलंक) के Goffman के तीन प्रकार और स्वास्थ्य में इनका महत्व क्या है?",
+    "options": [
+      { "text": "Stigma के तीन प्रकार — physical, mental, social", "is_correct": false },
+      { "text": "Abominations of the body (शारीरिक), Blemishes of character (चरित्र दोष) और Tribal stigma (जाति/धर्म/परिवार) — तीनों health-seeking behavior प्रभावित करते हैं", "is_correct": true },
+      { "text": "Stigma — केवल mental illness में होती है", "is_correct": false },
+      { "text": "Goffman ने stigma के केवल एक प्रकार का वर्णन किया", "is_correct": false }
+    ],
+    "explanation": "Erving Goffman (1963) — Stigma: 3 types: (1) Abominations of the body — physical disabilities, deformities (leprosy, amputation), (2) Blemishes of individual character — addiction, mental illness, HIV, TB, (3) Tribal stigma — caste, ethnicity, religion, criminal family। स्वास्थ्य में: Enacted stigma (actual discrimination) + Felt stigma (fear of discrimination) → help-seeking delay। Courtesy stigma — family members भी stigmatized। Stigma reduction = multi-level।"
+  },
+  {
+    "question": "'Motivational Interviewing' (MI) में 'Change Talk' और 'Sustain Talk' की पहचान क्यों महत्वपूर्ण है?",
+    "options": [
+      { "text": "Change Talk और Sustain Talk — दोनों समान हैं, कोई अंतर नहीं", "is_correct": false },
+      { "text": "Change Talk — change की दिशा में statements; Sustain Talk — status quo की रक्षा — Change Talk को elicit और reinforce करना MI का core है", "is_correct": true },
+      { "text": "Sustain Talk को suppress करना MI का लक्ष्य है", "is_correct": false },
+      { "text": "MI में Change Talk को नज़रअंदाज़ किया जाता है", "is_correct": false }
+    ],
+    "explanation": "Miller & Rollnick — MI में Change Talk categories (DARN-CAT): Desire ('मैं चाहता हूँ'), Ability ('मैं कर सकता हूँ'), Reason ('यह ज़रूरी है क्योंकि'), Need ('मुझे करना चाहिए') + Commitment, Activation, Taking steps। Sustain Talk — 'पर यह मुश्किल है', 'मुझे नहीं लगता'। Clinicians: Change Talk को selectively reinforce ('आप कह रहे हैं आप चाहते हैं कि...') और sustain talk को explore with empathy। Language predicts outcomes।"
+  },
+  {
+    "question": "'Collective Efficacy' (Bandura) व्यक्तिगत self-efficacy से कैसे भिन्न है और समुदायिक स्वास्थ्य में इसका क्या महत्व है?",
+    "options": [
+      { "text": "Collective Efficacy = individual self-efficacies का योग", "is_correct": false },
+      { "text": "Collective Efficacy — समूह की साझा क्षमता की धारणा — व्यक्तिगत sum से अधिक — community health action को predict करती है", "is_correct": true },
+      { "text": "Collective Efficacy — केवल sports teams में", "is_correct": false },
+      { "text": "Collective Efficacy और Community Competence एक ही हैं", "is_correct": false }
+    ],
+    "explanation": "Bandura (1997) — Collective Efficacy: 'हम मिलकर यह कर सकते हैं।' Individual SE sum से अधिक — synergistic। Health में: (1) High collective efficacy villages → higher immunization coverage, ODF achievement, (2) Community health workers who believe 'हमारा गाँव बदल सकता है' → more persistent, (3) Neighborhood collective efficacy → lower crime, better mental health (Chicago studies)। Building CE: mastery experiences, social modeling, group successes।"
+  },
+  {
+    "question": "'Self-Categorization Theory' (Turner) Social Identity Theory को कैसे extend करती है?",
+    "options": [
+      { "text": "Turner ने SIT को reject किया", "is_correct": false },
+      { "text": "SCT बताती है कि हम खुद को कब individual, कब group member के रूप में देखते हैं — salience varies by context", "is_correct": true },
+      { "text": "SCT — केवल cognitive processes पर focus करती है, social identity ignore करती है", "is_correct": false },
+      { "text": "SCT और SIT identical theories हैं", "is_correct": false }
+    ],
+    "explanation": "Turner et al. (1987) — Self-Categorization Theory: हम खुद को multiple levels पर categorize करते हैं: (1) Individual (unique person), (2) Ingroup member (health worker, tribe), (3) Human being। Salience depends on context — hospital में 'nurse' identity salient; tribe में 'community member'। Depersonalization — ingroup prototype को adopt करना। Health में: 'ASHA identity' salient बनाना → collective norms and responsibilities follow।"
+  },
+  {
+    "question": "स्वास्थ्य में 'Stigma by Association' (Courtesy Stigma / Associative Stigma) क्या है?",
+    "options": [
+      { "text": "Stigma — केवल affected person को होती है", "is_correct": false },
+      { "text": "Stigmatized person के family, friends और care providers भी stigma झेलते हैं — जिससे caregiving और social support कम होती है", "is_correct": true },
+      { "text": "Courtesy Stigma — केवल mental illness में", "is_correct": false },
+      { "text": "Associative Stigma से health outcomes improve होते हैं", "is_correct": false }
+    ],
+    "explanation": "Goffman (1963) — Courtesy Stigma: AIDS/TB/mental illness patient के परिजन भी stigmatized। Consequences: (1) Family members caregiving छोड़ते हैं, (2) Social isolation of entire family, (3) Health providers reluctant to work in stigmatized settings (HIV wards), (4) Patient कम disclosure करता है → worse care। India में: HIV patients के बच्चों को school से निकाला जाना। Multi-level stigma reduction programs।"
+  },
+  {
+    "question": "'Paternalism vs Autonomy' का tension स्वास्थ्य शिक्षा में कैसे प्रकट होता है?",
+    "options": [
+      { "text": "Health workers को हमेशा paternalistic होना चाहिए", "is_correct": false },
+      { "text": "Health workers बेहतर जानते हैं (paternalism) vs. patient/community का स्वयं निर्णय लेने का अधिकार (autonomy) — tension manage करना ज़रूरी", "is_correct": true },
+      { "text": "Autonomy — developed countries में; Paternalism — developing countries में उचित", "is_correct": false },
+      { "text": "Paternalism और Autonomy — एक ही approach हैं", "is_correct": false }
+    ],
+    "explanation": "Bioethics में Autonomy vs Beneficence tension: Paternalism — 'doctor knows best' → forced sterilization, non-consensual procedures (India में mass vasectomy 1975-77)। Autonomy — informed consent, self-determination। Soft paternalism — only when severely impaired capacity (acceptable)। Nudge Theory (Thaler & Sunstein) — middle ground: autonomy preserve करते हुए better choices easy बनाना। Community-based health education: facilitate, not dictate।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Self-Regulation' (आत्म-नियमन) की 'Ego Depletion' परिकल्पना क्या है और इसके health implications क्या हैं?",
+    "options": [
+      { "text": "Self-regulation असीमित है", "is_correct": false },
+      { "text": "Self-control एक finite resource की तरह — बार-बार उपयोग से deplete होता है → subsequent choices में poor self-regulation", "is_correct": true },
+      { "text": "Ego Depletion — केवल personality disorder में होती है", "is_correct": false },
+      { "text": "Ego Depletion — replication में confirmed है, कोई controversy नहीं", "is_correct": false }
+    ],
+    "explanation": "Baumeister et al. (1998) — Ego Depletion: Self-control uses glucose-like limited resource। Depleted willpower → poor dietary choices, impulse eating, reduced exercise. Note: replication crisis — some failures to replicate। Possible: depletion is more motivational than physiological। Practical: health behavior change in impoverished environments (decision fatigue from multiple stressors) → structural solutions more effective than willpower-based। 'Healthy default' options।"
+  },
+  {
+    "question": "'Social Norms Theory' में 'Descriptive Norms' और 'Injunctive Norms' का स्वास्थ्य व्यवहार पर कैसा प्रभाव पड़ता है और इनमें कौन अधिक powerful है?",
+    "options": [
+      { "text": "Injunctive Norms — हमेशा अधिक powerful", "is_correct": false },
+      { "text": "Descriptive — 'लोग क्या करते हैं'; Injunctive — 'लोग क्या approve करते हैं'; दोनों context और alignment पर निर्भर; misalignment → confusion", "is_correct": true },
+      { "text": "Descriptive Norms — हमेशा negative impact करती हैं", "is_correct": false },
+      { "text": "दोनों norms का स्वास्थ्य में कोई व्यावहारिक उपयोग नहीं", "is_correct": false }
+    ],
+    "explanation": "Cialdini et al. — Descriptive Norms: 'most people do X' (अधिकांश लोग शौचालय use करते हैं)। Injunctive Norms: 'most people approve of X' (खुले में शौच को गलत माना जाता है)। Focus Theory of Normative Conduct — जो norm प्रमुखता में हो वही behavior guide करती है। Alignment when both consistent → strongest effect। ODF campaigns: both used — '70% families have toilets' + 'समाज शौचालय को सम्मान देता है'।"
+  },
+  {
+    "question": "स्वास्थ्य शिक्षा में 'Freirean Pedagogy' (Paulo Freire) का 'Conscientization' (चेतनाकरण) अवधारणा किस तरह सामाजिक परिवर्तन लाती है?",
+    "options": [
+      { "text": "Freire — traditional classroom teaching का समर्थन करते हैं", "is_correct": false },
+      { "text": "Communities अपनी स्वास्थ्य समस्याओं के social/political roots को पहचानती हैं → critical awareness → collective action", "is_correct": true },
+      { "text": "Conscientization — केवल individual awareness बढ़ाती है", "is_correct": false },
+      { "text": "Freire का approach केवल education में, health में नहीं", "is_correct": false }
+    ],
+    "explanation": "Paulo Freire (1970) — Pedagogy of the Oppressed: 'Banking model of education' (passive deposit of knowledge) की आलोचना → 'Problem-posing education' — dialogue, critical reflection। Conscientization — oppressive structures की awareness + action (praxis = reflection + action)। Community health: ASHA facilitated discussions — women recognize that poor maternal health = gender inequality + poverty → collective advocacy। Nepal Makwanpur trial — mothers' groups → MMR reduction।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Learned Optimism' (Seligman) और 'Defensive Pessimism' (Norem) में से स्वास्थ्य के लिए कौन सा अधिक adaptive है?",
+    "options": [
+      { "text": "Defensive Pessimism — हमेशा maladaptive है", "is_correct": false },
+      { "text": "दोनों functional हो सकते हैं — context dependent; Optimism generally better health outcomes; Defensive Pessimism anxiety को harness करती है", "is_correct": true },
+      { "text": "Optimism हमेशा सबसे बेहतर", "is_correct": false },
+      { "text": "Pessimism — स्वास्थ्य में हमेशा negative", "is_correct": false }
+    ],
+    "explanation": "Seligman — Learned Optimism: Explanatory Style — good events: internal, stable, global; bad events: external, unstable, specific → better health outcomes, immune function, longevity। Norem — Defensive Pessimism: anxiety को forward-planning में channel करना (mentally rehearse worst case → prepare) → actually performs well। Unrealistic optimism (Weinstein) — 'It won't happen to me' → risk underestimation। Health in: context matters — optimism = compliance; defensive pessimism = thorough preparation।"
+  },
+  {
+    "question": "Berkman और Glass का 'Social Networks, Host Resistance, and Mortality' model स्वास्थ्य में social ties की भूमिका कैसे बताता है?",
+    "options": [
+      { "text": "Social ties का mortality से कोई संबंध नहीं", "is_correct": false },
+      { "text": "Strong social networks → psychological well-being + health behaviors + material resources + neuroendocrine pathways → better health and longevity", "is_correct": true },
+      { "text": "केवल family ties, friends नहीं, mortality affect करते हैं", "is_correct": false },
+      { "text": "Social isolation — केवल elderly में harmful", "is_correct": false }
+    ],
+    "explanation": "Berkman & Syme (1979) Alameda County Study — social isolation → 2-3x higher mortality। Berkman & Glass (2000) Causal Pathway: Social Integration → Social Networks → Social Support + Social Influence + Social Engagement + Access to Resources → Psychological/Behavioral/Biological pathways → Health Outcomes। Mechanisms: (1) Psychosocial — stress buffering, (2) Behavioral — shared healthy behaviors, (3) Biological — cortisol, immune function। India में: joint family protective।"
+  },
+  {
+    "question": "'Adverse Childhood Experiences (ACEs)' सामाजिक मनोविज्ञान के दृष्टिकोण से adult health पर कैसे प्रभाव डालते हैं?",
+    "options": [
+      { "text": "ACEs — केवल mental health को प्रभावित करते हैं", "is_correct": false },
+      { "text": "ACEs → toxic stress → biological embedding → adult chronic disease, mental illness, risk behavior — dose-response relationship", "is_correct": true },
+      { "text": "ACEs का प्रभाव 18 वर्ष के बाद समाप्त हो जाता है", "is_correct": false },
+      { "text": "ACEs — केवल wealthy families में होते हैं", "is_correct": false }
+    ],
+    "explanation": "Felitti et al. (1998) — ACE Study (Kaiser Permanente): childhood abuse, neglect, household dysfunction (10 types)। ACE score → dose-response: higher score → higher risk of heart disease, cancer, depression, suicide, substance abuse। Mechanisms: (1) Toxic stress → HPA axis dysregulation, (2) Epigenetic changes, (3) Behavioral coping (smoking, alcohol), (4) Social — disrupted attachments। India में: child marriage, domestic violence, poverty as ACEs। Trauma-informed care essential।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Stereotype Content Model' (Fiske) स्वास्थ्य सेवाओं में prejudice को कैसे समझाता है?",
+    "options": [
+      { "text": "सभी stereotypes एक जैसे होते हैं", "is_correct": false },
+      { "text": "Warmth + Competence की 2×2 matrix — भिन्न समूहों के प्रति भिन्न emotions और discriminatory behaviors — healthcare में अलग-अलग treatment", "is_correct": true },
+      { "text": "Stereotype Content Model — केवल racial groups में", "is_correct": false },
+      { "text": "High warmth, high competence groups को हमेशा best care मिलती है", "is_correct": false }
+    ],
+    "explanation": "Fiske et al. (2002) — SCM: 2 dimensions: Warmth (intent to harm/help?) + Competence (ability?). 4 clusters: (1) High W + High C → admiration (doctors) → best care, (2) High W + Low C → pity (elderly, disabled) → paternalistic care, (3) Low W + High C → envy (private doctors) → resentment, (4) Low W + Low C → contempt (addicts, poor) → neglect। Health में: Low-caste, homeless, substance users → contempt cluster → worst care। Awareness and training needed।"
+  },
+  {
+    "question": "'Nudge Theory' (Thaler & Sunstein) के 'EAST Framework' (Easy, Attractive, Social, Timely) का स्वास्थ्य नीति में क्या उपयोग है?",
+    "options": [
+      { "text": "EAST — केवल advertising में", "is_correct": false },
+      { "text": "EAST — choices को make करके healthy behaviors को default बनाना: Easy (सरल), Attractive (आकर्षक), Social (दूसरों से), Timely (सही समय पर)", "is_correct": true },
+      { "text": "EAST Framework — forced compliance strategy है", "is_correct": false },
+      { "text": "Nudge Theory — autonomy को damage करती है", "is_correct": false }
+    ],
+    "explanation": "Behavioural Insights Team (UK) — EAST: Make it Easy (ORS packets at ASHA home); Attractive (colorful immunization cards with reward sticker); Social (show what similar others do); Timely (reminder when person most receptive — after delivery, first visit). Nudge preserves autonomy — no force. India में: Jan Arogya Abhiyan में messaging, Aadhaar-linked health benefits. Criticism: manipulation without consent — 'Libertarian Paternalism' debate।"
+  },
+  {
+    "question": "Health Education में 'Diffusion of Innovations' के 'S-Curve' का क्या महत्व है?",
+    "options": [
+      { "text": "S-Curve — innovation की कीमत बताता है", "is_correct": false },
+      { "text": "Innovation adoption time के साथ S-shaped pattern follows करता है — slow start, rapid growth, then leveling — program planning में critical", "is_correct": true },
+      { "text": "S-Curve — केवल technology diffusion में", "is_correct": false },
+      { "text": "S-Curve दिखाता है कि adoption कभी 100% नहीं होती", "is_correct": false }
+    ],
+    "explanation": "Rogers — S-Curve: Cumulative adoption over time follows S-shape। Phase 1: slow (innovators + early adopters); Phase 2: rapid growth (early + late majority); Phase 3: plateau (laggards, non-adopters)। Critical mass point — जहाँ adoption accelerates। Health program planning: early phase में early adopters target → critical mass → faster diffusion। ORS adoption, mobile health (mHealth), bed net use — all show S-curves। Tracking: where on S-curve is program?।"
+  },
+  {
+    "question": "'Psychosocial Rehabilitation' में सामाजिक मनोविज्ञान की क्या भूमिका है?",
+    "options": [
+      { "text": "Rehabilitation — केवल physical therapy है", "is_correct": false },
+      { "text": "Social skills training, stigma reduction, community reintegration, self-determination और social support networks — सभी psychosocial recovery के स्तंभ हैं", "is_correct": true },
+      { "text": "Psychosocial Rehabilitation — केवल severe mental illness में", "is_correct": false },
+      { "text": "Rehabilitation में social factors — secondary हैं, medical factors primary", "is_correct": false }
+    ],
+    "explanation": "Psychosocial Rehabilitation (PSR) principles: (1) Self-determination — recovery goals self-defined, (2) Social inclusion — community participation, (3) Holistic — multiple domains (housing, employment, relationships), (4) Peer support — lived experience। India में NIMHANS, iCall, District Mental Health Programs। Social psychology contributions: reducing stigma (contact), building social networks, social skills training (role-playing), assertiveness training। 'Recovery' — not cure, but meaningful life।"
+  },
+  {
+    "question": "'Relational Aggression' (संबंधात्मक आक्रामकता) और 'Physical Aggression' में क्या अंतर है और यह स्वास्थ्य में क्यों महत्वपूर्ण है?",
+    "options": [
+      { "text": "Relational Aggression — कम हानिकारक है", "is_correct": false },
+      { "text": "Relational Aggression — relationships/social status को harm करके (rumors, exclusion); Physical Aggression — bodily harm — दोनों mental health को प्रभावित करते हैं, पर अलग तरह से", "is_correct": true },
+      { "text": "Relational Aggression — केवल females में", "is_correct": false },
+      { "text": "दोनों प्रकार identical health consequences देते हैं", "is_correct": false }
+    ],
+    "explanation": "Crick & Grotpeter (1995) — Relational Aggression: social manipulation — rumor spreading, exclusion, silent treatment। Physical Aggression — direct bodily harm। Gender differences: boys → more physical; girls → more relational (not absolute). Mental health: both → depression, anxiety, school refusal। School bullying में relational aggression — cyberbullying भी relational। Health Education: anti-bullying programs must address both forms। Long-term: victims → PTSD, social anxiety।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Social Comparison Orientation' (Gibbons & Buunk) का शारीरिक स्वास्थ्य व्यवहार पर क्या प्रभाव है?",
+    "options": [
+      { "text": "High SCO — हमेशा health के लिए beneficial", "is_correct": false },
+      { "text": "High SCO individuals दूसरों के health behaviors से अधिक influenced होते हैं — peer norms में both positive modeling और social contagion का खतरा", "is_correct": true },
+      { "text": "Social Comparison Orientation — stable trait नहीं है", "is_correct": false },
+      { "text": "Low SCO individuals — social influence के प्रति immune हैं", "is_correct": false }
+    ],
+    "explanation": "Gibbons & Buunk (1999) — Iowa-Netherlands Comparison Orientation Measure (INCOM)। High SCO: दूसरों से health comparisons करते हैं → (1) Upward comparison → aspirational models (positive) या body dissatisfaction (negative), (2) Downward comparison → 'कम से कम मैं उससे बेहतर हूँ' → false reassurance, risk underestimation। Peer health programs में High SCO individuals — more responsive। Social media health comparisons — high SCO → eating disorders, exercise addiction।"
+  },
+  {
+    "question": "'इंटरग्रुप थ्रेट थ्योरी' (Integrated Threat Theory — Stephan & Stephan) स्वास्थ्य में किस तरह प्रासंगिक है?",
+    "options": [
+      { "text": "Threat Theory — केवल international politics में", "is_correct": false },
+      { "text": "चार प्रकार के खतरे (realistic, symbolic, intergroup anxiety, negative stereotypes) जब महसूस हों तो outgroup के प्रति prejudice और health service refusal बढ़ती है", "is_correct": true },
+      { "text": "Threat Theory — prejudice को reduce करती है", "is_correct": false },
+      { "text": "Threat perception — केवल majority groups में", "is_correct": false }
+    ],
+    "explanation": "Stephan & Stephan (2000) — 4 threats: (1) Realistic threats — resources/safety, (2) Symbolic threats — values/worldview, (3) Intergroup anxiety — discomfort in contact, (4) Negative stereotypes — confirmation bias। Health में: migrant workers → realistic threat ('नौकरी जाएगी') + symbolic threat ('हमारी संस्कृति बदलेगी') → health services refuse। Tribal communities → threats from government health workers → alternative medicine preference। Threat reduction strategies: familiarity, shared goals।"
+  },
+  {
+    "question": "स्वास्थ्य शिक्षा में 'Role Playing' और 'Simulation' का सामाजिक मनोवैज्ञानिक आधार क्या है?",
+    "options": [
+      { "text": "Role Playing — केवल entertainment है", "is_correct": false },
+      { "text": "Role enactment → attitude change (role-playing effect), empathy building और behavioral rehearsal — all grounded in social learning and dramaturgical theories", "is_correct": true },
+      { "text": "Simulation — passive learning है", "is_correct": false },
+      { "text": "Role Playing effectiveness — unproven", "is_correct": false }
+    ],
+    "explanation": "Social psychological basis of Role Playing: (1) Bem's Self-Perception Theory — 'हम जो करते हैं उससे हमारी attitude बनती है', (2) Cognitive Dissonance — role के अनुरूप बोलना → attitude alignment, (3) Bandura's Social Learning — practice in safe environment, (4) Goffman — role immersion → perspective-taking, empathy। Health Education: ASHA training में role-play — provider counseling, community resistance handling। Simulation — clinical skills, emergency response। Evidence: better retention, skill transfer।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Persuasion and Resistance' में 'Forewarning Effect' क्या है?",
+    "options": [
+      { "text": "Forewarning — persuasion को और प्रभावी बनाती है", "is_correct": false },
+      { "text": "पहले से बताना कि 'अब आपको persuade किया जाएगा' → लोग counter-arguments तैयार करते हैं → persuasion कम प्रभावी", "is_correct": true },
+      { "text": "Forewarning — केवल commercial persuasion में होती है", "is_correct": false },
+      { "text": "Forewarning Effect — health messages में होता नहीं", "is_correct": false }
+    ],
+    "explanation": "Petty & Cacioppo (1979) — Forewarning Effect: जब लोगों को पहले से पता हो कि यह persuasive message है → inoculation against persuasion → counter-arguments generate करते हैं। Health implication: 'अब मैं आपको बताऊँगा कि आपको ऐसा करना चाहिए' → resistance। Solution: conversational style, problem-posing ('आप क्या सोचते हैं?'), Motivational Interviewing। Tobacco companies forewarning against quit messages — anticipatory resistance।"
+  },
+  {
+    "question": "'Inoculation Theory' (McGuire) स्वास्थ्य में कैसे उपयोगी है?",
+    "options": [
+      { "text": "Inoculation Theory — केवल medical vaccination के बारे में", "is_correct": false },
+      { "text": "Weak counter-messages देकर लोगों को strong misinformation के विरुद्ध resistant बनाना — prebunking", "is_correct": true },
+      { "text": "Inoculation Theory — debunking से identical है", "is_correct": false },
+      { "text": "Inoculation — केवल academic research में उपयोगी", "is_correct": false }
+    ],
+    "explanation": "McGuire (1964) — Inoculation Theory: biological vaccine analogy — weak dose of pathogen → antibodies। Information inoculation: mild dose of misleading argument + refutation → resistance to strong misinformation। Health Application: (1) Anti-tobacco inoculation — 'tobacco companies कहेंगे यह नहीं हानिकारक, पर evidence...' (2) Vaccine hesitancy prebunking — COVID vaccine misinformation। 'Good News India' vaccine campaign inoculation elements। Prebunking > Debunking (before > after)।"
+  },
+  {
+    "question": "'Dual Process Theory of Persuasion' (System 1 vs System 2) स्वास्थ्य निर्णय लेने में कैसे लागू होती है?",
+    "options": [
+      { "text": "System 1 — हमेशा गलत; System 2 — हमेशा सही", "is_correct": false },
+      { "text": "System 1 (fast, intuitive, emotional) → automatic health decisions; System 2 (slow, deliberate) → rational evaluation — दोनों health में target करने ज़रूरी", "is_correct": true },
+      { "text": "Health decisions — केवल System 2 से होते हैं", "is_correct": false },
+      { "text": "System 1 और System 2 — Kahneman के ELM के alternative names हैं", "is_correct": false }
+    ],
+    "explanation": "Kahneman (2011) — Thinking Fast and Slow: System 1 — automatic, emotional, heuristic-based (क्या यह safe लगता है?); System 2 — analytical, effortful (क्या evidence कहता है?)। Health decisions: (1) System 1 → vaccine hesitancy (gut reaction 'not natural'), (2) System 2 → complex treatment decisions। Design implications: (1) Defaults और nudges → System 1, (2) Clear risk communication → System 2। Effective health communication targets both। Heuristics: availability, representativeness, affect।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Obedience to Authority' (Milgram) के निष्कर्ष स्वास्थ्य नैतिकता में क्यों महत्वपूर्ण हैं?",
+    "options": [
+      { "text": "Milgram प्रयोग का health ethics से कोई संबंध नहीं", "is_correct": false },
+      { "text": "Hierarchy में lower-level health workers ऊपरी आदेशों का पालन कर सकते हैं — ethical violations, patient harm, whistleblowing की कमी", "is_correct": true },
+      { "text": "Obedience — केवल military contexts में", "is_correct": false },
+      { "text": "Health workers हमेशा ethical authority को ही मानते हैं", "is_correct": false }
+    ],
+    "explanation": "Milgram (1963) — 65% participants ने harmful shocks दिए when authority commanded। Health implications: (1) Nurses following wrong orders from doctors — medication errors, (2) Unethical clinical trials — Tuskegee, India's pharma trials, (3) Following senior's poor practices, (4) Forced sterilization। Factors increasing obedience: proximity of authority, distance from victim, institutional legitimacy। Reducing: ethics training, safe whistleblowing channels, institutional culture of questioning।"
+  },
+  {
+    "question": "'Self-Presentation Theory' (Jones & Pittman) में 'Ingratiation' और 'Self-Promotion' रणनीतियाँ स्वास्थ्य सेवा में कैसे प्रकट होती हैं?",
+    "options": [
+      { "text": "Self-Presentation — केवल job interviews में", "is_correct": false },
+      { "text": "Patients/providers अनुकूल impression बनाने के लिए self-present करते हैं — health disclosure, compliance reporting प्रभावित होती है", "is_correct": true },
+      { "text": "Self-Presentation हमेशा dishonest है", "is_correct": false },
+      { "text": "Self-Presentation का clinical outcomes से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Jones & Pittman (1982) — 5 strategies: Ingratiation (likable बनना), Self-Promotion (competent दिखना), Intimidation, Exemplification (moral दिखना), Supplication (helpless दिखना)। Health contexts: (1) Patients — 'अच्छा patient' दिखने के लिए medication compliance exaggerate करते हैं (ingratiation/exemplification), (2) Providers — competent दिखने के लिए medical jargon (self-promotion), (3) Poor adherence under-report — self-presentation bias। Non-judgmental environments → more honest disclosure।"
+  },
+  {
+    "question": "'Violence Against Women' (VAW) को सामाजिक मनोवैज्ञानिक दृष्टिकोण से किन कारकों से समझा जाता है?",
+    "options": [
+      { "text": "VAW — केवल individual pathology है", "is_correct": false },
+      { "text": "Gender inequality, power imbalance, masculine norms, social learning और normalization of violence — multilevel ecological model", "is_correct": true },
+      { "text": "VAW — केवल alcohol के कारण होती है", "is_correct": false },
+      { "text": "VAW — developing countries में ही होती है", "is_correct": false }
+    ],
+    "explanation": "WHO Ecological Model for VAW: (1) Individual — alcohol, childhood abuse, attitudes, (2) Relationship — male dominance, marital conflict, (3) Community — social norms, isolation, (4) Societal — gender inequality, weak laws। Social Learning — violence is learned (Bandura). Power and Control Wheel (Duluth Model) — dominance, economic control। India में: 30% women report IPV (NFHS-5)। Health consequences: injury, mental illness, reproductive health. ASHA-led community sensitization।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Personal Space' (व्यक्तिगत स्थान) और 'Proxemics' (Hall) का स्वास्थ्य सेवाओं में क्या महत्व है?",
+    "options": [
+      { "text": "Personal Space — health interactions में irrelevant है", "is_correct": false },
+      { "text": "Edward Hall के 4 zones (intimate, personal, social, public) — health consultation में appropriate zone violation → discomfort, trust कम", "is_correct": true },
+      { "text": "Health workers को हमेशा intimate space में काम करना चाहिए", "is_correct": false },
+      { "text": "Personal Space — केवल Western cultures में relevant", "is_correct": false }
+    ],
+    "explanation": "Edward Hall (1966) — Proxemics: (1) Intimate zone (0-18 inch) — physical examination; (2) Personal zone (18in-4ft) — patient counseling; (3) Social zone (4-12ft) — group health education; (4) Public zone (12ft+) — community talks। Cultural variation — India में gender-based differences। PHC में: crowded OPDs → personal space violation → discomfort, reduced disclosure। Private counseling rooms → better adherence, more sensitive disclosures (HIV, MH)।"
+  },
+  {
+    "question": "'Hope Theory' (Snyder) मानसिक और शारीरिक स्वास्थ्य में कैसे योगदान करती है?",
+    "options": [
+      { "text": "Hope — केवल wishful thinking है", "is_correct": false },
+      { "text": "Hope = Pathways thinking (कैसे?) + Agency thinking (मैं कर सकता हूँ) — दोनों मिलकर goal pursuit और resilience को power करते हैं", "is_correct": true },
+      { "text": "Hope Theory — केवल cancer patients में relevant", "is_correct": false },
+      { "text": "High hope — हमेशा unrealistic expectations देती है", "is_correct": false }
+    ],
+    "explanation": "C.R. Snyder (1994) — Hope Theory: Not merely optimism. Two components: (1) Pathways thinking — 'मुझे पता है कैसे goal reach करूँ' (multiple routes), (2) Agency thinking — 'मुझमें शक्ति है' (motivation to use pathways)। Health: High Hope → better pain management, treatment adherence, post-surgery recovery, cancer survivorship। Hope interventions: goal-setting, barrier anticipation, pathway generation। Hopelessness → worst predictor — depression, suicide, poor chronic disease management।"
+  },
+  {
+    "question": "स्वास्थ्य शिक्षा में 'Audience Research' क्यों ज़रूरी है और इसमें कौन-सी सामाजिक मनोवैज्ञानिक अवधारणाएँ काम आती हैं?",
+    "options": [
+      { "text": "Audience Research — केवल market research है", "is_correct": false },
+      { "text": "Target audience की beliefs, attitudes, norms, barriers और motivations समझना — tailored messages के लिए — Audience Segmentation, KAP, Formative Research", "is_correct": true },
+      { "text": "Audience Research — केवल experts की ज़रूरत होती है", "is_correct": false },
+      { "text": "Health messages को audience research की ज़रूरत नहीं — एक-size-fits-all काम करता है", "is_correct": false }
+    ],
+    "explanation": "Formative Research: (1) Audience Segmentation — demographic, psychographic, behavioral, (2) KAP surveys — baseline knowledge/attitude/practice, (3) Focus Groups — in-depth beliefs and barriers (FGDs), (4) In-depth interviews — individual perspectives, (5) Ethnographic observation — cultural context। Social psych concepts: Health Belief Model (perceived barriers/benefits), Social Norms Theory, TPB (attitudes, norms, PBC)। Community Centered Design — community as partners in message development।"
+  },
+  {
+    "question": "'Labelling Theory' (Becker) का mental illness और health-seeking behavior से क्या संबंध है?",
+    "options": [
+      { "text": "Labels — केवल diagnostic convenience के लिए", "is_correct": false },
+      { "text": "Mental illness labels → social stigma → role entrenchment → self-fulfilling prophecy → worse outcomes और reduced help-seeking", "is_correct": true },
+      { "text": "Labelling Theory — mental illness की वास्तविकता को नकारती है", "is_correct": false },
+      { "text": "Labels हमेशा positive impact करते हैं treatment में", "is_correct": false }
+    ],
+    "explanation": "Becker (1963) — Labelling Theory: deviance is not inherent, but socially constructed through labelling। Mental illness: 'schizophrenic' label → social identity shift, self-fulfilling prophecy ('I am sick'), secondary deviance। Scheff (1966) — mental illness as violating residual rules. Consequences: help-seeking delay (fear of label), medication non-adherence, employment discrimination. India: 'pagal' label → family shame → hidden, untreated. Anti-stigma campaigns: 'person with' language।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Power Distance' (Hofstede) स्वास्थ्य सेवा delivery को कैसे प्रभावित करता है?",
+    "options": [
+      { "text": "Power Distance — केवल organizational management में relevant", "is_correct": false },
+      { "text": "High Power Distance cultures में doctor-patient या provider-community authority gap → reduced patient questioning, less informed consent, paternalistic care", "is_correct": true },
+      { "text": "Low Power Distance — always better for health outcomes", "is_correct": false },
+      { "text": "Power Distance और health quality का कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Hofstede (1980) — Power Distance Index: India — high PDI। Effects on health: (1) Patients don't question doctor → unaddressed doubts → non-adherence, (2) Informed consent — ritual not substance, (3) Community members defer to ASHA/ANM without critical engagement, (4) Whistleblowing in healthcare — inhibited। Low PDI contexts — shared decision-making easier। India में: creating 'questioning culture' — patient rights (PCPNDT, MTP), participatory health planning — challenging but essential।"
+  },
+  {
+    "question": "'Social Determinants of Mental Health' (SDMH) में कौन-से प्रमुख कारक शामिल हैं?",
+    "options": [
+      { "text": "Mental health — केवल biological कारकों से निर्धारित होती है", "is_correct": false },
+      { "text": "आय असमानता, बेरोज़गारी, शिक्षा, आवास, भेदभाव और सामाजिक बहिष्कार — सभी mental health outcomes को प्रभावित करते हैं", "is_correct": true },
+      { "text": "SDMH — केवल physical health में", "is_correct": false },
+      { "text": "Mental health SDH — developing countries में ही relevant", "is_correct": false }
+    ],
+    "explanation": "Marmot (2010) — SDMH: (1) Income inequality → more mental illness (Wilkinson & Pickett — Spirit Level), (2) Unemployment → depression, anxiety, (3) Food insecurity → psychological distress, (4) Discrimination (caste, gender, religion) → chronic stress → PTSD, depression, (5) Social exclusion (prisoners, migrants, LGBTQ+) → social isolation → MH deterioration। India में: farmer suicides — economic distress + social shame + lack of support। MH interventions must address SDH।"
+  },
+  {
+    "question": "'Cultural Consonance' (Dressler) का सामाजिक मनोविज्ञान और स्वास्थ्य में क्या महत्व है?",
+    "options": [
+      { "text": "Cultural Consonance — केवल anthropology में", "is_correct": false },
+      { "text": "व्यक्ति का जीवन जितना सांस्कृतिक आदर्शों के अनुरूप हो → उतना कम तनाव और बेहतर स्वास्थ्य; consonance gap → chronic stress", "is_correct": true },
+      { "text": "Cultural Consonance — positive और negative दोनों समान health outcomes", "is_correct": false },
+      { "text": "Cultural Consonance — केवल elite groups में relevant", "is_correct": false }
+    ],
+    "explanation": "William Dressler — Cultural Consonance: समुदाय में shared cultural models (ideal lifestyle, family life, social support) होते हैं। व्यक्ति कितना इन models को live करता है = cultural consonance। High consonance → low BP, better mental health। Low consonance (aspirations vs reality gap — poverty में) → chronic stress, hypertension, depression। India में: aspirational models (nuclear family, educated children) जो economic realities से match नहीं करते → chronic distress।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Perceived Social Support' और 'Received Social Support' में क्या अंतर है और कौन सा स्वास्थ्य के लिए अधिक महत्वपूर्ण है?",
+    "options": [
+      { "text": "Received Support — हमेशा अधिक महत्वपूर्ण", "is_correct": false },
+      { "text": "Perceived Support (यह जानना कि support उपलब्ध है) — health outcomes पर received support से अधिक protective; mobilization paradox", "is_correct": true },
+      { "text": "दोनों समान health impact रखते हैं", "is_correct": false },
+      { "text": "Perceived Support — measurement में impossible", "is_correct": false }
+    ],
+    "explanation": "Cohen & Wills (1985) — Perceived Support = 'support available है यदि ज़रूरत हो' → stress buffering hypothesis। Received Support = actually received support। Paradox: received support sometimes unhelpful (unsolicited advice → burden feeling, reduced autonomy)। Perceived support → better mental health, lower cortisol, better immune function। Health in: village woman जानती है ASHA available है → less anxiety even if not called। Building perceived availability is key।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Organizational Justice' (Greenberg) स्वास्थ्य कर्मचारियों के wellbeing और performance को कैसे प्रभावित करती है?",
+    "options": [
+      { "text": "Organizational Justice — केवल corporate settings में relevant", "is_correct": false },
+      { "text": "Distributive (fair outcomes) + Procedural (fair process) + Interactional (respectful treatment) justice — सभी health worker satisfaction, motivation और patient care quality से linked", "is_correct": true },
+      { "text": "Justice perception — health outcomes से असंबंधित", "is_correct": false },
+      { "text": "Only pay equity matters for health worker performance", "is_correct": false }
+    ],
+    "explanation": "Greenberg (1987) — Organizational Justice: (1) Distributive Justice — fair salary, incentives (ASHA incentives), (2) Procedural — fair process (grievance redressal, promotion), (3) Interactional — respectful treatment by supervisors (ANM-ASHA relationship), (4) Informational — adequate explanation. Low OJ → burnout, absenteeism, lower care quality, turnover. India में: ASHA incentive delays, ANM's disrespect → burnout → worse community coverage। Fair treatment = foundational।"
+  },
+  {
+    "question": "'Bystander CPR' और 'Bystander Effect' को कम करने के लिए सामाजिक मनोविज्ञान क्या सुझाव देती है?",
+    "options": [
+      { "text": "अधिक लोग = अधिक मदद", "is_correct": false },
+      { "text": "Diffusion of responsibility counter करने के लिए specific person को appoint करना, training, और clear role assignment — public CPR campaigns में effective", "is_correct": true },
+      { "text": "Bystander Effect — prevention में social psych का कोई योगदान नहीं", "is_correct": false },
+      { "text": "Emergency में crowd से दूर रहना ही solution है", "is_correct": false }
+    ],
+    "explanation": "Bystander Effect intervention strategies: (1) Make it personal — 'आप वहाँ खड़े लाल शर्ट वाले, कृपया 108 call करें' → specific designation, (2) Training — CPR certification increases response rate, (3) Remove pluralistic ignorance — 'यह emergency है, मदद ज़रूरी है', (4) Reduce evaluation apprehension — 'कोई judge नहीं करेगा', (5) Increase moral disengagement costs। Public AED placement + bystander CPR training → cardiac survival rates doubled in some countries।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Intergroup Cooperation' (SPORT Model) स्वास्थ्य में multisectoral coordination के लिए क्यों महत्वपूर्ण है?",
+    "options": [
+      { "text": "Intergroup cooperation — स्वास्थ्य में अनावश्यक है", "is_correct": false },
+      { "text": "Shared goals + superordinate identity + mutual dependence + clear communication → sectoral silos तोड़कर health outcomes improve होते हैं", "is_correct": true },
+      { "text": "स्वास्थ्य में केवल health department ही काम करे", "is_correct": false },
+      { "text": "Intergroup cooperation — prejudice बढ़ाती है", "is_correct": false }
+    ],
+    "explanation": "Sherif (1954) Robbers Cave Experiment — superordinate goals (shared challenges) → intergroup conflict to cooperation। Health में: WASH + Health + Education + ICDS departments — competing interests → coordination failures। Social psych solutions: (1) Superordinate goal ('Zero stunting in district'), (2) Joint planning and accountability, (3) Cross-departmental team building, (4) Shared data platforms। District Health Action Plans में convergence mechanism — social psychology of intergroup cooperation critical।"
+  },
+  {
+    "question": "'Mental Health First Aid' (MHFA) कार्यक्रम में सामाजिक मनोविज्ञान के कौन-से सिद्धांत शामिल हैं?",
+    "options": [
+      { "text": "MHFA — केवल clinical training है", "is_correct": false },
+      { "text": "Stigma reduction, empathy building, active listening, contact theory और social support mobilization — सभी MHFA के core हैं", "is_correct": true },
+      { "text": "MHFA में social psychology का कोई role नहीं", "is_correct": false },
+      { "text": "MHFA — केवल trained psychologists कर सकते हैं", "is_correct": false }
+    ],
+    "explanation": "MHFA (Kitchener & Jorm, 2002) — ALGEE model: Approach, Listen, Give support, Encourage professional help, Encourage self-help। Social psych basis: (1) Contact Theory — trained laypersons interact with MH distress → reduce stigma in community, (2) Social Support Theory — mobilizing networks, (3) Empathy Training (Batson), (4) Normalization — 'mental illness common, help available', (5) Bystander Intervention principles। India में: iCall, Vandrevala Foundation। Community-based MHFA in schools, workplaces।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Social Identity Complexity' (Roccas & Brewer) का concept स्वास्थ्य में prejudice reduction के लिए कैसे उपयोगी है?",
+    "options": [
+      { "text": "Multiple identities — prejudice बढ़ाती हैं", "is_correct": false },
+      { "text": "Complex social identities (जो multiple groups में overlap करती हैं) → reduced prejudice और increased tolerance — cross-cutting categories का लाभ", "is_correct": true },
+      { "text": "Social Identity Complexity — only Western societies में relevant", "is_correct": false },
+      { "text": "Simple social identities — always better for health", "is_correct": false }
+    ],
+    "explanation": "Roccas & Brewer (2002) — SIC: लोग multiple group memberships रखते हैं। Low complexity (all identities align — caste+religion+region) → strong in-group favoritism। High complexity (different group memberships don't overlap — Hindu + doctor + Dalit rights supporter) → more inclusive worldview → reduced prejudice। Health Education: health workers की professional identity + human identity → override caste prejudice in treatment। Promoting complex identity = prejudice reduction strategy।"
+  },
+  {
+    "question": "'Transtheoretical Model' में 'Decisional Balance' (Janis & Mann) क्या है और यह किस stage में सबसे महत्वपूर्ण है?",
+    "options": [
+      { "text": "Decisional Balance — TTM का हिस्सा नहीं है", "is_correct": false },
+      { "text": "Pros और Cons का मूल्यांकन — Contemplation stage में सबसे महत्वपूर्ण; Pros > Cons तब Action की तरफ", "is_correct": true },
+      { "text": "Decisional Balance — केवल Action stage में", "is_correct": false },
+      { "text": "Decisional Balance हमेशा Cons > Pros रहती है", "is_correct": false }
+    ],
+    "explanation": "Janis & Mann (1977) — Decisional Balance: आगे बढ़ने के फायदे (Pros) बनाम नुकसान (Cons)। TTM में: Precontemplation — Cons >> Pros; Contemplation — Cons ≈ Pros (ambivalence); Preparation — Pros > Cons; Action — Pros >> Cons। Cross-over point। MI में: 'आप धूम्रपान छोड़ने के बारे में क्या-क्या सोचते हैं — क्या अच्छा लगेगा? क्या मुश्किल होगा?' — balance explore करना। ASHA — TB treatment counseling में decisional balance।"
+  },
+  {
+    "question": "'Health Locus of Control' (Rotter) व्यक्ति के स्वास्थ्य व्यवहार को कैसे निर्धारित करता है?",
+    "options": [
+      { "text": "Locus of Control — स्वास्थ्य में irrelevant है", "is_correct": false },
+      { "text": "Internal LOC → proactive health behaviors; External LOC (powerful others, chance) → passive, fate-dependent health behavior — MHLC scale से measure होता है", "is_correct": true },
+      { "text": "External LOC हमेशा better health outcomes देता है", "is_correct": false },
+      { "text": "Health LOC — unchangeable trait है", "is_correct": false }
+    ],
+    "explanation": "Wallston et al. (1978) — Multidimensional Health Locus of Control (MHLC): (1) Internal HLOC — 'मेरा स्वास्थ्य मेरे हाथों में है' → preventive behaviors, compliance, (2) Powerful Others HLOC — 'doctors/family decide' → follow medical advice but passive, (3) Chance HLOC — 'भाग्य तय करेगा' → fatalism → poor prevention। India में: fatalistic beliefs ('भगवान की मर्जी') → late presentation, non-adherence। Empowerment education → internal HLOC बढ़ाना।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Environmental Psychology' स्वास्थ्य को कैसे प्रभावित करती है?",
+    "options": [
+      { "text": "Environment — केवल physical health को प्रभावित करता है", "is_correct": false },
+      { "text": "Built environment, nature exposure, crowding और noise — सभी mental और physical health outcomes निर्धारित करते हैं", "is_correct": true },
+      { "text": "Environmental Psychology — केवल climate change के बारे में", "is_correct": false },
+      { "text": "Indoor environment — health-irrelevant है", "is_correct": false }
+    ],
+    "explanation": "Environmental Psychology (Stokols, Altman): (1) Crowding — high density → stress, aggression, reduced privacy → mental health decline (slums), (2) Noise pollution — chronic noise → CVD, cognitive impairment, sleep disruption, (3) Nature exposure (Green spaces) — Attention Restoration Theory (Kaplan) → stress reduction, (4) Restorative environments — views of nature → hospital recovery faster (Ulrich), (5) Built environment → walkability → physical activity. India में: slum health disparities = environmental psych।"
+  },
+  {
+    "question": "'Risk Perception' (Slovic) में स्वास्थ्य के खतरों की सामाजिक धारणा को कौन-से कारक प्रभावित करते हैं?",
+    "options": [
+      { "text": "Risk perception — केवल objective probability पर आधारित", "is_correct": false },
+      { "text": "Dread, Unfamiliarity, Controllability, Voluntariness, Catastrophic potential — सभी perceived risk को actual probability से अलग बनाते हैं", "is_correct": true },
+      { "text": "Scientists और आम लोग risk को समान तरह से perceive करते हैं", "is_correct": false },
+      { "text": "Risk perception में cultural factors अप्रासंगिक हैं", "is_correct": false }
+    ],
+    "explanation": "Slovic (1987) — Psychometric Paradigm: 2 factors: (1) Dread Risk — uncontrollable, catastrophic, fatal (nuclear power, COVID variant) → over-estimated, (2) Unknown Risk — new, unfamiliar, unobservable (pesticides, GMO). Voluntary risks (smoking) → under-estimated vs involuntary (passive smoking) → over-estimated। Affect Heuristic — emotional response guides risk judgment। Health Communication: addressing dread and unfamiliarity reduces risk misperception। COVID vaccine hesitancy — dread of side effects > dread of disease।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Social Influence और Vaccine Hesitancy' में क्या संबंध है?",
+    "options": [
+      { "text": "Vaccine hesitancy — केवल ignorance से", "is_correct": false },
+      { "text": "Social networks, in-group norms, authority figures, online echo chambers और perceived social proof — सभी hesitancy बनाते और बढ़ाते हैं", "is_correct": true },
+      { "text": "Vaccine hesitancy में social factors — secondary हैं", "is_correct": false },
+      { "text": "Social influence केवल pro-vaccine messaging में काम करती है", "is_correct": false }
+    ],
+    "explanation": "WHO (2019) — Vaccine Hesitancy: 3 Cs — Confidence, Complacency, Convenience। Social psych dimensions: (1) In-group norms — anti-vax communities में hesitancy contagious, (2) Echo chambers — algorithm-driven misinformation reinforcement, (3) Opinion leaders — anti-vax influencers, religious leaders, (4) Conformity — 'हमारे गाँव में कोई नहीं लगवाता', (5) Risk perception — dread of side effects। Counter: trusted community voices, social proof ('95% parents chose vaccine'), inoculation against misinformation।"
+  },
+  {
+    "question": "स्वास्थ्य शिक्षा में 'Community Diagnosis' सामाजिक मनोवैज्ञानिक दृष्टिकोण से क्यों महत्वपूर्ण है?",
+    "options": [
+      { "text": "Community Diagnosis — केवल epidemiological data है", "is_correct": false },
+      { "text": "Community की beliefs, attitudes, norms, power structures, cultural practices और perceived barriers को समझे बिना effective health intervention impossible", "is_correct": true },
+      { "text": "Community Diagnosis — health workers केवल observe करते हैं", "is_correct": false },
+      { "text": "Community Diagnosis — एक बार करने के बाद पर्याप्त है", "is_correct": false }
+    ],
+    "explanation": "Community Diagnosis — holistic assessment: Epidemiological (disease burden) + Social psych (beliefs, norms, power dynamics) + Cultural (practices, healers) + Structural (access, resources)। Social psych tools: FGDs (beliefs exploration), Social Mapping (power and networks), Participatory Appraisal (community perspective), KAP surveys। Community Diagnosis without social psych → 'doctor knows best' → interventions rejected। Example: TB program without understanding 'TB = curse' beliefs → non-uptake। Culture-first approach।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Positive Deviance' क्या है और स्वास्थ्य कार्यक्रमों में इसका क्या उपयोग है?",
+    "options": [
+      { "text": "Positive Deviance — antisocial behavior है", "is_correct": false },
+      { "text": "समान संसाधनों और constraints के बावजूद कुछ लोग/परिवार बेहतर health outcomes पाते हैं — उनकी practices को identify कर community में फैलाना", "is_correct": true },
+      { "text": "Positive Deviance — केवल economic outliers", "is_correct": false },
+      { "text": "Positive Deviance Approach — experts द्वारा solutions impose करना है", "is_correct": false }
+    ],
+    "explanation": "Sternin & Choo — Positive Deviance Approach: malnutrition program in Vietnam — same poverty level families में कुछ के बच्चे healthy। Discovery: small fish/shrimp + sweet potato greens। Process: community inquiry, insider knowledge, community spread। Social psych: (1) Social proof — community member करता है → credible, (2) Peer modeling, (3) Community ownership। India में: handwashing, maternal health, TB adherence में PD approach। WHO और Save the Children use।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Self-Complexity Theory' (Linville) स्वास्थ्य resilience से कैसे जुड़ी है?",
+    "options": [
+      { "text": "Self-complexity — always negative for mental health", "is_correct": false },
+      { "text": "Multiple, distinct self-aspects → resilience — एक domain में failure → अन्य domains buffer करते हैं; simple self → one failure = total collapse", "is_correct": true },
+      { "text": "High self-complexity — identity confusion उत्पन्न करती है", "is_correct": false },
+      { "text": "Self-complexity — केवल adolescents में relevant", "is_correct": false }
+    ],
+    "explanation": "Linville (1987) — Self-Complexity Theory: लोग multiple, relatively independent self-aspects (roles) रखते हैं — mother, professional, community member, athlete। High self-complexity → 'spillover' कम: job loss → depressed about work, but family role still intact → buffering। Low self-complexity → single failure → total devastation। Health application: ASHA workers — professional identity + mother + community leader roles → loss of one less devastating। Multi-role enrichment vs conflict।"
+  },
+  {
+    "question": "'Self-Determination Theory' (Deci & Ryan) में स्वास्थ्य व्यवहार हेतु 'स्वायत्त प्रेरणा' (Autonomous Motivation) और 'नियंत्रित प्रेरणा' (Controlled Motivation) में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों प्रकार की प्रेरणा स्वास्थ्य व्यवहार में समान रूप से प्रभावी हैं", "is_correct": false },
+      { "text": "Autonomous Motivation (intrinsic/identified) → sustained health behavior; Controlled Motivation (external reward/punishment) → short-term compliance — दीर्घकालिक परिणामों के लिए autonomy ज़रूरी", "is_correct": true },
+      { "text": "Controlled Motivation हमेशा Autonomous से बेहतर परिणाम देती है", "is_correct": false },
+      { "text": "SDT — केवल workplace settings में लागू होती है", "is_correct": false }
+    ],
+    "explanation": "Deci & Ryan (1985, 2000) — Self-Determination Theory: Motivation continuum: External Regulation ('डर से व्यायाम') → Introjected ('शर्म से') → Identified ('मुझे ज़रूरी लगता है') → Intrinsic ('मुझे अच्छा लगता है')। Autonomous = Identified + Intrinsic। Controlled = External + Introjected। Health में: diabetes management — autonomous motivation → better HbA1c, adherence, quality of life। SDT-based clinical interventions: autonomy-supportive counseling, competence building, relatedness। Motivational Interviewing SDT पर आधारित।"
+  },
+  {
+    "question": "'Cognitive Load Theory' (Sweller) स्वास्थ्य संचार सामग्री के डिज़ाइन को कैसे प्रभावित करती है?",
+    "options": [
+      { "text": "अधिक जानकारी देने से स्वास्थ्य संदेश हमेशा प्रभावी होता है", "is_correct": false },
+      { "text": "कार्यशील स्मृति (Working Memory) की सीमित क्षमता के कारण — simple, chunked, visual health messages अधिक effective होते हैं; overload → information rejection", "is_correct": true },
+      { "text": "Cognitive Load Theory — केवल classroom learning में प्रासंगिक है", "is_correct": false },
+      { "text": "जटिल भाषा वाले संदेश अधिक credible लगते हैं", "is_correct": false }
+    ],
+    "explanation": "Sweller (1988) — Cognitive Load Theory: तीन प्रकार: (1) Intrinsic Load — content की inherent complexity, (2) Extraneous Load — poor design से अनावश्यक mental effort, (3) Germane Load — schema formation। Health communication में: (1) ORS packet instructions — simple steps, visual aids → extraneous load कम, (2) Complex drug labels → confusion → medication errors, (3) Infographics > dense text। Design principles: chunking, progressive disclosure, multimodal (text + image), simple language। ASHA IEC materials में CLT application।"
+  },
+  {
+    "question": "Parsons का 'Sick Role' (बीमार की भूमिका) सिद्धांत और 'Patient Role' में क्या अंतर है? आधुनिक स्वास्थ्य में इसकी सीमाएँ क्या हैं?",
+    "options": [
+      { "text": "Sick Role और Patient Role एक ही हैं", "is_correct": false },
+      { "text": "Sick Role — दायित्वों से मुक्ति + ठीक होने की ज़िम्मेदारी; Patient Role — medical authority के प्रति submission; chronic illness और disability में यह model inadequate है", "is_correct": true },
+      { "text": "Sick Role — केवल acute illness में है, chronic में नहीं", "is_correct": false },
+      { "text": "Parsons का Sick Role — आधुनिक medicine में पूर्णतः applicable है", "is_correct": false }
+    ],
+    "explanation": "Talcott Parsons (1951) — Sick Role: 4 elements: Rights — (1) normal obligations से मुक्ति, (2) responsibility से मुक्ति (blame नहीं); Obligations — (3) ठीक होने की कोशिश करना, (4) medically competent help seek करना। सीमाएँ: (1) Chronic illness में पूर्ण 'ठीक होना' असंभव, (2) Disability में 'sick' label अनुचित, (3) Paternalistic — patient passive, (4) Mental illness में poorly fits, (5) Malingering और secondary gain नज़रअंदाज़। Modern: shared decision-making, patient as expert of own experience।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Social Support' के 'Structural' और 'Functional' आयामों में क्या अंतर है और क्रोनिक बीमारी में दोनों कैसे काम करते हैं?",
+    "options": [
+      { "text": "Structural और Functional Support एक ही हैं", "is_correct": false },
+      { "text": "Structural — network size, ties की संख्या; Functional — किस प्रकार का support मिलता है (emotional, informational, instrumental, appraisal) — chronic illness में functional quality अधिक महत्वपूर्ण", "is_correct": true },
+      { "text": "Structural Support — हमेशा Functional से अधिक protective है", "is_correct": false },
+      { "text": "Chronic illness में social support irrelevant है", "is_correct": false }
+    ],
+    "explanation": "House (1981) — Social Support Dimensions: Structural — network characteristics: size, density, reciprocity, frequency of contact। Functional — type of support provided: (1) Emotional — empathy, love, care ('तुम अकेले नहीं हो'), (2) Informational — advice, information ('doctor से यह पूछो'), (3) Instrumental — tangible help (दवा लाना, hospital ले जाना), (4) Appraisal — feedback, affirming decisions। Chronic illness में: large network (structural) ≠ quality support; functional diversity → better disease management। Cancer patients में emotional + informational support → better QoL।"
+  },
+  {
+    "question": "'Emotional Appeals' — 'Fear Appeals' बनाम 'Hope Appeals' में से स्वास्थ्य संचार में कौन अधिक प्रभावी है और किन परिस्थितियों में?",
+    "options": [
+      { "text": "Fear Appeals हमेशा अधिक प्रभावी होते हैं", "is_correct": false },
+      { "text": "Fear Appeals — high efficacy के साथ प्रभावी (EPPM); Hope Appeals — long-term engagement, non-stigmatizing conditions में; context पर निर्भर", "is_correct": true },
+      { "text": "Hope Appeals — कभी भी प्रभावी नहीं होते", "is_correct": false },
+      { "text": "Emotional Appeals — health में अनुचित हैं, केवल facts चाहिए", "is_correct": false }
+    ],
+    "explanation": "Extended Parallel Process Model (Witte, 1992) — Fear Appeals: Threat high + Efficacy high → protection motivation। Threat high + Efficacy low → defensive avoidance (backfire)। Fear Appeals + low efficacy → helplessness, denial, reactance। Hope Appeals (Snyder): positive future vision → aspirational motivation → sustained engagement। Context: HIV campaigns में fear → stigma increases, hope → testing increases। Tobacco warnings में fear + cessation helpline (efficacy cue) → effective। Cancer screening — hope frame ('early detection cures') > fear।"
+  },
+  {
+    "question": "'Minority Influence' (Moscovici) का सिद्धांत क्या है और यह स्वास्थ्य कार्यकर्ताओं को कैसे inspire करता है?",
+    "options": [
+      { "text": "Minority groups कभी majority opinion नहीं बदल सकते", "is_correct": false },
+      { "text": "Consistent, confident और committed minority → deep attitude change; health activists minority influence के माध्यम से social norms बदलते हैं", "is_correct": true },
+      { "text": "Minority Influence — केवल political context में", "is_correct": false },
+      { "text": "Minority influence = conformity pressure का विपरीत — दोनों एक ही mechanism", "is_correct": false }
+    ],
+    "explanation": "Moscovici (1969, 1980) — Minority Influence: conditions: (1) Consistency — same position repeatedly, (2) Confidence — certainty without wavering, (3) Investment — personal sacrifice visible। Conversion Theory — minority causes private, latent attitude change (vs majority → public compliance without private change)। Health में: (1) Anti-tobacco activists (minority) → eventually changed laws, (2) Breastfeeding advocates — consistent messaging → norm shift, (3) LGBTQ+ health rights advocates। India में: women's self-help groups as health minority influence agents।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Social Facilitation' और 'Social Inhibition' (Zajonc) स्वास्थ्य व्यवहारों में कैसे प्रकट होते हैं?",
+    "options": [
+      { "text": "दूसरों की उपस्थिति हमेशा performance बेहतर करती है", "is_correct": false },
+      { "text": "दूसरों की उपस्थिति → dominant response की शक्ति बढ़ती है — skilled behavior में facilitation, unskilled में inhibition; health habits और exercise में यह लागू है", "is_correct": true },
+      { "text": "Social Facilitation — केवल sports में होती है", "is_correct": false },
+      { "text": "Social Inhibition — मानसिक बीमारी का लक्षण है", "is_correct": false }
+    ],
+    "explanation": "Zajonc (1965) — Dominant response theory: दूसरों की mere presence → arousal → dominant response strong। Well-learned habits (exercise, hand washing) → others present → facilitation (अधिक करते हैं)। Poorly learned behaviors (new diet, complex medical procedure) → others present → inhibition (performance worse)। Health में: (1) Gym में exercise facilitation — others doing it → motivated, (2) New health behavior learning → private setting better, (3) Audience effect — doctor's presence → patient's anxiety → blood pressure rise। Group exercise programs — facilitation leverage।"
+  },
+  {
+    "question": "'Deindividuation' (Zimbardo) और ऑनलाइन स्वास्थ्य जोखिम व्यवहार में क्या संबंध है?",
+    "options": [
+      { "text": "Deindividuation — केवल mob violence में होती है", "is_correct": false },
+      { "text": "Anonymity और reduced accountability online → deindividuation → health risk behaviors (misinformation spreading, cyberbullying, unprotected sex seeking, drug purchasing) बढ़ते हैं", "is_correct": true },
+      { "text": "Online anonymity → हमेशा positive health outcomes", "is_correct": false },
+      { "text": "Deindividuation — केवल face-to-face settings में", "is_correct": false }
+    ],
+    "explanation": "Zimbardo (1969) — Deindividuation: anonymity + reduced self-awareness + diffused responsibility → disinhibition। Online health risk behaviors: (1) Anonymous health misinformation sharing — no accountability, (2) Cyberbullying victims' mental health → depression, suicide risk, (3) Online drug procurement (dark web), (4) Unprotected sex seeking apps — reduced perceived consequences, (5) Anti-vaccination groups — anonymized radicalization। Counter: digital identity systems, health literacy, platform accountability, community standards। SIDES model — Social Identity Deindividuation Effects।"
+  },
+  {
+    "question": "Schwartz का 'Norm Activation Model' (NAM) सामाजिक-स्वास्थ्य व्यवहार जैसे organ donation और blood donation को कैसे समझाता है?",
+    "options": [
+      { "text": "NAM — केवल environmental behavior में लागू होता है", "is_correct": false },
+      { "text": "Personal Norms (नैतिक दायित्व) — Awareness of Need + Ascription of Responsibility दोनों के होने पर activate होती हैं → pro-social health behavior", "is_correct": true },
+      { "text": "NAM — social norms और personal norms को एक ही मानता है", "is_correct": false },
+      { "text": "NAM में awareness of need ही पर्याप्त है behavior के लिए", "is_correct": false }
+    ],
+    "explanation": "Schwartz (1977) — Norm Activation Model: Pro-social behavior का आधार Personal Norms (internal moral obligation) है, social norms नहीं। Activation requires: (1) Awareness of Need (AN) — यह जानना कि दूसरों को ज़रूरत है ('blood banks empty हैं'), (2) Ascription of Responsibility (AR) — यह महसूस करना कि मैं इसके लिए ज़िम्मेदार हूँ ('मैं donate कर सकता हूँ')। Denial of either → norm not activated। Health में: organ donation campaigns — need awareness + personal moral responsibility → higher registration। Blood donation drives में NAM messaging।"
+  },
+  {
+    "question": "'Learned Helplessness' (Seligman) क्रोनिक रोग प्रबंधन को कैसे प्रभावित करती है और इसका उपचार क्या है?",
+    "options": [
+      { "text": "Learned Helplessness — केवल laboratory animals में होती है", "is_correct": false },
+      { "text": "बार-बार uncontrollable stressors → 'मैं कुछ नहीं कर सकता' की धारणा → passive coping, non-adherence, depression — chronic illness management में बाधा", "is_correct": true },
+      { "text": "Learned Helplessness — chronic illness के साथ naturally कम हो जाती है", "is_correct": false },
+      { "text": "Helplessness — external factors से नहीं, केवल personality से", "is_correct": false }
+    ],
+    "explanation": "Seligman (1975) — Learned Helplessness: dogs को uncontrollable shocks → escape response सीखना बंद। Human analog: repeated failures in controlling health (unresponsive treatment, repeated hospitalizations) → helplessness attribution (internal, stable, global)। Chronic illness में: diabetes, COPD, HIV patients — 'चाहे जो करूँ, कुछ नहीं बदलेगा' → medication non-adherence, depression। Treatment: Learned Optimism (cognitive restructuring), attribution retraining, small mastery experiences, empowerment। Seligman's Explanatory Style Model।"
+  },
+  {
+    "question": "Rappaport का 'Empowerment Theory' सामुदायिक स्वास्थ्य में किस प्रकार लागू होता है?",
+    "options": [
+      { "text": "Empowerment — केवल individual therapy में है", "is_correct": false },
+      { "text": "Communities को अपने स्वास्थ्य निर्णयों पर नियंत्रण — resources, decision-making power और critical consciousness देना → sustainable health improvement", "is_correct": true },
+      { "text": "Empowerment Theory — top-down health programs में सबसे प्रभावी है", "is_correct": false },
+      { "text": "Community empowerment — government की भूमिका को समाप्त करता है", "is_correct": false }
+    ],
+    "explanation": "Rappaport (1984, 1987) — Empowerment Theory: 'the process by which people gain control over their lives.' तीन levels: (1) Individual — personal self-efficacy, critical awareness, (2) Organizational — participatory decision-making, shared leadership, (3) Community — political action, resource mobilization। Health में: (1) Village Health Sanitation and Nutrition Committees (VHSNCs) — community members plan health priorities, (2) Self-Help Groups + microfinance → women's health empowerment, (3) Participatory Rural Appraisal। Paulo Freire + Rappaport — consciousness + action।"
+  },
+  {
+    "question": "स्वास्थ्य संचार में 'Gain Frame' और 'Loss Frame' (Framing Effects — Tversky & Kahneman) में कौन सा cancer screening जैसे behaviors के लिए अधिक प्रभावी है?",
+    "options": [
+      { "text": "Gain Frame — हमेशा सभी health behaviors में अधिक प्रभावी", "is_correct": false },
+      { "text": "Detection behaviors (mammography, colonoscopy) में Loss Frame अधिक प्रभावी; Prevention behaviors (sunscreen, condom) में Gain Frame; यह Prospect Theory पर आधारित है", "is_correct": true },
+      { "text": "Loss Frame — हमेशा सभी contexts में अधिक persuasive है", "is_correct": false },
+      { "text": "Framing — rational decision-making को प्रभावित नहीं करती", "is_correct": false }
+    ],
+    "explanation": "Rothman & Salovey (1997) — Framing in Health: Prospect Theory (Kahneman & Tversky 1979) पर आधारित — losses > gains feel करते हैं। Prevention behaviors (low risk) → Gain Frame ('sunscreen use करें, skin healthy रहेगी'). Detection behaviors (risky, uncertainty) → Loss Frame ('mammography न करवाई तो cancer detect नहीं होगा')। Reason: detection = uncertain/risky act → loss frame fits risk-aversion। Breast self-exam, HIV testing, cervical cancer screening campaigns — loss framing। Flu vaccine — gain framing। Context-sensitive message design essential।"
+  },
+  {
+    "question": "'Social Capital' (Putnam) और सामुदायिक स्वास्थ्य के बीच क्या संबंध है?",
+    "options": [
+      { "text": "Social Capital — केवल आर्थिक development में भूमिका है", "is_correct": false },
+      { "text": "Bonding और Bridging Social Capital — trust, reciprocity और networks — community health behaviors, collective action और health outcomes को directly प्रभावित करते हैं", "is_correct": true },
+      { "text": "High Social Capital — हमेशा individual health से independent है", "is_correct": false },
+      { "text": "Social Capital — developing countries में irrelevant है", "is_correct": false }
+    ],
+    "explanation": "Putnam (1993, 2000) — Social Capital: (1) Bonding SC — strong ties within homogeneous groups (caste, village) → mutual support, norms enforcement (handwashing in close-knit community), (2) Bridging SC — weak ties across different groups → information flow, access to diverse resources, (3) Linking SC — vertical ties with institutions (trust in PHC). Health outcomes: high SC states (Kerala) → better MMR, vaccination coverage. Low SC (fragmented communities) → low immunization, ODF failure. Measurement: trust surveys, network analysis।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Conformity' (Asch, 1951) स्वास्थ्य व्यवहार में कैसे काम करती है?",
+    "options": [
+      { "text": "Conformity — हमेशा anti-health behaviors को बढ़ावा देती है", "is_correct": false },
+      { "text": "Group pressure → individuals अपने personal judgement छोड़ देते हैं — health में both positive (vaccine uptake) और negative (substance use) conformity possible", "is_correct": true },
+      { "text": "Conformity — केवल Asch के line judgment tasks में होती है", "is_correct": false },
+      { "text": "Educated individuals conformity नहीं करते", "is_correct": false }
+    ],
+    "explanation": "Asch (1951) — Conformity experiments: 75% participants ने कम से कम एक गलत answer दिया जब confederates गलत answer दे रहे थे। Factors: unanimity of group, group size, status, private vs public response। Health में: (1) Normative conformity — 'सब vaccine लगवाते हैं तो मैं भी' → positive, (2) Adolescent peer pressure — alcohol, tobacco → negative, (3) Informational conformity — 'doctor जैसा कहे' → medication compliance। India में: community panchayat decisions on health → conformity to village norms।"
+  },
+  {
+    "question": "'Self-Discrepancy Theory' (Higgins) मानसिक स्वास्थ्य और स्वास्थ्य व्यवहार प्रेरणा को कैसे प्रभावित करती है?",
+    "options": [
+      { "text": "Self-Discrepancy — कोई practical relevance नहीं है", "is_correct": false },
+      { "text": "Actual Self vs Ideal Self (ought self) का अंतर — Depression (ideal gap) या Anxiety (ought gap) produce करता है — health behaviors में यह discrepancy driver है", "is_correct": true },
+      { "text": "Self-Discrepancy Theory — केवल eating disorders में relevant है", "is_correct": false },
+      { "text": "Ideal Self और Ought Self — same concept हैं", "is_correct": false }
+    ],
+    "explanation": "Higgins (1987) — Self-Discrepancy Theory: तीन self-states: (1) Actual Self — currently हूँ, (2) Ideal Self — बनना चाहता हूँ (aspirations), (3) Ought Self — होना चाहिए (duties/responsibilities)। Discrepancy effects: Actual vs Ideal → dejection, depression ('मैं वह नहीं बना जो चाहता था'); Actual vs Ought → agitation, anxiety ('मैं वह नहीं कर रहा जो करना चाहिए था')। Health में: (1) Obesity → ideal body image gap → depression → binge eating, (2) 'मुझे exercise करनी चाहिए' (ought) → guilt → anxiety → avoidance। Self-compassion interventions — discrepancy को adaptive बनाना।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Group Norms' और 'Vaccination Behavior' के बीच क्या सम्बन्ध है और social norms interventions कैसे काम करते हैं?",
+    "options": [
+      { "text": "Group norms का vaccination पर कोई प्रभाव नहीं होता", "is_correct": false },
+      { "text": "Perceived group norms vaccination decisions को strongly influence करते हैं — descriptive और injunctive norms दोनों; norm correction interventions hesitancy कम करते हैं", "is_correct": true },
+      { "text": "Vaccination behavior — केवल individual risk perception पर निर्भर है", "is_correct": false },
+      { "text": "Group norms — केवल negative vaccination behavior में relevant हैं", "is_correct": false }
+    ],
+    "explanation": "Group norms और vaccination: (1) Descriptive norms — 'हमारे गाँव में कोई vaccine नहीं लेता' → non-vaccination conform करना, (2) Injunctive norms — 'समाज vaccine को पाप मानता है' → moral pressure। Pluralistic ignorance — लोग privately vaccine चाहते हैं पर सोचते हैं बाकी नहीं चाहते। Social norms interventions: (1) Norm clarification — '80% parents ने बच्चों को routine vaccines दिए', (2) Opinion leader endorsement, (3) Community pledge programs (ODF model)। COVID-19 में: norm-based messaging ('आपके समुदाय के लोग vaccinate हो रहे हैं') → hesitancy कम।"
+  },
+  {
+    "question": "'Attachment Theory' (Bowlby) का स्वास्थ्य-सेवा उपयोग और provider-patient संबंध पर क्या प्रभाव है?",
+    "options": [
+      { "text": "Attachment Theory — केवल शिशु-माँ संबंध में है", "is_correct": false },
+      { "text": "Adult attachment styles (secure, anxious, avoidant) — health-seeking behavior, doctor-patient trust और chronic illness coping को प्रभावित करते हैं", "is_correct": true },
+      { "text": "Attachment style — adult health behaviors से असंबंधित है", "is_correct": false },
+      { "text": "Secure attachment — हमेशा better health outcomes देता है बिना exception के", "is_correct": false }
+    ],
+    "explanation": "Bowlby (1969) — Attachment Theory: internal working models carried to adult relationships। Adult attachment styles: (1) Secure — trusting, comfortable seeking help → regular health checkups, open doctor communication, (2) Anxious/Preoccupied — dependent, hypervigilant health anxiety → frequent visits, somatic complaints, (3) Dismissive-Avoidant — 'मुझे help नहीं चाहिए' → delayed care-seeking, non-adherence, (4) Fearful-Avoidant — hospitals से भयभीत → avoid altogether। Health-care relationships: secure base effect — trusted provider → patient more open, better adherence। Trauma-informed care attachment-aware।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Upward Social Comparison' और 'Downward Social Comparison' स्वास्थ्य व्यवहार को किस प्रकार प्रभावित करते हैं?",
+    "options": [
+      { "text": "Social Comparison — केवल self-esteem को प्रभावित करती है, health behavior को नहीं", "is_correct": false },
+      { "text": "Upward Comparison → aspiration (positive) या body dissatisfaction (negative); Downward Comparison → comfort (positive) या false reassurance/risk underestimation (negative) — context और motive पर निर्भर", "is_correct": true },
+      { "text": "Downward Comparison — हमेशा health के लिए harmful", "is_correct": false },
+      { "text": "Upward Comparison — हमेशा motivational होती है", "is_correct": false }
+    ],
+    "explanation": "Festinger (1954) — Social Comparison Theory: अपने opinions और abilities evaluate करने के लिए दूसरों से तुलना। Health में: (1) Upward Comparison — fit neighbor देखकर exercise motivation (positive); social media 'perfect body' images → body dissatisfaction, eating disorders (negative), (2) Downward Comparison — 'मुझसे ज़्यादा बीमार लोग हैं' → gratitude, coping (positive); 'वह तो chain smoker है, मैं तो ठीक हूँ' → risk denial (negative)। Cancer patients में downward comparison → adjustment। Health apps में positive role models carefully chosen।"
+  },
+  {
+    "question": "'Transference' और 'Counter-transference' doctor-patient relationship में क्या भूमिका निभाते हैं?",
+    "options": [
+      { "text": "Transference — केवल psychoanalysis में होती है, general medicine में नहीं", "is_correct": false },
+      { "text": "Patients पुरानी relationships की भावनाएँ providers पर project करते हैं (transference); providers भी अपनी reactions लाते हैं (counter-transference) — दोनों care quality को प्रभावित करते हैं", "is_correct": true },
+      { "text": "Counter-transference — हमेशा therapeutic है", "is_correct": false },
+      { "text": "Modern medicine में transference entirely अप्रासंगिक है", "is_correct": false }
+    ],
+    "explanation": "Freud — Transference: patient की पुरानी significant relationships की feelings → doctor पर displace। Types: (1) Positive transference — idealization, dependency ('आप ही मेरे भगवान हैं'), (2) Negative transference — distrust, hostility (माँ-जैसी critical doctor से trigger)। Counter-transference — doctor की unconscious reactions to patient: over-identification (young patient reminding of child), aversion (difficult patient → care reduced)। Health implications: (1) Non-adherence — negative transference, (2) Over-investigation — positive, (3) Boundary violations। Reflective practice और supervision — management।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Terror Management Theory' के 'Mortality Salience' प्रयोगों से स्वास्थ्य संदेश डिज़ाइन के लिए क्या practical सबक हैं?",
+    "options": [
+      { "text": "मृत्यु की याद दिलाने वाले health messages हमेशा behavior change करते हैं", "is_correct": false },
+      { "text": "Mortality salience → worldview defense और self-esteem buffering → health messages backfire कर सकते हैं — efficacy-boosting + culturally consonant messages अधिक प्रभावी", "is_correct": true },
+      { "text": "TMT का health message design में कोई practical application नहीं है", "is_correct": false },
+      { "text": "Fear of death messages — best health communication strategy हैं", "is_correct": false }
+    ],
+    "explanation": "TMT health message design implications: (1) Mortality-salient messages (cigarette death images) → smokers defend identity → more smoking or dismiss message, (2) Solution: pair mortality salience with high efficacy cue ('आप quit कर सकते हैं — helpline available'), (3) Cultural worldview affirming approach — message align with cherished values ('अपने परिवार के लिए जिएँ'), (4) Self-esteem enhancement — 'healthy होना आपकी strength है', (5) Avoid death-focused messages alone — combine with meaning and purpose framing। Steinman et al. — mortality salience + self-affirmation → less defensive processing।"
+  },
+  {
+    "question": "Moscovici की 'Conversion Theory' और Kelman का 'Social Influence Theory' — स्वास्थ्य में attitude change के लिए कौन से mechanism महत्वपूर्ण हैं?",
+    "options": [
+      { "text": "Compliance, Identification और Internalization — तीनों surface-level attitude change करते हैं", "is_correct": false },
+      { "text": "Compliance (public, temporary) → Identification (role-based) → Internalization (private, permanent) — health में internalization सबसे durable change; minority influence conversion produce करती है", "is_correct": true },
+      { "text": "Kelman के अनुसार Compliance — सबसे powerful है", "is_correct": false },
+      { "text": "Social influence — केवल short-term behavior change करती है", "is_correct": false }
+    ],
+    "explanation": "Kelman (1958) — 3 processes: (1) Compliance — reward/punishment से public agreement, private disagreement ('ASHA के सामने vaccine लगवाया, पर फिर नहीं') — temporary, (2) Identification — attractive source के साथ relationship → attitude change while source salient ('film star जो करे'), (3) Internalization — personally meaningful, aligned with values → permanent attitude change। Health में: internalization goals — tobacco 'मेरे बच्चों के लिए छोड़ना है'। Moscovici's conversion — minority influence via indirect route → internalization। Sustainable health behavior = internalized motivation।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Reactance Theory' के 'Boomerang Effect' को स्वास्थ्य अभियानों में कैसे रोका जा सकता है?",
+    "options": [
+      { "text": "Boomerang Effect रोकना असंभव है — reactance अपरिहार्य है", "is_correct": false },
+      { "text": "Autonomy-supportive language, choice architecture, two-sided messages और motivational interviewing — सभी reactance कम करने की evidence-based strategies हैं", "is_correct": true },
+      { "text": "Boomerang Effect — केवल mandatory health policies में होता है", "is_correct": false },
+      { "text": "Stronger और more forceful messages boomerang effect को कम करते हैं", "is_correct": false }
+    ],
+    "explanation": "Brehm's Reactance counter-strategies in health campaigns: (1) Autonomy-supportive language — 'आप decide करें', 'यह आपका choice है' → freedom preserved, (2) Choice Architecture — defaults toward healthy (opt-out organ donation) without coercion, (3) Two-sided messages — acknowledge freedom to disagree ('कुछ लोग vaccine नहीं लगवाते, और यह उनका अधिकार है, परंतु evidence...'), (4) Motivational Interviewing — ambivalence explore करना, (5) Positive rather than prohibitive framing ('healthy रहें' vs 'unhealthy मत रहें'), (6) Social norms instead of mandates। COVID mask campaigns में autonomy-supportive messaging।"
+  },
+  {
+    "question": "सामाजिक मनोविज्ञान में 'Prebunking' (Inoculation Theory) और 'Debunking' में क्या अंतर है और स्वास्थ्य misinformation के विरुद्ध कौन सा अधिक प्रभावी है?",
+    "options": [
+      { "text": "Debunking — हमेशा Prebunking से अधिक प्रभावी है", "is_correct": false },
+      { "text": "Prebunking — misinformation से पहले vaccine देना; Debunking — बाद में खंडन; Prebunking अधिक effective क्योंकि 'backfire effect' और 'continued influence effect' से बचाता है", "is_correct": true },
+      { "text": "दोनों एक ही approach हैं, केवल timing अलग है", "is_correct": false },
+      { "text": "Debunking — health में हमेशा काम करता है क्योंकि facts powerful हैं", "is_correct": false }
+    ],
+    "explanation": "McGuire (1964) Inoculation Theory — Prebunking: misinformation encounter से पहले: (1) weak dose of misleading argument, (2) refutation of that argument → psychological antibodies बनते हैं। Debunking — fact-checking after exposure: Backfire Effect (Nyhan & Reifler) — कुछ cases में correction → belief को और strong करता है। Continued Influence Effect — misinformation corrected होने के बाद भी original memory influences। COVID में: 'Harmony Square' game (prebunking vaccine misinformation) → effective। Health में prebunking strategy: 'Tobacco companies कह सकती हैं कि...पर research दिखाती है कि...' — prophylactic protection।"
+  }
+]

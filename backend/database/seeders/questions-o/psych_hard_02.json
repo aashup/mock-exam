@@ -1,0 +1,752 @@
+[
+  {
+    "question": "मनोविज्ञान में 'एपिजेनेटिक्स' (Epigenetics) और 'मनोसामाजिक अनुभव' के संबंध में सबसे महत्वपूर्ण खोज क्या है?",
+    "options": [
+      { "text": "जीन पूरी तरह fixed हैं और पर्यावरण उन्हें नहीं बदल सकता", "is_correct": false },
+      { "text": "मनोसामाजिक अनुभव (तनाव, आघात, प्रेम) जीन expression को बदल सकते हैं बिना DNA sequence बदले — और ये बदलाव अगली पीढ़ी को भी प्रेषित हो सकते हैं", "is_correct": true },
+      { "text": "Epigenetics केवल कैंसर से संबंधित है", "is_correct": false },
+      { "text": "Epigenetic बदलाव केवल गर्भावस्था में होते हैं", "is_correct": false }
+    ],
+    "explanation": "Michael Meaney के चूहों पर प्रयोग और PTSD survivors में Epigenetic research ने दिखाया कि maternal care, stress और trauma DNA methylation और histone modification के माध्यम से gene expression बदलते हैं — ACEs का transgenerational impact इसी से है। यह 'nature vs nurture' बहस को पार करता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'प्रणालीगत परिवार चिकित्सा' (Systemic Family Therapy) और 'व्यक्तिगत मनोचिकित्सा' में मूलभूत अंतर क्या है?",
+    "options": [
+      { "text": "Family Therapy में एक बार में पूरे परिवार को दवाएँ दी जाती हैं", "is_correct": false },
+      { "text": "Family Therapy समस्या को व्यक्ति में नहीं, बल्कि संबंध प्रणाली और पारिवारिक गतिशीलता में देखती है — 'Identified Patient' एक systemic symptom है", "is_correct": true },
+      { "text": "Family Therapy केवल बच्चों की समस्याओं के लिए है", "is_correct": false },
+      { "text": "दोनों एक ही दृष्टिकोण रखते हैं", "is_correct": false }
+    ],
+    "explanation": "Systemic Family Therapy (Bateson, Minuchin, Haley) — 'Identified Patient' (जिसे 'समस्या' माना जाता है) वास्तव में पारिवारिक तनाव और संचार समस्याओं का symptom है। उपचार पूरे system को बदलने पर केंद्रित है — व्यक्ति पर नहीं। Structural और Strategic Family Therapy इसके प्रमुख प्रकार हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Polyvagal Theory' (Stephen Porges) का आघात उपचार में क्या महत्व है?",
+    "options": [
+      { "text": "Polyvagal Theory केवल हृदय गति से संबंधित है", "is_correct": false },
+      { "text": "Autonomic Nervous System के तीन पदानुक्रमिक states (Safe, Fight/Flight, Freeze) आघात प्रतिक्रिया को समझाते हैं — उपचार में 'Safety' का अनुभव पहले बनाना जरूरी है", "is_correct": true },
+      { "text": "Polyvagal Theory अप्रमाणित है", "is_correct": false },
+      { "text": "यह केवल शारीरिक चिकित्सा में उपयोगी है", "is_correct": false }
+    ],
+    "explanation": "Porges का Polyvagal Theory — ANS की तीन phylogenetically प्राचीन states: (1) Ventral Vagal (Safe, Social Engagement), (2) Sympathetic (Fight/Flight), (3) Dorsal Vagal (Freeze/Shut Down)। आघात में व्यक्ति अक्सर Freeze में 'stuck' होता है। Somatic therapies (Somatic Experiencing, EMDR) इसी framework पर काम करती हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'ऑटो-एग्नॉसिया' (Anosognosia) का मानसिक स्वास्थ्य उपचार में क्या चुनौती है?",
+    "options": [
+      { "text": "Anosognosia मरीज की जिद है", "is_correct": false },
+      { "text": "Anosognosia — रोग के बारे में जागरूकता की कमी (Schizophrenia, Bipolar में आम) — मरीज को उपचार की आवश्यकता ही महसूस नहीं होती, जो adherence की सबसे बड़ी चुनौती है", "is_correct": true },
+      { "text": "Anosognosia केवल Stroke में होती है", "is_correct": false },
+      { "text": "Anosognosia को हमेशा denial कहना सही है", "is_correct": false }
+    ],
+    "explanation": "Anosognosia (Poor Insight) — Schizophrenia में ~50% और Bipolar में ~40% रोगियों में होती है — यह neurological समस्या है, जिद नहीं। रोगी 'normal' महसूस करते हैं इसलिए दवा लेने की जरूरत नहीं समझते। यह non-adherence का सबसे बड़ा कारण है। LEAP (Listen, Empathize, Agree, Partner) approach प्रभावी है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Terror Management Theory' (TMT — Greenberg, Pyszczynski, Solomon) का स्वास्थ्य व्यवहार में क्या प्रभाव है?",
+    "options": [
+      { "text": "मृत्यु के विचार से व्यक्ति हमेशा स्वस्थ व्यवहार अपनाता है", "is_correct": false },
+      { "text": "मृत्यु की अनुस्मृति (Mortality Salience) कभी-कभी risk-taking को बढ़ाती है क्योंकि व्यक्ति 'symbolic immortality' के माध्यम से अपनी चिंता कम करता है", "is_correct": true },
+      { "text": "TMT का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false },
+      { "text": "TMT केवल अस्तित्ववाद का दर्शन है", "is_correct": false }
+    ],
+    "explanation": "TMT के अनुसार, मनुष्य अपनी mortality की अनुस्मृति से 'existential terror' अनुभव करते हैं और Cultural Worldviews तथा Self-Esteem से इसे manage करते हैं। Health Contexts में: Cancer screening ad में mortality salience से कभी-कभी defensive avoidance होती है। Mortality Salience का health messages में सावधानीपूर्वक उपयोग जरूरी है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'न्यूरोसाइंस ऑफ एडिक्शन' में 'Reward Prediction Error' (Schultz) का Dopamine System में क्या भूमिका है?",
+    "options": [
+      { "text": "Dopamine केवल आनंद का न्यूरोट्रांसमीटर है", "is_correct": false },
+      { "text": "Reward Prediction Error — जब reward unexpectedly मिलता है, Dopamine spike होता है; यह mechanism addiction में natural rewards को replace कर drugs के लिए craving बनाता है", "is_correct": true },
+      { "text": "Dopamine system addiction में कोई भूमिका नहीं निभाता", "is_correct": false },
+      { "text": "Reward Prediction Error केवल classical conditioning से संबंधित है", "is_correct": false }
+    ],
+    "explanation": "Wolfram Schultz का Dopamine Reward Prediction Error — Dopamine neurons fire करते हैं जब reward expected से बेहतर होता है (positive RPE) और कम fire करते हैं जब बदतर (negative RPE)। Drugs of abuse इस system को hijack करते हैं — massive Dopamine release → neuroadaptation → tolerance और craving। यह Addiction neuroscience का आधार है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सामाजिक तुलना और स्वास्थ्य असमानता' में 'Relative Deprivation Theory' (Runciman) का क्या तर्क है?",
+    "options": [
+      { "text": "केवल absolute poverty स्वास्थ्य को प्रभावित करती है", "is_correct": false },
+      { "text": "Relative Deprivation — अपनी तुलना दूसरों से करके 'पिछड़ा' महसूस करना — chronic stress, shame और psychosocial distress से स्वास्थ्य को नुकसान पहुँचाता है", "is_correct": true },
+      { "text": "Relative Deprivation से केवल मानसिक स्वास्थ्य प्रभावित होता है", "is_correct": false },
+      { "text": "यह अवधारणा India में लागू नहीं होती", "is_correct": false }
+    ],
+    "explanation": "Wilkinson & Pickett ('The Spirit Level') ने दिखाया कि अधिक असमान समाजों में — भले ही average income अधिक हो — स्वास्थ्य परिणाम बदतर हैं। Mechanism: Relative Deprivation → Chronic Stress (cortisol) → Allostatic Load → Poor Health। भारत में जाति और वर्ग-आधारित Relative Deprivation स्वास्थ्य असमानता में योगदान करती है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'तृतीय-लहर CBT' (Third Wave CBT) में Acceptance and Commitment Therapy (ACT) का मूल सिद्धांत क्या है?",
+    "options": [
+      { "text": "ACT में नकारात्मक विचारों को पूरी तरह समाप्त करना है", "is_correct": false },
+      { "text": "ACT में कठिन विचारों और भावनाओं को बदलने की कोशिश नहीं, बल्कि उन्हें 'Defusion' और 'Acceptance' से देखकर Values-Aligned जीवन जीना", "is_correct": true },
+      { "text": "ACT CBT का ही दूसरा नाम है", "is_correct": false },
+      { "text": "ACT केवल दर्द प्रबंधन में उपयोगी है", "is_correct": false }
+    ],
+    "explanation": "Steven Hayes का ACT (रहस्यभेद): Six Core Processes — Acceptance, Defusion (thoughts को facts नहीं मानना), Present Moment Awareness, Self-as-Context, Values, Committed Action। Traditional CBT विचार बदलने पर focus करती है; ACT कहती है — विचार चाहे जो हों, Values के अनुसार act करो। Chronic illness, chronic pain में विशेष रूप से प्रभावी।"
+  },
+  {
+    "question": "मनोविज्ञान में 'स्वास्थ्य सेवाओं में पक्षपात' (Implicit Bias in Healthcare) को मापने का प्रमुख उपकरण कौन-सा है?",
+    "options": [
+      { "text": "MMPI", "is_correct": false },
+      { "text": "Implicit Association Test (IAT — Greenwald et al.) — जो अचेतन पूर्वाग्रहों को मापता है", "is_correct": true },
+      { "text": "Rorschach Test", "is_correct": false },
+      { "text": "MMSE", "is_correct": false }
+    ],
+    "explanation": "IAT (Greenwald, McGhee, Schwartz, 1998) अचेतन associations को मापता है। Healthcare में: studies ने दिखाया कि black patients को white patients की तुलना में कम pain medication मिलती है और less aggressive treatment होती है — यह implicit racial bias के कारण। अचेतन पक्षपात training से कम किया जा सकता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Dialectical Behaviour Therapy' (DBT — Marsha Linehan) किसके लिए विशेष रूप से विकसित की गई थी?",
+    "options": [
+      { "text": "Schizophrenia के लिए", "is_correct": false },
+      { "text": "Borderline Personality Disorder (BPD) के लिए — विशेषतः suicidal और self-harming behaviours में", "is_correct": true },
+      { "text": "Autism Spectrum Disorder के लिए", "is_correct": false },
+      { "text": "ADHD के लिए", "is_correct": false }
+    ],
+    "explanation": "Marsha Linehan (1993) ने DBT BPD के लिए develop किया — जो Standard CBT को Dialectics (acceptance + change) से जोड़ती है। DBT के 4 skill modules: Mindfulness, Distress Tolerance, Emotion Regulation, Interpersonal Effectiveness। Research ने BPD में suicidality, self-harm और hospitalisation कम करने में इसे प्रभावी पाया है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Predictive Processing Theory' (Karl Friston — Free Energy Principle) मस्तिष्क को कैसे conceptualise करती है?",
+    "options": [
+      { "text": "मस्तिष्क passive information receiver है", "is_correct": false },
+      { "text": "मस्तिष्क एक 'Prediction Machine' है जो लगातार sensory input से 'prediction errors' को minimise करके अपने models update करता रहता है", "is_correct": true },
+      { "text": "मस्तिष्क केवल reflex-based है", "is_correct": false },
+      { "text": "यह theory स्वास्थ्य में अप्रासंगिक है", "is_correct": false }
+    ],
+    "explanation": "Friston का Free Energy Principle — मस्तिष्क top-down predictions बनाता है और sensory data से 'prediction errors' को minimize करता है। Psychiatric disorders को इस framework से समझा जा सकता है: Schizophrenia — precision weighting गड़बड़, Anxiety — overestimated threat predictions, Autism — weak top-down priors। यह नई psychiatric understanding का आधार बन रहा है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Somatic Experiencing' (Peter Levine) के अनुसार आघात शरीर में कैसे store होता है?",
+    "options": [
+      { "text": "आघात केवल स्मृति में store होता है", "is_correct": false },
+      { "text": "आघात के दौरान अनुत्तरित survival energy शरीर में 'freeze' हो जाती है और वहीं रहती है — bodily sensations के माध्यम से release होनी चाहिए", "is_correct": true },
+      { "text": "आघात मस्तिष्क में नहीं, मांसपेशियों में होता है", "is_correct": false },
+      { "text": "शरीर आघात को store नहीं करता", "is_correct": false }
+    ],
+    "explanation": "Levine का Somatic Experiencing — जानवर आघात के बाद 'shaking' करके survival energy discharge करते हैं, पर मनुष्य इसे 'freeze' कर लेते हैं। यह फ्रोजन energy chronic bodily symptoms, hyperarousal और freeze states के रूप में प्रकट होती है। Treatment: bodily sensations (felt sense) पर ध्यान देकर energy को safely discharge करना।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Neurodiversity Movement' का मानसिक स्वास्थ्य प्रतिमान में क्या योगदान है?",
+    "options": [
+      { "text": "Neurodiversity कहती है कि Autism और ADHD की कोई उपचार आवश्यकता नहीं", "is_correct": false },
+      { "text": "Neurodiversity — ADHD, Autism, Dyslexia — को 'disorders' नहीं बल्कि मानव neurological variation मानती है — pathology को व्यक्ति में नहीं, mismatched environment में देखती है", "is_correct": true },
+      { "text": "Neurodiversity एक anti-science movement है", "is_correct": false },
+      { "text": "यह केवल Autism से संबंधित है", "is_correct": false }
+    ],
+    "explanation": "Nick Walker और Judy Singer का Neurodiversity concept — ADHD, Autism, Dyslexia, Tourette's सभी human neurological diversity के रूप हैं। 'Disorder' तब होता है जब environment इन differences को accommodate नहीं करता। इसका निहितार्थ: Society को बदलना होगा — 'cure' की बजाय 'accommodation और acceptance' पर focus।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Prolonged Grief Disorder' (PGD) को DSM-5-TR में कब शामिल किया गया?",
+    "options": [
+      { "text": "1994 में DSM-IV में", "is_correct": false },
+      { "text": "2022 में DSM-5-TR में — जब grief 12 महीने (6 महीने बच्चों में) से अधिक तीव्र रहे और दैनिक जीवन बाधित हो", "is_correct": true },
+      { "text": "1980 में DSM-III में", "is_correct": false },
+      { "text": "2013 में DSM-5 में", "is_correct": false }
+    ],
+    "explanation": "Prolonged Grief Disorder (PGD) — Katherine Shear के research के आधार पर — DSM-5-TR (2022) में शामिल हुआ। Criteria: प्रियजन की मृत्यु के 12+ महीने बाद भी तीव्र longing, bitter grief, difficulty accepting loss जो daily functioning को impair करे। CBT for PGD (Grief Therapy) इसका evidence-based treatment है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Attachment Theory' के आधार पर 'Earned Secure Attachment' (Mary Main) क्या है?",
+    "options": [
+      { "text": "बचपन में secure attachment जन्मजात होती है", "is_correct": false },
+      { "text": "जो लोग insecure childhood attachment experience करते हैं, वे वयस्कता में therapeutic relationships, supportive partners और reflection के माध्यम से secure attachment develop कर सकते हैं", "is_correct": true },
+      { "text": "Attachment Pattern एक बार बन जाए तो नहीं बदलती", "is_correct": false },
+      { "text": "Earned Secure Attachment केवल psychotherapy में संभव है", "is_correct": false }
+    ],
+    "explanation": "Mary Main का Adult Attachment Interview (AAI) में पाया गया कि कुछ adults जिनका childhood troubled था, फिर भी 'secure' AAI narrative देते हैं। उन्हें 'Earned Secure' कहा — वे अपने adverse childhood को coherently और compassionately process कर चुके हैं। यह Resilience और Therapeutic Change का आधार है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Narrative Exposure Therapy' (NET) किस समूह के लिए विकसित किया गया?",
+    "options": [
+      { "text": "केवल युद्ध veterans के लिए", "is_correct": false },
+      { "text": "Multiple और complex traumatic experiences वाले लोगों के लिए — विशेषतः refugees और conflict-affected populations में PTSD के लिए", "is_correct": true },
+      { "text": "केवल बच्चों के लिए", "is_correct": false },
+      { "text": "केवल sexual assault survivors के लिए", "is_correct": false }
+    ],
+    "explanation": "NET (Schauer, Neuner, Elbert) में client अपनी पूरी life story को chronological क्रम में एक coherent narrative में बदलता है — traumatic events को integrated memories बनाता है। यह Multiple Trauma (refugees, disaster survivors) में PTSD के लिए specially designed है और Low-resource settings में भी प्रभावी है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सामाजिक मस्तिष्क परिकल्पना' (Social Brain Hypothesis — Robin Dunbar) और मानसिक स्वास्थ्य में क्या संबंध है?",
+    "options": [
+      { "text": "Social Brain Hypothesis केवल विकासवादी है, स्वास्थ्य से असंबंधित", "is_correct": false },
+      { "text": "मानव neocortex का विकास जटिल सामाजिक संबंधों के लिए हुआ — इसलिए social isolation सबसे 'unnatural' और harmful state है", "is_correct": true },
+      { "text": "मनुष्य स्वाभाविक रूप से एकाकी प्राणी है", "is_correct": false },
+      { "text": "Dunbar Number का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Dunbar का Social Brain Hypothesis — Neocortex size और social group size में correlation है। Humans के लिए 'Dunbar Number' ~150 (stable social network size) है। इसका निहितार्थ: मानव मस्तिष्क social connection के लिए evolved है, इसलिए isolation neurobiologically harmful है — यह loneliness को public health priority क्यों होना चाहिए, इसे explain करता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Dissociation' (विच्छेदन) के दृष्टिकोण से 'Structural Dissociation Theory' (Van der Hart, Nijenhuis, Steele) क्या बताती है?",
+    "options": [
+      { "text": "Dissociation केवल एक psychological defence है", "is_correct": false },
+      { "text": "Traumatised personality में 'ANP' (Apparently Normal Part) दैनिक जीवन चलाता है और 'EP' (Emotional Parts) trauma memories धारण करती हैं — treatment में integration करना जरूरी है", "is_correct": true },
+      { "text": "Structural Dissociation Theory DID (Dissociative Identity Disorder) तक सीमित है", "is_correct": false },
+      { "text": "Dissociation में व्यक्ति पूरी तरह unconscious होता है", "is_correct": false }
+    ],
+    "explanation": "Van der Hart et al. का Structural Dissociation Model — personality primary dissociation में ANP (रोजमर्रा का कार्य) और EP (trauma survival) में बंट जाती है। Complex PTSD में secondary dissociation, DID में tertiary। Treatment: phase-oriented — Safety → Trauma Processing → Integration। यह trauma-informed care का sophisticated framework है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Interpersonal Neurobiology' (Daniel Siegel) के अनुसार 'Window of Tolerance' का clinical utility क्या है?",
+    "options": [
+      { "text": "यह केवल एक metaphor है", "is_correct": false },
+      { "text": "Optimal arousal zone (न hyper- न hypo-aroused) में ही prefrontal cortex काम करता है — therapy सबसे तब प्रभावी होती है जब client इस Window में हो", "is_correct": true },
+      { "text": "Window of Tolerance सभी के लिए समान है", "is_correct": false },
+      { "text": "यह केवल PTSD में उपयोगी है", "is_correct": false }
+    ],
+    "explanation": "Siegel का Window of Tolerance (Pat Ogden ने popularize किया) — Optimal arousal zone जहाँ person integrate, process और learn कर सकता है। Hyper-arousal (Fight/Flight) या Hypo-arousal (Freeze/Dissociation) में prefrontal cortex offline होती है। Trauma therapy का goal: client को Window में रखकर carefully trauma process करना।"
+  },
+  {
+    "question": "मनोविज्ञान में 'विकास मनोपैथोलॉजी' (Developmental Psychopathology) का 'Equifinality और Multifinality' सिद्धांत क्या बताता है?",
+    "options": [
+      { "text": "एक कारण हमेशा एक परिणाम देता है", "is_correct": false },
+      { "text": "Equifinality — अलग-अलग paths से एक ही disorder तक पहुँचा जा सकता है; Multifinality — एक ही risk factor अलग-अलग outcomes दे सकता है", "is_correct": true },
+      { "text": "Developmental Psychopathology और Adult Psychopathology एक ही है", "is_correct": false },
+      { "text": "Childhood adversity हमेशा psychopathology देती है", "is_correct": false }
+    ],
+    "explanation": "Cicchetti & Rogosch का Equifinality — Multiple pathways → same disorder (e.g., Depression हो सकती है Genetics, Trauma, Attachment issues, Poverty किसी से भी)। Multifinality — एक risk factor (e.g., childhood maltreatment) → Depression, PTSD, Conduct Disorder, Substance Abuse अलग-अलग में। यह heterogeneity को explain करता है और personalized treatment की जरूरत बताता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Metacognition' (John Flavell, Adrian Wells) और 'Metacognitive Therapy' (MCT) क्या है?",
+    "options": [
+      { "text": "Metacognition केवल study skills से संबंधित है", "is_correct": false },
+      { "text": "Metacognition — अपनी सोच के बारे में सोचना; MCT में नकारात्मक beliefs about worry और rumination को target किया जाता है — 'Worry is uncontrollable' जैसे metacognitive beliefs", "is_correct": true },
+      { "text": "MCT CBT का subset है", "is_correct": false },
+      { "text": "MCT केवल Anxiety में काम करती है", "is_correct": false }
+    ],
+    "explanation": "Adrian Wells (1994) का Metacognitive Therapy — Anxiety और Depression में problem यह नहीं कि व्यक्ति क्या सोचता है, बल्कि यह कि वह अपनी सोच के बारे में क्या मानता है: 'Worrying helps me prepare' (positive metacognitive belief) या 'I can't control my thoughts' (negative). MCT इन metacognitive beliefs को directly target करती है — CBT से अलग mechanism।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Galvanic Skin Response' (GSR) और 'Biofeedback' का स्वास्थ्य में क्या उपयोग है?",
+    "options": [
+      { "text": "GSR केवल lie detector में उपयोगी है", "is_correct": false },
+      { "text": "GSR autonomic arousal को measure करता है; Biofeedback में व्यक्ति real-time physiological signals देखकर उन्हें consciously regulate करना सीखता है — anxiety, hypertension, chronic pain में प्रभावी", "is_correct": true },
+      { "text": "Biofeedback केवल relaxation training है", "is_correct": false },
+      { "text": "GSR केवल research में उपयोगी है", "is_correct": false }
+    ],
+    "explanation": "Biofeedback (Neal Miller, 1960s) में instruments real-time physiological data (GSR, heart rate, muscle tension, brain waves — EEG/Neurofeedback) provide करते हैं। व्यक्ति इस feedback को देखकर वे processes consciously control करना सीखता है जो normally involuntary हैं। Evidence-based applications: Migraine, Hypertension, Anxiety, ADHD (Neurofeedback)।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सामाजिक अनुशीलन की न्यूरोसाइंस' (Social Neuroscience) में 'Mirror Neurons' का empathy और autism में क्या भूमिका बताई गई है?",
+    "options": [
+      { "text": "Mirror Neurons का empathy से कोई संबंध नहीं", "is_correct": false },
+      { "text": "Rizzolatti के Mirror Neurons — जो दूसरे के action देखने पर fire करते हैं — को empathy का neural basis और Autism में इनकी dysfunction ('Broken Mirror Theory') बताई गई; हालाँकि यह theory अभी debated है", "is_correct": true },
+      { "text": "Mirror Neurons केवल motor actions के लिए हैं", "is_correct": false },
+      { "text": "Autism में Mirror Neurons अधिक active होते हैं", "is_correct": false }
+    ],
+    "explanation": "Rizzolatti (1990s) ने macaques में Mirror Neurons खोजे — जो action करते और देखते दोनों पर fire करते हैं। V.S. Ramachandran की 'Broken Mirror Theory' — Autism में Mirror Neuron dysfunction empathy deficit explain करती है। हालाँकि human mirror neuron research complex है और यह theory oversimplification हो सकती है। अभी इसे debated माना जाता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Locus of Control' (Rotter) और 'Health Behaviour' में इसकी moderating भूमिका क्या है?",
+    "options": [
+      { "text": "Locus of Control का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false },
+      { "text": "Internal Locus of Control (I control my health) वाले लोग preventive behaviours, medication adherence और health information seeking में अधिक engaged होते हैं; External LOC (luck, fate, God controls) वाले कम", "is_correct": true },
+      { "text": "External Locus of Control सदैव स्वास्थ्यकर है", "is_correct": false },
+      { "text": "Locus of Control fixed है और बदल नहीं सकता", "is_correct": false }
+    ],
+    "explanation": "Rotter (1966) का LOC Health Behaviour research में Wallston et al. ने 'Multidimensional Health Locus of Control Scale' (MHLC) develop किया। Internal — 'मेरा स्वास्थ्य मेरे हाथ में है', Powerful Others — 'Doctor/God तय करेंगे', Chance — 'किस्मत'। Intervention: Internal LOC develop करना self-management और adherence बेहतर करता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Interpersonal Theory of Suicide' (Joiner) के अनुसार आत्महत्या के लिए कौन-से तीन कारक आवश्यक हैं?",
+    "options": [
+      { "text": "केवल Depression, Hopelessness और Social Isolation", "is_correct": false },
+      { "text": "Thwarted Belongingness (अपनेपन की विफलता), Perceived Burdensomeness (बोझ होने की भावना) और Acquired Capability (मृत्यु का डर कम होना)", "is_correct": true },
+      { "text": "Psychosis, Substance Abuse और Poverty", "is_correct": false },
+      { "text": "Hopelessness, Impulsivity और Access to means", "is_correct": false }
+    ],
+    "explanation": "Thomas Joiner का Interpersonal Theory of Suicide (2005) — Suicide attempt के लिए तीनों की उपस्थिति जरूरी: (1) Thwarted Belongingness — 'मुझे कोई नहीं चाहता', (2) Perceived Burdensomeness — 'मेरे जाने से सब बेहतर होंगे', (3) Acquired Capability — पिछले pain exposure से मृत्यु भय कम। यह suicide risk assessment का महत्वपूर्ण framework है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'नशा मुक्ति में Motivational Interviewing' का therapeutic mechanism क्या है?",
+    "options": [
+      { "text": "MI में therapist confrontation करता है", "is_correct": false },
+      { "text": "MI में OARS (Open Questions, Affirmations, Reflective Listening, Summaries) से client की 'Change Talk' को evoke किया जाता है — ambivalence को explore करके", "is_correct": true },
+      { "text": "MI केवल information देना है", "is_correct": false },
+      { "text": "MI में advice giving केंद्रीय है", "is_correct": false }
+    ],
+    "explanation": "Miller & Rollnick का MI — Decisional Balance और Change Talk evocation पर आधारित। OARS: (1) Open-ended Questions, (2) Affirmations, (3) Reflective Listening, (4) Summaries। 'Change Talk' (DARN-C: Desire, Ability, Reasons, Need, Commitment) को बढ़ाना और 'Sustain Talk' को कम करना। यह 'Confrontational' approach से superior है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Trauma-Informed Care' (TIC) के '6 Key Principles' (SAMHSA) में से सबसे पहला और महत्वपूर्ण सिद्धांत कौन-सा है?",
+    "options": [
+      { "text": "Collaboration", "is_correct": false },
+      { "text": "Safety — शारीरिक और मनोवैज्ञानिक सुरक्षा की भावना सभी TIC का आधार है", "is_correct": true },
+      { "text": "Empowerment", "is_correct": false },
+      { "text": "Trustworthiness", "is_correct": false }
+    ],
+    "explanation": "SAMHSA के TIC के 6 Principles: (1) Safety, (2) Trustworthiness & Transparency, (3) Peer Support, (4) Collaboration & Mutuality, (5) Empowerment/Voice/Choice, (6) Cultural, Historical & Gender Issues। Safety — physical और psychological — की नींव के बिना healing संभव नहीं। Health settings में: trauma-sensitive language, environment और procedures।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Functional Neurological Symptom Disorder' (Conversion Disorder) को पुराने 'Hysteria' से बेहतर कैसे समझा जाता है?",
+    "options": [
+      { "text": "यह अभी भी malingering (नकल) का ही दूसरा नाम है", "is_correct": false },
+      { "text": "यह एक valid neurological-psychiatric interface disorder है जिसमें brain function abnormality होती है — stress mechanism के माध्यम से — बिना structural pathology के; not 'imagined' symptoms", "is_correct": true },
+      { "text": "यह केवल महिलाओं में होता है", "is_correct": false },
+      { "text": "यह पूरी तरह psychological है", "is_correct": false }
+    ],
+    "explanation": "FNSD (DSM-5 में) में Neuroimaging studies ने दिखाया कि 'functional' symptoms में real brain activity differences हैं (altered connectivity, emotion-motor crosstalk)। Charcot और Freud के 'Hysteria' label से आगे बढ़कर, अब यह 'neither feigned nor imagined' माना जाता है। Treatment: Physiotherapy + Psychotherapy integrated approach — नाम-बदलाव से stigma कम होता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Recovery Model' (मानसिक रोग) और पारंपरिक 'Medical Model' में मूलभूत अंतर क्या है?",
+    "options": [
+      { "text": "Recovery Model दवाओं को अस्वीकार करता है", "is_correct": false },
+      { "text": "Recovery Model 'cure' की जगह 'meaningful life with or despite illness' पर ध्यान देता है — symptom freedom नहीं, व्यक्तिगत लक्ष्य और hope केंद्रीय हैं", "is_correct": true },
+      { "text": "Medical Model अधिक compassionate है", "is_correct": false },
+      { "text": "Recovery Model केवल Substance Use Disorders के लिए है", "is_correct": false }
+    ],
+    "explanation": "Recovery Model (Anthony, 1993; Pat Deegan) — Medical Model symptom reduction पर focus करता है; Recovery Model में: (1) Hope — improvement संभव है, (2) Self-Determination, (3) Meaningful Roles, (4) Peer Support। यह मानता है कि Schizophrenia में भी meaningful life possible है। NIMH और WHO दोनों ने Recovery-Oriented Services को promote किया है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Behavioural Activation' (BA) Depression में क्यों प्रभावी है?",
+    "options": [
+      { "text": "BA में केवल relaxation techniques हैं", "is_correct": false },
+      { "text": "Depression में avoidance-withdrawal cycle तोड़कर scheduled positive activities से mood को behaviour के माध्यम से directly improve किया जाता है — 'Outside-in' approach", "is_correct": true },
+      { "text": "BA केवल CBT का simplification है", "is_correct": false },
+      { "text": "BA में cognitive change primary mechanism है", "is_correct": false }
+    ],
+    "explanation": "BA (Lewinsohn, 1974; Martell, 2001) — Depression में negative mood → withdrawal → fewer positive reinforcements → deeper depression — यह cycle BA से टूटती है। Activation Monitoring → Activity Scheduling → Graded Task Assignment। BA को Jonathan Jacobson ने 'Component Analysis Study' में full CBT जितना प्रभावी पाया। Low-resource settings में विशेष रूप से उपयोगी।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Cognitive Remediation' (CR) Schizophrenia में क्या करती है?",
+    "options": [
+      { "text": "CR दवाओं का विकल्प है", "is_correct": false },
+      { "text": "CR computerized और therapist-led exercises से attention, memory और executive function जैसी cognitive deficits को improve करती है — antipsychotics cognitive को ठीक नहीं करते", "is_correct": true },
+      { "text": "CR केवल TBI (Traumatic Brain Injury) में उपयोगी है", "is_correct": false },
+      { "text": "CR Schizophrenia के positive symptoms को target करती है", "is_correct": false }
+    ],
+    "explanation": "Schizophrenia में cognitive deficits (attention, processing speed, working memory, executive function) antipsychotics से भी ठीक नहीं होते — ये real-world functioning का सबसे बड़ा predictor हैं। CR (NEAR, CRT, COGPACK) — practice-based और strategy-based approaches से cognitive domains improve होते हैं। Vocational rehabilitation के साथ मिलाने पर सबसे प्रभावी।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Adolescent Brain Development' के संदर्भ में Dual Systems Theory (Casey) क्या बताती है?",
+    "options": [
+      { "text": "किशोर वयस्कों की तरह rational होते हैं", "is_correct": false },
+      { "text": "Limbic System (rewards, emotions) prefrontal cortex (control, planning) से पहले mature होती है — यह mismatch risk-taking, impulsivity और peer influence में explains करता है", "is_correct": true },
+      { "text": "Adolescent brain fully developed होता है", "is_correct": false },
+      { "text": "Prefrontal Cortex Limbic System से पहले develop होती है", "is_correct": false }
+    ],
+    "explanation": "Casey et al. का Dual Systems Theory — Limbic/Reward System (hot cognition) adolescence में fully operational है, पर Prefrontal Cortex (cool cognition, impulse control) 25 साल तक develop होती है। इसीलिए: किशोरों में risk-taking, peer pressure sensitivity, thrill-seeking और substance experimentation अधिक। यह Juvenile Justice, Health Promotion और Substance Prevention programs के design को प्रभावित करता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सार्वजनिक स्वास्थ्य में मनोवैज्ञानिक हस्तक्षेप' (Population-Level Psychological Interventions) की 'Prevention Paradox' क्या है?",
+    "options": [
+      { "text": "Prevention हमेशा cost-effective होता है", "is_correct": false },
+      { "text": "High-risk individuals को target करने वाले interventions से कम total cases reduce होते हैं बजाय population-wide modest interventions से — क्योंकि अधिकांश cases moderate risk से आते हैं", "is_correct": true },
+      { "text": "Population interventions हमेशा ineffective हैं", "is_correct": false },
+      { "text": "Prevention Paradox केवल physical health में होता है", "is_correct": false }
+    ],
+    "explanation": "Geoffrey Rose का Prevention Paradox — Mental Health में: अधिकांश depression cases 'high risk' नहीं, moderate risk group से आते हैं (क्योंकि वे majority हैं)। इसलिए Universal Prevention (सबके लिए stress management, resilience building) कम individual benefit पर भी population level पर अधिक effective है। यह School-based universal mental health programs को justify करता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Psychodynamic Therapy' और 'CBT' की effectiveness के comparative research में क्या पाया गया है?",
+    "options": [
+      { "text": "CBT हमेशा Psychodynamic से बेहतर है", "is_correct": false },
+      { "text": "'Dodo Bird Verdict' — अधिकांश bona fide therapies की effectiveness roughly equal है; specific techniques से अधिक Therapeutic Alliance और Common Factors matter करते हैं", "is_correct": true },
+      { "text": "Psychodynamic Therapy में कोई evidence नहीं है", "is_correct": false },
+      { "text": "CBT की superiority well-established है", "is_correct": false }
+    ],
+    "explanation": "Luborsky et al. (1975) का 'Dodo Bird Verdict' (Alice in Wonderland से) — 'All have won and all must have prizes'। Meta-analyses consistently दिखाते हैं कि different bona fide therapies में effect size roughly equivalent है। Common Factors (Therapeutic Alliance, Empathy, Goal Consensus) ~30% variance explain करते हैं। Specific techniques ~15%। यह 'My therapy is better' wars को challenge करता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Cortisol Awakening Response' (CAR) और 'HPA Axis Dysregulation' chronic stress और depression में क्या दर्शाता है?",
+    "options": [
+      { "text": "Cortisol केवल दोपहर में बढ़ता है", "is_correct": false },
+      { "text": "जागने के 30-45 मिनट बाद Cortisol peak (CAR) होती है — Depression और Chronic Stress में CAR blunted या exaggerated हो जाती है, जो HPA axis dysregulation का biomarker है", "is_correct": true },
+      { "text": "Depression में Cortisol हमेशा कम होता है", "is_correct": false },
+      { "text": "CAR केवल shift workers में असामान्य होती है", "is_correct": false }
+    ],
+    "explanation": "Cortisol Awakening Response (CAR) — जागने पर Cortisol spike — HPA axis की reactivity का reliable biomarker है। Depression और Burnout में: Melancholic Depression → Hyperactive HPA (elevated CAR); Atypical Depression और Burnout → Blunted CAR। Psychosocial interventions (Mindfulness, CBT) HPA regulation को normalize कर सकती हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Cultural Formulation Interview' (CFI — DSM-5) का उद्देश्य क्या है?",
+    "options": [
+      { "text": "केवल immigrant patients के लिए", "is_correct": false },
+      { "text": "Clinician को patient की cultural context — illness explanatory model, cultural identity, psychosocial stressors, cultural factors in help-seeking — systematically assess करने में सहायता करना", "is_correct": true },
+      { "text": "CFI केवल research tool है", "is_correct": false },
+      { "text": "CFI DSM diagnoses को replace करती है", "is_correct": false }
+    ],
+    "explanation": "DSM-5 में CFI (Cultural Formulation Interview) — 16 semi-structured questions जो cultural context को capture करती हैं: (1) Cultural Definition of Problem, (2) Cultural Perceptions of Cause, (3) Cultural Factors Affecting Self-Coping, (4) Cultural Factors Affecting Past/Present Help Seeking, (5) Cultural Features of Clinician-Patient Relationship। भारत में जनजातीय और ग्रामीण settings में यह विशेष रूप से relevant है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Motivational Interviewing Network' (MINT) और 'MI Fidelity' के संदर्भ में 'Spirit of MI' के चार तत्व क्या हैं?",
+    "options": [
+      { "text": "OARS, DARN, CAT, PACE", "is_correct": false },
+      { "text": "Partnership, Acceptance, Compassion और Evocation (PACE)", "is_correct": true },
+      { "text": "Rapport, Empathy, Trust, Collaboration", "is_correct": false },
+      { "text": "केवल Empathy और Acceptance", "is_correct": false }
+    ],
+    "explanation": "MI का Spirit (Miller & Rollnick, 3rd Ed.) — PACE: (1) Partnership — hierarchical नहीं, collaborative; (2) Acceptance — absolute worth, autonomy support, accurate empathy, affirmation; (3) Compassion — client's welfare को priority; (4) Evocation — client के भीतर से motivation draw करना, impose नहीं करना। यह MI के 'how' और 'why' को define करता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Psychological First Aid' (PFA) किस सिद्धांत पर आधारित है?",
+    "options": [
+      { "text": "PFA में Debriefing (CISD) करना जरूरी है", "is_correct": false },
+      { "text": "PFA Maslow की तत्काल जरूरतों (Safety, Calm, Connectedness, Self-Efficacy, Hope) पर आधारित है — 'Do no harm' और Evidence-Informed approach", "is_correct": true },
+      { "text": "PFA में victims से trauma details निकालनी चाहिए", "is_correct": false },
+      { "text": "PFA केवल trained psychologists दे सकते हैं", "is_correct": false }
+    ],
+    "explanation": "WHO/IASC PFA (Psychological First Aid) — CISD (Critical Incident Stress Debriefing) को replace किया जो evidence में contraindicated पाई गई। PFA के 5 elements (Hobfoll et al.): Safety, Calming, Self-Efficacy, Connectedness, Hope। यह मानवीय response है जो lay workers भी दे सकते हैं। ASHA और field workers को PFA training दी जाती है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Ecological Momentary Assessment' (EMA) और 'Experience Sampling Method' (ESM) स्वास्थ्य अनुसंधान में क्या नया लाते हैं?",
+    "options": [
+      { "text": "EMA केवल diary methods का digital version है", "is_correct": false },
+      { "text": "EMA/ESM real-time, real-world में बार-बार data collect करते हैं — retrospective bias कम करते हैं और intra-individual dynamics को capture करते हैं", "is_correct": true },
+      { "text": "EMA केवल lab settings में useful है", "is_correct": false },
+      { "text": "ESM और EMA एक ही नहीं हैं", "is_correct": false }
+    ],
+    "explanation": "EMA (Shiffman, Stone, Hufford) — smartphones/wearables से multiple daily prompts में participants real-time data report करते हैं। Retrospective surveys में recall bias होती है; EMA में: (1) Real-world validity, (2) Within-person variability capture, (3) Temporal dynamics। Depression, Pain, Addiction में 'just-in-time' adaptive interventions का आधार।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Network Theory of Psychopathology' (Borsboom) क्या नई समझ देती है?",
+    "options": [
+      { "text": "Disorders underlying latent entities हैं जो symptoms cause करती हैं", "is_correct": false },
+      { "text": "Psychiatric symptoms causal networks बनाते हैं — एक symptom दूसरे को activate करता है; 'central symptoms' को target करने से पूरा network disrupted होता है", "is_correct": true },
+      { "text": "Network Theory केवल Social Psychology में है", "is_correct": false },
+      { "text": "यह theory DSM को support करती है", "is_correct": false }
+    ],
+    "explanation": "Borsboom & Cramer (2013) का Network Approach — Depression 'एक disease' नहीं, बल्कि symptom network है जहाँ: Sleep problems → Fatigue → Concentration → Work problems → Mood। 'Bridge symptoms' (जो networks को connect करते हैं) को target करना most effective है। यह comorbidity, heterogeneity और treatment को नई तरह से समझाता है। DSM categorical approach को challenge करता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Stepped Care Model' mental health services में क्या प्रस्तुत करता है?",
+    "options": [
+      { "text": "सभी मरीजों को intensive specialist care मिलनी चाहिए", "is_correct": false },
+      { "text": "Low-intensity interventions (self-help, psychoeducation) पहले दी जाती हैं; केवल जिन्हें benefit नहीं होता वे higher intensity (specialist) care में जाते हैं — resources का optimal use", "is_correct": true },
+      { "text": "Stepped Care में दवाएँ शामिल नहीं हैं", "is_correct": false },
+      { "text": "Stepped Care केवल Depression के लिए है", "is_correct": false }
+    ],
+    "explanation": "Stepped Care Model (Davison, 2000) — सबसे कम intensive, least restrictive treatment पहले; progress monitor करके step-up या step-down। NICE guidelines में: Step 1 — Self-Help/Watchful Waiting; Step 2 — Low-Intensity (guided self-help, group therapy); Step 3 — High-Intensity CBT/Medication; Step 4 — Specialist/Inpatient। यह LMICs में scarce mental health resources को efficiently allocate करने का model है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Vygotsky का Zone of Proximal Development' (ZPD) और 'Scaffolding' का Health Education में advanced application क्या है?",
+    "options": [
+      { "text": "ZPD केवल बच्चों की शिक्षा में प्रासंगिक है", "is_correct": false },
+      { "text": "Health Educator ZPD assess करके patient की current capacity से slightly beyond support देता है (Scaffolding), धीरे-धीरे support हटाकर (Fading) patient को independent self-manager बनाता है", "is_correct": true },
+      { "text": "ZPD का adult health education में कोई application नहीं", "is_correct": false },
+      { "text": "Scaffolding केवल teaching materials से है", "is_correct": false }
+    ],
+    "explanation": "Vygotsky का ZPD adult health education में: Chronic Disease Self-Management में — educator पहले patient की ZPD assess करता है (क्या वह अकेले कर सकता है vs support से)। Scaffolding: right level of support (prompts, question guidance, resources) देना। Fading: जैसे-जैसे patient competent होता है, support कम होती है। यह 'teach-to-fish' approach है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Schema Therapy' (Young) की 'Early Maladaptive Schemas' (EMS) क्या हैं?",
+    "options": [
+      { "text": "EMS conscious beliefs हैं जो therapy से easily change होते हैं", "is_correct": false },
+      { "text": "EMS deeply held, pervasive patterns of thinking, feeling and relating — बचपन में unmet core needs से बनते हैं और adult relationships में dysfunction का कारण — 18 schemas 5 domains में", "is_correct": true },
+      { "text": "EMS केवल Personality Disorders में होते हैं", "is_correct": false },
+      { "text": "Schema Therapy CBT का ही extension है", "is_correct": false }
+    ],
+    "explanation": "Jeffrey Young का Schema Therapy — CBT-resistant Personality Disorders के लिए। 18 EMS (जैसे Abandonment, Mistrust, Defectiveness) 5 domains में (Disconnection, Impaired Autonomy, Impaired Limits, Other-Directedness, Overvigilance)। Schema Modes — different ego states। Treatment: Limited Reparenting, Imagery Rescripting, Mode Work। BPD, NPD, CPD में evidence-based।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Health Psychology और Critical Psychology' के संगम में 'Foucauldian Analysis' health discourse को कैसे देखती है?",
+    "options": [
+      { "text": "Foucault ने health के बारे में कुछ नहीं लिखा", "is_correct": false },
+      { "text": "Health discourse power relations को normalize करता है — 'healthy body' के ideals, medical gaze और surveillance medicine सामाजिक नियंत्रण के instruments हैं", "is_correct": true },
+      { "text": "Foucauldian Analysis health को purely positive मानती है", "is_correct": false },
+      { "text": "यह केवल philosophical analysis है, practice में irrelevant", "is_correct": false }
+    ],
+    "explanation": "Foucault ('Birth of the Clinic', 'Discipline & Punish') की Medical Gaze — clinic में body को objectified किया जाता है। Surveillance Medicine (David Armstrong) — population screening programs healthy people को 'risk populations' बनाती हैं। 'Healthy lifestyle' discourse individual responsibility पर जोर देकर structural causes को छुपाती है। Critical Health Psychology यह power dynamics expose करती है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Computational Psychiatry' और 'Reinforcement Learning Models' Depression को कैसे समझाते हैं?",
+    "options": [
+      { "text": "Computational Psychiatry केवल AI की psychiatry में application है", "is_correct": false },
+      { "text": "Depression में altered Reward Prediction Error signals — negative experiences के बाद excessive learning और positive experiences से insufficient learning — pessimistic world model बनाता है", "is_correct": true },
+      { "text": "Reinforcement Learning models clinical practice में unused हैं", "is_correct": false },
+      { "text": "यह केवल theoretical framework है", "is_correct": false }
+    ],
+    "explanation": "Montague, Dolan, Friston के Computational Psychiatry में: Depression में RPE asymmetry — loss signal को overweight करना और gain signal को underweight। यह Beck का cognitive bias concept neurally explain करता है। fMRI studies ने depressed patients में ventral striatum के blunted reward response और anterior cingulate के excessive negative prediction error को दिखाया।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Developmental Trauma' (Bessel van der Kolk) का पारंपरिक PTSD diagnosis से क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Developmental Trauma — बचपन में caregiver के साथ repeated interpersonal trauma — identity, affect regulation, consciousness, behaviour, cognition और relationships में pervasive disruption करता है; simple PTSD से कहीं अधिक complex", "is_correct": true },
+      { "text": "Developmental Trauma केवल neglect से है", "is_correct": false },
+      { "text": "PTSD Developmental Trauma का milder form है", "is_correct": false }
+    ],
+    "explanation": "Van der Kolk ने 'Developmental Trauma Disorder' (DTD) propose किया (अभी DSM में नहीं) — ICD-11 में CPTSD इसके करीब है। Repeated childhood interpersonal trauma (abuse, neglect, domestic violence) produces: affect dysregulation, altered self-perception, relational difficulties। Standard PTSD treatment insufficient है; needs developmental, relational approach (EMDR, sensorimotor psychotherapy)।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Positive Psychotherapy' (Peseschkian) पारंपरिक symptom-focused therapy से कैसे भिन्न है?",
+    "options": [
+      { "text": "PPT symptoms को ignore करती है", "is_correct": false },
+      { "text": "PPT disease को capacity के रूप में reframes करती है — disorder की genesis में hidden strengths और virtues को खोजकर; cross-cultural transcultural approach", "is_correct": true },
+      { "text": "PPT और Seligman's Positive Psychology एक ही हैं", "is_correct": false },
+      { "text": "PPT केवल mild disorders में काम करती है", "is_correct": false }
+    ],
+    "explanation": "Nossrat Peseschkian (1977) की Positive Psychotherapy (PPT) — 'Positive' से आशय: symptom/disorder में भी positive aspects और capabilities हैं। 5-stage model: Distance/Observation, Inventory (capacities), Situational Encouragement, Verbalization, Expansion. Transcultural (Iran, Germany में developed) — WAPP (World Association of PPT) द्वारा promote। Seligman की Positive Psychology से पूर्व और अलग।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Microaggression' और स्वास्थ्य के बीच research क्या दिखाती है?",
+    "options": [
+      { "text": "Microaggressions केवल awareness campaign के लिए relevant हैं", "is_correct": false },
+      { "text": "Racial, gender और caste-based microaggressions cumulative chronic stress create करती हैं जो mental health (depression, anxiety), physical health (hypertension) और healthcare avoidance को प्रभावित करती हैं", "is_correct": true },
+      { "text": "Microaggressions too minor हैं to have health effects", "is_correct": false },
+      { "text": "केवल direct racism health को प्रभावित करती है", "is_correct": false }
+    ],
+    "explanation": "Chester Pierce (1970) ने Racial Microaggressions conceptualize किए। Derald Wing Sue ने taxonomy विकसित की। Research: Microaggressions का cumulative effect 'death by a thousand cuts' है — chronic psychological stress through hypervigilance, rumination, identity threat। भारत में: caste-based microaggressions ('tu theek nahin lagta', 'tumhare log') healthcare avoidance और mental health में significant role निभाती हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Dissociative Identity Disorder' (DID) के आधुनिक understanding में 'Trauma Model' बनाम 'Sociocognitive Model' में क्या debate है?",
+    "options": [
+      { "text": "DID के बारे में कोई debate नहीं है", "is_correct": false },
+      { "text": "Trauma Model — DID severe childhood trauma से है; Sociocognitive Model — यह therapist suggestion, media influence और cultural scripting से iatrogenically created है; अभी Trauma Model को अधिक evidence है पर debate जारी है", "is_correct": true },
+      { "text": "DID एक mythical disorder है", "is_correct": false },
+      { "text": "Sociocognitive Model को अधिक evidence है", "is_correct": false }
+    ],
+    "explanation": "Trauma/Posttraumatic Model (Colin Ross, Onno van der Hart) — DID childhood severe abuse से structural dissociation। Sociocognitive/Fantasy Model (Nicholas Spanos, Harold Merskey) — DID therapist, media, cultural suggestion से iatrogenically created। Neuroimaging studies (Simone Reinders) brain differences दिखाते हैं जो Trauma Model support करते हैं। यह clinical psychology की सबसे controversial debates में से एक है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Ecological Validity' (बाह्य वैधता) और 'Internal Validity' में tension को कैसे address किया जाता है?",
+    "options": [
+      { "text": "Lab experiments सदैव field studies से superior हैं", "is_correct": false },
+      { "text": "RCTs में high internal validity होती है पर low ecological validity; field studies में high ecological validity पर confounds। Mixed methods और pragmatic trials दोनों को balance करते हैं", "is_correct": true },
+      { "text": "Ecological Validity केवल physical science में महत्वपूर्ण है", "is_correct": false },
+      { "text": "Internal और Ecological Validity में कोई tension नहीं है", "is_correct": false }
+    ],
+    "explanation": "Research Methods tension: RCTs (Gold Standard) — random assignment से causality establish होती है (high internal validity) पर artificial settings में। Real-world effectiveness trials और Pragmatic RCTs — real settings में, more ecological validity। Mixed Methods — quantitative + qualitative। Health Behaviour research में: lab-based findings अक्सर field में replicate नहीं होते — Ecological Validity critical है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Epistemic Injustice' (Miranda Fricker) का mental health में क्या application है?",
+    "options": [
+      { "text": "यह केवल epistemology का philosophical concept है", "is_correct": false },
+      { "text": "Testimonial Injustice — mental health patients को 'unreliable witnesses' माना जाता है; Hermeneutical Injustice — उनके अनुभव describe करने के लिए adequate concepts अनुपलब्ध हैं — दोनों care को harm करते हैं", "is_correct": true },
+      { "text": "Epistemic Injustice केवल जाति-आधारित है", "is_correct": false },
+      { "text": "Mental health में epistemic injustice नहीं होती", "is_correct": false }
+    ],
+    "explanation": "Miranda Fricker (2007) की Epistemic Injustice: (1) Testimonial Injustice — किसी की testimony/experience को credibility deficit से dismiss करना (mental patients को 'paranoid' कहकर उनकी real concerns dismiss करना), (2) Hermeneutical Injustice — lived experience describe करने के shared concepts अनुपलब्ध ('domestic violence' concept पहले था ही नहीं)। यह psychiatric diagnosis और treatment में systemic harm करती है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Emotion Regulation' के 'Process Model' (Gross) में strategies का temporal sequence क्या है?",
+    "options": [
+      { "text": "Suppression सबसे effective strategy है", "is_correct": false },
+      { "text": "Situation Selection → Situation Modification → Attentional Deployment → Cognitive Change → Response Modulation — प्रारंभिक strategies (Cognitive Reappraisal) antecedent-focused और more effective हैं", "is_correct": true },
+      { "text": "सभी strategies equally effective हैं", "is_correct": false },
+      { "text": "Response Modulation सबसे healthy strategy है", "is_correct": false }
+    ],
+    "explanation": "James Gross का Process Model of Emotion Regulation — temporal sequence: Situation Selection → Modification → Attentional Deployment → Cognitive Change (Reappraisal — सबसे effective) → Response Modulation (Suppression — least healthy, अनुभव तो रहता है पर expression रोका जाता है)। Antecedent-focused strategies (Reappraisal) response-focused (Suppression) से superior हैं — physiological और social wellbeing में।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Radical Behaviourism' (Skinner) की 'Verbal Behaviour' Theory का language में क्या contribution है?",
+    "options": [
+      { "text": "Skinner ने language की कोई theory नहीं दी", "is_correct": false },
+      { "text": "Skinner ने language को verbal operants (Mand, Tact, Echoic, Intraverbal) के रूप में analyze किया — सामाजिक reinforcement द्वारा shaped; Chomsky ने इसकी criticism की कि यह language acquisition explain नहीं करती", "is_correct": true },
+      { "text": "Skinner की theory को Chomsky ने support किया", "is_correct": false },
+      { "text": "Verbal Behaviour Theory केवल autism में applicable है", "is_correct": false }
+    ],
+    "explanation": "Skinner ('Verbal Behaviour', 1957) — Language को operant conditioning से explain किया: Mand (request), Tact (comment on environment), Echoic (repetition), Intraverbal (conversation)। Noam Chomsky की devastating review (1959) — Language Acquisition Device (LAD) और Universal Grammar propose किया। यह debate cognitive revolution का turning point था। Autism में VB therapy Skinner पर आधारित।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Health at Every Size' (HAES) movement का पारंपरिक obesity-focused healthcare को क्या challenge है?",
+    "options": [
+      { "text": "HAES unhealthy behaviours को promote करता है", "is_correct": false },
+      { "text": "HAES बताता है कि weight केवल health का proxy नहीं है; weight stigma healthcare avoidance और worse outcomes का कारण है; health behaviours weight से independent हो सकते हैं", "is_correct": true },
+      { "text": "HAES का कोई scientific basis नहीं है", "is_correct": false },
+      { "text": "HAES केवल morbidly obese के लिए है", "is_correct": false }
+    ],
+    "explanation": "HAES (Lindo Bacon, 2010) — Evidence: (1) Weight-focused interventions दीर्घकालिक weight loss नहीं देते, (2) Weight Stigma (Puhl & Heuer) healthcare avoidance, depression, disordered eating cause करता है, (3) 'Healthy obese' exist करते हैं, (4) Behaviours (activity, nutrition) weight से independent health predictors हैं। Journal of Academy of Nutrition & Dietetics ने HAES research को validate किया है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Relational Frame Theory' (RFT — Hayes, Barnes-Holmes) ACT का theoretical foundation क्यों है?",
+    "options": [
+      { "text": "RFT केवल language theory है", "is_correct": false },
+      { "text": "RFT बताती है कि human language/cognition arbitrarily applicable relational responding पर आधारित है — इससे psychological suffering का मुख्य source (Cognitive Fusion, Experiential Avoidance) समझाया जाता है", "is_correct": true },
+      { "text": "RFT और ACT असंबंधित हैं", "is_correct": false },
+      { "text": "RFT कहती है कि language beneficial है", "is_correct": false }
+    ],
+    "explanation": "RFT (Hayes, 2001) — Human cognition arbitrarily applicable relational responding है: हम words को events, feelings, memories से relate कर सकते हैं (Cue → Automatic Fear response)। Cognitive Fusion — thoughts को literally true मानना — और Experiential Avoidance — internal experiences से भागना — RFT से explained। ACT इसी को defusion और acceptance techniques से address करती है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Positive Affect' का immune function पर 'Cohen Effect' क्या है?",
+    "options": [
+      { "text": "Positive emotions का immune function पर कोई प्रभाव नहीं", "is_correct": false },
+      { "text": "Sheldon Cohen के rhinovirus challenge studies में high positive affect वाले लोगों में common cold की infection और severity कम थी — positive affect immune function बेहतर करती है", "is_correct": true },
+      { "text": "Negative emotions immune function बेहतर करती हैं", "is_correct": false },
+      { "text": "Emotions का immune system से कोई connection नहीं", "is_correct": false }
+    ],
+    "explanation": "Sheldon Cohen के controlled rhinovirus exposure studies — participants को cold virus exposed किया। High positive affect (vitality, joy) वाले: (1) कम infected, (2) Infection होने पर कम symptoms। Mechanism: Positive emotions → lower inflammatory cytokines → better immune response। यह PNI (Psychoneuroimmunology) का direct clinical demonstration है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Interpersonal Therapy' (IPT — Klerman, Weissman) Depression में किन चार focus areas पर काम करती है?",
+    "options": [
+      { "text": "केवल past relationships पर", "is_correct": false },
+      { "text": "Grief, Role Transitions, Role Disputes और Interpersonal Deficits — current interpersonal context में", "is_correct": true },
+      { "text": "Automatic Thoughts, Core Beliefs, Schemas, Cognitive Distortions", "is_correct": false },
+      { "text": "Childhood, Adolescence, Adulthood, Old Age", "is_correct": false }
+    ],
+    "explanation": "IPT (1984) — Time-limited (12-16 sessions), present-focused, мanual-based। 4 Problem Areas: (1) Grief — complicated bereavement, (2) Role Transitions — life changes (marriage, retirement, illness), (3) Role Disputes — significant other conflicts, (4) Interpersonal Deficits — social isolation/impoverishment। IPT Depression में CBT के समान effectiveness और Perinatal Depression में preferred है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Telepsychology' और 'Digital Mental Health Interventions' (DMHIs) के साक्ष्य क्या दिखाते हैं?",
+    "options": [
+      { "text": "Online therapy हमेशा face-to-face से inferior है", "is_correct": false },
+      { "text": "Meta-analyses दिखाते हैं कि Teletherapy face-to-face के equivalent है Depression और Anxiety में; DMHIs (apps, chatbots) effective supplements हैं पर severe disorders में limitations हैं", "is_correct": true },
+      { "text": "DMHIs face-to-face therapy को completely replace कर सकते हैं", "is_correct": false },
+      { "text": "Telepsychology केवल COVID के कारण उभरी है", "is_correct": false }
+    ],
+    "explanation": "Systematic reviews (Linardon et al., 2020) — Teletherapy: comparable efficacy to in-person for Depression, Anxiety, PTSD। DMHIs (Woebot, Youper, Wysa): effective for mild-moderate symptoms, symptom tracking, psychoeducation। Limitations: severe psychopathology, crisis situations, therapeutic alliance। India में: Vandrevala Foundation, iCall, MPower — digital mental health ecosystem growing।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Transdiagnostic Treatment' (Barlow's Unified Protocol) का rationale क्या है?",
+    "options": [
+      { "text": "एक treatment से सभी disorders ठीक होते हैं", "is_correct": false },
+      { "text": "Anxiety और Mood Disorders में common underlying mechanisms (Neuroticism, emotional avoidance, emotion dysregulation) हैं — एक Transdiagnostic treatment सभी को address करती है", "is_correct": true },
+      { "text": "Disorder-specific treatments outdated हैं", "is_correct": false },
+      { "text": "Unified Protocol केवल GAD के लिए है", "is_correct": false }
+    ],
+    "explanation": "David Barlow का Unified Protocol — Common transdiagnostic factors: Neuroticism (N), Cognitive flexibility, Emotion avoidance, Emotional avoidance behaviors। UP के 5 core modules: Mindful Emotion Awareness, Cognitive Flexibility, Avoiding Avoidance, Emotion-Driven Behaviors, Interoceptive Exposure। Clinical trials: UP = disorder-specific protocols effectiveness लेकिन training और delivery में more efficient।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Resilience Science' में 'Ordinary Magic' की अवधारणा Ann Masten ने क्यों दी?",
+    "options": [
+      { "text": "Resilience एक extraordinary, rare phenomenon है", "is_correct": false },
+      { "text": "Resilience उन ordinary adaptive systems (family, community, schools) से emerge करती है जो adversity में intact रहते हैं — extraordinary characteristics की जरूरत नहीं", "is_correct": true },
+      { "text": "Resilience केवल genetics से है", "is_correct": false },
+      { "text": "Resilience एक myth है", "is_correct": false }
+    ],
+    "explanation": "Ann Masten ('Ordinary Magic: Resilience Processes in Development', 2001) — Resilience exceptional नहीं, ordinary है। जब basic adaptive systems (Attachment, Cognitive development, Regulatory systems, Motivation systems, Community structures) intact हों, तो adversity के बाद positive adaptation naturally होती है। Policy implication: protect and restore these ordinary systems in at-risk communities।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Global Mental Health Movement' और 'Task-Shifting' (WHO mhGAP) में क्या challenge है?",
+    "options": [
+      { "text": "LMICs में mental health professionals की कमी कोई problem नहीं है", "is_correct": false },
+      { "text": "LMICs में specialist shortage को address करने के लिए trained lay workers/CHWs को mental health tasks shift करना — culture adaptation, supervision और quality assurance challenges हैं", "is_correct": true },
+      { "text": "Task-Shifting ineffective है", "is_correct": false },
+      { "text": "Mental Health Gap Action Programme केवल Africa के लिए है", "is_correct": false }
+    ],
+    "explanation": "WHO mhGAP (Mental Health Gap Action Programme) — LMICs में 85% mental health treatment gap को address करने के लिए। Task-Shifting: Trained non-specialist health workers को evidence-based psychological interventions (Interpersonal Therapy, Problem Management Plus, Behavioural Activation) deliver करने में train करना। Challenges: cultural adaptation, fidelity monitoring, supervision systems, stigma। India में: ASHA को mental health में train करने की कोशिश।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Social Prescribing' का concept क्या है और यह मानसिक स्वास्थ्य में कैसे काम करता है?",
+    "options": [
+      { "text": "Social Prescribing में social media prescribe किया जाता है", "is_correct": false },
+      { "text": "Social Prescribing में healthcare providers लोगों को community activities, groups और services से connect करते हैं — social determinants को address करने के लिए", "is_correct": true },
+      { "text": "Social Prescribing केवल physical health के लिए है", "is_correct": false },
+      { "text": "Social Prescribing दवाओं का replacement है", "is_correct": false }
+    ],
+    "explanation": "Social Prescribing (UK में NHS द्वारा mainstream) — Link Workers patients को art groups, gardening, volunteering, sports clubs, debt advice से connect करते हैं। Mental Health में: Loneliness, anxiety, depression के social determinants (isolation, unemployment, poor housing) को address करता है। Evidence: moderate but growing — GP consultations कम, wellbeing improve।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Therapeutic Jurisprudence' (Wexler & Winick) मानसिक स्वास्थ्य कानून को कैसे देखती है?",
+    "options": [
+      { "text": "यह केवल legal theory है", "is_correct": false },
+      { "text": "कानून और legal procedures के therapeutic और anti-therapeutic consequences होते हैं — कानून को mental health और well-being बढ़ाने का instrument बनाना चाहिए", "is_correct": true },
+      { "text": "मानसिक स्वास्थ्य कानून therapy से असंबंधित है", "is_correct": false },
+      { "text": "Therapeutic Jurisprudence criminals के लिए है", "is_correct": false }
+    ],
+    "explanation": "Wexler & Winick (1990s) का Therapeutic Jurisprudence — कानून एक social force है जो mental health को affect करती है। Mental Health Act, 2017 (India) इसी दिशा में: (1) Right-based approach, (2) Advance Directives, (3) Supported Decision-Making। Mental Health Review Boards भी therapeutic function निभाते हैं। Involuntary commitment के alternative therapeutic approaches explore करता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Bioethics में Mental Capacity' (Mental Capacity Act — UK 2005) का भारतीय Mental Healthcare Act 2017 में क्या reflection है?",
+    "options": [
+      { "text": "भारत में mental capacity का कोई कानूनी ढाँचा नहीं है", "is_correct": false },
+      { "text": "MHCA 2017 में supported decision-making, advance directives और nominated representatives के माध्यम से mental health patients की autonomy और dignity को legal protection मिली है", "is_correct": true },
+      { "text": "MHCA 2017 patients को indefinitely institutionalize करने की अनुमति देता है", "is_correct": false },
+      { "text": "Mental Capacity India में legal concept नहीं है", "is_correct": false }
+    ],
+    "explanation": "Mental Healthcare Act 2017 (India) — Landmark legislation: (1) Right to access care, (2) Advance Directives — व्यक्ति पहले से लिख सकता है कि future incapacity में क्या treatment चाहिए/नहीं चाहिए, (3) Nominated Representative, (4) Right against cruel treatment, (5) Decriminalization of suicide (Sec. 309 IPC हटाया)। यह rights-based mental health approach की ओर paradigm shift है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Psychological Flexibility' (ACT) और 'Emotional Intelligence' (Mayer-Salovey) में क्या conceptual overlap और difference है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "EI — emotions को perceive, use, understand और manage करने की ability; Psychological Flexibility — values-consistent action regardless of internal states; overlap: emotion awareness में, पर EI ability-based है और PF process-based", "is_correct": true },
+      { "text": "Psychological Flexibility EI का हिस्सा है", "is_correct": false },
+      { "text": "EI Psychological Flexibility को predict करती है", "is_correct": false }
+    ],
+    "explanation": "Mayer & Salovey का ability EI (four-branch model): Emotion Perception, Facilitation, Understanding, Management। ACT का Psychological Flexibility — context में, present-moment, values-guided, open to experience। Overlap: both involve emotion awareness and regulation। Difference: EI ability construct (measurable skills); PF process construct (doing something despite internal states)। Clinical research में दोनों independently predict mental health outcomes।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Cross-Lagged Panel Model' longitudinal health research में क्या बताता है?",
+    "options": [
+      { "text": "यह केवल descriptive statistics है", "is_correct": false },
+      { "text": "CLPM दो variables के बीच directional relationships को test करता है — क्या Depression Physical Health को predict करती है या Physical Health Depression को — causality direction test होती है", "is_correct": true },
+      { "text": "CLPM केवल cross-sectional data में use होता है", "is_correct": false },
+      { "text": "CLPM correlation और causation में कोई अंतर नहीं करता", "is_correct": false }
+    ],
+    "explanation": "Cross-Lagged Panel Model — Longitudinal design में: T1 Depression → T2 Physical Health; T1 Physical Health → T2 Depression — दोनों paths test होती हैं। यह bidirectionality explore करता है। Health Psychology research में: sleep-depression, pain-anxiety, social support-health में bidirectional relationships CLPM से identified। Random Intercept CLPM (Hamaker) — between-person और within-person differences separate करता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Cultural Neuroscience' (Shihui Han, Nalini Ambady) क्या नई समझ देती है?",
+    "options": [
+      { "text": "मस्तिष्क culture से प्रभावित नहीं होता", "is_correct": false },
+      { "text": "Cultural experiences brain structure और function को shape करती हैं — East-West cultural differences में self-construal, social cognition और emotion processing में neural differences documented हैं", "is_correct": true },
+      { "text": "Cultural Neuroscience culture को irrelevant मानती है", "is_correct": false },
+      { "text": "Brain functioning universally identical है across cultures", "is_correct": false }
+    ],
+    "explanation": "Cultural Neuroscience — fMRI studies: (1) Independent self-construal (Western) vs Interdependent (Eastern/Indian/Chinese) — medial prefrontal cortex activity में differences self-referential thinking में, (2) Emotion recognition — cultural differences in brain responses, (3) Pain perception — social exclusion pain में cultural modulation। Health implication: Cultural context brain-level में health-relevant processes (empathy, pain, social cognition) को shape करती है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Suicidology' में 'Zero Suicide Framework' क्या है?",
+    "options": [
+      { "text": "यह एक unrealistic utopian goal है", "is_correct": false },
+      { "text": "Healthcare systems की systematic responsibility कि कोई भी patient care में रहते हुए suicide से न मरे — 7 elements framework: Lead, Train, Identify, Engage, Treat, Transition, Improve", "is_correct": true },
+      { "text": "Zero Suicide केवल inpatient settings के लिए है", "is_correct": false },
+      { "text": "यह individual clinician की जिम्मेदारी है, system की नहीं", "is_correct": false }
+    ],
+    "explanation": "Zero Suicide (National Action Alliance for Suicide Prevention, USA) — Henry Ford Health System से inspired। System-level approach: (1) Lead — organizational commitment, (2) Train — all staff, (3) Identify — universal screening (Columbia Suicide Severity Rating Scale), (4) Engage — patients, (5) Treat — evidence-based care (CBT for Suicide Prevention, DBT), (6) Transition — care continuity, (7) Improve — data-driven quality improvement। India में NIMHANS suicide prevention guidelines इसी से inspired।"
+  },
+  {
+    "question": "मनोविज्ञान में 'WEIRD Bias' (Western, Educated, Industrialized, Rich, Democratic) मनोवैज्ञानिक research में क्या समस्या है?",
+    "options": [
+      { "text": "WEIRD research global generalisation के लिए sufficient है", "is_correct": false },
+      { "text": "मनोवैज्ञानिक research का 96% WEIRD samples पर, जो global population का 12% हैं — इससे निष्कर्ष universally generalize नहीं किए जा सकते; भारतीय और tribal populations underrepresented हैं", "is_correct": true },
+      { "text": "WEIRD bias केवल social psychology में है", "is_correct": false },
+      { "text": "यह bias statistical methods से correct हो जाता है", "is_correct": false }
+    ],
+    "explanation": "Henrich, Heine & Norenzayan (2010) का WEIRD critique — Psychology और Neuroscience research predominantly Western university students पर। भारतीय, African, Indigenous populations पर minimal research। उदाहरण: Müller-Lyer illusion susceptibility, Fairness in Ultimatum Game, Attachment patterns — सब cultural variation दिखाते हैं। Health Behaviour research में: WEIRD-based interventions Indian या tribal contexts में काम नहीं भी कर सकते।"
+  },
+  {
+    "question": "मनोविज्ञान में 'स्वास्थ्य शिक्षा अधिकारी' के लिए 'Psychological Safety' (Amy Edmondson) का team health में क्या महत्व है?",
+    "options": [
+      { "text": "Psychological Safety केवल corporate settings में", "is_correct": false },
+      { "text": "Psychological Safety — team members बिना punishment के fear के ideas, concerns और mistakes share कर सकते हैं — Healthcare teams में यह medical errors reduce करती है और learning culture बनाती है", "is_correct": true },
+      { "text": "Psychological Safety से accountability कम होती है", "is_correct": false },
+      { "text": "Psychological Safety का patient safety से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Amy Edmondson (1999) का Psychological Safety research — Healthcare context: (1) Nurses जो psychologically safe महसूस करते हैं, वे medication errors report करते हैं — learning होती है, (2) Surgical teams जो speak-up करते हैं उनमें better outcomes, (3) ASHA और field workers जो safely concerns raise कर सकें — program improvement होती है। NASA, Google भी इसे High-Performance Teams का predictor पाते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'अस्तित्ववाद और मृत्यु-चिंता' (Irvin Yalom — Existential Psychotherapy) के चार ultimate concerns क्या हैं?",
+    "options": [
+      { "text": "Love, Work, Play, Learning", "is_correct": false },
+      { "text": "Death (मृत्यु), Freedom (स्वतंत्रता), Isolation (अकेलापन) और Meaninglessness (निरर्थकता)", "is_correct": true },
+      { "text": "Past, Present, Future, Self", "is_correct": false },
+      { "text": "Body, Mind, Soul, Society", "is_correct": false }
+    ],
+    "explanation": "Irvin Yalom ('Existential Psychotherapy', 1980) — चार ultimate concerns: (1) Death — mortality awareness, (2) Freedom — responsibility और groundlessness, (3) Existential Isolation — unbridgeable gap between self and others, (4) Meaninglessness — create meaning या discover. ये chronic illness, terminal diagnosis और existential crises में relevant हैं। Palliative Care में Dignity Therapy इसी पर आधारित है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Psychoneuroendocrinology' (PNE) में 'Oxytocin और Social Bonding' का स्वास्थ्य में क्या role है?",
+    "options": [
+      { "text": "Oxytocin केवल childbirth में relevant है", "is_correct": false },
+      { "text": "Oxytocin social bonding, trust और care को promote करती है — chronic stress buffer करती है, inflammatory response कम करती है और social health को support करती है", "is_correct": true },
+      { "text": "Oxytocin antisocial behaviour promote करती है", "is_correct": false },
+      { "text": "Oxytocin का mental health से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Oxytocin (Paul Zak, Sue Carter) — 'Love Hormone' या 'Bonding Hormone'। Social touch, eye contact, breastfeeding, prosocial behavior से release होती है। Effects: (1) Cortisol कम करती है, (2) Immune modulation, (3) Social trust और empathy बढ़ाती है, (4) Anxiety कम करती है। PTSD, Autism (Social Deficits), Postpartum Depression में intranasal oxytocin therapeutic research promising है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Problem Solving Therapy' (PST) को कब और क्यों recommend किया जाता है?",
+    "options": [
+      { "text": "PST Psychosis में first-line treatment है", "is_correct": false },
+      { "text": "PST Mild-Moderate Depression में, विशेषतः जब real-life stressors और poor problem-solving skills कारण हों; LMICs में scalable — 'Problem Management Plus' WHO का adaptation है", "is_correct": true },
+      { "text": "PST केवल cognitive impairment में", "is_correct": false },
+      { "text": "PST CBT से superior है", "is_correct": false }
+    ],
+    "explanation": "PST (D'Zurilla & Nezu) — 5 stages: Problem Orientation, Problem Definition, Alternative Solutions, Decision Making, Implementation & Evaluation। WHO का Problem Management Plus (PM+) PST को psychological first aid principles के साथ integrate करता है — 5 sessions, non-specialist delivered। LMIC contexts में: Ethiopia, Pakistan, Afghanistan में depression, anxiety के लिए evidence-based। Low-resource India में scalable intervention।"
+  },
+  {
+    "question": "मनोविज्ञान में 'Cognitive Neuroscience of Consciousness' में 'Global Workspace Theory' (Baars, Dehaene) क्या बताती है?",
+    "options": [
+      { "text": "Consciousness एक mystery है जिसे science नहीं समझ सकती", "is_correct": false },
+      { "text": "Consciousness तब होती है जब information एक 'Global Workspace' में broadcast होती है जिससे brain के specialized modules तक पहुँचती है — Ignition phenomenon neurologically observable है", "is_correct": true },
+      { "text": "Consciousness केवल prefrontal cortex में है", "is_correct": false },
+      { "text": "GWT को कोई empirical support नहीं है", "is_correct": false }
+    ],
+    "explanation": "Bernard Baars का GWT (1988) और Dehaene का Neural Workspace Theory — Consciousness: local brain activity 'ignites' और frontal-parietal network में broadcast होती है। Anesthesia में इस 'ignition' को block किया जाता है। fMRI में P3b ERP component — conscious access का marker। Disorders of Consciousness (Vegetative State, Minimally Conscious State) में GWT framework clinical assessment में उपयोगी।"
+  },
+  {
+    "question": "मनोविज्ञान में 'स्वास्थ्य शिक्षा अधिकारी' की प्रभावशीलता के लिए 'Critical Health Literacy' (Nutbeam) का highest level क्या describe करता है?",
+    "options": [
+      { "text": "केवल medical terms पढ़ और समझ पाना", "is_correct": false },
+      { "text": "Critical Health Literacy — health information को critically analyse करना, social and political determinants को समझकर community level पर advocating for policy change करना", "is_correct": true },
+      { "text": "Interactive Health Literacy — doctor से communicate करना", "is_correct": false },
+      { "text": "केवल prescription पढ़ पाना", "is_correct": false }
+    ],
+    "explanation": "Don Nutbeam की Health Literacy taxonomy — 3 levels: (1) Functional — basic reading/writing for health information, (2) Interactive/Communicative — extract info from different sources, apply in changing situations, (3) Critical — critically analyse information, use it to exert greater control over social determinants of health. HEO को Critical Health Literacy स्वयं विकसित करनी है और community में promote करनी है।"
+  }
+]

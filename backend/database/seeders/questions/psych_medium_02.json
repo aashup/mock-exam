@@ -1,0 +1,422 @@
+[
+  {
+    "question": "मनोविज्ञान में 'स्वास्थ्य व्यवहार परिवर्तन' में 'प्रत्याशा-मूल्य सिद्धांत' (Expectancy-Value Theory) क्या बताता है?",
+    "options": [
+      { "text": "व्यक्ति केवल डर से व्यवहार बदलता है", "is_correct": false },
+      { "text": "व्यक्ति व्यवहार तब बदलता है जब वह मानता हो कि वह सफल होगा (expectancy) और परिणाम उसके लिए महत्वपूर्ण है (value)", "is_correct": true },
+      { "text": "व्यक्ति हमेशा तर्कसंगत निर्णय लेता है", "is_correct": false },
+      { "text": "व्यक्ति केवल पुरस्कार के लिए व्यवहार बदलता है", "is_correct": false }
+    ],
+    "explanation": "Expectancy-Value Theory (Eccles et al.) के अनुसार, व्यवहार-परिवर्तन की संभावना = Expected Success × Subjective Value। स्वास्थ्य में: व्यक्ति धूम्रपान तभी छोड़ेगा जब मानेगा कि वह छोड़ सकता है (Self-Efficacy) और स्वास्थ्य लाभ उसके लिए महत्वपूर्ण है।"
+  },
+  {
+    "question": "'भावनात्मक बुद्धि' (Emotional Intelligence — Daniel Goleman) के पाँच प्रमुख घटक कौन-से हैं?",
+    "options": [
+      { "text": "IQ, EQ, SQ, AQ, MQ", "is_correct": false },
+      { "text": "आत्म-जागरूकता, आत्म-नियमन, प्रेरणा, सहानुभूति और सामाजिक कौशल", "is_correct": true },
+      { "text": "तर्क, भावना, इच्छाशक्ति, स्मृति, ध्यान", "is_correct": false },
+      { "text": "केवल सहानुभूति और सामाजिक कौशल", "is_correct": false }
+    ],
+    "explanation": "Goleman (1995) के EI के 5 घटक: (1) Self-Awareness — अपनी भावनाओं को पहचानना, (2) Self-Regulation — भावनाओं को नियंत्रित करना, (3) Motivation — आंतरिक प्रेरणा, (4) Empathy — दूसरों की भावनाएँ समझना, (5) Social Skills — संबंध प्रबंधन। उच्च EI स्वास्थ्यकर्मियों के लिए अत्यंत आवश्यक है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'दीर्घकालिक तनाव' (Chronic Stress) और 'ऑलोस्टेटिक लोड' (Allostatic Load) का स्वास्थ्य पर क्या प्रभाव होता है?",
+    "options": [
+      { "text": "तनाव का दीर्घकालिक प्रभाव नहीं होता", "is_correct": false },
+      { "text": "Chronic Stress से Allostatic Load बढ़ता है जो HPA axis, immune system और cardiovascular system को नुकसान पहुँचाता है", "is_correct": true },
+      { "text": "दीर्घकालिक तनाव केवल मानसिक रोग देता है", "is_correct": false },
+      { "text": "तनाव हमेशा लाभदायक होता है", "is_correct": false }
+    ],
+    "explanation": "Bruce McEwen का Allostatic Load — तनाव के प्रति शारीरिक अनुकूलन का 'wear and tear'। Chronic Stress से HPA axis (Cortisol excess), Sympathetic Nervous System (inflammation), और Immune Dysregulation होती है। यह Hypertension, Diabetes, Cardiovascular Disease और Immune Disorders का कारण बनता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'स्वयंप्रेरित नियमन' (Self-Determination Theory — Deci & Ryan) में 'स्वायत्तता' (Autonomy) का स्वास्थ्य व्यवहार में क्या महत्व है?",
+    "options": [
+      { "text": "स्वायत्तता का व्यवहार परिवर्तन से कोई संबंध नहीं", "is_correct": false },
+      { "text": "जब व्यक्ति स्वास्थ्य व्यवहार अपनी इच्छा से अपनाता है (Autonomous Motivation), तो दीर्घकालिक अनुपालन बेहतर होता है", "is_correct": true },
+      { "text": "बाहरी दबाव (Controlled Motivation) अधिक प्रभावी है", "is_correct": false },
+      { "text": "स्वायत्तता केवल वयस्कों में महत्वपूर्ण है", "is_correct": false }
+    ],
+    "explanation": "SDT के अनुसार, स्वास्थ्य व्यवहार परिवर्तन में तीन बुनियादी आवश्यकताएँ हैं: Autonomy (स्वायत्त इच्छा), Competence (सक्षमता का अनुभव) और Relatedness (संबंध)। जब मरीज खुद निर्णय लेता है, न कि डॉक्टर के दबाव में, तो दीर्घकालिक व्यवहार परिवर्तन अधिक होता है।"
+  },
+  {
+    "question": "न्यूरोसाइंस में 'Neuroplasticity' का मानसिक स्वास्थ्य उपचार में क्या महत्व है?",
+    "options": [
+      { "text": "मस्तिष्क जन्म के बाद नहीं बदलता", "is_correct": false },
+      { "text": "मस्तिष्क अनुभव और अभ्यास से नए neural connections बना सकता है — इससे CBT और अन्य therapies से स्थायी मस्तिष्क परिवर्तन संभव है", "is_correct": true },
+      { "text": "Neuroplasticity केवल बच्चों में होती है", "is_correct": false },
+      { "text": "Neuroplasticity केवल physical therapy में उपयोगी है", "is_correct": false }
+    ],
+    "explanation": "Neuroplasticity — मस्तिष्क की अनुभव के आधार पर खुद को पुनर्गठित करने की क्षमता। CBT, Mindfulness और अन्य psychological interventions मस्तिष्क में structural changes लाते हैं — जैसे amygdala की overreactivity कम करना और prefrontal cortex को मजबूत करना।"
+  },
+  {
+    "question": "मनोविज्ञान में 'बचपन में प्रतिकूल अनुभव' (Adverse Childhood Experiences — ACEs) का दीर्घकालिक स्वास्थ्य प्रभाव क्या है?",
+    "options": [
+      { "text": "ACEs का कोई दीर्घकालिक प्रभाव नहीं होता", "is_correct": false },
+      { "text": "ACEs (शारीरिक, यौन, भावनात्मक दुर्व्यवहार, उपेक्षा, घरेलू हिंसा) वयस्कता में मानसिक और शारीरिक रोगों का जोखिम बढ़ाते हैं", "is_correct": true },
+      { "text": "ACEs केवल मानसिक रोगों से जुड़े हैं", "is_correct": false },
+      { "text": "ACEs का प्रभाव केवल 10 साल तक रहता है", "is_correct": false }
+    ],
+    "explanation": "Felitti et al. (1998) का ACE Study दिखाता है कि बचपन में प्रतिकूल अनुभव (10 में से 4+ ACEs) वयस्कता में Addiction, Depression, Heart Disease, Stroke, Diabetes, Cancer और आत्महत्या का जोखिम कई गुना बढ़ाते हैं। यह Toxic Stress के माध्यम से HPA axis और immune system को प्रभावित करता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'संज्ञानात्मक भार' (Cognitive Load Theory — Sweller) का स्वास्थ्य शिक्षा में क्या महत्व है?",
+    "options": [
+      { "text": "स्वास्थ्य शिक्षा में जितनी अधिक जानकारी दें, उतना बेहतर", "is_correct": false },
+      { "text": "Working Memory की सीमित क्षमता के अनुसार स्वास्थ्य संदेश सरल, छोटे और क्रमबद्ध होने चाहिए", "is_correct": true },
+      { "text": "Cognitive Load Theory केवल स्कूली शिक्षा में लागू होती है", "is_correct": false },
+      { "text": "जटिल भाषा स्वास्थ्य शिक्षा को अधिक प्रभावी बनाती है", "is_correct": false }
+    ],
+    "explanation": "Sweller की Cognitive Load Theory बताती है कि Working Memory एक समय में सीमित जानकारी process कर सकती है। स्वास्थ्य शिक्षा में: एक बार में बहुत अधिक संदेश देने से 'Cognitive Overload' होता है और जानकारी याद नहीं रहती। 'Teach-Back Method' इसी सिद्धांत पर आधारित है।"
+  },
+  {
+    "question": "'सकारात्मक स्वास्थ्य' (Positive Health — Martin Seligman) की अवधारणा पारंपरिक स्वास्थ्य मॉडल से कैसे अलग है?",
+    "options": [
+      { "text": "यह रोग की अनुपस्थिति पर ध्यान देती है", "is_correct": false },
+      { "text": "यह रोग-अनुपस्थिति के पार जाकर फलने-फूलने (Flourishing), उद्देश्य और well-being को स्वास्थ्य के सकारात्मक संकेतक के रूप में देखती है", "is_correct": true },
+      { "text": "यह केवल शारीरिक स्वास्थ्य पर ध्यान देती है", "is_correct": false },
+      { "text": "यह प्रस्थापित चिकित्सा पद्धतियों को अस्वीकार करती है", "is_correct": false }
+    ],
+    "explanation": "Seligman की Positive Health — जो PERMA model (Positive Emotions, Engagement, Relationships, Meaning, Accomplishment) पर आधारित है — यह मानती है कि स्वास्थ्य रोग की अनुपस्थिति से कहीं अधिक है। Positive health assets (optimism, resilience, social support) रोगों से सुरक्षा करते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'दीर्घायु' (Longevity) के मनोवैज्ञानिक निर्धारक कौन-से हैं?",
+    "options": [
+      { "text": "केवल आनुवांशिकता", "is_correct": false },
+      { "text": "आशावाद, सामाजिक संबंध, उद्देश्यपूर्ण जीवन और विवेकशीलता (Conscientiousness) दीर्घायु से जुड़े हैं", "is_correct": true },
+      { "text": "केवल आहार और व्यायाम", "is_correct": false },
+      { "text": "केवल अमीर होना", "is_correct": false }
+    ],
+    "explanation": "Howard Friedman के Terman Life Cycle Study और Dan Buettner के Blue Zones अनुसंधान ने पाया कि Conscientiousness (जिम्मेदार, संगठित व्यक्तित्व), Optimism, strong social ties, और Sense of Purpose दीर्घायु के मनोवैज्ञानिक निर्धारक हैं।"
+  },
+  {
+    "question": "स्वास्थ्य मनोविज्ञान में 'माइंड-बॉडी मेडिसिन' (Mind-Body Medicine) का आधार क्या है?",
+    "options": [
+      { "text": "मन और शरीर पूरी तरह अलग हैं", "is_correct": false },
+      { "text": "Psychoneuroimmunology — मन, तंत्रिका तंत्र और प्रतिरक्षा तंत्र एक-दूसरे को प्रभावित करते हैं", "is_correct": true },
+      { "text": "Mind-Body Medicine पारंपरिक दवाओं का विकल्प है", "is_correct": false },
+      { "text": "यह केवल योग और ध्यान तक सीमित है", "is_correct": false }
+    ],
+    "explanation": "Psychoneuroimmunology (PNI) — Ader, Cohen, Felten — दिखाता है कि मनोवैज्ञानिक स्थिति (तनाव, भावनाएँ) तंत्रिका तंत्र के माध्यम से immune function को प्रभावित करती है। तनाव से NK cells कम होती हैं, cortisol बढ़ता है और inflammation बढ़ती है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'रूढ़िवादिता खतरा' (Stereotype Threat — Claude Steele) का स्वास्थ्य परिणामों में क्या भूमिका है?",
+    "options": [
+      { "text": "Stereotype Threat का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false },
+      { "text": "जब किसी समूह के व्यक्ति को अपने समूह की नकारात्मक रूढ़िवादिता की पुष्टि का डर होता है, तो यह तनाव और खराब प्रदर्शन का कारण बनता है", "is_correct": true },
+      { "text": "Stereotype Threat केवल परीक्षा में होती है", "is_correct": false },
+      { "text": "Stereotype Threat केवल अमेरिका में प्रासंगिक है", "is_correct": false }
+    ],
+    "explanation": "Claude Steele (1995) के अनुसार, जब दलित या जनजाति समुदाय का व्यक्ति स्वास्थ्य सेवाओं में जाता है और उसे लगता है कि उसके साथ 'उसकी जाति की वजह से' भेदभाव होगा, तो यह Stereotype Threat Anxiety उत्पन्न करती है जो उसके अनुभव और outcomes को प्रभावित करती है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'PTSD और Complex PTSD' में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही विकार हैं", "is_correct": false },
+      { "text": "Complex PTSD एकल आघात से नहीं, बल्कि दीर्घकालिक या दोहराए गए आघातों से होता है और self-organization में गहरी समस्याएँ होती हैं", "is_correct": true },
+      { "text": "Complex PTSD केवल युद्ध में होता है", "is_correct": false },
+      { "text": "PTSD CPTSD से अधिक गंभीर है", "is_correct": false }
+    ],
+    "explanation": "ICD-11 में Complex PTSD (CPTSD) को PTSD से अलग पहचान मिली है। CPTSD दीर्घकालिक आघात (childhood abuse, domestic violence, torture) से होता है और PTSD के लक्षणों के अलावा: emotional dysregulation, negative self-concept और relationship difficulties भी होती हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'जोखिम धारणा' (Risk Perception) के सन्दर्भ में 'उपलब्धता अनुमानी' (Availability Heuristic) का क्या अर्थ है?",
+    "options": [
+      { "text": "यह एक तर्कसंगत जोखिम मूल्यांकन विधि है", "is_correct": false },
+      { "text": "लोग उन जोखिमों को अधिक आँकते हैं जो आसानी से दिमाग में आते हैं (vivid, recent events)", "is_correct": true },
+      { "text": "लोग हमेशा सही जोखिम मूल्यांकन करते हैं", "is_correct": false },
+      { "text": "Availability Heuristic का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Kahneman & Tversky के Availability Heuristic के अनुसार, लोग उन घटनाओं को अधिक संभावित मानते हैं जो दिमाग में आसानी से आती हैं। स्वास्थ्य में: हवाई दुर्घटना के बाद उड़ने से डर, पर सड़क दुर्घटना (अधिक सामान्य) को कम जोखिमपूर्ण मानना।"
+  },
+  {
+    "question": "मनोविज्ञान में 'व्यवहारिक अर्थशास्त्र' (Behavioural Economics) का स्वास्थ्य नीति में क्या उपयोग है?",
+    "options": [
+      { "text": "केवल आर्थिक प्रोत्साहन देना", "is_correct": false },
+      { "text": "'Nudge Theory' के माध्यम से विकल्पों के ढाँचे को बदलकर बिना जबरदस्ती के स्वास्थ्यकर व्यवहार को बढ़ावा देना", "is_correct": true },
+      { "text": "केवल जुर्माना और दंड", "is_correct": false },
+      { "text": "स्वास्थ्य सेवाओं का मूल्य निर्धारण", "is_correct": false }
+    ],
+    "explanation": "Richard Thaler और Cass Sunstein की 'Nudge Theory' — choice architecture के माध्यम से लोगों को स्वास्थ्यकर विकल्प चुनने की दिशा में 'धक्का' देना। उदाहरण: कैफेटेरिया में healthy food को आँख के स्तर पर रखना, organ donation में 'opt-out' default।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सामाजिक पहचान सिद्धांत' (Social Identity Theory — Tajfel & Turner) का स्वास्थ्य व्यवहार में क्या प्रभाव है?",
+    "options": [
+      { "text": "समूह पहचान का स्वास्थ्य से कोई संबंध नहीं", "is_correct": false },
+      { "text": "लोग अपने 'in-group' के स्वास्थ्य व्यवहारों और मानदंडों का अनुसरण करते हैं — इससे स्वास्थ्य प्रचार में community-level interventions प्रभावी होती हैं", "is_correct": true },
+      { "text": "सामाजिक पहचान हमेशा नकारात्मक स्वास्थ्य व्यवहार देती है", "is_correct": false },
+      { "text": "यह केवल जातीय अल्पसंख्यकों पर लागू होती है", "is_correct": false }
+    ],
+    "explanation": "Tajfel & Turner का Social Identity Theory बताता है कि हम उन समूहों के साथ पहचान बनाते हैं जिनसे हम संबंधित हैं। ASHA का उसी समुदाय का होना — in-group identity — स्वास्थ्य संदेशों की स्वीकार्यता बढ़ाता है। Community Health Workers effectiveness का यह मनोवैज्ञानिक आधार है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'दर्द प्रबंधन' में 'Biopsychosocial Model' पुराने 'Biomedical Model' से कैसे बेहतर है?",
+    "options": [
+      { "text": "Biopsychosocial Model दवाओं को अस्वीकार करता है", "is_correct": false },
+      { "text": "Biopsychosocial Model जैविक, मनोवैज्ञानिक और सामाजिक कारकों — सभी को दर्द की उत्पत्ति और अनुभव में शामिल मानता है", "is_correct": true },
+      { "text": "Biomedical Model अधिक व्यापक है", "is_correct": false },
+      { "text": "दोनों मॉडल एक ही हैं", "is_correct": false }
+    ],
+    "explanation": "George Engel (1977) का Biopsychosocial Model — दर्द केवल tissue damage नहीं है। इसमें: Biological (nerve signals, inflammation), Psychological (fear, catastrophizing, attention) और Social (job demands, family support, cultural beliefs) सभी शामिल हैं। यही कारण है कि कभी-कभी tissue damage के बिना भी दर्द होता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'स्वास्थ्य कर्मियों में सहानुभूति थकावट' (Compassion Fatigue) क्या है?",
+    "options": [
+      { "text": "यह Burnout का दूसरा नाम है", "is_correct": false },
+      { "text": "पीड़ित लोगों की देखभाल करते करते खुद की सहानुभूति, करुणा और संवेदनशीलता कम हो जाना", "is_correct": true },
+      { "text": "यह केवल नर्सों में होता है", "is_correct": false },
+      { "text": "Compassion Fatigue से स्वास्थ्यकर्मी बेहतर काम करते हैं", "is_correct": false }
+    ],
+    "explanation": "Compassion Fatigue (Charles Figley) — Secondary Traumatic Stress भी कहते हैं — वह स्थिति है जहाँ लगातार दूसरों के आघात और पीड़ा के संपर्क में रहने से स्वास्थ्यकर्मी की सहानुभूति और करुणा कमजोर पड़ जाती है। यह Burnout से अलग है — यह trauma-related है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'जनसंख्या स्वास्थ्य' (Population Health) में 'सामाजिक निर्धारक' को समझने में Bronfenbrenner का 'पारिस्थितिकीय प्रणाली सिद्धांत' (Ecological Systems Theory) कैसे सहायक है?",
+    "options": [
+      { "text": "यह केवल बाल विकास से संबंधित है", "is_correct": false },
+      { "text": "यह बताता है कि व्यक्ति का स्वास्थ्य Microsystem से Macrosystem तक के परस्पर जुड़े स्तरों से प्रभावित होता है", "is_correct": true },
+      { "text": "यह केवल पारिवारिक प्रभाव पर ध्यान देता है", "is_correct": false },
+      { "text": "Ecological Systems Theory और population health असंबद्ध हैं", "is_correct": false }
+    ],
+    "explanation": "Bronfenbrenner के concentric circles: Microsystem (परिवार, साथी), Mesosystem (स्कूल-परिवार संबंध), Exosystem (माता-पिता का कार्यस्थल), Macrosystem (सांस्कृतिक मूल्य, नीतियाँ), Chronosystem (समय)। स्वास्थ्य में: व्यक्ति का व्यवहार इन सभी स्तरों से एक साथ प्रभावित होता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'संचार में भावनात्मक अपील' (Fear Appeals in Health Communication) कब प्रभावी होती है?",
+    "options": [
+      { "text": "हमेशा डर दिखाने से व्यवहार बदलता है", "is_correct": false },
+      { "text": "जब डर की अपील के साथ-साथ उच्च Self-Efficacy (मैं यह कर सकता हूँ) और प्रभावी समाधान भी प्रस्तुत किया जाए", "is_correct": true },
+      { "text": "डर की अपील कभी काम नहीं करती", "is_correct": false },
+      { "text": "जब संदेश बहुत डरावना हो", "is_correct": false }
+    ],
+    "explanation": "Extended Parallel Process Model (Witte) के अनुसार, Fear Appeal तभी व्यवहार बदलती है जब: (1) व्यक्ति खतरे को Severe और Susceptible (खुद के लिए) माने, (2) Solution को Effective (Response Efficacy) और (3) खुद को सक्षम (Self-Efficacy) माने। केवल डर से 'defensive avoidance' हो सकती है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'कार्यकारी कार्य' (Executive Functions) के घटक स्वास्थ्य व्यवहार में क्या भूमिका निभाते हैं?",
+    "options": [
+      { "text": "Executive Functions केवल Office कार्य से संबंधित हैं", "is_correct": false },
+      { "text": "Planning, Inhibitory Control और Working Memory — ये तीन Executive Functions स्वस्थ आहार, व्यायाम और दवा अनुपालन जैसे दीर्घकालिक स्वास्थ्य व्यवहारों के लिए आवश्यक हैं", "is_correct": true },
+      { "text": "Executive Functions केवल बच्चों में महत्वपूर्ण हैं", "is_correct": false },
+      { "text": "Executive Functions का स्वास्थ्य व्यवहार से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Executive Functions (Prefrontal Cortex) में Planning, Inhibitory Control (आवेग नियंत्रण), Cognitive Flexibility और Working Memory शामिल हैं। गरीबी, Childhood Adversity और तनाव Executive Functions को कमजोर करते हैं — जिससे स्वास्थ्य व्यवहार खराब होता है। यह 'willpower theory' की सीमाओं को समझाता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'प्लेसिबो प्रभाव' (Placebo Effect) का तंत्र क्या है?",
+    "options": [
+      { "text": "Placebo Effect केवल कल्पना है", "is_correct": false },
+      { "text": "Placebo उपचार की उम्मीद और विश्वास से वास्तविक शारीरिक परिवर्तन होते हैं — Endorphin release, immune response, pain gate control", "is_correct": true },
+      { "text": "Placebo Effect केवल दर्द में काम करता है", "is_correct": false },
+      { "text": "Placebo Effect केवल कमजोर लोगों पर असर करता है", "is_correct": false }
+    ],
+    "explanation": "Placebo Effect वास्तविक न्यूरोबायोलॉजिकल प्रभाव है: (1) Endorphins release से दर्द कम होना, (2) Dopamine से motor improvement (Parkinson), (3) Immune modulation। Expectation, conditioning और doctor-patient relationship इसे बढ़ाते हैं। 'Open-label placebo' भी काम करता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'स्वास्थ्य लक्षणों की व्याख्या' (Illness Perception — Leventhal) में पाँच आयाम कौन-से हैं?",
+    "options": [
+      { "text": "आयु, लिंग, जाति, शिक्षा, आय", "is_correct": false },
+      { "text": "पहचान, कारण, समयसीमा, परिणाम और नियंत्रण/उपचार", "is_correct": true },
+      { "text": "लक्षण, निदान, उपचार, रिकवरी, पुनरावृत्ति", "is_correct": false },
+      { "text": "जागरूकता, विश्वास, ज्ञान, कौशल, प्रेरणा", "is_correct": false }
+    ],
+    "explanation": "Howard Leventhal का Common Sense Model of Illness Representation — पाँच आयाम: (1) Identity — लक्षण और उनका नाम, (2) Cause — रोग के कारण की मान्यता, (3) Timeline — रोग कितने समय तक, (4) Consequences — परिणाम, (5) Cure/Control — कितना नियंत्रण/इलाज संभव। ये आयाम Coping और Adherence को प्रभावित करते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'प्रवाह अवस्था' (Flow State — Csikszentmihalyi) का स्वास्थ्य और well-being में क्या महत्व है?",
+    "options": [
+      { "text": "Flow State केवल खेलों में होती है", "is_correct": false },
+      { "text": "जब व्यक्ति किसी कार्य में पूरी तरह डूबा हो और चुनौती-क्षमता का संतुलन हो — यह Intrinsic Motivation, creativity और well-being बढ़ाती है", "is_correct": true },
+      { "text": "Flow State हमेशा नकारात्मक है", "is_correct": false },
+      { "text": "Flow State केवल बच्चों में होती है", "is_correct": false }
+    ],
+    "explanation": "Mihaly Csikszentmihalyi का Flow — 'Optimal Experience' — वह अवस्था है जब कार्य की चुनौती और व्यक्ति की क्षमता का संतुलन होता है। Flow में: समय का भान नहीं रहता, पूर्ण एकाग्रता, आनंद और satisfaction होती है। यह Occupational Therapy और rehabilitation में उपयोगी है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'नैतिक चोट' (Moral Injury) और 'Burnout' में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Burnout कार्य के overload से होता है, जबकि Moral Injury तब होती है जब स्वास्थ्यकर्मी को अपने नैतिक मूल्यों के विरुद्ध कार्य करना पड़े", "is_correct": true },
+      { "text": "Moral Injury केवल युद्ध में होती है", "is_correct": false },
+      { "text": "Burnout Moral Injury से अधिक गंभीर है", "is_correct": false }
+    ],
+    "explanation": "Moral Injury (Jonathan Shay, Litz et al.) — जब किसी व्यक्ति को अपने गहरे नैतिक मूल्यों के विरुद्ध कार्य करना पड़े या ऐसे कार्यों का साक्षी बनना पड़े। COVID-19 में डॉक्टर/नर्स जो ventilator triage में 'किसे बचाएँ किसे नहीं' — जैसे निर्णय लेते हैं — Moral Injury का अनुभव करते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सामाजिक अनुसरण के मानदंड' (Descriptive vs Injunctive Norms — Cialdini) का स्वास्थ्य व्यवहार में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Descriptive Norms — 'अधिकतर लोग यह करते हैं', Injunctive Norms — 'लोगों को यह करना चाहिए' — स्वास्थ्य संचार में descriptive norms अधिक प्रभावी होते हैं", "is_correct": true },
+      { "text": "Injunctive Norms अधिक प्रभावी हैं", "is_correct": false },
+      { "text": "Social Norms का व्यवहार से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Cialdini के अनुसार: Descriptive Norms — 'तुम्हारे पड़ोस के 75% लोगों ने इस साल vaccines लिया' — 'बहुमत' की शक्ति से व्यवहार बदलते हैं। Injunctive — 'तुम्हें vaccine लेना चाहिए' — कम प्रभावी है। स्वास्थ्य शिक्षा में Social Norms approach (Descriptive) अधिक प्रभावी पाई गई है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'प्रतिबद्धता और एकरूपता' (Commitment and Consistency — Cialdini) का स्वास्थ्य व्यवहार में कैसे उपयोग होता है?",
+    "options": [
+      { "text": "लोग हमेशा अपनी प्रतिबद्धता से पीछे हटते हैं", "is_correct": false },
+      { "text": "जब व्यक्ति सार्वजनिक प्रतिबद्धता लेता है (स्वास्थ्य शपथ, लिखित संकल्प), तो उसे निभाने की संभावना बढ़ती है", "is_correct": true },
+      { "text": "प्रतिबद्धता केवल बाध्यकारी है", "is_correct": false },
+      { "text": "लिखित प्रतिबद्धता मौखिक से कम प्रभावी होती है", "is_correct": false }
+    ],
+    "explanation": "Cialdini के Influence Principle — Commitment & Consistency: जब कोई व्यक्ति किसी बात के लिए सार्वजनिक प्रतिबद्धता (Public Commitment) करता है, तो वह उसके साथ 'consistent' रहने की कोशिश करता है। स्वास्थ्य में: 'Pledge Cards', 'Health Contracts' इसी सिद्धांत पर आधारित हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'कार्यशील स्मृति मॉडल' (Working Memory Model — Baddeley & Hitch) के घटक क्या हैं?",
+    "options": [
+      { "text": "STM और LTM", "is_correct": false },
+      { "text": "Central Executive, Phonological Loop, Visuo-Spatial Sketchpad और Episodic Buffer", "is_correct": true },
+      { "text": "केवल Phonological Loop", "is_correct": false },
+      { "text": "Semantic Memory और Episodic Memory", "is_correct": false }
+    ],
+    "explanation": "Baddeley & Hitch (1974) का Working Memory Model — Atkinson-Shiffrin के एकल STM को replace किया: (1) Central Executive — attention coordinator, (2) Phonological Loop — verbal/auditory info, (3) Visuo-Spatial Sketchpad — visual/spatial info, (4) Episodic Buffer (2000) — LTM से integration। स्वास्थ्य शिक्षा में मल्टी-मोडल teaching (visual + verbal) इसी पर आधारित है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'चिकित्सीय गठबंधन' (Therapeutic Alliance) का उपचार परिणामों में क्या महत्व है?",
+    "options": [
+      { "text": "Therapeutic Alliance का उपचार से कोई संबंध नहीं", "is_correct": false },
+      { "text": "चिकित्सक-रोगी संबंध की गुणवत्ता (trust, collaboration, goal agreement) उपचार के सफल परिणामों का सबसे मजबूत भविष्यवाणीकर्ता है", "is_correct": true },
+      { "text": "केवल चिकित्सा पद्धति का चुनाव महत्वपूर्ण है", "is_correct": false },
+      { "text": "Therapeutic Alliance केवल psychotherapy में महत्वपूर्ण है", "is_correct": false }
+    ],
+    "explanation": "Meta-analyses दिखाते हैं कि Therapeutic Alliance उपचार परिणामों का सबसे मजबूत predictor है — specific therapy technique से भी अधिक। तीन घटक: (1) Emotional Bond (trust), (2) Agreement on Goals, (3) Agreement on Tasks। यह doctor-patient relationship, ASHA-community relationship सभी पर लागू होता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'रोगी-केंद्रित देखभाल' (Patient-Centred Care) का मनोवैज्ञानिक आधार क्या है?",
+    "options": [
+      { "text": "चिकित्सक हमेशा सही जानता है", "is_correct": false },
+      { "text": "रोगी की प्राथमिकताएँ, मूल्य, अनुभव और भावनाएँ उपचार निर्णयों में केंद्रीय होनी चाहिए — SDT, Autonomy और Shared Decision Making", "is_correct": true },
+      { "text": "Patient-Centred Care केवल private hospitals में संभव है", "is_correct": false },
+      { "text": "यह केवल रोगी की इच्छा का पालन करना है", "is_correct": false }
+    ],
+    "explanation": "Patient-Centred Care का आधार: (1) SDT — autonomy support, (2) Communication Psychology — active listening, (3) Shared Decision Making — doctor और patient मिलकर निर्णय लेते हैं। Research दिखाता है कि Patient-Centred Care से adherence, satisfaction और health outcomes बेहतर होते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'वृद्धावस्था और मानसिक स्वास्थ्य' में 'सफल उम्र बढ़ना' (Successful Ageing — Rowe & Kahn) के तीन घटक क्या हैं?",
+    "options": [
+      { "text": "दवाएँ, आराम और परिवार", "is_correct": false },
+      { "text": "रोग/विकलांगता से बचाव, उच्च संज्ञानात्मक और शारीरिक क्षमता बनाए रखना, और सक्रिय सामाजिक जीवन", "is_correct": true },
+      { "text": "केवल शारीरिक स्वास्थ्य", "is_correct": false },
+      { "text": "केवल आर्थिक सुरक्षा और परिवार", "is_correct": false }
+    ],
+    "explanation": "Rowe & Kahn (1997) के Successful Ageing Model में तीन घटक: (1) Low Risk of Disease and Disease-Related Disability, (2) High Cognitive and Physical Function, (3) Active Engagement with Life (social relationships, productive activities)। यह 'normal ageing' से आगे जाकर 'flourishing' पर ध्यान देता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'लैंगिक पहचान' (Gender Identity) और 'जैविक लिंग' (Biological Sex) में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों हमेशा एक ही होते हैं", "is_correct": false },
+      { "text": "Biological Sex जन्म के समय शारीरिक विशेषताओं पर आधारित है, जबकि Gender Identity व्यक्ति की स्वयं की आंतरिक पहचान है — ये भिन्न हो सकते हैं", "is_correct": true },
+      { "text": "Gender Identity केवल सांस्कृतिक निर्मिति है", "is_correct": false },
+      { "text": "Biological Sex कभी नहीं बदलता पर Gender Identity बदल सकती है — इसलिए ये अलग हैं", "is_correct": false }
+    ],
+    "explanation": "WHO और APA के अनुसार: Biological Sex — chromosomes, hormones, anatomy। Gender Identity — व्यक्ति का स्वयं की पुरुष/महिला/non-binary के रूप में आंतरिक अनुभव। जब Gender Identity और Biological Sex में असंगति हो — Gender Dysphoria। Transgender health एक महत्वपूर्ण स्वास्थ्य क्षेत्र है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'जन्म आदेश' (Birth Order — Alfred Adler) का व्यक्तित्व पर क्या प्रभाव माना जाता है?",
+    "options": [
+      { "text": "Birth Order का व्यक्तित्व से कोई संबंध नहीं", "is_correct": false },
+      { "text": "Adler के अनुसार प्रथम, मध्य, अंतिम और एकमात्र संतान में अलग-अलग व्यक्तित्व विशेषताएँ विकसित होती हैं — हालाँकि आधुनिक शोध इसे साक्ष्य-आधारित नहीं मानता", "is_correct": true },
+      { "text": "जन्म आदेश केवल बौद्धिकता निर्धारित करता है", "is_correct": false },
+      { "text": "अंतिम संतान सबसे अधिक सफल होती है", "is_correct": false }
+    ],
+    "explanation": "Alfred Adler ने Birth Order को व्यक्तित्व का महत्वपूर्ण निर्धारक माना: Firstborn — Achievement oriented, Middle — Peacemaker, Youngest — Charming/Spoiled, Only Child — Adult-like। हालाँकि आधुनिक meta-analyses ने पाया कि Birth Order का व्यक्तित्व पर प्रभाव बहुत कम है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'बड़े पाँच व्यक्तित्व लक्षण' (Big Five Personality Traits — OCEAN) और स्वास्थ्य में कौन-सा सबसे अधिक महत्वपूर्ण है?",
+    "options": [
+      { "text": "Extraversion", "is_correct": false },
+      { "text": "Conscientiousness — दीर्घायु, स्वास्थ्यकर व्यवहार (व्यायाम, दवा अनुपालन) और कम जोखिम व्यवहार से सबसे अधिक जुड़ा है", "is_correct": true },
+      { "text": "Neuroticism", "is_correct": false },
+      { "text": "Openness", "is_correct": false }
+    ],
+    "explanation": "OCEAN (Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism) में Conscientiousness (जिम्मेदारी, आत्म-अनुशासन) स्वास्थ्य परिणामों का सबसे मजबूत predictor है। Howard Friedman के Terman Study में Conscientiousness दीर्घायु का सबसे बड़ा व्यक्तित्व predictor था।"
+  },
+  {
+    "question": "मनोविज्ञान में 'विचार-भावना-व्यवहार त्रिकोण' (Cognitive Triangle — Aaron Beck) का CBT में क्या महत्व है?",
+    "options": [
+      { "text": "यह एक geometric concept है", "is_correct": false },
+      { "text": "विचार, भावनाएँ और व्यवहार एक-दूसरे को प्रभावित करते हैं — एक में बदलाव से दूसरे बदलते हैं; CBT इसी पर आधारित है", "is_correct": true },
+      { "text": "केवल विचार बदलने से ही सब ठीक होता है", "is_correct": false },
+      { "text": "Cognitive Triangle केवल depression में उपयोगी है", "is_correct": false }
+    ],
+    "explanation": "Aaron Beck का Cognitive Triangle — Thoughts (विचार) → Feelings (भावनाएँ) → Behaviors (व्यवहार) — तीनों एक-दूसरे को प्रभावित करते हैं। CBT में: नकारात्मक automatic thoughts (NATs) को पहचानकर, उन्हें challenge करके और realistic thoughts से बदलकर भावनाओं और व्यवहार में सुधार किया जाता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सामूहिक प्रभाव' (Diffusion of Responsibility) स्वास्थ्य आपात स्थिति में कैसे प्रकट होता है?",
+    "options": [
+      { "text": "भीड़ में हमेशा अधिक सहायता मिलती है", "is_correct": false },
+      { "text": "जब अधिक लोग होते हैं तो प्रत्येक व्यक्ति को लगता है 'कोई और सहायता करेगा' — Bystander Effect", "is_correct": true },
+      { "text": "अकेले होने पर व्यक्ति कम जिम्मेदार होता है", "is_correct": false },
+      { "text": "Diffusion of Responsibility केवल समूहों में होती है", "is_correct": false }
+    ],
+    "explanation": "Kitty Genovese case (1964) और Latané & Darley के प्रयोगों ने Bystander Effect/Diffusion of Responsibility दिखाई। Medical Emergency में: भीड़ में कोई CPR नहीं देता क्योंकि सबको लगता है 'कोई और करेगा'। इसलिए आपात स्थिति में एक विशेष व्यक्ति को नाम लेकर सहायता के लिए कहना चाहिए।"
+  },
+  {
+    "question": "मनोविज्ञान में 'प्रत्याशित पछतावा' (Anticipated Regret) स्वास्थ्य व्यवहार निर्णय में क्या भूमिका निभाता है?",
+    "options": [
+      { "text": "Anticipated Regret व्यवहार को नकारात्मक रूप से प्रभावित करता है", "is_correct": false },
+      { "text": "यह सोचना कि 'अगर मैंने यह नहीं किया तो मुझे पछतावा होगा' — स्वास्थ्यकर व्यवहार (vaccine, cancer screening) को बढ़ाता है", "is_correct": true },
+      { "text": "Anticipated Regret केवल खरीदारी निर्णयों में होता है", "is_correct": false },
+      { "text": "Regret का स्वास्थ्य निर्णयों से कोई संबंध नहीं", "is_correct": false }
+    ],
+    "explanation": "Anticipated Regret — 'यदि मैंने mammogram नहीं कराया और बाद में cancer diagnose हुआ तो मुझे पछतावा होगा' — screening और prevention behaviours को बढ़ाता है। Sheeran et al. के meta-analysis ने दिखाया कि Anticipated Regret health intentions और behaviour पर positive effect डालता है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'वृद्धों की मानसिक स्वास्थ्य' में 'सामाजिक एकाकीपन' (Social Isolation) का क्या प्रभाव है?",
+    "options": [
+      { "text": "वृद्धों में एकाकीपन सामान्य और हानिरहित है", "is_correct": false },
+      { "text": "Social Isolation वृद्धों में Cognitive Decline, Depression, Cardiovascular Disease और समय से पहले मृत्यु का जोखिम बढ़ाता है", "is_correct": true },
+      { "text": "Social Isolation केवल युवाओं के लिए हानिकारक है", "is_correct": false },
+      { "text": "Social Isolation केवल शहरी वृद्धों की समस्या है", "is_correct": false }
+    ],
+    "explanation": "Holt-Lunstad et al. (2015) के meta-analysis ने पाया कि Social Isolation और Loneliness समय से पहले मृत्यु के जोखिम को 26-29% बढ़ाते हैं — जो प्रतिदिन 15 सिगरेट पीने के बराबर। WHO ने Social Isolation को Public Health Emergency घोषित किया है।"
+  },
+  {
+    "question": "मनोविज्ञान में 'पूर्णतावाद' (Perfectionism) के स्वास्थ्य पर क्या प्रभाव हैं?",
+    "options": [
+      { "text": "Perfectionism हमेशा अच्छा होता है", "is_correct": false },
+      { "text": "Maladaptive Perfectionism — असफलता का भय, unrealistic standards — Anxiety, Depression, Burnout और Poor Health Outcomes से जुड़ा है", "is_correct": true },
+      { "text": "Perfectionism केवल कार्यक्षेत्र में होता है", "is_correct": false },
+      { "text": "Perfectionism और Conscientiousness एक ही हैं", "is_correct": false }
+    ],
+    "explanation": "Flett & Hewitt ने Perfectionism के दो रूप बताए: Adaptive (healthy striving) और Maladaptive (fear-based). Maladaptive Perfectionism: अपूर्ण कार्य पर अत्यधिक स्व-आलोचना, rumination, procrastination और 'all-or-nothing' thinking से Anxiety, Depression, Eating Disorders और Burnout होते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'रूमिनेशन' (Rumination) और 'चिंता' (Worry) में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही हैं", "is_correct": false },
+      { "text": "Rumination अतीत पर बार-बार नकारात्मक विचार करना है, जबकि Worry भविष्य की नकारात्मक घटनाओं के बारे में है", "is_correct": true },
+      { "text": "Worry अतीत के बारे में है", "is_correct": false },
+      { "text": "Rumination भविष्य के बारे में है", "is_correct": false }
+    ],
+    "explanation": "Susan Nolen-Hoeksema के अनुसार Rumination — 'क्यों मैं उदास हूँ? मेरे साथ क्या गलत है?' — अतीत पर नकारात्मक दोहराव। Worry — 'कल क्या होगा? क्या मैं सफल होऊँगा?' — भविष्य-उन्मुख। Rumination Depression से जुड़ा है, Worry Anxiety से। दोनों Mindfulness और CBT से कम होते हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'स्वास्थ्य देखभाल में सांस्कृतिक अंतर' (Cultural Differences in Healthcare) के संदर्भ में 'उच्च-संदर्भ' (High-Context) और 'निम्न-संदर्भ' (Low-Context) संस्कृतियों में क्या अंतर है?",
+    "options": [
+      { "text": "दोनों एक ही स्वास्थ्य संचार शैली का उपयोग करती हैं", "is_correct": false },
+      { "text": "High-Context (भारत, जापान) में अप्रत्यक्ष संचार, परिवार-केंद्रित निर्णय; Low-Context (USA, Germany) में प्रत्यक्ष, व्यक्तिगत निर्णय", "is_correct": true },
+      { "text": "Low-Context संस्कृतियाँ बेहतर स्वास्थ्य देखभाल देती हैं", "is_correct": false },
+      { "text": "High-Context संस्कृतियाँ स्वास्थ्य को कम महत्व देती हैं", "is_correct": false }
+    ],
+    "explanation": "Edward Hall का High-Context vs Low-Context Communication — भारत जैसी High-Context संस्कृतियों में: (1) परिवार के साथ चिकित्सा निर्णय, (2) indirect communication, (3) 'haan' का मतलब 'नहीं' भी हो सकता है, (4) doctor-patient hierarchy महत्वपूर्ण। Low-Context में: patient autonomy, written consent, direct communication।"
+  },
+  {
+    "question": "मनोविज्ञान में 'सामाजिक चिंता' (Social Anxiety) के 'संज्ञानात्मक मॉडल' (Clark & Wells) के अनुसार रखरखाव (Maintenance) का मुख्य कारण क्या है?",
+    "options": [
+      { "text": "Social Anxiety जन्मजात है और बदली नहीं जा सकती", "is_correct": false },
+      { "text": "'Self-Focused Attention' — चिंतित व्यक्ति बाहर की बजाय खुद पर ध्यान देता है और नकारात्मक self-image बनाता है, जो safety behaviours से बनी रहती है", "is_correct": true },
+      { "text": "Social Anxiety केवल सामाजिक कौशल की कमी से होती है", "is_correct": false },
+      { "text": "Social situations ही Social Anxiety का कारण हैं", "is_correct": false }
+    ],
+    "explanation": "Clark & Wells (1995) का Cognitive Model of Social Anxiety — social situations में anxious person: (1) Self-Focused Attention बढ़ जाती है, (2) Negative Self-Image बनती है (जैसे 'मैं मूर्ख दिख रहा हूँगा'), (3) Safety Behaviours (बात कम करना, आँखें न मिलाना) अल्पकालिक राहत पर वास्तव में anxiety बनाए रखती हैं।"
+  },
+  {
+    "question": "मनोविज्ञान में 'अनुकूलन-स्तर सिद्धांत' (Adaptation Level Theory — Helson) और 'Hedonic Adaptation' का खुशी से क्या संबंध है?",
+    "options": [
+      { "text": "धन बढ़ने से खुशी सदैव बढ़ती है", "is_correct": false },
+      { "text": "लोग सकारात्मक और नकारात्मक घटनाओं के बाद एक 'Happiness Baseline' पर वापस आ जाते हैं — इसे Hedonic Treadmill कहते हैं", "is_correct": true },
+      { "text": "खुशी हमेशा बढ़ती रहती है", "is_correct": false },
+      { "text": "Hedonic Adaptation केवल दुःखद घटनाओं में होती है", "is_correct": false }
+    ],
+    "explanation": "Brickman & Campbell का 'Hedonic Treadmill' — lottery winners और paraplegics के studies ने दिखाया कि लोग बड़े जीवन परिवर्तन (positive और negative दोनों) के बाद अपने happiness baseline पर लौट आते हैं। इसका निहितार्थ: बाहरी परिस्थितियाँ दीर्घकालिक खुशी तय नहीं करतीं — internal factors (values, gratitude) अधिक महत्वपूर्ण हैं।"
+  }
+]

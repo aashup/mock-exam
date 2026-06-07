@@ -1,0 +1,4617 @@
+{
+  "exact_duplicate_groups": [
+    {
+      "question": "विश्व स्वास्थ्य संगठन (WHO) की स्थापना किस वर्ष हुई?",
+      "occurrences": [
+        {
+          "file": "hist_easy_01.json",
+          "index": 32
+        },
+        {
+          "file": "hist_easy_02.json",
+          "index": 81
+        },
+        {
+          "file": "socio_easy_01.json",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "question": "भारत में 'राष्ट्रीय ग्रामीण स्वास्थ्य मिशन' (NRHM) किस वर्ष शुरू हुआ?",
+      "occurrences": [
+        {
+          "file": "hist_easy_02.json",
+          "index": 82
+        },
+        {
+          "file": "polsci_easy_02.json",
+          "index": 87
+        }
+      ]
+    },
+    {
+      "question": "मुगल साम्राज्य का संस्थापक कौन था?",
+      "occurrences": [
+        {
+          "file": "history_medium_01.json",
+          "index": 2
+        },
+        {
+          "file": "questions_data.json",
+          "index": 8
+        },
+        {
+          "file": "questions_data.json",
+          "index": 23
+        },
+        {
+          "file": "questions_data.json",
+          "index": 38
+        },
+        {
+          "file": "questions_data.json",
+          "index": 53
+        }
+      ]
+    },
+    {
+      "question": "दिल्ली सल्तनत की स्थापना किसने की?",
+      "occurrences": [
+        {
+          "file": "history_medium_01.json",
+          "index": 5
+        },
+        {
+          "file": "questions_data.json",
+          "index": 7
+        },
+        {
+          "file": "questions_data.json",
+          "index": 22
+        },
+        {
+          "file": "questions_data.json",
+          "index": 37
+        },
+        {
+          "file": "questions_data.json",
+          "index": 52
+        }
+      ]
+    },
+    {
+      "question": "भारत की सबसे लंबी नदी कौन सी है?",
+      "occurrences": [
+        {
+          "file": "history_medium_01.json",
+          "index": 10
+        },
+        {
+          "file": "questions_data.json",
+          "index": 57
+        },
+        {
+          "file": "questions_data.json",
+          "index": 67
+        },
+        {
+          "file": "questions_data.json",
+          "index": 77
+        },
+        {
+          "file": "questions_data.json",
+          "index": 87
+        },
+        {
+          "file": "questions_data.json",
+          "index": 97
+        },
+        {
+          "file": "questions_data.json",
+          "index": 107
+        }
+      ]
+    },
+    {
+      "question": "हड़प्पा संस्कृति मुख्यतः किन नदियों की घाटी में पाई गई?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 0
+        },
+        {
+          "file": "questions_data.json",
+          "index": 15
+        },
+        {
+          "file": "questions_data.json",
+          "index": 30
+        },
+        {
+          "file": "questions_data.json",
+          "index": 45
+        }
+      ]
+    },
+    {
+      "question": "वैदिक काल को कितने भागों में विभाजित किया जाता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 1
+        },
+        {
+          "file": "questions_data.json",
+          "index": 16
+        },
+        {
+          "file": "questions_data.json",
+          "index": 31
+        },
+        {
+          "file": "questions_data.json",
+          "index": 46
+        }
+      ]
+    },
+    {
+      "question": "जैन धर्म के संस्थापक कौन थे?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 2
+        },
+        {
+          "file": "questions_data.json",
+          "index": 17
+        },
+        {
+          "file": "questions_data.json",
+          "index": 32
+        },
+        {
+          "file": "questions_data.json",
+          "index": 47
+        }
+      ]
+    },
+    {
+      "question": "बौद्ध धर्म के संस्थापक गौतम बुद्ध का जन्म कहाँ हुआ?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 3
+        },
+        {
+          "file": "questions_data.json",
+          "index": 18
+        },
+        {
+          "file": "questions_data.json",
+          "index": 33
+        },
+        {
+          "file": "questions_data.json",
+          "index": 48
+        }
+      ]
+    },
+    {
+      "question": "मौर्य वंश का सबसे महान सम्राट कौन था?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 4
+        },
+        {
+          "file": "questions_data.json",
+          "index": 19
+        },
+        {
+          "file": "questions_data.json",
+          "index": 34
+        },
+        {
+          "file": "questions_data.json",
+          "index": 49
+        }
+      ]
+    },
+    {
+      "question": "कुषाण वंश का सबसे प्रसिद्ध राजा कौन था?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 5
+        },
+        {
+          "file": "questions_data.json",
+          "index": 20
+        },
+        {
+          "file": "questions_data.json",
+          "index": 35
+        },
+        {
+          "file": "questions_data.json",
+          "index": 50
+        }
+      ]
+    },
+    {
+      "question": "गुप्त वंश का संस्थापक कौन था?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 6
+        },
+        {
+          "file": "questions_data.json",
+          "index": 21
+        },
+        {
+          "file": "questions_data.json",
+          "index": 36
+        },
+        {
+          "file": "questions_data.json",
+          "index": 51
+        }
+      ]
+    },
+    {
+      "question": "भारतीय स्वतंत्रता संग्राम का आधिकारिक शुरुआत कब माना जाता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 9
+        },
+        {
+          "file": "questions_data.json",
+          "index": 24
+        },
+        {
+          "file": "questions_data.json",
+          "index": 39
+        },
+        {
+          "file": "questions_data.json",
+          "index": 54
+        }
+      ]
+    },
+    {
+      "question": "अशोक के कितने अभिलेख मिले हैं?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 10
+        },
+        {
+          "file": "questions_data.json",
+          "index": 25
+        },
+        {
+          "file": "questions_data.json",
+          "index": 40
+        },
+        {
+          "file": "questions_data.json",
+          "index": 55
+        }
+      ]
+    },
+    {
+      "question": "गुप्तकाल को क्या कहा जाता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 11
+        },
+        {
+          "file": "questions_data.json",
+          "index": 26
+        },
+        {
+          "file": "questions_data.json",
+          "index": 41
+        }
+      ]
+    },
+    {
+      "question": "समुद्रगुप्त किस वंश का राजा था?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 12
+        },
+        {
+          "file": "questions_data.json",
+          "index": 27
+        },
+        {
+          "file": "questions_data.json",
+          "index": 42
+        }
+      ]
+    },
+    {
+      "question": "अकबर का राज्याभिषेक कब हुआ?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 13
+        },
+        {
+          "file": "questions_data.json",
+          "index": 28
+        },
+        {
+          "file": "questions_data.json",
+          "index": 43
+        }
+      ]
+    },
+    {
+      "question": "शिवाजी किस साम्राज्य के विरुद्ध संघर्ष करते थे?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 14
+        },
+        {
+          "file": "questions_data.json",
+          "index": 29
+        },
+        {
+          "file": "questions_data.json",
+          "index": 44
+        }
+      ]
+    },
+    {
+      "question": "भारत का सबसे बड़ा राज्य कौन सा है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 56
+        },
+        {
+          "file": "questions_data.json",
+          "index": 66
+        },
+        {
+          "file": "questions_data.json",
+          "index": 76
+        },
+        {
+          "file": "questions_data.json",
+          "index": 86
+        },
+        {
+          "file": "questions_data.json",
+          "index": 96
+        },
+        {
+          "file": "questions_data.json",
+          "index": 106
+        }
+      ]
+    },
+    {
+      "question": "भारत में सबसे अधिक वर्षा कहाँ होती है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 58
+        },
+        {
+          "file": "questions_data.json",
+          "index": 68
+        },
+        {
+          "file": "questions_data.json",
+          "index": 78
+        },
+        {
+          "file": "questions_data.json",
+          "index": 88
+        },
+        {
+          "file": "questions_data.json",
+          "index": 98
+        },
+        {
+          "file": "questions_data.json",
+          "index": 108
+        }
+      ]
+    },
+    {
+      "question": "भारत का सबसे ऊँचा पर्वत शिखर कौन सा है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 59
+        },
+        {
+          "file": "questions_data.json",
+          "index": 69
+        },
+        {
+          "file": "questions_data.json",
+          "index": 79
+        },
+        {
+          "file": "questions_data.json",
+          "index": 89
+        },
+        {
+          "file": "questions_data.json",
+          "index": 99
+        },
+        {
+          "file": "questions_data.json",
+          "index": 109
+        }
+      ]
+    },
+    {
+      "question": "पश्चिमी घाट किन राज्यों में विस्तृत है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 60
+        },
+        {
+          "file": "questions_data.json",
+          "index": 70
+        },
+        {
+          "file": "questions_data.json",
+          "index": 80
+        },
+        {
+          "file": "questions_data.json",
+          "index": 90
+        },
+        {
+          "file": "questions_data.json",
+          "index": 100
+        },
+        {
+          "file": "questions_data.json",
+          "index": 110
+        }
+      ]
+    },
+    {
+      "question": "भारत में कुल कितने राज्य और संघ राज्यक्षेत्र हैं?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 61
+        },
+        {
+          "file": "questions_data.json",
+          "index": 71
+        },
+        {
+          "file": "questions_data.json",
+          "index": 81
+        },
+        {
+          "file": "questions_data.json",
+          "index": 91
+        },
+        {
+          "file": "questions_data.json",
+          "index": 101
+        },
+        {
+          "file": "questions_data.json",
+          "index": 111
+        }
+      ]
+    },
+    {
+      "question": "विश्व की सबसे लंबी नदी कौन सी है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 62
+        },
+        {
+          "file": "questions_data.json",
+          "index": 72
+        },
+        {
+          "file": "questions_data.json",
+          "index": 82
+        },
+        {
+          "file": "questions_data.json",
+          "index": 92
+        },
+        {
+          "file": "questions_data.json",
+          "index": 102
+        }
+      ]
+    },
+    {
+      "question": "भारत में सबसे अधिक चाय का उत्पादन किस राज्य में होता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 63
+        },
+        {
+          "file": "questions_data.json",
+          "index": 73
+        },
+        {
+          "file": "questions_data.json",
+          "index": 83
+        },
+        {
+          "file": "questions_data.json",
+          "index": 93
+        },
+        {
+          "file": "questions_data.json",
+          "index": 103
+        }
+      ]
+    },
+    {
+      "question": "सहारा रेगिस्तान कहाँ स्थित है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 64
+        },
+        {
+          "file": "questions_data.json",
+          "index": 74
+        },
+        {
+          "file": "questions_data.json",
+          "index": 84
+        },
+        {
+          "file": "questions_data.json",
+          "index": 94
+        },
+        {
+          "file": "questions_data.json",
+          "index": 104
+        }
+      ]
+    },
+    {
+      "question": "भारत का कौन सा शहर 'गोल्डन सिटी' कहलाता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 65
+        },
+        {
+          "file": "questions_data.json",
+          "index": 75
+        },
+        {
+          "file": "questions_data.json",
+          "index": 85
+        },
+        {
+          "file": "questions_data.json",
+          "index": 95
+        },
+        {
+          "file": "questions_data.json",
+          "index": 105
+        }
+      ]
+    },
+    {
+      "question": "भारतीय संविधान में कुल कितने अनुच्छेद हैं?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 112
+        },
+        {
+          "file": "questions_data.json",
+          "index": 122
+        },
+        {
+          "file": "questions_data.json",
+          "index": 132
+        },
+        {
+          "file": "questions_data.json",
+          "index": 142
+        },
+        {
+          "file": "questions_data.json",
+          "index": 152
+        },
+        {
+          "file": "questions_data.json",
+          "index": 162
+        }
+      ]
+    },
+    {
+      "question": "भारतीय संविधान के निर्माता कौन थे?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 113
+        },
+        {
+          "file": "questions_data.json",
+          "index": 123
+        },
+        {
+          "file": "questions_data.json",
+          "index": 133
+        },
+        {
+          "file": "questions_data.json",
+          "index": 143
+        },
+        {
+          "file": "questions_data.json",
+          "index": 153
+        },
+        {
+          "file": "questions_data.json",
+          "index": 163
+        }
+      ]
+    },
+    {
+      "question": "भारत के प्रथम राष्ट्रपति कौन थे?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 114
+        },
+        {
+          "file": "questions_data.json",
+          "index": 124
+        },
+        {
+          "file": "questions_data.json",
+          "index": 134
+        },
+        {
+          "file": "questions_data.json",
+          "index": 144
+        },
+        {
+          "file": "questions_data.json",
+          "index": 154
+        },
+        {
+          "file": "questions_data.json",
+          "index": 164
+        }
+      ]
+    },
+    {
+      "question": "भारत के संविधान को कब अपनाया गया?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 115
+        },
+        {
+          "file": "questions_data.json",
+          "index": 125
+        },
+        {
+          "file": "questions_data.json",
+          "index": 135
+        },
+        {
+          "file": "questions_data.json",
+          "index": 145
+        },
+        {
+          "file": "questions_data.json",
+          "index": 155
+        },
+        {
+          "file": "questions_data.json",
+          "index": 165
+        }
+      ]
+    },
+    {
+      "question": "संघीय प्रणाली में कुल कितने विषय हैं?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 116
+        },
+        {
+          "file": "questions_data.json",
+          "index": 126
+        },
+        {
+          "file": "questions_data.json",
+          "index": 136
+        },
+        {
+          "file": "questions_data.json",
+          "index": 146
+        },
+        {
+          "file": "questions_data.json",
+          "index": 156
+        },
+        {
+          "file": "questions_data.json",
+          "index": 166
+        }
+      ]
+    },
+    {
+      "question": "राष्ट्रपति की कार्यकाल अवधि कितनी होती है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 117
+        },
+        {
+          "file": "questions_data.json",
+          "index": 127
+        },
+        {
+          "file": "questions_data.json",
+          "index": 137
+        },
+        {
+          "file": "questions_data.json",
+          "index": 147
+        },
+        {
+          "file": "questions_data.json",
+          "index": 157
+        },
+        {
+          "file": "questions_data.json",
+          "index": 167
+        }
+      ]
+    },
+    {
+      "question": "प्रधानमंत्री की नियुक्ति कौन करता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 118
+        },
+        {
+          "file": "questions_data.json",
+          "index": 128
+        },
+        {
+          "file": "questions_data.json",
+          "index": 138
+        },
+        {
+          "file": "questions_data.json",
+          "index": 148
+        },
+        {
+          "file": "questions_data.json",
+          "index": 158
+        }
+      ]
+    },
+    {
+      "question": "भारतीय संविधान का पूर्वज किसे माना जाता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 119
+        },
+        {
+          "file": "questions_data.json",
+          "index": 129
+        },
+        {
+          "file": "questions_data.json",
+          "index": 139
+        },
+        {
+          "file": "questions_data.json",
+          "index": 149
+        },
+        {
+          "file": "questions_data.json",
+          "index": 159
+        }
+      ]
+    },
+    {
+      "question": "नीति आयोग की स्थापना कब हुई?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 120
+        },
+        {
+          "file": "questions_data.json",
+          "index": 130
+        },
+        {
+          "file": "questions_data.json",
+          "index": 140
+        },
+        {
+          "file": "questions_data.json",
+          "index": 150
+        },
+        {
+          "file": "questions_data.json",
+          "index": 160
+        }
+      ]
+    },
+    {
+      "question": "भारत के कितने राज्यों के पास अपने संविधान हैं?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 121
+        },
+        {
+          "file": "questions_data.json",
+          "index": 131
+        },
+        {
+          "file": "questions_data.json",
+          "index": 141
+        },
+        {
+          "file": "questions_data.json",
+          "index": 151
+        },
+        {
+          "file": "questions_data.json",
+          "index": 161
+        }
+      ]
+    },
+    {
+      "question": "भारत में गरीबी को परिभाषित करने के लिए किस सूचकांक का उपयोग किया जाता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 168
+        },
+        {
+          "file": "questions_data.json",
+          "index": 178
+        },
+        {
+          "file": "questions_data.json",
+          "index": 188
+        },
+        {
+          "file": "questions_data.json",
+          "index": 198
+        },
+        {
+          "file": "questions_data.json",
+          "index": 208
+        },
+        {
+          "file": "questions_data.json",
+          "index": 218
+        }
+      ]
+    },
+    {
+      "question": "आर्थिक सुधार भारत में कब शुरू किए गए?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 169
+        },
+        {
+          "file": "questions_data.json",
+          "index": 179
+        },
+        {
+          "file": "questions_data.json",
+          "index": 189
+        },
+        {
+          "file": "questions_data.json",
+          "index": 199
+        },
+        {
+          "file": "questions_data.json",
+          "index": 209
+        },
+        {
+          "file": "questions_data.json",
+          "index": 219
+        }
+      ]
+    },
+    {
+      "question": "भारत में सबसे बड़ी सामाजिक समस्या कौन सी है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 170
+        },
+        {
+          "file": "questions_data.json",
+          "index": 180
+        },
+        {
+          "file": "questions_data.json",
+          "index": 190
+        },
+        {
+          "file": "questions_data.json",
+          "index": 200
+        },
+        {
+          "file": "questions_data.json",
+          "index": 210
+        },
+        {
+          "file": "questions_data.json",
+          "index": 220
+        }
+      ]
+    },
+    {
+      "question": "'बेटी बचाओ बेटी पढ़ाओ' योजना कब शुरू की गई?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 171
+        },
+        {
+          "file": "questions_data.json",
+          "index": 181
+        },
+        {
+          "file": "questions_data.json",
+          "index": 191
+        },
+        {
+          "file": "questions_data.json",
+          "index": 201
+        },
+        {
+          "file": "questions_data.json",
+          "index": 211
+        },
+        {
+          "file": "questions_data.json",
+          "index": 221
+        }
+      ]
+    },
+    {
+      "question": "भारत में कुल कितने मिनिट्स/सहायक राज्य हैं?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 172
+        },
+        {
+          "file": "questions_data.json",
+          "index": 182
+        },
+        {
+          "file": "questions_data.json",
+          "index": 192
+        },
+        {
+          "file": "questions_data.json",
+          "index": 202
+        },
+        {
+          "file": "questions_data.json",
+          "index": 212
+        },
+        {
+          "file": "questions_data.json",
+          "index": 222
+        }
+      ]
+    },
+    {
+      "question": "महिला सशक्तिकरण का मतलब क्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 173
+        },
+        {
+          "file": "questions_data.json",
+          "index": 183
+        },
+        {
+          "file": "questions_data.json",
+          "index": 193
+        },
+        {
+          "file": "questions_data.json",
+          "index": 203
+        },
+        {
+          "file": "questions_data.json",
+          "index": 213
+        },
+        {
+          "file": "questions_data.json",
+          "index": 223
+        }
+      ]
+    },
+    {
+      "question": "आजादी के बाद भारत की जीडीपी में कितनी वृद्धि हुई?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 174
+        },
+        {
+          "file": "questions_data.json",
+          "index": 184
+        },
+        {
+          "file": "questions_data.json",
+          "index": 194
+        },
+        {
+          "file": "questions_data.json",
+          "index": 204
+        },
+        {
+          "file": "questions_data.json",
+          "index": 214
+        }
+      ]
+    },
+    {
+      "question": "भारत में सबसे अधिक जनसंख्या का क्या कारण है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 175
+        },
+        {
+          "file": "questions_data.json",
+          "index": 185
+        },
+        {
+          "file": "questions_data.json",
+          "index": 195
+        },
+        {
+          "file": "questions_data.json",
+          "index": 205
+        },
+        {
+          "file": "questions_data.json",
+          "index": 215
+        }
+      ]
+    },
+    {
+      "question": "'हरित क्रांति' भारत में कब शुरू हुई?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 176
+        },
+        {
+          "file": "questions_data.json",
+          "index": 186
+        },
+        {
+          "file": "questions_data.json",
+          "index": 196
+        },
+        {
+          "file": "questions_data.json",
+          "index": 206
+        },
+        {
+          "file": "questions_data.json",
+          "index": 216
+        }
+      ]
+    },
+    {
+      "question": "भारत का प्रमुख निर्यात उत्पाद क्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 177
+        },
+        {
+          "file": "questions_data.json",
+          "index": 187
+        },
+        {
+          "file": "questions_data.json",
+          "index": 197
+        },
+        {
+          "file": "questions_data.json",
+          "index": 207
+        },
+        {
+          "file": "questions_data.json",
+          "index": 217
+        }
+      ]
+    },
+    {
+      "question": "भारत के वर्तमान प्रधानमंत्री कौन हैं (2026)?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 224
+        },
+        {
+          "file": "questions_data.json",
+          "index": 234
+        },
+        {
+          "file": "questions_data.json",
+          "index": 244
+        },
+        {
+          "file": "questions_data.json",
+          "index": 254
+        },
+        {
+          "file": "questions_data.json",
+          "index": 264
+        },
+        {
+          "file": "questions_data.json",
+          "index": 274
+        }
+      ]
+    },
+    {
+      "question": "भारत की सबसे बड़ी सामाजिक सुरक्षा योजना कौन सी है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 225
+        },
+        {
+          "file": "questions_data.json",
+          "index": 235
+        },
+        {
+          "file": "questions_data.json",
+          "index": 245
+        },
+        {
+          "file": "questions_data.json",
+          "index": 255
+        },
+        {
+          "file": "questions_data.json",
+          "index": 265
+        },
+        {
+          "file": "questions_data.json",
+          "index": 275
+        }
+      ]
+    },
+    {
+      "question": "2024 के ओलंपिक खेल कहाँ आयोजित हुए?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 226
+        },
+        {
+          "file": "questions_data.json",
+          "index": 236
+        },
+        {
+          "file": "questions_data.json",
+          "index": 246
+        },
+        {
+          "file": "questions_data.json",
+          "index": 256
+        },
+        {
+          "file": "questions_data.json",
+          "index": 266
+        },
+        {
+          "file": "questions_data.json",
+          "index": 276
+        }
+      ]
+    },
+    {
+      "question": "भारत के किस पड़ोसी देश के साथ सबसे अधिक सीमा विवाद है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 227
+        },
+        {
+          "file": "questions_data.json",
+          "index": 237
+        },
+        {
+          "file": "questions_data.json",
+          "index": 247
+        },
+        {
+          "file": "questions_data.json",
+          "index": 257
+        },
+        {
+          "file": "questions_data.json",
+          "index": 267
+        },
+        {
+          "file": "questions_data.json",
+          "index": 277
+        }
+      ]
+    },
+    {
+      "question": "भारत और चीन के बीच सीमा विवाद किन क्षेत्रों में है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 228
+        },
+        {
+          "file": "questions_data.json",
+          "index": 238
+        },
+        {
+          "file": "questions_data.json",
+          "index": 248
+        },
+        {
+          "file": "questions_data.json",
+          "index": 258
+        },
+        {
+          "file": "questions_data.json",
+          "index": 268
+        },
+        {
+          "file": "questions_data.json",
+          "index": 278
+        }
+      ]
+    },
+    {
+      "question": "भारत की सबसे बड़ी विदेशी निवेश प्राप्तकर्ता राज्य कौन सा है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 229
+        },
+        {
+          "file": "questions_data.json",
+          "index": 239
+        },
+        {
+          "file": "questions_data.json",
+          "index": 249
+        },
+        {
+          "file": "questions_data.json",
+          "index": 259
+        },
+        {
+          "file": "questions_data.json",
+          "index": 269
+        },
+        {
+          "file": "questions_data.json",
+          "index": 279
+        }
+      ]
+    },
+    {
+      "question": "भारत में अर्थव्यवस्था की वृद्धि दर वर्तमान में लगभग कितनी है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 230
+        },
+        {
+          "file": "questions_data.json",
+          "index": 240
+        },
+        {
+          "file": "questions_data.json",
+          "index": 250
+        },
+        {
+          "file": "questions_data.json",
+          "index": 260
+        },
+        {
+          "file": "questions_data.json",
+          "index": 270
+        }
+      ]
+    },
+    {
+      "question": "भारत के किस राज्य में सबसे अधिक आतंकवाद की समस्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 231
+        },
+        {
+          "file": "questions_data.json",
+          "index": 241
+        },
+        {
+          "file": "questions_data.json",
+          "index": 251
+        },
+        {
+          "file": "questions_data.json",
+          "index": 261
+        },
+        {
+          "file": "questions_data.json",
+          "index": 271
+        }
+      ]
+    },
+    {
+      "question": "भारत की जनसंख्या विश्व में कितने स्थान पर है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 232
+        },
+        {
+          "file": "questions_data.json",
+          "index": 242
+        },
+        {
+          "file": "questions_data.json",
+          "index": 252
+        },
+        {
+          "file": "questions_data.json",
+          "index": 262
+        },
+        {
+          "file": "questions_data.json",
+          "index": 272
+        }
+      ]
+    },
+    {
+      "question": "भारत और अमेरिका के बीच व्यापार समझौता कब हुआ?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 233
+        },
+        {
+          "file": "questions_data.json",
+          "index": 243
+        },
+        {
+          "file": "questions_data.json",
+          "index": 253
+        },
+        {
+          "file": "questions_data.json",
+          "index": 263
+        },
+        {
+          "file": "questions_data.json",
+          "index": 273
+        }
+      ]
+    },
+    {
+      "question": "भारत में सबसे अधिक उत्पादित फसल कौन सी है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 280
+        },
+        {
+          "file": "questions_data.json",
+          "index": 290
+        },
+        {
+          "file": "questions_data.json",
+          "index": 300
+        },
+        {
+          "file": "questions_data.json",
+          "index": 310
+        },
+        {
+          "file": "questions_data.json",
+          "index": 320
+        },
+        {
+          "file": "questions_data.json",
+          "index": 330
+        }
+      ]
+    },
+    {
+      "question": "भारत में सबसे अधिक चीनी का उत्पादन किस राज्य में होता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 281
+        },
+        {
+          "file": "questions_data.json",
+          "index": 291
+        },
+        {
+          "file": "questions_data.json",
+          "index": 301
+        },
+        {
+          "file": "questions_data.json",
+          "index": 311
+        },
+        {
+          "file": "questions_data.json",
+          "index": 321
+        },
+        {
+          "file": "questions_data.json",
+          "index": 331
+        }
+      ]
+    },
+    {
+      "question": "एकीकृत नाशीजीव प्रबंधन (IPM) का मुख्य उद्देश्य क्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 282
+        },
+        {
+          "file": "questions_data.json",
+          "index": 292
+        },
+        {
+          "file": "questions_data.json",
+          "index": 302
+        },
+        {
+          "file": "questions_data.json",
+          "index": 312
+        },
+        {
+          "file": "questions_data.json",
+          "index": 322
+        },
+        {
+          "file": "questions_data.json",
+          "index": 332
+        }
+      ]
+    },
+    {
+      "question": "भारत में सबसे अधिक कपास का उत्पादन किस राज्य में होता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 283
+        },
+        {
+          "file": "questions_data.json",
+          "index": 293
+        },
+        {
+          "file": "questions_data.json",
+          "index": 303
+        },
+        {
+          "file": "questions_data.json",
+          "index": 313
+        },
+        {
+          "file": "questions_data.json",
+          "index": 323
+        },
+        {
+          "file": "questions_data.json",
+          "index": 333
+        }
+      ]
+    },
+    {
+      "question": "भारत की हरित क्रांति का जनक कौन है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 284
+        },
+        {
+          "file": "questions_data.json",
+          "index": 294
+        },
+        {
+          "file": "questions_data.json",
+          "index": 304
+        },
+        {
+          "file": "questions_data.json",
+          "index": 314
+        },
+        {
+          "file": "questions_data.json",
+          "index": 324
+        },
+        {
+          "file": "questions_data.json",
+          "index": 334
+        }
+      ]
+    },
+    {
+      "question": "भारत में कृषि योग्य भूमि का प्रतिशत कितना है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 285
+        },
+        {
+          "file": "questions_data.json",
+          "index": 295
+        },
+        {
+          "file": "questions_data.json",
+          "index": 305
+        },
+        {
+          "file": "questions_data.json",
+          "index": 315
+        },
+        {
+          "file": "questions_data.json",
+          "index": 325
+        }
+      ]
+    },
+    {
+      "question": "भारत में सबसे अधिक दालों का उत्पादन किस राज्य में होता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 286
+        },
+        {
+          "file": "questions_data.json",
+          "index": 296
+        },
+        {
+          "file": "questions_data.json",
+          "index": 306
+        },
+        {
+          "file": "questions_data.json",
+          "index": 316
+        },
+        {
+          "file": "questions_data.json",
+          "index": 326
+        }
+      ]
+    },
+    {
+      "question": "जैविक खेती का मुख्य लाभ क्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 287
+        },
+        {
+          "file": "questions_data.json",
+          "index": 297
+        },
+        {
+          "file": "questions_data.json",
+          "index": 307
+        },
+        {
+          "file": "questions_data.json",
+          "index": 317
+        },
+        {
+          "file": "questions_data.json",
+          "index": 327
+        }
+      ]
+    },
+    {
+      "question": "भारत का विश्व में कृषि उत्पादन में कौन सा स्थान है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 288
+        },
+        {
+          "file": "questions_data.json",
+          "index": 298
+        },
+        {
+          "file": "questions_data.json",
+          "index": 308
+        },
+        {
+          "file": "questions_data.json",
+          "index": 318
+        },
+        {
+          "file": "questions_data.json",
+          "index": 328
+        }
+      ]
+    },
+    {
+      "question": "कृषि में जलवायु परिवर्तन का क्या प्रभाव है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 289
+        },
+        {
+          "file": "questions_data.json",
+          "index": 299
+        },
+        {
+          "file": "questions_data.json",
+          "index": 309
+        },
+        {
+          "file": "questions_data.json",
+          "index": 319
+        },
+        {
+          "file": "questions_data.json",
+          "index": 329
+        }
+      ]
+    },
+    {
+      "question": "मनुष्य के शरीर में कितनी हड्डियाँ होती हैं?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 335
+        },
+        {
+          "file": "questions_data.json",
+          "index": 345
+        },
+        {
+          "file": "questions_data.json",
+          "index": 355
+        },
+        {
+          "file": "questions_data.json",
+          "index": 365
+        },
+        {
+          "file": "questions_data.json",
+          "index": 375
+        },
+        {
+          "file": "questions_data.json",
+          "index": 385
+        }
+      ]
+    },
+    {
+      "question": "विटामिन D की कमी से कौन सा रोग होता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 336
+        },
+        {
+          "file": "questions_data.json",
+          "index": 346
+        },
+        {
+          "file": "questions_data.json",
+          "index": 356
+        },
+        {
+          "file": "questions_data.json",
+          "index": 366
+        },
+        {
+          "file": "questions_data.json",
+          "index": 376
+        },
+        {
+          "file": "questions_data.json",
+          "index": 386
+        }
+      ]
+    },
+    {
+      "question": "पाचन तंत्र का सबसे महत्वपूर्ण अंग कौन सा है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 337
+        },
+        {
+          "file": "questions_data.json",
+          "index": 347
+        },
+        {
+          "file": "questions_data.json",
+          "index": 357
+        },
+        {
+          "file": "questions_data.json",
+          "index": 367
+        },
+        {
+          "file": "questions_data.json",
+          "index": 377
+        },
+        {
+          "file": "questions_data.json",
+          "index": 387
+        }
+      ]
+    },
+    {
+      "question": "DNA का पूर्ण नाम क्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 338
+        },
+        {
+          "file": "questions_data.json",
+          "index": 348
+        },
+        {
+          "file": "questions_data.json",
+          "index": 358
+        },
+        {
+          "file": "questions_data.json",
+          "index": 368
+        },
+        {
+          "file": "questions_data.json",
+          "index": 378
+        },
+        {
+          "file": "questions_data.json",
+          "index": 388
+        }
+      ]
+    },
+    {
+      "question": "प्रकाश संश्लेषण में कौन सा गैस निकलती है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 339
+        },
+        {
+          "file": "questions_data.json",
+          "index": 349
+        },
+        {
+          "file": "questions_data.json",
+          "index": 359
+        },
+        {
+          "file": "questions_data.json",
+          "index": 369
+        },
+        {
+          "file": "questions_data.json",
+          "index": 379
+        },
+        {
+          "file": "questions_data.json",
+          "index": 389
+        }
+      ]
+    },
+    {
+      "question": "चुंबकीय क्षेत्र की SI इकाई क्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 340
+        },
+        {
+          "file": "questions_data.json",
+          "index": 350
+        },
+        {
+          "file": "questions_data.json",
+          "index": 360
+        },
+        {
+          "file": "questions_data.json",
+          "index": 370
+        },
+        {
+          "file": "questions_data.json",
+          "index": 380
+        }
+      ]
+    },
+    {
+      "question": "विद्युत प्रतिरोध की SI इकाई क्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 341
+        },
+        {
+          "file": "questions_data.json",
+          "index": 351
+        },
+        {
+          "file": "questions_data.json",
+          "index": 361
+        },
+        {
+          "file": "questions_data.json",
+          "index": 371
+        },
+        {
+          "file": "questions_data.json",
+          "index": 381
+        }
+      ]
+    },
+    {
+      "question": "परमाणु का नाभिक किससे बना होता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 342
+        },
+        {
+          "file": "questions_data.json",
+          "index": 352
+        },
+        {
+          "file": "questions_data.json",
+          "index": 362
+        },
+        {
+          "file": "questions_data.json",
+          "index": 372
+        },
+        {
+          "file": "questions_data.json",
+          "index": 382
+        }
+      ]
+    },
+    {
+      "question": "रक्त के किस घटक की कमी से खून नहीं रुकता?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 343
+        },
+        {
+          "file": "questions_data.json",
+          "index": 353
+        },
+        {
+          "file": "questions_data.json",
+          "index": 363
+        },
+        {
+          "file": "questions_data.json",
+          "index": 373
+        },
+        {
+          "file": "questions_data.json",
+          "index": 383
+        }
+      ]
+    },
+    {
+      "question": "मनुष्य की आँख में कौन सी संरचना प्रकाश को केंद्रित करती है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 344
+        },
+        {
+          "file": "questions_data.json",
+          "index": 354
+        },
+        {
+          "file": "questions_data.json",
+          "index": 364
+        },
+        {
+          "file": "questions_data.json",
+          "index": 374
+        },
+        {
+          "file": "questions_data.json",
+          "index": 384
+        }
+      ]
+    },
+    {
+      "question": "√2 किस प्रकार की संख्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 390
+        },
+        {
+          "file": "questions_data.json",
+          "index": 400
+        },
+        {
+          "file": "questions_data.json",
+          "index": 410
+        },
+        {
+          "file": "questions_data.json",
+          "index": 420
+        },
+        {
+          "file": "questions_data.json",
+          "index": 430
+        },
+        {
+          "file": "questions_data.json",
+          "index": 440
+        }
+      ]
+    },
+    {
+      "question": "sin²θ + cos²θ का मान कितना होता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 391
+        },
+        {
+          "file": "questions_data.json",
+          "index": 401
+        },
+        {
+          "file": "questions_data.json",
+          "index": 411
+        },
+        {
+          "file": "questions_data.json",
+          "index": 421
+        },
+        {
+          "file": "questions_data.json",
+          "index": 431
+        },
+        {
+          "file": "questions_data.json",
+          "index": 441
+        }
+      ]
+    },
+    {
+      "question": "समबाहु त्रिभुज के तीनों कोणों का योग कितना होता है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 392
+        },
+        {
+          "file": "questions_data.json",
+          "index": 402
+        },
+        {
+          "file": "questions_data.json",
+          "index": 412
+        },
+        {
+          "file": "questions_data.json",
+          "index": 422
+        },
+        {
+          "file": "questions_data.json",
+          "index": 432
+        },
+        {
+          "file": "questions_data.json",
+          "index": 442
+        }
+      ]
+    },
+    {
+      "question": "वृत्त का क्षेत्रफल कौन सा सूत्र है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 393
+        },
+        {
+          "file": "questions_data.json",
+          "index": 403
+        },
+        {
+          "file": "questions_data.json",
+          "index": 413
+        },
+        {
+          "file": "questions_data.json",
+          "index": 423
+        },
+        {
+          "file": "questions_data.json",
+          "index": 433
+        },
+        {
+          "file": "questions_data.json",
+          "index": 443
+        }
+      ]
+    },
+    {
+      "question": "घन का आयतन कौन सा सूत्र है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 394
+        },
+        {
+          "file": "questions_data.json",
+          "index": 404
+        },
+        {
+          "file": "questions_data.json",
+          "index": 414
+        },
+        {
+          "file": "questions_data.json",
+          "index": 424
+        },
+        {
+          "file": "questions_data.json",
+          "index": 434
+        },
+        {
+          "file": "questions_data.json",
+          "index": 444
+        }
+      ]
+    },
+    {
+      "question": "बेलन का आयतन कौन सा सूत्र है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 395
+        },
+        {
+          "file": "questions_data.json",
+          "index": 405
+        },
+        {
+          "file": "questions_data.json",
+          "index": 415
+        },
+        {
+          "file": "questions_data.json",
+          "index": 425
+        },
+        {
+          "file": "questions_data.json",
+          "index": 435
+        }
+      ]
+    },
+    {
+      "question": "अंकगणितीय प्रगति का nवाँ पद कौन सा है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 396
+        },
+        {
+          "file": "questions_data.json",
+          "index": 406
+        },
+        {
+          "file": "questions_data.json",
+          "index": 416
+        },
+        {
+          "file": "questions_data.json",
+          "index": 426
+        },
+        {
+          "file": "questions_data.json",
+          "index": 436
+        }
+      ]
+    },
+    {
+      "question": "(a + b)² = ?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 397
+        },
+        {
+          "file": "questions_data.json",
+          "index": 407
+        },
+        {
+          "file": "questions_data.json",
+          "index": 417
+        },
+        {
+          "file": "questions_data.json",
+          "index": 427
+        },
+        {
+          "file": "questions_data.json",
+          "index": 437
+        }
+      ]
+    },
+    {
+      "question": "log₁₀ 100 का मान कितना है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 398
+        },
+        {
+          "file": "questions_data.json",
+          "index": 408
+        },
+        {
+          "file": "questions_data.json",
+          "index": 418
+        },
+        {
+          "file": "questions_data.json",
+          "index": 428
+        },
+        {
+          "file": "questions_data.json",
+          "index": 438
+        }
+      ]
+    },
+    {
+      "question": "त्रिभुज का क्षेत्रफल = ?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 399
+        },
+        {
+          "file": "questions_data.json",
+          "index": 409
+        },
+        {
+          "file": "questions_data.json",
+          "index": 419
+        },
+        {
+          "file": "questions_data.json",
+          "index": 429
+        },
+        {
+          "file": "questions_data.json",
+          "index": 439
+        }
+      ]
+    },
+    {
+      "question": "राष्ट्रीय स्वास्थ्य मिशन कब शुरू किया गया?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 445
+        },
+        {
+          "file": "questions_data.json",
+          "index": 455
+        },
+        {
+          "file": "questions_data.json",
+          "index": 465
+        },
+        {
+          "file": "questions_data.json",
+          "index": 475
+        },
+        {
+          "file": "questions_data.json",
+          "index": 485
+        },
+        {
+          "file": "questions_data.json",
+          "index": 495
+        }
+      ]
+    },
+    {
+      "question": "भारत में प्रारंभिक बाल विकास कार्यक्रम कब शुरू हुआ?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 446
+        },
+        {
+          "file": "questions_data.json",
+          "index": 456
+        },
+        {
+          "file": "questions_data.json",
+          "index": 466
+        },
+        {
+          "file": "questions_data.json",
+          "index": 476
+        },
+        {
+          "file": "questions_data.json",
+          "index": 486
+        },
+        {
+          "file": "questions_data.json",
+          "index": 496
+        }
+      ]
+    },
+    {
+      "question": "आयुष्मान भारत योजना कब शुरू की गई?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 447
+        },
+        {
+          "file": "questions_data.json",
+          "index": 457
+        },
+        {
+          "file": "questions_data.json",
+          "index": 467
+        },
+        {
+          "file": "questions_data.json",
+          "index": 477
+        },
+        {
+          "file": "questions_data.json",
+          "index": 487
+        },
+        {
+          "file": "questions_data.json",
+          "index": 497
+        }
+      ]
+    },
+    {
+      "question": "मिड डे मील स्कीम का मुख्य उद्देश्य क्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 448
+        },
+        {
+          "file": "questions_data.json",
+          "index": 458
+        },
+        {
+          "file": "questions_data.json",
+          "index": 468
+        },
+        {
+          "file": "questions_data.json",
+          "index": 478
+        },
+        {
+          "file": "questions_data.json",
+          "index": 488
+        },
+        {
+          "file": "questions_data.json",
+          "index": 498
+        }
+      ]
+    },
+    {
+      "question": "व्यवहार परिवर्तन संचार (BCC) का मुख्य उद्देश्य क्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 449
+        },
+        {
+          "file": "questions_data.json",
+          "index": 459
+        },
+        {
+          "file": "questions_data.json",
+          "index": 469
+        },
+        {
+          "file": "questions_data.json",
+          "index": 479
+        },
+        {
+          "file": "questions_data.json",
+          "index": 489
+        },
+        {
+          "file": "questions_data.json",
+          "index": 499
+        }
+      ]
+    },
+    {
+      "question": "पोलियो मूलोच्छेदन अभियान भारत में कब शुरू हुआ?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 450
+        },
+        {
+          "file": "questions_data.json",
+          "index": 460
+        },
+        {
+          "file": "questions_data.json",
+          "index": 470
+        },
+        {
+          "file": "questions_data.json",
+          "index": 480
+        },
+        {
+          "file": "questions_data.json",
+          "index": 490
+        }
+      ]
+    },
+    {
+      "question": "भारत में कुल कितने स्वास्थ्य केंद्र हैं?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 451
+        },
+        {
+          "file": "questions_data.json",
+          "index": 461
+        },
+        {
+          "file": "questions_data.json",
+          "index": 471
+        },
+        {
+          "file": "questions_data.json",
+          "index": 481
+        },
+        {
+          "file": "questions_data.json",
+          "index": 491
+        }
+      ]
+    },
+    {
+      "question": "ईपीआईडेमिओलॉजी का संबंध किससे है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 452
+        },
+        {
+          "file": "questions_data.json",
+          "index": 462
+        },
+        {
+          "file": "questions_data.json",
+          "index": 472
+        },
+        {
+          "file": "questions_data.json",
+          "index": 482
+        },
+        {
+          "file": "questions_data.json",
+          "index": 492
+        }
+      ]
+    },
+    {
+      "question": "जल-जनित रोग कौन से हैं?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 453
+        },
+        {
+          "file": "questions_data.json",
+          "index": 463
+        },
+        {
+          "file": "questions_data.json",
+          "index": 473
+        },
+        {
+          "file": "questions_data.json",
+          "index": 483
+        },
+        {
+          "file": "questions_data.json",
+          "index": 493
+        }
+      ]
+    },
+    {
+      "question": "वायु-जनित संक्रामक रोग का उदाहरण है?",
+      "occurrences": [
+        {
+          "file": "questions_data.json",
+          "index": 454
+        },
+        {
+          "file": "questions_data.json",
+          "index": 464
+        },
+        {
+          "file": "questions_data.json",
+          "index": 474
+        },
+        {
+          "file": "questions_data.json",
+          "index": 484
+        },
+        {
+          "file": "questions_data.json",
+          "index": 494
+        }
+      ]
+    },
+    {
+      "question": "मौर्य साम्राज्य के अशोक के शासन काल में सम्राट का रूपांतरण किस घटना के बाद हुआ?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 0
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 3
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 6
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 9
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 12
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 15
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 18
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 21
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 24
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 27
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 30
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 33
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 36
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 39
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 42
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 45
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 48
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 51
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 54
+        }
+      ]
+    },
+    {
+      "question": "गुप्त काल में 'समुद्रगुप्त' को किस नाम से जाना जाता था?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 1
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 4
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 7
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 10
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 13
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 16
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 19
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 22
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 25
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 28
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 31
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 34
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 37
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 40
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 43
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 46
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 49
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 52
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 55
+        }
+      ]
+    },
+    {
+      "question": "दिल्ली सल्तनत के किस सुल्तान ने 'जजिया कर' को सर्वप्रथम लागू किया?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 2
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 5
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 8
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 11
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 14
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 17
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 20
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 23
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 26
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 29
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 32
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 35
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 38
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 41
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 44
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 47
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 50
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 53
+        }
+      ]
+    },
+    {
+      "question": "भारत के किस राज्य में सबसे अधिक वन क्षेत्र है?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 56
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 58
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 60
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 62
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 64
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 66
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 68
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 70
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 72
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 74
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 76
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 78
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 80
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 82
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 84
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 86
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 88
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 90
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 92
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 94
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 96
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 98
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 100
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 102
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 104
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 106
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 108
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 110
+        }
+      ]
+    },
+    {
+      "question": "भारत की सबसे बड़ी सूखे की झील कौन सी है?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 57
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 59
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 61
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 63
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 65
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 67
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 69
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 71
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 73
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 75
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 77
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 79
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 81
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 83
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 85
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 87
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 89
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 91
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 93
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 95
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 97
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 99
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 101
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 103
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 105
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 107
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 109
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 111
+        }
+      ]
+    },
+    {
+      "question": "भारतीय संविधान की प्रस्तावना को पहली बार कब संशोधित किया गया?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 112
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 114
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 116
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 118
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 120
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 122
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 124
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 126
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 128
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 130
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 132
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 134
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 136
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 138
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 140
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 142
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 144
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 146
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 148
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 150
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 152
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 154
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 156
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 158
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 160
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 162
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 164
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 166
+        }
+      ]
+    },
+    {
+      "question": "भारतीय संविधान में समवर्ती सूची में कितने विषय हैं?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 113
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 115
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 117
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 119
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 121
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 123
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 125
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 127
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 129
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 131
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 133
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 135
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 137
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 139
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 141
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 143
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 145
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 147
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 149
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 151
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 153
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 155
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 157
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 159
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 161
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 163
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 165
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 167
+        }
+      ]
+    },
+    {
+      "question": "भारत में 'जाति-व्यवस्था' के सामाजिक प्रभाव को कम करने के लिए कौन सी नीति अपनाई गई?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 168
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 170
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 172
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 174
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 176
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 178
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 180
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 182
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 184
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 186
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 188
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 190
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 192
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 194
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 196
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 198
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 200
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 202
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 204
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 206
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 208
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 210
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 212
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 214
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 216
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 218
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 220
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 222
+        }
+      ]
+    },
+    {
+      "question": "भारत में 'दहेज प्रथा' को रोकने के लिए कौन सा कानून बनाया गया?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 169
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 171
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 173
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 175
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 177
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 179
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 181
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 183
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 185
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 187
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 189
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 191
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 193
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 195
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 197
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 199
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 201
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 203
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 205
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 207
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 209
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 211
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 213
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 215
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 217
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 219
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 221
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 223
+        }
+      ]
+    },
+    {
+      "question": "भारत-चीन सीमा विवाद का मुख्य कारण क्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 224
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 226
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 228
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 230
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 232
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 234
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 236
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 238
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 240
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 242
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 244
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 246
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 248
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 250
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 252
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 254
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 256
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 258
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 260
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 262
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 264
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 266
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 268
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 270
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 272
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 274
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 276
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 278
+        }
+      ]
+    },
+    {
+      "question": "भारत-पाकिस्तान संबंधों में कश्मीर समस्या का मूल कारण क्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 225
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 227
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 229
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 231
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 233
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 235
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 237
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 239
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 241
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 243
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 245
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 247
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 249
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 251
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 253
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 255
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 257
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 259
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 261
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 263
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 265
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 267
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 269
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 271
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 273
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 275
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 277
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 279
+        }
+      ]
+    },
+    {
+      "question": "भारत में 'हरित क्रांति' के जनक किसे माना जाता है?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 280
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 282
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 284
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 286
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 288
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 290
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 292
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 294
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 296
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 298
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 300
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 302
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 304
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 306
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 308
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 310
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 312
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 314
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 316
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 318
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 320
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 322
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 324
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 326
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 328
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 330
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 332
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 334
+        }
+      ]
+    },
+    {
+      "question": "भारत में 'श्वेत क्रांति' का संबंध किस उत्पाद से है?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 281
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 283
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 285
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 287
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 289
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 291
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 293
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 295
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 297
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 299
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 301
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 303
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 305
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 307
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 309
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 311
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 313
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 315
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 317
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 319
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 321
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 323
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 325
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 327
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 329
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 331
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 333
+        }
+      ]
+    },
+    {
+      "question": "मनुष्य के शरीर में कुल कितने दांत होते हैं?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 335
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 337
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 339
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 341
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 343
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 345
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 347
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 349
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 351
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 353
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 355
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 357
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 359
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 361
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 363
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 365
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 367
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 369
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 371
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 373
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 375
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 377
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 379
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 381
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 383
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 385
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 387
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 389
+        }
+      ]
+    },
+    {
+      "question": "रक्त का कौन सा घटक रोग प्रतिरोधक क्षमता के लिए जिम्मेदार है?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 336
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 338
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 340
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 342
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 344
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 346
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 348
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 350
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 352
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 354
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 356
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 358
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 360
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 362
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 364
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 366
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 368
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 370
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 372
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 374
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 376
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 378
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 380
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 382
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 384
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 386
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 388
+        }
+      ]
+    },
+    {
+      "question": "sin(90° - θ) का मान कितना है?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 390
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 392
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 394
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 396
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 398
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 400
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 402
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 404
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 406
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 408
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 410
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 412
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 414
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 416
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 418
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 420
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 422
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 424
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 426
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 428
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 430
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 432
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 434
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 436
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 438
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 440
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 442
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 444
+        }
+      ]
+    },
+    {
+      "question": "समांतर श्रेढ़ी (AP) के n पदों का योग = ?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 391
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 393
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 395
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 397
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 399
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 401
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 403
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 405
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 407
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 409
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 411
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 413
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 415
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 417
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 419
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 421
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 423
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 425
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 427
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 429
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 431
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 433
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 435
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 437
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 439
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 441
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 443
+        }
+      ]
+    },
+    {
+      "question": "राष्ट्रीय स्वास्थ्य नीति 2017 का मुख्य लक्ष्य क्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 445
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 447
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 449
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 451
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 453
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 455
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 457
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 459
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 461
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 463
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 465
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 467
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 469
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 471
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 473
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 475
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 477
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 479
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 481
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 483
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 485
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 487
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 489
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 491
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 493
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 495
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 497
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 499
+        }
+      ]
+    },
+    {
+      "question": "सार्वभौमिक स्वास्थ्य कवरेज (UHC) का मुख्य सिद्धांत क्या है?",
+      "occurrences": [
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 446
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 448
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 450
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 452
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 454
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 456
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 458
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 460
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 462
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 464
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 466
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 468
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 470
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 472
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 474
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 476
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 478
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 480
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 482
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 484
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 486
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 488
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 490
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 492
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 494
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 496
+        },
+        {
+          "file": "questions_data_uppsc_level.json",
+          "index": 498
+        }
+      ]
+    }
+  ],
+  "near_duplicate_pairs": []
+}
