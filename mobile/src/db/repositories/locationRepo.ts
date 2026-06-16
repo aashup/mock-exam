@@ -27,8 +27,9 @@ export const locationRepo = {
     locationSource: 'gps' | 'network' | 'fused';
     batteryLevel?: number;
   }): Promise<void> {
+    const db = await getDb();
     const now = new Date().toISOString();
-    await getDb().execute(
+    await db.runAsync(
       `INSERT INTO locations (
         latitude, longitude, accuracy, altitude, speed, heading,
         recorded_at, location_source, battery_level, is_dirty, updated_at
@@ -37,37 +38,39 @@ export const locationRepo = {
         data.latitude,
         data.longitude,
         data.accuracy,
-        data.altitude || null,
-        data.speed || null,
-        data.heading || null,
+        data.altitude ?? null,
+        data.speed ?? null,
+        data.heading ?? null,
         data.recordedAt,
         data.locationSource,
-        data.batteryLevel || null,
+        data.batteryLevel ?? null,
         now,
       ],
     );
   },
 
   async getAllDirty(): Promise<LocationRecord[]> {
-    const res = await getDb().execute(
+    const db = await getDb();
+    return db.getAllAsync<LocationRecord>(
       `SELECT id, server_id, latitude, longitude, accuracy, altitude, speed,
               heading, recorded_at, location_source, battery_level, updated_at
        FROM locations WHERE is_dirty = 1 ORDER BY recorded_at ASC`,
     );
-    return res.rows as unknown as LocationRecord[];
   },
 
   async markSynced(localIds: number[]): Promise<void> {
     if (localIds.length === 0) return;
+    const db = await getDb();
     const placeholders = localIds.map(() => '?').join(',');
-    await getDb().execute(
+    await db.runAsync(
       `UPDATE locations SET is_dirty = 0 WHERE id IN (${placeholders})`,
       localIds,
     );
   },
 
-  async getRecentLocations(minutes: number = 60): Promise<LocationRecord[]> {
-    const res = await getDb().execute(
+  async getRecentLocations(minutes = 60): Promise<LocationRecord[]> {
+    const db = await getDb();
+    return db.getAllAsync<LocationRecord>(
       `SELECT id, server_id, latitude, longitude, accuracy, altitude, speed,
               heading, recorded_at, location_source, battery_level, updated_at
        FROM locations
@@ -75,13 +78,13 @@ export const locationRepo = {
        ORDER BY recorded_at DESC`,
       [minutes],
     );
-    return res.rows as unknown as LocationRecord[];
   },
 
   async getPendingSyncCount(): Promise<number> {
-    const res = await getDb().execute(
+    const db = await getDb();
+    const row = await db.getFirstAsync<{count: number}>(
       `SELECT COUNT(*) as count FROM locations WHERE is_dirty = 1`,
     );
-    return (res.rows[0] as any)?.count || 0;
+    return row?.count ?? 0;
   },
 };

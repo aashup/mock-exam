@@ -2,7 +2,7 @@ import React from 'react';
 import {NavigationContainer, type Theme} from '@react-navigation/native';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
-import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
+import {MaterialCommunityIcons} from '@expo/vector-icons';
 import {useAuthStore} from '@/store/authStore';
 import type {AuthStackParamList, MainTabParamList} from './types';
 
@@ -25,7 +25,7 @@ function AuthNavigator() {
   );
 }
 
-const TAB_ICONS: Record<keyof MainTabParamList, string> = {
+const TAB_ICONS: Record<keyof MainTabParamList, keyof typeof MaterialCommunityIcons.glyphMap> = {
   Home: 'view-dashboard',
   Practice: 'pencil',
   History: 'history',
@@ -38,7 +38,7 @@ function MainNavigator() {
       screenOptions={({route}) => ({
         headerShown: true,
         tabBarIcon: ({color, size}) => (
-          <Icon name={TAB_ICONS[route.name]} color={color} size={size} />
+          <MaterialCommunityIcons name={TAB_ICONS[route.name]} color={color} size={size} />
         ),
       })}>
       <Tabs.Screen name="Home" component={DashboardScreen} options={{title: 'Dashboard'}} />

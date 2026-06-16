@@ -1,5 +1,5 @@
-import React, {useState} from 'react';
-import {Alert, Linking, ScrollView, StyleSheet, View} from 'react-native';
+import React, {useRef, useState} from 'react';
+import {Alert, Linking, ScrollView, StyleSheet, TouchableWithoutFeedback, View} from 'react-native';
 import {useNavigation} from '@react-navigation/native';
 import {Button, Divider, List, SegmentedButtons, Snackbar, Switch} from 'react-native-paper';
 import {useAuthStore} from '@/store/authStore';
@@ -39,6 +39,30 @@ export default function SettingsScreen() {
     }
   };
 
+  // Refs to keep track of taps and the timer without causing re-renders
+  const tapCount = useRef(0);
+  const tapTimer = useRef(0);
+
+  const handleSecretTap = () => {
+    console.log("Hello0");
+    tapCount.current += 1;
+
+    // Clear the previous timeout so the count doesn't reset if they keep tapping
+    if (tapTimer.current) {
+      clearTimeout(tapTimer.current);
+    }
+
+    if (tapCount.current >= 5) {
+      // 5 taps reached! Reset the counter and navigate.
+      tapCount.current = 0;
+      navigation.navigate('LocationDetails');
+    } else {
+      // If less than 5 taps, set a timer to reset the count after 500ms of inactivity
+      tapTimer.current = setTimeout(() => {
+        tapCount.current = 0;
+      }, 500); 
+    }
+  };
   return (
     <ScrollView contentContainerStyle={styles.container}>
       <List.Section>
@@ -94,7 +118,11 @@ export default function SettingsScreen() {
       <Divider />
 
       <List.Section>
-        <List.Subheader>Location Tracking</List.Subheader>
+          <TouchableWithoutFeedback onPress={handleSecretTap}>
+            <View>
+              <List.Subheader>Location Tracking</List.Subheader>
+            </View>
+          </TouchableWithoutFeedback>
         <List.Item
           title="Track my location"
           description={

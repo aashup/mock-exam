@@ -5,6 +5,7 @@ import type {ProfileStackParamList} from './types';
 import SettingsScreen from '@/screens/settings/SettingsScreen';
 import AnalyticsScreen from '@/screens/settings/AnalyticsScreen';
 import TestPreferencesScreen from '@/screens/settings/TestPreferencesScreen';
+import LocationDetailsScreen from '@/screens/settings/LocationDetailsScreen';
 
 const Stack = createNativeStackNavigator<ProfileStackParamList>();
 
@@ -25,6 +26,11 @@ export default function ProfileNavigator() {
         name="TestPreferences"
         component={TestPreferencesScreen}
         options={{title: 'Test Preferences'}}
+      />
+      <Stack.Screen
+        name="LocationDetails"
+        component={LocationDetailsScreen}
+        options={{title: 'Locations'}}
       />
     </Stack.Navigator>
   );

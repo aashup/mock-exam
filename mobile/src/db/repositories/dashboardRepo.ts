@@ -1,35 +1,25 @@
 import {getDb} from '../database';
 import type {DashboardStats} from '@/types/models';
 
-function first<T>(res: {rows: unknown[]}): T | undefined {
-  return res.rows[0] as T | undefined;
-}
-
-/**
- * Computes the student dashboard metrics entirely from local SQLite so the
- * dashboard renders offline. Mirrors the backend GET /api/analytics/summary.
- */
 export const dashboardRepo = {
   async stats(): Promise<DashboardStats> {
-    const db = getDb();
+    const db = await getDb();
 
-    const counts = first<{
+    const counts = await db.getFirstAsync<{
       tests: number;
       attempted: number;
       correct: number;
       wrong: number;
     }>(
-      await db.execute(
-        `SELECT
-           (SELECT COUNT(*) FROM sessions WHERE status = 'completed') AS tests,
-           (SELECT COUNT(*) FROM attempts) AS attempted,
-           (SELECT COUNT(*) FROM attempts WHERE is_correct = 1) AS correct,
-           (SELECT COUNT(*) FROM attempts WHERE is_correct = 0) AS wrong;`,
-      ),
+      `SELECT
+         (SELECT COUNT(*) FROM sessions WHERE status = 'completed') AS tests,
+         (SELECT COUNT(*) FROM attempts) AS attempted,
+         (SELECT COUNT(*) FROM attempts WHERE is_correct = 1) AS correct,
+         (SELECT COUNT(*) FROM attempts WHERE is_correct = 0) AS wrong;`,
     );
 
-    const usage = first<{seconds: number}>(
-      await db.execute(`SELECT COALESCE(SUM(seconds_active), 0) AS seconds FROM app_usage;`),
+    const usage = await db.getFirstAsync<{seconds: number}>(
+      `SELECT COALESCE(SUM(seconds_active), 0) AS seconds FROM app_usage;`,
     );
 
     const attempted = counts?.attempted ?? 0;
@@ -46,18 +36,17 @@ export const dashboardRepo = {
     };
   },
 
-  /** Counts consecutive days (ending today) that have a completed session. */
   async streak(): Promise<number> {
-    const res = await getDb().execute(
+    const db = await getDb();
+    const days = await db.getAllAsync<{day: string}>(
       `SELECT DISTINCT date(completed_at) AS day
        FROM sessions WHERE status = 'completed'
        ORDER BY day DESC;`,
     );
-    const days = res.rows.map(r => (r as {day: string}).day);
 
     let streak = 0;
     const cursor = new Date();
-    for (const day of days) {
+    for (const {day} of days) {
       const expected = cursor.toISOString().slice(0, 10);
       if (day === expected) {
         streak += 1;
@@ -69,14 +58,13 @@ export const dashboardRepo = {
     return streak;
   },
 
-  /** Accuracy of the last N completed sessions, oldest→newest (for the trend chart). */
   async recentAccuracy(limit = 7): Promise<number[]> {
-    const res = await getDb().execute(
+    const db = await getDb();
+    const rows = await db.getAllAsync<{score: number}>(
       `SELECT score FROM sessions WHERE status = 'completed'
        ORDER BY completed_at DESC LIMIT ?;`,
       [limit],
     );
-    const scores = res.rows.map(r => (r as {score: number}).score ?? 0);
-    return scores.reverse();
+    return rows.map(r => r.score ?? 0).reverse();
   },
 };

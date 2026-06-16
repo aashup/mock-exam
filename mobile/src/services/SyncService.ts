@@ -1,14 +1,11 @@
-import type {Scalar} from '@op-engineering/op-sqlite';
 import {api} from '@/api/client';
 import {getDb, getMeta, setMeta} from '@/db/database';
 import {subjectRepo} from '@/db/repositories/subjectRepo';
 
 const LAST_SYNCED_KEY = 'last_synced_at';
 
-// Tables synced by the dirty flag, plus their server-id-enriched SELECTs.
-// Each row carries its local `id`, its (nullable) `server_id`, and parent
-// foreign keys as BOTH the local id and the resolved parent server id so the
-// backend can map device-local ids to server ids.
+type BindValue = string | number | boolean | null;
+
 const DIRTY_QUERIES: Record<string, string> = {
   question_sets: `
     SELECT qs.id, qs.server_id,
@@ -25,7 +22,6 @@ const DIRTY_QUERIES: Record<string, string> = {
     FROM questions q
     LEFT JOIN question_sets qs ON qs.id = q.set_id
     WHERE q.is_dirty = 1;`,
-  // options has no is_dirty column (immutable once generated) → push unsynced.
   options: `
     SELECT o.id, o.server_id, o.question_id, q.server_id AS question_server_id,
            o.text, o.is_correct
@@ -68,70 +64,58 @@ const DIRTY_QUERIES: Record<string, string> = {
     FROM locations WHERE is_dirty = 1 ORDER BY recorded_at ASC;`,
 };
 
-// Tables that have no is_dirty column — only their server_id is written back.
 const TABLES_WITHOUT_DIRTY = new Set(['options']);
 
 async function collectDirty(table: string): Promise<unknown[]> {
   const query = DIRTY_QUERIES[table];
-  if (!query) {
-    return [];
-  }
-  const res = await getDb().execute(query);
-  return res.rows;
+  if (!query) return [];
+  const db = await getDb();
+  return db.getAllAsync(query);
 }
 
-/** Parse a timestamp to epoch millis. Handles ISO-8601 (server) and SQLite
- * `YYYY-MM-DD HH:MM:SS` (local, UTC) by normalising the latter to ISO-UTC. */
 function toMillis(value: unknown): number {
-  if (typeof value !== 'string' || value.length === 0) {
-    return 0;
-  }
+  if (typeof value !== 'string' || value.length === 0) return 0;
   const iso = value.includes('T') ? value : value.replace(' ', 'T') + 'Z';
   const ms = Date.parse(iso);
   return Number.isNaN(ms) ? 0 : ms;
 }
 
-/** Resolve a server reference id to its local row id (NULL-safe). */
 async function localIdForServerId(table: string, serverId: unknown): Promise<number | null> {
-  if (serverId === null || serverId === undefined) {
-    return null;
-  }
-  const res = await getDb().execute(`SELECT id FROM ${table} WHERE server_id = ?;`, [
-    serverId as Scalar,
-  ]);
-  return (res.rows[0]?.id as number | undefined) ?? null;
+  if (serverId === null || serverId === undefined) return null;
+  const db = await getDb();
+  const row = await db.getFirstAsync<{id: number}>(
+    `SELECT id FROM ${table} WHERE server_id = ?;`,
+    [serverId as string],
+  );
+  return row?.id ?? null;
 }
 
-/**
- * server_id-keyed last-write-wins upsert. Returns the local row id. `columns`
- * are written on both insert and update; the row is marked clean (is_dirty=0).
- * `hasDirty=false` for tables (options) that lack an is_dirty column.
- */
 async function lwwUpsert(
   table: string,
   serverId: string,
   incomingUpdatedAt: unknown,
-  columns: Record<string, Scalar>,
+  columns: Record<string, BindValue>,
   hasDirty = true,
 ): Promise<number | null> {
-  const db = getDb();
-  const existing = await db.execute(
+  const db = await getDb();
+  const existingRow = await db.getFirstAsync<{id: number; updated_at?: string}>(
     `SELECT id, updated_at FROM ${table} WHERE server_id = ?;`,
     [serverId],
   );
-  const existingRow = existing.rows[0] as {id: number; updated_at?: string} | undefined;
 
   const cols = Object.keys(columns);
   const vals = Object.values(columns);
 
   if (existingRow) {
-    // Local copy wins if it is the same or newer (last-write-wins).
-    if (toMillis(existingRow.updated_at) >= toMillis(incomingUpdatedAt) && toMillis(incomingUpdatedAt) > 0) {
+    if (
+      toMillis(existingRow.updated_at) >= toMillis(incomingUpdatedAt) &&
+      toMillis(incomingUpdatedAt) > 0
+    ) {
       return existingRow.id;
     }
     const setClause = cols.map(c => `${c} = ?`).join(', ');
     const dirty = hasDirty ? ', is_dirty = 0' : '';
-    await db.execute(
+    await db.runAsync(
       `UPDATE ${table} SET ${setClause}${dirty}, synced_at = datetime('now') WHERE id = ?;`,
       [...vals, existingRow.id],
     );
@@ -141,20 +125,14 @@ async function lwwUpsert(
   const dirtyCol = hasDirty ? ', is_dirty' : '';
   const dirtyVal = hasDirty ? ', 0' : '';
   const placeholders = cols.map(() => '?').join(', ');
-  const res = await db.execute(
+  const result = await db.runAsync(
     `INSERT INTO ${table} (server_id, ${cols.join(', ')}${dirtyCol}, synced_at)
      VALUES (?, ${placeholders}${dirtyVal}, datetime('now'));`,
     [serverId, ...vals],
   );
-  return Number(res.insertId);
+  return result.lastInsertRowId;
 }
 
-/**
- * Merge server-side deltas into local SQLite. Reference data (subjects/courses)
- * is upserted separately before this runs. Foreign keys in the delta are SERVER
- * ids and are translated to local ids here. Processed parent-first so sessions
- * can resolve their set_id.
- */
 async function applyDelta(data: {
   question_sets?: any[];
   questions?: any[];
@@ -169,7 +147,7 @@ async function applyDelta(data: {
     const subjectId = await localIdForServerId('subjects', qs.subject_id);
     if (!subjectId) {
       console.warn('[Sync] skip set — subject not local', {set: qs.id, subject: qs.subject_id});
-      continue; // subject must exist locally (NOT NULL FK)
+      continue;
     }
     const courseId = await localIdForServerId('courses', qs.course_id);
     await lwwUpsert('question_sets', qs.id, qs.updated_at, {
@@ -183,44 +161,32 @@ async function applyDelta(data: {
     setsApplied++;
   }
 
-  // Build server_id -> local id maps ONCE so the questions/options loops don't
-  // issue a SELECT per row (1500 questions × 6000 options would otherwise mean
-  // tens of thousands of round-trips).
   const setIdMap = new Map<string, number>();
   {
-    const res = await getDb().execute(
+    const db = await getDb();
+    const rows = await db.getAllAsync<{id: number; server_id: string}>(
       'SELECT id, server_id FROM question_sets WHERE server_id IS NOT NULL;',
     );
-    for (const r of res.rows as Array<{id: number; server_id: string}>) {
-      setIdMap.set(r.server_id, r.id);
-    }
+    for (const r of rows) setIdMap.set(r.server_id, r.id);
   }
 
-  // Questions for the delta's sets (incl. the shared/global bank).
   const questionIdMap = new Map<string, number>();
   let qApplied = 0;
   let qSkipped = 0;
   for (const q of data.questions ?? []) {
     const setId = setIdMap.get(q.set_id);
-    if (!setId) {
-      qSkipped++;
-      continue;
-    }
+    if (!setId) {qSkipped++; continue;}
     const localId = await lwwUpsert('questions', q.id, q.updated_at, {
       set_id: setId,
       text: q.text ?? '',
       explanation: q.explanation ?? null,
       updated_at: q.updated_at ?? null,
     });
-    if (localId) {
-      questionIdMap.set(q.id, localId);
-    }
+    if (localId) questionIdMap.set(q.id, localId);
     qApplied++;
   }
 
-  // Options have no is_dirty / updated_at column — they are server-authoritative
-  // and immutable, so upsert them directly keyed by server_id.
-  const optDb = getDb();
+  const db = await getDb();
   let oApplied = 0;
   let oSkipped = 0;
   for (const o of data.options ?? []) {
@@ -228,23 +194,20 @@ async function applyDelta(data: {
     if (!questionId) {
       questionId = (await localIdForServerId('questions', o.question_id)) ?? undefined;
     }
-    if (!questionId) {
-      oSkipped++;
-      continue;
-    }
-    const existing = await optDb.execute(
+    if (!questionId) {oSkipped++; continue;}
+
+    const existing = await db.getFirstAsync<{id: number}>(
       'SELECT id FROM options WHERE server_id = ?;',
       [o.id],
     );
-    const row = existing.rows[0] as {id: number} | undefined;
-    if (row) {
-      await optDb.execute(
+    if (existing) {
+      await db.runAsync(
         `UPDATE options SET question_id = ?, text = ?, is_correct = ?, synced_at = datetime('now')
          WHERE id = ?;`,
-        [questionId, o.text ?? '', o.is_correct ? 1 : 0, row.id],
+        [questionId, o.text ?? '', o.is_correct ? 1 : 0, existing.id],
       );
     } else {
-      await optDb.execute(
+      await db.runAsync(
         `INSERT INTO options (server_id, question_id, text, is_correct, synced_at)
          VALUES (?, ?, ?, ?, datetime('now'));`,
         [o.id, questionId, o.text ?? '', o.is_correct ? 1 : 0],
@@ -253,19 +216,11 @@ async function applyDelta(data: {
     oApplied++;
   }
 
-  console.log('[Sync] applyDelta content', {
-    setsApplied,
-    qApplied,
-    qSkipped,
-    oApplied,
-    oSkipped,
-  });
+  console.log('[Sync] applyDelta', {setsApplied, qApplied, qSkipped, oApplied, oSkipped});
 
   for (const s of data.sessions ?? []) {
     const setId = await localIdForServerId('question_sets', s.set_id);
-    if (!setId) {
-      continue; // session needs a local set (NOT NULL FK)
-    }
+    if (!setId) continue;
     await lwwUpsert('sessions', s.id, s.updated_at, {
       set_id: setId,
       mode: s.mode,
@@ -295,27 +250,20 @@ async function applyDelta(data: {
     });
   }
 
-  const db = getDb();
   for (const u of data.app_usage ?? []) {
-    // app_usage is keyed by date locally (UNIQUE), and a locally-created row may
-    // not yet have a server_id — so match on DATE, not server_id. The server
-    // value (summed across devices) is authoritative.
-    const existing = await db.execute(
+    const row = await db.getFirstAsync<{id: number; updated_at?: string}>(
       `SELECT id, updated_at FROM app_usage WHERE date = ?;`,
       [u.date],
     );
-    const row = existing.rows[0] as {id: number; updated_at?: string} | undefined;
     if (row) {
-      if (toMillis(row.updated_at) >= toMillis(u.updated_at) && toMillis(u.updated_at) > 0) {
-        continue;
-      }
-      await db.execute(
+      if (toMillis(row.updated_at) >= toMillis(u.updated_at) && toMillis(u.updated_at) > 0) continue;
+      await db.runAsync(
         `UPDATE app_usage SET server_id = ?, seconds_active = ?, is_dirty = 0,
            updated_at = ?, synced_at = datetime('now') WHERE id = ?;`,
         [u.id, u.seconds_active ?? 0, u.updated_at ?? null, row.id],
       );
     } else {
-      await db.execute(
+      await db.runAsync(
         `INSERT INTO app_usage (server_id, date, seconds_active, is_dirty, updated_at, synced_at)
          VALUES (?, ?, ?, 0, ?, datetime('now'));`,
         [u.id, u.date, u.seconds_active ?? 0, u.updated_at ?? null],
@@ -323,69 +271,42 @@ async function applyDelta(data: {
     }
   }
 
-  // Locations in pull response come from the server with their own `id` as server_id.
-  // These represent records from other devices of the same user. Apply last-write-wins.
-  const locDb = getDb();
   for (const loc of data.locations ?? []) {
     const serverId = String(loc.id ?? loc.server_id ?? '');
     if (!serverId) continue;
-
-    const existing = await locDb.execute(
+    const row = await db.getFirstAsync<{id: number; updated_at?: string}>(
       `SELECT id, updated_at FROM locations WHERE server_id = ?;`,
       [serverId],
     );
-    const row = existing.rows[0] as {id: number; updated_at?: string} | undefined;
-
     if (row) {
-      // Keep local if it is equal or newer (last-write-wins).
-      if (toMillis(row.updated_at) >= toMillis(loc.updated_at) && toMillis(loc.updated_at) > 0) {
-        continue;
-      }
-      await locDb.execute(
+      if (toMillis(row.updated_at) >= toMillis(loc.updated_at) && toMillis(loc.updated_at) > 0) continue;
+      await db.runAsync(
         `UPDATE locations SET latitude = ?, longitude = ?, accuracy = ?, altitude = ?,
            speed = ?, heading = ?, recorded_at = ?, location_source = ?,
            battery_level = ?, is_dirty = 0, updated_at = ?, synced_at = datetime('now')
          WHERE id = ?;`,
-        [
-          loc.latitude, loc.longitude, loc.accuracy,
-          loc.altitude ?? null, loc.speed ?? null, loc.heading ?? null,
-          loc.recorded_at, loc.location_source ?? 'fused',
-          loc.battery_level ?? null, loc.updated_at, row.id,
-        ],
+        [loc.latitude, loc.longitude, loc.accuracy, loc.altitude ?? null,
+          loc.speed ?? null, loc.heading ?? null, loc.recorded_at,
+          loc.location_source ?? 'fused', loc.battery_level ?? null, loc.updated_at, row.id],
       );
     } else {
-      // New location from another device — insert locally.
-      await locDb.execute(
-        `INSERT INTO locations (server_id, latitude, longitude, accuracy, altitude, speed, heading,
-           recorded_at, location_source, battery_level, is_dirty, updated_at, synced_at)
+      await db.runAsync(
+        `INSERT INTO locations (server_id, latitude, longitude, accuracy, altitude, speed,
+           heading, recorded_at, location_source, battery_level, is_dirty, updated_at, synced_at)
          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 0, ?, datetime('now'));`,
-        [
-          serverId, loc.latitude, loc.longitude, loc.accuracy,
-          loc.altitude ?? null, loc.speed ?? null, loc.heading ?? null,
-          loc.recorded_at, loc.location_source ?? 'fused',
-          loc.battery_level ?? null, loc.updated_at,
-        ],
+        [serverId, loc.latitude, loc.longitude, loc.accuracy, loc.altitude ?? null,
+          loc.speed ?? null, loc.heading ?? null, loc.recorded_at,
+          loc.location_source ?? 'fused', loc.battery_level ?? null, loc.updated_at],
       );
     }
   }
 }
 
-/**
- * Offline-first sync. Runs every ~30 min (and on foreground) when auto-sync is
- * enabled. Pushes dirty rows, pulls server deltas, applies last-write-wins.
- */
-// Guards against overlapping sync cycles. Auto-sync fires on a timer AND on app
-// foreground, and the manual "Sync now" button can fire too — running several
-// applyDelta passes concurrently against one SQLite file causes lock contention
-// and writes that silently roll back. Only one cycle runs at a time.
 let syncing = false;
 
 export const SyncService = {
   async run(deviceId: string): Promise<void> {
-    if (syncing) {
-      console.log('[Sync] skip — a sync is already running');
-      return;
-    }
+    if (syncing) {console.log('[Sync] skip — already running'); return;}
     syncing = true;
     try {
       await SyncService.push(deviceId);
@@ -398,10 +319,8 @@ export const SyncService = {
     }
   },
 
-  /** Uploads all rows flagged is_dirty = 1. */
   async push(deviceId: string): Promise<void> {
     const lastSyncedAt = (await getMeta(LAST_SYNCED_KEY)) ?? null;
-
     const payload = {
       device_id: deviceId,
       last_synced_at: lastSyncedAt,
@@ -416,29 +335,22 @@ export const SyncService = {
     };
 
     const hasDirty = Object.values(payload).some(v => Array.isArray(v) && v.length > 0);
-    if (!hasDirty) {
-      return;
-    }
+    if (!hasDirty) return;
 
     const {data} = await api.post('/sync', payload);
-
-    // Server returns id mappings { table: [{ local_id, server_id }] }. Only the
-    // acknowledged rows are cleared; anything skipped (unknown parent) stays
-    // dirty and is retried on the next sync.
     const mappings: Record<string, Array<{local_id: number; server_id: string}>> =
       data?.mappings ?? {};
-    const db = getDb();
+    const db = await getDb();
     for (const [table, list] of Object.entries(mappings)) {
       for (const m of list) {
         if (TABLES_WITHOUT_DIRTY.has(table)) {
-          await db.execute(
+          await db.runAsync(
             `UPDATE ${table} SET server_id = ?, synced_at = datetime('now') WHERE id = ?;`,
             [m.server_id, m.local_id],
           );
         } else {
-          await db.execute(
-            `UPDATE ${table} SET server_id = ?, is_dirty = 0, synced_at = datetime('now')
-             WHERE id = ?;`,
+          await db.runAsync(
+            `UPDATE ${table} SET server_id = ?, is_dirty = 0, synced_at = datetime('now') WHERE id = ?;`,
             [m.server_id, m.local_id],
           );
         }
@@ -446,7 +358,6 @@ export const SyncService = {
     }
   },
 
-  /** Pulls reference data + server-side changes since last sync. */
   async pull(): Promise<void> {
     const since = (await getMeta(LAST_SYNCED_KEY)) ?? '';
     const {data} = await api.get('/sync/pull', {params: {since}});
@@ -457,21 +368,11 @@ export const SyncService = {
       courses: data?.courses?.length ?? 0,
       question_sets: data?.question_sets?.length ?? 0,
       questions: data?.questions?.length ?? 0,
-      options: data?.options?.length ?? 0,
-      sessions: data?.sessions?.length ?? 0,
-      locations: data?.locations?.length ?? 0,
     });
 
-    // Reference data is server-authoritative — always overwrite first so that
-    // delta foreign keys (subject_id/course_id) resolve to local ids.
-    if (data?.subjects) {
-      await subjectRepo.upsertSubjects(data.subjects);
-    }
-    if (data?.courses) {
-      await subjectRepo.upsertCourses(data.courses);
-    }
+    if (data?.subjects) await subjectRepo.upsertSubjects(data.subjects);
+    if (data?.courses) await subjectRepo.upsertCourses(data.courses);
 
-    // Merge server-side user-data deltas (last-write-wins by updated_at).
     try {
       await applyDelta(data ?? {});
     } catch (e) {
@@ -479,11 +380,11 @@ export const SyncService = {
       throw e;
     }
 
-    const after = await getDb().execute(
-      'SELECT (SELECT COUNT(*) FROM question_sets) AS sets, (SELECT COUNT(*) FROM questions) AS qs, (SELECT COUNT(*) FROM options) AS opts;',
+    const db = await getDb();
+    const after = await db.getFirstAsync<{sets: number; qs: number}>(
+      'SELECT (SELECT COUNT(*) FROM question_sets) AS sets, (SELECT COUNT(*) FROM questions) AS qs;',
     );
-    console.log('[Sync] local DB after applyDelta', after.rows[0]);
-
+    console.log('[Sync] local DB after pull', after);
     await setMeta(LAST_SYNCED_KEY, new Date().toISOString());
   },
 };

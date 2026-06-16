@@ -1,0 +1,26 @@
+# OSX
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Metro / build artifacts
+.metro-health-check*
+*.log
+
+# Android
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+*.keystore
+!debug.keystore
+
+# iOS
+ios/build/
+ios/Pods/
+
+# DEV-ONLY local API keys — never commit real keys
+src/config/devKeys.ts

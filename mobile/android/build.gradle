@@ -1,34 +1,24 @@
-buildscript {
-    ext {
-        buildToolsVersion = "34.0.0"
-        minSdkVersion = 23
-        compileSdkVersion = 34
-        targetSdkVersion = 34
-        ndkVersion = "26.1.10909125"
-        kotlinVersion = "1.9.24"
-    }
-    repositories {
-        google()
-        mavenCentral()
-    }
-    dependencies {
-        classpath("com.android.tools.build:gradle")
-        classpath("com.facebook.react:react-native-gradle-plugin")
-        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin")
-    }
-}
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
 
-apply plugin: "com.facebook.react.rootproject"
+buildscript {
+  repositories {
+    google()
+    mavenCentral()
+  }
+  dependencies {
+    classpath('com.android.tools.build:gradle')
+    classpath('com.facebook.react:react-native-gradle-plugin')
+    classpath('org.jetbrains.kotlin:kotlin-gradle-plugin')
+  }
+}
 
 allprojects {
-    repositories {
-        maven {
-            // react-native-background-geolocation local AAR (tslocationmanager)
-            url "${rootDir}/../node_modules/react-native-background-geolocation/android/libs"
-        }
-        maven {
-            // react-native-background-fetch local AAR (peer dependency)
-            url "${rootDir}/../node_modules/react-native-background-fetch/android/libs"
-        }
-    }
+  repositories {
+    google()
+    mavenCentral()
+    maven { url 'https://www.jitpack.io' }
+  }
 }
+
+apply plugin: "expo-root-project"
+apply plugin: "com.facebook.react.rootproject"

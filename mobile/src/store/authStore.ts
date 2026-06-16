@@ -1,7 +1,7 @@
 import {create} from 'zustand';
-import * as Keychain from 'react-native-keychain';
+import * as SecureStore from 'expo-secure-store';
 
-const AUTH_SERVICE = 'auth_token';
+const TOKEN_KEY = 'auth_token';
 
 interface User {
   id: number;
@@ -21,27 +21,27 @@ interface AuthState {
   logout: () => Promise<void>;
 }
 
-/** Authentication state. The Sanctum token is persisted in the Keychain. */
+/** Authentication state. The Sanctum token is persisted via expo-secure-store. */
 export const useAuthStore = create<AuthState>(set => ({
   user: null,
   token: null,
   isHydrated: false,
 
   async setSession(user, token) {
-    await Keychain.setGenericPassword(user.email, token, {service: AUTH_SERVICE});
+    await SecureStore.setItemAsync(TOKEN_KEY, token);
     set({user, token});
   },
 
   async hydrate() {
-    const creds = await Keychain.getGenericPassword({service: AUTH_SERVICE});
-    set({token: creds ? creds.password : null, isHydrated: true});
+    const token = await SecureStore.getItemAsync(TOKEN_KEY);
+    set({token: token ?? null, isHydrated: true});
   },
 
   async logout() {
-    await Keychain.resetGenericPassword({service: AUTH_SERVICE});
+    await SecureStore.deleteItemAsync(TOKEN_KEY);
     set({user: null, token: null});
   },
 }));
 
 export type {User};
-export {AUTH_SERVICE};
+export {TOKEN_KEY};

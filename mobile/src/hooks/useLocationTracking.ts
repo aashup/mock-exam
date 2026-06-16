@@ -26,7 +26,7 @@ export function useLocationTracking() {
   }, [locationTrackingEnabled]);
 
   useEffect(() => {
-    const interval = setInterval(updatePendingCount, 30000);
+    const interval = setInterval(updatePendingCount, 3000);
     return () => clearInterval(interval);
   }, []);
 
