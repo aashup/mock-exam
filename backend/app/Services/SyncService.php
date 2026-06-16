@@ -15,7 +15,6 @@ use App\Models\User;
 use Illuminate\Support\Carbon;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Str;
-
 /**
  * Central sync engine.
  *
@@ -223,7 +222,7 @@ class SyncService
 
             // ---- device_locations ----
             foreach ($payload['locations'] ?? [] as $row) {
-                $recordedAt = $row['recorded_at'] ?? null;
+                $recordedAt = Carbon::parse($row['recorded_at']) ?? null;
                 DB::table('device_locations')->updateOrInsert(
                     [
                         'user_id' => $user->id,

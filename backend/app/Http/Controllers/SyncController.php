@@ -17,6 +17,7 @@ class SyncController extends Controller
      */
     public function push(Request $request)
     {
+        \Log::info($request->all());
         $payload = $request->validate([
             'device_id' => ['nullable', 'string'],
             'last_synced_at' => ['nullable', 'string'],
@@ -36,7 +37,7 @@ class SyncController extends Controller
             'locations.*.altitude' => ['nullable', 'numeric'],
             'locations.*.speed' => ['nullable', 'numeric'],
             'locations.*.heading' => ['nullable', 'numeric'],
-            'locations.*.recorded_at' => ['required', 'date_format:Y-m-d\TH:i:s\Z'],
+            'locations.*.recorded_at' => ['required'],
             'locations.*.location_source' => ['in:gps,network,fused'],
             'locations.*.battery_level' => ['nullable', 'integer'],
         ]);
