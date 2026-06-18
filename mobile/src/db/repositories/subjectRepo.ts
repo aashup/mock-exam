@@ -11,8 +11,6 @@ export const subjectRepo = {
     const db = await getDb();
     return db.getAllAsync<Course>(
       `SELECT c.* FROM courses c
-       JOIN course_subjects cs ON cs.course_id = c.id
-       WHERE cs.subject_id = ?
        ORDER BY c.name;`,
       [subjectId],
     );

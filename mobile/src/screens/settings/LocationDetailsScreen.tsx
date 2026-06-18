@@ -1,8 +1,8 @@
-import React, {useCallback, useState, useEffect} from 'react';
-import {View, StyleSheet, FlatList} from 'react-native';
-import axios from 'axios'; 
-import {Card, Text} from 'react-native-paper';
-import {LocationRecord, locationRepo} from '@/db/repositories/locationRepo';
+import React, { useCallback, useState, useEffect } from 'react';
+import { View, StyleSheet, FlatList } from 'react-native';
+import axios from 'axios';
+import { Card, Text } from 'react-native-paper';
+import { LocationRecord, locationRepo } from '@/db/repositories/locationRepo';
 
 // Define an extended type to hold the resolved address string locally
 type LocationWithAddress = LocationRecord & {
@@ -21,7 +21,7 @@ export default function LocationDetailsScreen() {
       try {
         setLoading(true);
         const locationsData = await locationRepo.getRecentLocations();
-        
+
         const enhancedLocations: LocationWithAddress[] = [];
 
         // Fetch addresses sequentially to avoid getting banned (403) by Nominatim
@@ -32,7 +32,7 @@ export default function LocationDetailsScreen() {
               {
                 headers: {
                   // CRITICAL: Change this string to identify your unique application
-                  'User-Agent': 'MyReactNativeApp/1.0 (contact@yourdomain.com)', 
+                  'User-Agent': 'MyReactNativeApp/1.0 (contact@yourdomain.com)',
                 }
               }
             );
@@ -45,7 +45,7 @@ export default function LocationDetailsScreen() {
             enhancedLocations.push({ ...loc, address: 'Address unavailable' });
           }
           // Wait 1 second before querying the next item to honor the API terms of service
-          await delay(1000); 
+          await delay(1000);
         }
 
         setLocations(enhancedLocations);
@@ -58,46 +58,45 @@ export default function LocationDetailsScreen() {
   }, []);
 
   // Optimized renderItem handling static state values safely
-  const renderItem = useCallback(({item}: {item: LocationWithAddress}) => {
+  const renderItem = useCallback(({ item }: { item: LocationWithAddress }) => {
     return (
-      <View style={styles.statRow}>
-        <View style={{ flex: 1 }}>
-          <Text variant="bodySmall" style={styles.subtle}>
-            {item.address || 'Resolving address...'}
-          </Text>
-          <Text variant="bodySmall">
-            S: {item.location_source}, B: {item.battery_level}, A: {item.accuracy}, V: {item.speed}, D: {item.recorded_at}
-          </Text>
+      <Card style={styles.card}>
+        <Card.Content>
+          <View style={{ flex: 1 }}>
+            <Text variant="bodySmall" style={styles.subtle}>
+              {item.address || 'Resolving address...'}
+            </Text>
+            <Text variant="bodySmall">
+              S: {item.location_source}, B: {item.battery_level}, A: {item.accuracy}, V: {item.speed}, D: {item.recorded_at}
+            </Text>
 
-        </View>
-      </View>
+          </View>
+        </Card.Content>
+      </Card>
     );
   }, []);
 
   return (
     <View style={styles.container}>
-      <Card style={styles.card}>
-        <Card.Content>
-          {!loading ? (
-            <FlatList
-              data={locations}
-              keyExtractor={(item) => item.id.toString()}
-              renderItem={renderItem}
-            />
-          ) : (
-            <Text>Resolving addresses from coordinates...</Text>
-          )}
-        </Card.Content>
-      </Card>
+      {!loading ? (
+        <FlatList
+          data={locations}
+          keyExtractor={(item) => item.id.toString()}
+          renderItem={renderItem}
+        />
+      ) : (
+        <Text>Resolving addresses from coordinates...</Text>
+      )}
+
     </View>
   );
 }
 
 const styles = StyleSheet.create({
-  container: {padding: 16, paddingBottom: 40},
-  card: {borderRadius: 14, marginBottom: 16},
-  heading: {fontWeight: '700', marginBottom: 8},
-  bigStat: {fontWeight: '800'},
-  subtle: {opacity: 0.8},
-  statRow: {paddingVertical: 8, borderBottomWidth: 0.1, borderBottomColor: '#ccc'},
+  container: { padding: 16, paddingBottom: 40 },
+  card: { borderRadius: 14, marginBottom: 16 },
+  heading: { fontWeight: '700', marginBottom: 8 },
+  bigStat: { fontWeight: '800' },
+  subtle: { opacity: 0.8 },
+  statRow: { paddingVertical: 8, borderBottomWidth: 0.1, borderBottomColor: '#ccc' },
 });

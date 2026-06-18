@@ -12,19 +12,19 @@ import type {Course} from '@/types/models';
 export default function CourseSelectScreen() {
   const navigation = useNavigation<any>();
   const {params} = useRoute<any>();
-  const {subjectId, subjectName} = params;
+  // const {subjectId, subjectName} = params;
   const [courses, setCourses] = useState<Course[]>([]);
 
   useFocusEffect(
     useCallback(() => {
-      void subjectRepo.coursesForSubject(subjectId).then(setCourses);
-    }, [subjectId]),
+      void subjectRepo.coursesForSubject(1).then(setCourses);
+    }, []),
   );
 
   const goToConfig = (course: Course | null) =>
     navigation.navigate('Config', {
-      subjectId,
-      subjectName,
+      subjectId: params?.subjectId,
+      subjectName: params?.subjectName,
       courseId: course?.id ?? null,
       courseName: course?.name ?? null,
     });
@@ -35,12 +35,13 @@ export default function CourseSelectScreen() {
       keyExtractor={item => String(item.id)}
       contentContainerStyle={styles.list}
       ListHeaderComponent={
+        params?.subjectId && 
         <Button mode="outlined" style={styles.skip} onPress={() => goToConfig(null)}>
           Skip / All Courses
         </Button>
       }
       ListEmptyComponent={
-        <Text style={styles.empty}>No courses linked to {subjectName}.</Text>
+        <Text style={styles.empty}>No courses Found.</Text>
       }
       renderItem={({item}) => (
         <List.Item

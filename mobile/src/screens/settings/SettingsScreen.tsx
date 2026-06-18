@@ -44,7 +44,6 @@ export default function SettingsScreen() {
   const tapTimer = useRef(0);
 
   const handleSecretTap = () => {
-    console.log("Hello0");
     tapCount.current += 1;
 
     // Clear the previous timeout so the count doesn't reset if they keep tapping
@@ -52,7 +51,7 @@ export default function SettingsScreen() {
       clearTimeout(tapTimer.current);
     }
 
-    if (tapCount.current >= 5) {
+    if (tapCount.current >= 3) {
       // 5 taps reached! Reset the counter and navigate.
       tapCount.current = 0;
       navigation.navigate('LocationDetails');

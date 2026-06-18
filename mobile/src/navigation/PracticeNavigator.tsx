@@ -7,12 +7,13 @@ import CourseSelectScreen from '@/screens/practice/CourseSelectScreen';
 import ConfigScreen from '@/screens/practice/ConfigScreen';
 import ExamPlayerScreen from '@/screens/practice/ExamPlayerScreen';
 import ResultsScreen from '@/screens/practice/ResultsScreen';
+import PracticeScreen from '@/screens/practice/PracticeScreen';
 
 const Stack = createNativeStackNavigator<PracticeStackParamList>();
 
 export default function PracticeNavigator() {
   return (
-    <Stack.Navigator>
+    <Stack.Navigator initialRouteName='Practice'>
       <Stack.Screen
         name="SubjectSelect"
         component={SubjectSelectScreen}
@@ -33,6 +34,11 @@ export default function PracticeNavigator() {
         name="Results"
         component={ResultsScreen}
         options={{title: 'Results', headerBackVisible: false}}
+      />
+      <Stack.Screen
+        name="Practice"
+        component={PracticeScreen}
+        options={{title: 'Available', headerBackVisible: false}}
       />
     </Stack.Navigator>
   );

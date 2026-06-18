@@ -7,7 +7,7 @@ export type AuthStackParamList = {
 
 export type PracticeStackParamList = {
   SubjectSelect: undefined;
-  CourseSelect: {subjectId: number; subjectName: string};
+  CourseSelect: {subjectId?: number; subjectName?: string};
   Config: {
     subjectId: number;
     subjectName: string;
@@ -16,6 +16,7 @@ export type PracticeStackParamList = {
   };
   ExamPlayer: {sessionId: number; setId: number};
   Results: {sessionId: number; score: number};
+  Practice: undefined
 };
 
 export type HistoryStackParamList = {

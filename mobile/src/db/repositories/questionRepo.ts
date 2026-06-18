@@ -64,14 +64,14 @@ export const questionRepo = {
     );
   },
 
-  async bestLocalSet(subjectId: number, difficulty: Difficulty): Promise<QuestionSet | null> {
+  async bestLocalSet(subjectId: number, difficulty: Difficulty, courseId: number): Promise<QuestionSet | null> {
     const db = await getDb();
     return db.getFirstAsync<QuestionSet>(
       `SELECT * FROM question_sets
-       WHERE subject_id = ? AND total_questions > 0
+       WHERE course_id = ? AND total_questions > 0
        ORDER BY (difficulty = ?) DESC, total_questions DESC, generated_at DESC
        LIMIT 1;`,
-      [subjectId, difficulty],
+      [courseId, difficulty],
     );
   },
 

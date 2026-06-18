@@ -92,7 +92,7 @@ export default function ConfigScreen() {
     setError(null);
     try {
       const n = Math.max(1, parseInt(count, 10) || 10);
-      const localSet = await questionRepo.bestLocalSet(params.subjectId, difficulty);
+      const localSet = await questionRepo.bestLocalSet(params.subjectId, difficulty, params.courseId);
       if (!localSet) {
         setError(
           'No questions are stored on this device for this subject yet. Generate a set once while online — it is then saved for offline practice.',
@@ -196,7 +196,7 @@ export default function ConfigScreen() {
 
       <Button
         mode="contained"
-        onPress={onStart}
+        onPress={onStartOffline}
         loading={loading}
         disabled={loading || offlineLoading}
         style={styles.start}
@@ -204,19 +204,19 @@ export default function ConfigScreen() {
         Start Test
       </Button>
 
-      <Button
+      {/* <Button
         mode="outlined"
-        onPress={onStartOffline}
+        onPress={onStart}
         loading={offlineLoading}
         disabled={loading || offlineLoading}
         style={styles.offline}
-        icon="cloud-off-outline">
-        Offline Test
-      </Button>
-      <HelperText type="info">
+        icon="cloud-outline">
+        Online Test
+      </Button> */}
+      {/* <HelperText type="info">
         Uses the top {count || '?'} questions already stored on this device — no
         internet needed.
-      </HelperText>
+      </HelperText> */}
     </ScrollView>
   );
 }
