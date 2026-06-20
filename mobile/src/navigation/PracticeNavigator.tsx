@@ -13,7 +13,8 @@ const Stack = createNativeStackNavigator<PracticeStackParamList>();
 
 export default function PracticeNavigator() {
   return (
-    <Stack.Navigator initialRouteName='Practice'>
+    // Updated initialRouteName to match the new screen name
+    <Stack.Navigator initialRouteName="PracticeHome">
       <Stack.Screen
         name="SubjectSelect"
         component={SubjectSelectScreen}
@@ -36,7 +37,7 @@ export default function PracticeNavigator() {
         options={{title: 'Results', headerBackVisible: false}}
       />
       <Stack.Screen
-        name="Practice"
+        name="PracticeHome"
         component={PracticeScreen}
         options={{title: 'Available', headerBackVisible: false}}
       />

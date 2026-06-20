@@ -16,7 +16,7 @@ export type PracticeStackParamList = {
   };
   ExamPlayer: {sessionId: number; setId: number};
   Results: {sessionId: number; score: number};
-  Practice: undefined
+  PracticeHome: undefined
 };
 
 export type HistoryStackParamList = {
