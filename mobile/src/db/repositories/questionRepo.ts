@@ -68,10 +68,10 @@ export const questionRepo = {
     const db = await getDb();
     return db.getFirstAsync<QuestionSet>(
       `SELECT * FROM question_sets
-       WHERE course_id = ? AND total_questions > 0
+       WHERE subject_id = ? AND course_id = ? AND total_questions > 0
        ORDER BY (difficulty = ?) DESC, total_questions DESC, generated_at DESC
        LIMIT 1;`,
-      [courseId, difficulty],
+      [subjectId, courseId, difficulty], // Added subjectId here to match the updated WHERE clause
     );
   },
 
@@ -94,14 +94,17 @@ export const questionRepo = {
     setRow: QuestionSet | null;
   }> {
     const db = await getDb();
-    const one = async (sql: string, args: unknown[] = []): Promise<number> => {
-      const r = await db.getFirstAsync<{c: number}>(sql, args as string[]);
+    // Fixed typing: Prevented forced 'string[]' cast on numeric bindings
+    const one = async (sql: string, args: (string | number | null)[] = []): Promise<number> => {
+      const r = await db.getFirstAsync<{c: number}>(sql, args);
       return r?.c ?? 0;
     };
+    
     const setRow = await db.getFirstAsync<QuestionSet>(
       'SELECT * FROM question_sets WHERE id = ?;',
       [setId],
     );
+    
     return {
       setId,
       questionsForSet: await one('SELECT COUNT(*) AS c FROM questions WHERE set_id = ?;', [setId]),
@@ -119,19 +122,48 @@ export const questionRepo = {
   async loadSetQuestions(setId: number, limit?: number): Promise<QuestionWithOptions[]> {
     const db = await getDb();
     const limitClause = limit && limit > 0 ? ` LIMIT ${Math.floor(limit)}` : '';
-    const questions = await db.getAllAsync<Question>(
-      `SELECT * FROM questions WHERE set_id = ? ORDER BY id${limitClause};`,
+    
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const rows = await db.getAllAsync<any>(
+      `SELECT 
+          q.*,
+          (
+            SELECT json_group_array(
+              json_object(
+                'id', o.id,
+                'server_id', o.server_id,
+                'question_id', o.question_id,
+                'text', o.text,
+                'is_correct', o.is_correct,
+                'synced_at', o.synced_at
+              )
+            ) 
+            FROM options o 
+            WHERE o.question_id = q.id
+            ORDER BY o.id
+          ) AS options_json
+      FROM questions q
+      LEFT JOIN attempts a ON q.id = a.question_id
+      WHERE q.set_id = ? 
+        AND (a.id IS NULL OR a.is_correct = 0)
+      GROUP BY q.id
+      ORDER BY q.id
+      ${limitClause};`,
       [setId],
     );
 
-    const result: QuestionWithOptions[] = [];
-    for (const q of questions) {
-      const options = await db.getAllAsync<Option>(
-        'SELECT * FROM options WHERE question_id = ? ORDER BY id;',
-        [q.id],
-      );
-      result.push({...q, options});
-    }
-    return result;
-  },
+    return rows.map(row => {
+      const { options_json, ...questionFields } = row;
+      const parsedOptions = JSON.parse(options_json);
+      
+      return {
+        ...questionFields,
+        // Safely map SQLite integer 0/1 back to TypeScript boolean for 'is_correct'
+        options: parsedOptions.map((opt: any) => ({
+          ...opt,
+          is_correct: Boolean(opt.is_correct) 
+        })) as Option[]
+      };
+    });
+  } 
 };

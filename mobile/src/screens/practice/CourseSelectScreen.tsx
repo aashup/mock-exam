@@ -37,7 +37,7 @@ export default function CourseSelectScreen() {
       ListHeaderComponent={
         params?.subjectId && 
         <Button mode="outlined" style={styles.skip} onPress={() => goToConfig(null)}>
-          Skip / All Courses
+          All Courses
         </Button>
       }
       ListEmptyComponent={

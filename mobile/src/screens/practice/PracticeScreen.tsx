@@ -6,8 +6,8 @@ import {Card, Text} from 'react-native-paper';
 export default function PracticeScreen() {
   const navigation = useNavigation<any>();
   const [subjects, setSubjects] = useState<{name: string, id: number, route: string}[]>([
-    {name: "Subject Wise Test", id: 1, route: 'SubjectSelect'},
-    {name: "Course Wise Test", id: 2, route: 'CourseSelect'},
+    {name: "Subject Test", id: 1, route: 'SubjectSelect'},
+    {name: "Course Test", id: 2, route: 'CourseSelect'},
   ]);
 
   // Use useCallback to memoize the navigate function
