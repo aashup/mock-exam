@@ -16,17 +16,17 @@ export default function HistoryListScreen() {
     }, []),
   );
 
-  useLayoutEffect(() => {
-    navigation.setOptions({
-      headerRight: () => (
-        <Appbar.Action
-          icon="bookshelf"
-          accessibilityLabel="Question Library"
-          onPress={() => navigation.navigate('QuestionSetLibrary')}
-        />
-      ),
-    });
-  }, [navigation]);
+  // useLayoutEffect(() => {
+  //   navigation.setOptions({
+  //     headerRight: () => (
+  //       <Appbar.Action
+  //         icon="bookshelf"
+  //         accessibilityLabel="Question Library"
+  //         onPress={() => navigation.navigate('QuestionSetLibrary')}
+  //       />
+  //     ),
+  //   });
+  // }, [navigation]);
 
   return (
     <FlatList

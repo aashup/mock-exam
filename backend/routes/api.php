@@ -12,6 +12,7 @@ use App\Http\Controllers\ReferenceController;
 use App\Http\Controllers\RestoreController;
 use App\Http\Controllers\SyncController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\OcrController;
 
 /*
 |--------------------------------------------------------------------------
@@ -31,6 +32,7 @@ Route::prefix('auth')->group(function () {
 |--------------------------------------------------------------------------
 */
 Route::middleware(['auth:sanctum', 'device.tracker', 'api.logger'])->group(function () {
+    Route::post('/analyze-text', [OcrController::class, 'analyze']);
     // Auth session
     Route::prefix('auth')->group(function () {
         Route::post('logout', [AuthController::class, 'logout']);

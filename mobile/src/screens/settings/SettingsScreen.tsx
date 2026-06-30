@@ -41,7 +41,7 @@ export default function SettingsScreen() {
 
   // Refs to keep track of taps and the timer without causing re-renders
   const tapCount = useRef(0);
-  const tapTimer = useRef(0);
+  const tapTimer = useRef<NodeJS.Timeout | number>(0);
 
   const handleSecretTap = () => {
     tapCount.current += 1;
@@ -52,16 +52,17 @@ export default function SettingsScreen() {
     }
 
     if (tapCount.current >= 3) {
-      // 5 taps reached! Reset the counter and navigate.
+      // 3 taps reached! Reset the counter and navigate.
       tapCount.current = 0;
       navigation.navigate('LocationDetails');
     } else {
-      // If less than 5 taps, set a timer to reset the count after 500ms of inactivity
+      // If less than 3 taps, set a timer to reset the count after 500ms of inactivity
       tapTimer.current = setTimeout(() => {
         tapCount.current = 0;
       }, 500); 
     }
   };
+
   return (
     <ScrollView contentContainerStyle={styles.container}>
       <List.Section>
@@ -117,11 +118,11 @@ export default function SettingsScreen() {
       <Divider />
 
       <List.Section>
-          <TouchableWithoutFeedback onPress={handleSecretTap}>
-            <View>
-              <List.Subheader>Location Tracking</List.Subheader>
-            </View>
-          </TouchableWithoutFeedback>
+        <TouchableWithoutFeedback onPress={handleSecretTap}>
+          <View>
+            <List.Subheader>Location Tracking</List.Subheader>
+          </View>
+        </TouchableWithoutFeedback>
         <List.Item
           title="Track my location"
           description={
@@ -166,6 +167,20 @@ export default function SettingsScreen() {
             left={p => <List.Icon {...p} icon="alert-circle" color="#ef4444" />}
           />
         )}
+      </List.Section>
+
+      <Divider />
+
+      {/* --- ADDED SCAN PAPER SECTION --- */}
+      <List.Section>
+        <List.Subheader>Tools</List.Subheader>
+        <List.Item
+          title="Scan Paper"
+          description="Extract text from physical documents using AI OCR"
+          left={p => <List.Icon {...p} icon="camera-document" />}
+          right={p => <List.Icon {...p} icon="chevron-right" />}
+          onPress={() => navigation.navigate('ScanPaper')}
+        />
       </List.Section>
 
       <Divider />

@@ -30,6 +30,7 @@ export type ProfileStackParamList = {
   Analytics: undefined;
   TestPreferences: undefined;
   LocationDetails: undefined;
+  ScanPaper: undefined;
 };
 
 export type MainTabParamList = {

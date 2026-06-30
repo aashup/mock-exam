@@ -12,21 +12,21 @@ export default function SessionReviewScreen() {
   const [review, setReview] = useState<SessionReview | null>(null);
   const [loading, setLoading] = useState(true);
 
-  useFocusEffect(
-    useCallback(() => {
-      let active = true;
-      setLoading(true);
-      void sessionRepo.reviewData(sessionId).then(r => {
-        if (active) {
-          setReview(r);
-          setLoading(false);
-        }
-      });
-      return () => {
-        active = false;
-      };
-    }, [sessionId]),
-  );
+  // useFocusEffect(
+  //   useCallback(() => {
+  //     let active = true;
+  //     setLoading(true);
+  //     void sessionRepo.reviewData(sessionId).then(r => {
+  //       if (active) {
+  //         setReview(r);
+  //         setLoading(false);
+  //       }
+  //     });
+  //     return () => {
+  //       active = false;
+  //     };
+  //   }, [sessionId]),
+  // );
 
   if (loading) {
     return <ActivityIndicator style={styles.center} size="large" />;
