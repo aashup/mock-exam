@@ -65,7 +65,26 @@ export const questionRepo = {
   },
 
   async bestLocalSet(subjectId: number, difficulty: Difficulty, courseId: number): Promise<QuestionSet | null> {
+    console.log('Finding best local set for subjectId:', subjectId, 'difficulty:', difficulty, 'courseId:', courseId);
     const db = await getDb();
+    if(courseId === undefined || courseId === null) {
+      return db.getFirstAsync<QuestionSet>(
+        `SELECT * FROM question_sets
+        WHERE subject_id = ? AND total_questions > 0
+        ORDER BY (difficulty = ?) DESC, total_questions DESC, generated_at DESC
+        LIMIT 1;`,
+        [subjectId, difficulty], // Added subjectId here to match the updated WHERE clause
+      );
+    }
+    if(subjectId === undefined || subjectId === null) {
+      return db.getFirstAsync<QuestionSet>(
+        `SELECT * FROM question_sets
+        WHERE course_id = ? AND total_questions > 0
+        ORDER BY (difficulty = ?) DESC, total_questions DESC, generated_at DESC
+        LIMIT 1;`,
+        [courseId, difficulty], // Added subjectId here to match the updated WHERE clause
+      );
+    }
     return db.getFirstAsync<QuestionSet>(
       `SELECT * FROM question_sets
        WHERE subject_id = ? AND course_id = ? AND total_questions > 0

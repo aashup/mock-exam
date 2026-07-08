@@ -67,7 +67,7 @@ export interface Option {
   server_id: string | null;
   question_id: number;
   text: string;
-  is_correct: number;
+  is_correct: number | boolean;
   synced_at: string | null;
 }
 

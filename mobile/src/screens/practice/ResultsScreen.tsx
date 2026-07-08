@@ -114,7 +114,7 @@ export default function ResultsScreen() {
         durationSeconds,
         isOffline: ctx.isOffline,
       });
-      navigation.replace('ExamPlayer', {sessionId, setId, limit});
+      navigation.navigate('ExamPlayer', {sessionId, setId, limit});
     } catch (e: any) {
       if (e instanceof OfflineError) {
         setError("You're offline — connect to the internet to generate new questions.");

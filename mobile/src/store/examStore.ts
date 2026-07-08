@@ -45,7 +45,8 @@ interface ExamState {
 }
 
 function isCorrect(q: QuestionWithOptions, optionId: number): boolean {
-  return q.options.some(o => o.id === optionId && o.is_correct === 1);
+  // console.log('[ExamStore] isCorrect', q.options, optionId);
+  return q.options.some(o => o.id === optionId && (o.is_correct === 1 || o.is_correct === true));
 }
 
 export const useExamStore = create<ExamState>((set, get) => ({
@@ -98,6 +99,7 @@ export const useExamStore = create<ExamState>((set, get) => ({
       return;
     }
     const correct = isCorrect(q, optionId);
+    console.log('[ExamStore] saveAnswer', {questionId, optionId, correct});
     set({answers: {...answers, [questionId]: optionId}});
     await sessionRepo.recordAttempt({
       sessionId,

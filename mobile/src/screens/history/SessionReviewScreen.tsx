@@ -12,37 +12,48 @@ export default function SessionReviewScreen() {
   const [review, setReview] = useState<SessionReview | null>(null);
   const [loading, setLoading] = useState(true);
 
-  // useFocusEffect(
-  //   useCallback(() => {
-  //     let active = true;
-  //     setLoading(true);
-  //     void sessionRepo.reviewData(sessionId).then(r => {
-  //       if (active) {
-  //         setReview(r);
-  //         setLoading(false);
-  //       }
-  //     });
-  //     return () => {
-  //       active = false;
-  //     };
-  //   }, [sessionId]),
-  // );
+  console.log('SessionReviewScreen: Starting with sessionId:', sessionId);
+
+  useFocusEffect(
+    useCallback(() => {
+      console.log('SessionReviewScreen: useFocusEffect triggered for sessionId:', sessionId);
+      let active = true;
+      setLoading(true);
+      void sessionRepo.reviewData(sessionId).then(r => {
+        console.log('SessionReviewScreen: Received review data for sessionId:', sessionId, 'data:', r);
+        if (active) {
+          setReview(r);
+          setLoading(false);
+        }
+      }).catch(e => {
+        console.error('SessionReviewScreen: Error loading review data for sessionId:', sessionId, 'error:', e);
+        setLoading(false);
+      });
+      return () => {
+        active = false;
+      };
+    }, [sessionId]),
+  );
 
   if (loading) {
-    return <ActivityIndicator style={styles.center} size="large" />;
+    console.log('SessionReviewScreen: Showing loading indicator');
+    return <ActivityIndicator style={styles.center} size=large />;
   }
   if (!review) {
+    console.log('SessionReviewScreen: No review data found for sessionId:', sessionId);
     return <Text style={styles.empty}>Session not found.</Text>;
   }
 
   const {session, items, correct, incorrect, skipped} = review;
   const duration = session.duration_seconds;
 
+  console.log('SessionReviewScreen: Rendering review with', items?.length || 0, 'items');
+
   return (
     <ScrollView contentContainerStyle={styles.container}>
       <Card style={styles.summary}>
         <Card.Content>
-          <Text variant="headlineMedium" style={styles.score}>
+          <Text variant=headlineMedium style={styles.score}>
             {session.score ?? 0}%
           </Text>
           <View style={styles.chips}>

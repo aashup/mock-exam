@@ -8,6 +8,7 @@ import {useLocationTracking} from '@/hooks/useLocationTracking';
 import {SyncService} from '@/services/SyncService';
 import {isOnline} from '@/hooks/useNetworkStatus';
 import {getDeviceId} from '@/utils/device';
+import {wipeDatabase} from '@/db/database';
 
 /** Profile / settings hub. Hosts appearance + test preferences. */
 export default function SettingsScreen() {
@@ -33,7 +34,29 @@ export default function SettingsScreen() {
       await SyncService.run(deviceId);
       setSnack('Sync complete.');
     } catch (e: any) {
-      setSnack(e?.message ? `Sync failed: ${e.message}` : 'Sync failed. Try again.');
+      setSnack(e?.message ? 'Sync failed: ' + e.message : 'Sync failed. Try again.');
+    } finally {
+      setSyncing(false);
+    }
+  };
+
+  const onReset = async () => {
+    setSyncing(true);
+    try {
+      if (!(await isOnline())) {
+        setSnack("You're offline — connect to the internet to reset.");
+        return;
+      }
+      
+      // Wipe local database
+      await wipeDatabase();
+      
+      // Pull fresh data from server
+      await SyncService.pull();
+      
+      setSnack('Database reset complete. Fresh data pulled from server.');
+    } catch (e: any) {
+      setSnack(e?.message ? 'Reset failed: ' + e.message : 'Reset failed. Try again.');
     } finally {
       setSyncing(false);
     }
@@ -129,7 +152,7 @@ export default function SettingsScreen() {
             permissionDenied
               ? 'Permission denied — tap to open Settings'
               : isTracking
-              ? `Active · ${pendingSyncCount} record${pendingSyncCount !== 1 ? 's' : ''} pending sync`
+              ? 'Active · ' + pendingSyncCount + ' record' + (pendingSyncCount !== 1 ? 's' : '') + ' pending sync'
               : 'Location tracking is off'
           }
           left={p => <List.Icon {...p} icon="map-marker" />}
@@ -200,6 +223,16 @@ export default function SettingsScreen() {
             loading={syncing}
             disabled={syncing}>
             Sync now
+          </Button>
+        </View>
+        <View style={styles.syncRow}>
+          <Button
+            mode="outlined"
+            icon="refresh"
+            onPress={onReset}
+            loading={syncing}
+            disabled={syncing}>
+            Reset
           </Button>
         </View>
       </List.Section>
